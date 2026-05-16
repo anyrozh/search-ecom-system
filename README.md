@@ -22,4 +22,6 @@ docker start qdrant
 
 ```
 jupyter notebook search_project_up.ipynb
+
+(в скрипт добаить gpt и api-ключ для запуска)
 ```
