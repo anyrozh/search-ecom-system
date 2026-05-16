@@ -1,8 +1,9 @@
-## Запуск проекта
+ЗАПУСК ПРОЕКТА
+---
 
 ### 1. Запуск Qdrant в Docker
 
-```bash
+```
 # 1.1. Скачивание образа
 docker pull qdrant/qdrant
 
@@ -15,8 +16,10 @@ docker rmi qdrant/qdrant
 
 # 1.4. Повторный запуск существующего контейнера
 docker start qdrant
+```
 
-2. Запуск ноутбука для тестирования
+### 2. Запуск ноутбука для тестирования
 
-bash
+```
 jupyter notebook search_project_up.ipynb
+```
