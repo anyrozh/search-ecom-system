@@ -13,7 +13,7 @@
 | self.rerank_model |                     |                |
 | self.sparse_model       |                     |                |
 | self.search_limit       |                     |                |
-| self.       |                     |                |
+| self.      |                     |                |
 
 
 
