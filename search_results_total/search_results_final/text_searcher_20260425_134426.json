@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-04-25T13:44:26.158273",
+  "method": "text_searcher",
+  "query": "My doctor told me I need to lose 15 kg and reduce stress. What products can support this lifestyle change?",
+  "subqueries": [
+    "My doctor told me I need to lose 15 kg and reduce stress. What products can support this lifestyle change?",
+    "Weight loss supplements and meal replacement shakes to support healthy dieting",
+    "Home fitness equipment and workout gear for effective exercise routines",
+    "Stress relief products such as aromatherapy diffusers, essential oils, and relaxation aids",
+    "Wearable fitness trackers and smartwatches to monitor physical activity and stress levels"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.7268707752227783,
+  "results": [
+    {
+      "score": 0.9187201,
+      "name": "NutriJa WHEY PROTEIN ISOLATE 95% [Zero Carb, Zero Fat with Digestive Enzymes] - 2lbs (Mango)",
+      "content": "NutriJa WHEY PROTEIN ISOLATE 95% [Zero Carb, Zero Fat with Digestive Enzymes] - 2lbs (Mango) NutriJa WHEY PROTEIN ISOLATE 95% is a high-purity, fast-digesting protein supplement primarily designed to support muscle growth, repair, and recovery. Its 'Zero Carb, Zero Fat' formulation makes it an excel"
+    },
+    {
+      "score": 0.91837144,
+      "name": "Healthyhey Nutrition N-Acetyl L-Cysteine (NAC) - Non-GMO - Gluten Free -Pack of 120 Veg. Capsules",
+      "content": "Healthyhey Nutrition N-Acetyl L-Cysteine (NAC) - Non-GMO - Gluten Free -Pack of 120 Veg. Capsules This product provides N-Acetyl L-Cysteine (NAC), a powerful antioxidant and a precursor to glutathione, the body's master antioxidant. It can be used by adults seeking to support their overall health, p"
+    },
+    {
+      "score": 0.9169317,
+      "name": "Dr.NUTRA BCAA 2:1:1 Vegan BCAA Powder, 5 Grams of Amino Acids, Caffeine Free, Pure Powder Pre-Post Workout (Blue Raspberr...",
+      "content": "Dr.NUTRA BCAA 2:1:1 Vegan BCAA Powder, 5 Grams of Amino Acids, Caffeine Free, Pure Powder Pre-Post Workout (Blue Raspberr... This product is a vegan, caffeine-free BCAA (Branched-Chain Amino Acid) powder, providing 5 grams of amino acids in a 2:1:1 ratio. Its primary purpose is to support muscle rec"
+    },
+    {
+      "score": 0.9157665,
+      "name": "prompt nutrition GAT L - Arginine Pack of 180 Tabs With Importer Tag.",
+      "content": "prompt nutrition GAT L - Arginine Pack of 180 Tabs With Importer Tag. GAT L-Arginine is a dietary supplement containing the amino acid L-Arginine. Its primary purpose is to serve as a precursor to Nitric Oxide (NO) in the body. Nitric Oxide helps relax and widen blood vessels, leading to improved bl"
+    },
+    {
+      "score": 0.9092087,
+      "name": "AQUATEIN PRO - PROTEIN WATER - 21 Grams Protein - Pack of 8 - Sugar Free, Fat Free, Carb Free - Your Best Protein Buddy (T...",
+      "content": "AQUATEIN PRO - PROTEIN WATER - 21 Grams Protein - Pack of 8 - Sugar Free, Fat Free, Carb Free - Your Best Protein Buddy (T... AQUATEIN PRO - PROTEIN WATER is a convenient, ready-to-drink protein supplement designed to provide 21 grams of high-quality protein per serving. Its primary purpose is to of"
+    }
+  ]
+}

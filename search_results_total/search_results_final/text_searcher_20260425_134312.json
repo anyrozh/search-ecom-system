@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-04-25T13:43:12.158832",
+  "method": "text_searcher",
+  "query": "We just moved into a new apartment and everything is empty. What are the first things to buy?",
+  "subqueries": [
+    "We just moved into a new apartment and everything is empty. What are the first things to buy?",
+    "Essential furniture for living room including sofa, coffee table, and TV stand",
+    "Basic kitchen appliances and cookware such as refrigerator, microwave, pots, and utensils",
+    "Bedroom necessities including bed frame, mattress, pillows, and bedding sets",
+    "Bathroom essentials like towels, shower curtain, bath mat, and toiletries storage"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.5483222007751465,
+  "results": [
+    {
+      "score": 0.8951829,
+      "name": "DPR MAKK Home APPLIANCES Dual Inverter A.C 1 TON 5STAR L.G",
+      "content": "DPR MAKK Home APPLIANCES Dual Inverter A.C 1 TON 5STAR L.G This product is an LG Dual Inverter Air Conditioner with a 1-ton cooling capacity and a 5-star energy efficiency rating, offered by DPR MAKK Home APPLIANCES. Its primary purpose is to efficiently cool and dehumidify indoor spaces, providing "
+    },
+    {
+      "score": 0.89133376,
+      "name": "WHIRLPOOL AC SUPREMECOOL 1.5T 3S INV EXP S3i3ADO (41408)",
+      "content": "WHIRLPOOL AC SUPREMECOOL 1.5T 3S INV EXP S3i3ADO (41408) This is a WHIRLPOOL AC SUPREMECOOL 1.5 Ton, 3-Star rated Inverter Air Conditioner. Its primary purpose is to efficiently cool and dehumidify indoor spaces, providing comfort during hot weather. It is ideal for individuals, families, or small b"
+    },
+    {
+      "score": 0.8891264,
+      "name": "BRIDA 100% Cotton Non Padded Non Wired Full Coverage Plus Size Double Layer -Extra Lining & Lift-Special Support Cups-Ever...",
+      "content": "BRIDA 100% Cotton Non Padded Non Wired Full Coverage Plus Size Double Layer -Extra Lining & Lift-Special Support Cups-Ever... The BRIDA 100% Cotton Non Padded Non Wired Full Coverage Plus Size Double Layer bra is designed to provide ultimate comfort, natural shaping, and robust support for **plus-si"
+    },
+    {
+      "score": 0.88700217,
+      "name": "coca industries Next GO Single Bed Soft Cotton Tuffted Floor Mattress Ruyi Gadda Foldable Hypoallergenic with Pillow Gives...",
+      "content": "coca industries Next GO Single Bed Soft Cotton Tuffted Floor Mattress Ruyi Gadda Foldable Hypoallergenic with Pillow Gives... This product is a **foldable, single-bed soft cotton tufted floor mattress (Ruyi Gadda)**, complete with an accompanying pillow and **hypoallergenic** properties. Its main pu"
+    },
+    {
+      "score": 0.8868514,
+      "name": "LEOTUDE Women's Boyfriend/Loose Fit Hoodie Sweatshirt",
+      "content": "LEOTUDE Women's Boyfriend/Loose Fit Hoodie Sweatshirt The LEOTUDE Women's Boyfriend/Loose Fit Hoodie Sweatshirt is designed to provide comfortable, casual, and warm upper body wear. Its 'Boyfriend/Loose Fit' emphasizes a relaxed, oversized aesthetic, prioritizing comfort and a trendy, laid-back styl"
+    }
+  ]
+}

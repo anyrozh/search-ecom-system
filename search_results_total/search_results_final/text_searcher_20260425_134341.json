@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-04-25T13:43:41.175751",
+  "method": "text_searcher",
+  "query": "My 7-year-old is bored during summer break and I want to keep him learning. Any ideas?",
+  "subqueries": [
+    "My 7-year-old is bored during summer break and I want to keep him learning. Any ideas?",
+    "Educational toys and games for 7-year-old children to promote learning and engagement",
+    "Interactive learning kits and science experiment sets suitable for elementary school kids",
+    "Children's books and workbooks focused on summer learning activities and skill development",
+    "Outdoor educational play equipment and activity sets that combine fun with learning"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.8367788791656494,
+  "results": [
+    {
+      "score": 0.8903215,
+      "name": "URBANPLAYERS Girl's Plain Regular fit Hoodie (ETGSS2020SER16_Grey_7-8YR 7-8YR)",
+      "content": "URBANPLAYERS Girl's Plain Regular fit Hoodie (ETGSS2020SER16_Grey_7-8YR 7-8YR) This URBANPLAYERS Girl's Plain Regular fit Hoodie is designed to provide comfort, warmth, and a casual style. It is intended for girls aged 7 to 8 years old. They can use it for a variety of everyday activities, including"
+    },
+    {
+      "score": 0.87705207,
+      "name": "MICROSMT M21 Smart LED TV (75-SMT-SL/1024/08-KSR-22),75 Inches.",
+      "content": "MICROSMT M21 Smart LED TV (75-SMT-SL/1024/08-KSR-22),75 Inches. The MICROSMT M21 Smart LED TV is a 75-inch, internet-connected television designed to be a central entertainment and media hub. Its primary purpose is to deliver a large, immersive visual experience for various forms of content.\n\n**Who "
+    },
+    {
+      "score": 0.86935127,
+      "name": "LABOGENS CALCIUM CARBONATE 1 KG, (calcite powder)",
+      "content": "LABOGENS CALCIUM CARBONATE 1 KG, (calcite powder) LABOGENS CALCIUM CARBONATE 1 KG (calcite powder) is a versatile inorganic compound primarily used as a chemical reagent, filler, and pH modifier. It can be used by **laboratories** for experiments, analyses, and research; by **educational institution"
+    },
+    {
+      "score": 0.8676625,
+      "name": "MICROSMT M34 Smart LED TV (43-SMT-FL/1024/08-KSR-22),43 Inches.",
+      "content": "MICROSMT M34 Smart LED TV (43-SMT-FL/1024/08-KSR-22),43 Inches. The MICROSMT M34 is a 43-inch Smart LED TV designed for comprehensive home entertainment. It can be used by individuals, families, or anyone seeking a modern television for their living space. Its purpose is to provide access to a wide "
+    },
+    {
+      "score": 0.865666,
+      "name": "URBANPLAYERS Girl's Plain Regular fit Hoodie (ETGSS2020SER12_Black_11-12YR 11-12YR)",
+      "content": "URBANPLAYERS Girl's Plain Regular fit Hoodie (ETGSS2020SER12_Black_11-12YR 11-12YR) This URBANPLAYERS Girl's Plain Regular fit Hoodie is designed to provide warmth, comfort, and a casual style. It is intended for girls aged 11-12 years who can use it for everyday wear, such as school, leisure activi"
+    }
+  ]
+}

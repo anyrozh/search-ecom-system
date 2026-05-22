@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-04-25T13:43:39.281176",
+  "method": "taxonomy_searcher",
+  "query": "I have an important job interview tomorrow and I want to look my absolute best. What can help?",
+  "subqueries": [
+    "I have an important job interview tomorrow and I want to look my absolute best. What can help?",
+    "Professional and stylish business attire suitable for job interviews",
+    "Grooming and personal care products for a polished appearance",
+    "Accessories that complement formal interview outfits, such as watches and briefcases",
+    "Confidence-boosting items like posture correctors or motivational books"
+  ],
+  "taxonomies_found": [
+    "stores/Fashion Sales & Deals",
+    "beauty & health/Health & Personal Care"
+  ],
+  "taxonomy_fallback": false,
+  "search_time": 3.060831069946289,
+  "results": [
+    {
+      "score": 0.77124333,
+      "name": "CLASSIC FASHION Women's Handbag (cfs0177_Multicolored)",
+      "image_url": "https://m.media-amazon.com/images/I/61P5JsqQL9L._AC_UL320_.jpg",
+      "content": "CLASSIC FASHION Women's Handbag (cfs0177_Multicolored) The CLASSIC FASHION Women's Handbag (cfs0177_Multicolored) serves as a practical and stylish accessory for women. Its primary purpose is to carry and organize personal essentials such as wallets, phones, keys, cosmetics, and other small items. W"
+    },
+    {
+      "score": 0.7693145,
+      "name": "Foxtale Squalene & Vitamin B5 Moisturizer for Dry, Sensitive & Flaky skin | Comfort Zone Rich Moisture Cream | Nourishing...",
+      "image_url": "https://m.media-amazon.com/images/I/71Ui1RwvzgL._AC_UL320_.jpg",
+      "content": "Foxtale Squalene & Vitamin B5 Moisturizer for Dry, Sensitive & Flaky skin | Comfort Zone Rich Moisture Cream | Nourishing... This product is a rich and nourishing moisturizer, specifically formulated to provide intense hydration and comfort. It is ideal for individuals with dry, sensitive, and flaky"
+    },
+    {
+      "score": 0.7683601,
+      "name": "Lavie HYPATIA LG EW TOTE",
+      "image_url": "https://m.media-amazon.com/images/I/61Gdf4AjjzL._AC_UL320_.jpg",
+      "content": "Lavie HYPATIA LG EW TOTE The Lavie HYPATIA LG EW TOTE is a large, East-West oriented tote bag designed for versatile everyday use. Its spacious interior makes it ideal for carrying a wide range of items, from daily essentials to larger belongings. It can be used by women – including professionals, s"
+    },
+    {
+      "score": 0.76544106,
+      "name": "Flora Women's Clutch (Set of 2) (FLORA-092_Red)",
+      "image_url": "https://m.media-amazon.com/images/I/71CGTE-2jwL._AC_UL320_.jpg",
+      "content": "Flora Women's Clutch (Set of 2) (FLORA-092_Red) The Flora Women's Clutch (Set of 2) is a compact and stylish accessory designed for women. Its primary purpose is to elegantly carry essential items such as a phone, keys, cards, and lipstick, without the bulk of a larger handbag. It is ideal for women"
+    },
+    {
+      "score": 0.764019,
+      "name": "Diana Korr Women's Handbag (Grey)",
+      "image_url": "https://m.media-amazon.com/images/I/51RI6xwW-IL._AC_UL320_.jpg",
+      "content": "Diana Korr Women's Handbag (Grey) The Diana Korr Women's Handbag (Grey) is a functional and stylish accessory designed for women. Its primary purpose is to carry and organize essential personal items such as wallets, phones, keys, cosmetics, and other small belongings, keeping them secure and easily"
+    }
+  ]
+}

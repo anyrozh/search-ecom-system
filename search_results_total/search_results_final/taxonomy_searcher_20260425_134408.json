@@ -1,0 +1,49 @@
+{
+  "timestamp": "2026-04-25T13:44:08.894060",
+  "method": "taxonomy_searcher",
+  "query": "I'm about to drive cross-country alone for three days straight. How do I survive the boredom and stay safe?",
+  "subqueries": [
+    "I'm about to drive cross-country alone for three days straight. How do I survive the boredom and stay safe?",
+    "In-car entertainment devices and accessories for long solo drives to alleviate boredom",
+    "Safety and emergency car kits including first aid, roadside assistance, and vehicle safety tools",
+    "Comfort and ergonomic car seat cushions and accessories for extended driving sessions",
+    "Portable snacks, hydration solutions, and travel-friendly food containers for long road trips"
+  ],
+  "taxonomies_found": [
+    "beauty & health/Health & Personal Care"
+  ],
+  "taxonomy_fallback": false,
+  "search_time": 2.8094208240509033,
+  "results": [
+    {
+      "score": 0.7520201,
+      "name": "DALUCI PVC Enema kit satvik movement | 1.5 Litre | Improved Model enema kit for home use with instruction - 1 silicon tub...",
+      "image_url": "https://m.media-amazon.com/images/I/61uH1xaLEAL._AC_UL320_.jpg",
+      "content": "DALUCI PVC Enema kit satvik movement | 1.5 Litre | Improved Model enema kit for home use with instruction - 1 silicon tub... The DALUCI PVC Enema kit is a 1.5 Litre device designed for home use to administer enemas. It is intended for individuals seeking bowel cleansing, relief from constipation, or"
+    },
+    {
+      "score": 0.74935937,
+      "name": "Godrej aer twist | Long-Lasting, Spill-proof Car Freshener | Bright Tangy Delight (45g)",
+      "image_url": "https://m.media-amazon.com/images/I/61XbTlrapPL._AC_UL320_.jpg",
+      "content": "Godrej aer twist | Long-Lasting, Spill-proof Car Freshener | Bright Tangy Delight (45g) The Godrej aer twist is a car freshener designed to provide a continuous, pleasant fragrance inside a vehicle. It's specifically formulated to be long-lasting and spill-proof, addressing common issues with car ai"
+    },
+    {
+      "score": 0.7485986,
+      "name": "GoTrippin Solid 60 ml Travel Bottles for Toiletries, Leak Proof Refillable Containers, Small Travel Kit Bottle Set (4 Coun...",
+      "image_url": "https://m.media-amazon.com/images/I/713UfG+SnxL._AC_UL320_.jpg",
+      "content": "GoTrippin Solid 60 ml Travel Bottles for Toiletries, Leak Proof Refillable Containers, Small Travel Kit Bottle Set (4 Coun... The GoTrippin Solid 60 ml Travel Bottles are a set of compact, leak-proof, and refillable containers specifically designed for transporting toiletries. They are ideal for any"
+    },
+    {
+      "score": 0.7482219,
+      "name": "KareIn Premium Underpads, Large 60 x 90 Cm, High Absorbency, Leak Proof, Pack of 1, 10 Count",
+      "image_url": "https://m.media-amazon.com/images/I/61dMFp3p57L._AC_UL320_.jpg",
+      "content": "KareIn Premium Underpads, Large 60 x 90 Cm, High Absorbency, Leak Proof, Pack of 1, 10 Count KareIn Premium Underpads are highly absorbent, leak-proof protective sheets designed to safeguard beds, chairs, and other surfaces from accidental spills and leaks of bodily fluids. They are ideal for indivi"
+    },
+    {
+      "score": 0.74776125,
+      "name": "mCaffeine Moment Gift Set With Signature Body Scrub, Face Wash & Face Scrub | Gift Kit For All Ages & Skin Types | Best Gi...",
+      "image_url": "https://m.media-amazon.com/images/I/81flYadLzRL._AC_UL320_.jpg",
+      "content": "mCaffeine Moment Gift Set With Signature Body Scrub, Face Wash & Face Scrub | Gift Kit For All Ages & Skin Types | Best Gi... The mCaffeine Moment Gift Set is a curated collection of skincare essentials, including a Signature Body Scrub, Face Wash, and Face Scrub. Its primary purpose is to serve as "
+    }
+  ]
+}

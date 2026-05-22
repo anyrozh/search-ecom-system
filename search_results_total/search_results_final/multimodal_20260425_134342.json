@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-04-25T13:43:42.669253",
+  "method": "multimodal",
+  "query": "My 7-year-old is bored during summer break and I want to keep him learning. Any ideas?",
+  "subqueries": [
+    "My 7-year-old is bored during summer break and I want to keep him learning. Any ideas?",
+    "Educational toys and games for 7-year-old children to promote learning and engagement",
+    "Interactive learning kits and science experiment sets suitable for elementary school kids",
+    "Children's books and workbooks focused on summer learning activities and skill development",
+    "Outdoor educational play equipment and activity sets that combine fun with learning"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.4924402236938477,
+  "results": [
+    {
+      "score": 0.797535,
+      "name": "Skillmatics Floor Puzzle & Game - Piece & Play Up in Space, Jigsaw Puzzle (48 Pieces, 2 x 3 feet), Ages 3 to 7",
+      "image_url": "https://m.media-amazon.com/images/I/81tG1fFKISL._AC_UL320_.jpg",
+      "content": "Skillmatics Floor Puzzle & Game - Piece & Play Up in Space, Jigsaw Puzzle (48 Pieces, 2 x 3 feet), Ages 3 to 7 This Skillmatics Floor Puzzle & Game is a large, 48-piece 'Up in Space' themed jigsaw puzzle designed for children aged 3 to 7. Its primary purpose is to provide engaging entertainment and "
+    },
+    {
+      "score": 0.7878465,
+      "name": "Math Strategy Board Game - Math Builder. Best Gift for Children Educational Toy for Boys and Girls",
+      "image_url": "https://m.media-amazon.com/images/I/913c5cBKdLL._AC_UL320_.jpg",
+      "content": "Math Strategy Board Game - Math Builder. Best Gift for Children Educational Toy for Boys and Girls The Math Strategy Board Game - Math Builder is an educational toy designed for children (boys and girls) to develop and strengthen their math skills and strategic thinking in an engaging, game-based fo"
+    },
+    {
+      "score": 0.7876777,
+      "name": "Drawing Book A4 Size Approx | Plain Sketch Pad for Kids, Students & Artists | 34 White Blank Unruled Pages | 29.5 x 21 cm...",
+      "image_url": "https://m.media-amazon.com/images/I/71pPoltmRuL._AC_UL320_.jpg",
+      "content": "Drawing Book A4 Size Approx | Plain Sketch Pad for Kids, Students & Artists | 34 White Blank Unruled Pages | 29.5 x 21 cm... This product is a plain sketch pad or drawing book with 34 blank, unruled white pages, approximately A4 size (29.5 x 21 cm). Its purpose is to provide a dedicated surface for "
+    },
+    {
+      "score": 0.7867789,
+      "name": "Genius Box Educational Toy for 3+ Year Age: Farm Fun DIY,Activity Kit, Learning Kit, Educational Kit, STEM Toy",
+      "image_url": "https://m.media-amazon.com/images/I/71Ma5M2iRdL._AC_UL320_.jpg",
+      "content": "Genius Box Educational Toy for 3+ Year Age: Farm Fun DIY,Activity Kit, Learning Kit, Educational Kit, STEM Toy The Genius Box Educational Toy is a 'Farm Fun' themed DIY, activity, learning, and STEM kit designed for children aged 3 years and older. Its purpose is to provide an engaging, hands-on exp"
+    },
+    {
+      "score": 0.78650934,
+      "name": "Smartivity Kaleidoscope STEM Educational DIY Fun Toys, Educational & Construction based Activity Game for Kids 6 to 14, Bi...",
+      "image_url": "https://m.media-amazon.com/images/I/91lkxOZ+ejL._AC_UL320_.jpg",
+      "content": "Smartivity Kaleidoscope STEM Educational DIY Fun Toys, Educational & Construction based Activity Game for Kids 6 to 14, Bi... This product is a DIY (Do-It-Yourself) educational toy designed for children aged 6 to 14. Its purpose is to provide a fun, hands-on construction activity where kids build th"
+    }
+  ]
+}

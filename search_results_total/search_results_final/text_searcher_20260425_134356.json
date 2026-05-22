@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-04-25T13:43:56.116805",
+  "method": "text_searcher",
+  "query": "I want to pick up a creative hobby that I can practice quietly in my apartment at night. What do I need?",
+  "subqueries": [
+    "I want to pick up a creative hobby that I can practice quietly in my apartment at night. What do I need?",
+    "quiet creative hobby kits suitable for indoor use at night, such as painting, drawing, or crafting sets",
+    "compact and noise-free art supplies including sketchbooks, colored pencils, watercolors, and brushes",
+    "ergonomic and space-saving furniture or accessories for comfortable hobby practice in small apartments",
+    "soft lighting solutions like adjustable desk lamps or LED lights to create a cozy and well-lit workspace without disturbing neighbors"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 2.1258161067962646,
+  "results": [
+    {
+      "score": 0.8988038,
+      "name": "DPR MAKK Home APPLIANCES Dual Inverter A.C 1 TON 5STAR L.G",
+      "content": "DPR MAKK Home APPLIANCES Dual Inverter A.C 1 TON 5STAR L.G This product is an LG Dual Inverter Air Conditioner with a 1-ton cooling capacity and a 5-star energy efficiency rating, offered by DPR MAKK Home APPLIANCES. Its primary purpose is to efficiently cool and dehumidify indoor spaces, providing "
+    },
+    {
+      "score": 0.89693063,
+      "name": "GRANOTONE Acrylic Colour Art and Craft Paint, DIY Paint, Rich Pigment, Non-Craking Paint for Canvas, Wood, Leather, Earthe...",
+      "content": "GRANOTONE Acrylic Colour Art and Craft Paint, DIY Paint, Rich Pigment, Non-Craking Paint for Canvas, Wood, Leather, Earthe... GRANOTONE Acrylic Colour is a versatile, high-pigment, and non-cracking paint designed for a wide range of art, craft, and DIY projects. It can be used by artists, crafters, "
+    },
+    {
+      "score": 0.8960886,
+      "name": "Kelific Home || Cabin Fan|| Office Fan|| 12Inches 300 MM || 100%Copper Motor ||High Speed ||1 Year Warranty || HSLV Techno...",
+      "content": "Kelific Home || Cabin Fan|| Office Fan|| 12Inches 300 MM || 100%Copper Motor ||High Speed ||1 Year Warranty || HSLV Techno... The Kelific fan is a 12-inch (300 MM) electric fan primarily designed to provide cooling and improve air circulation. It is ideal for individuals or families looking to enhan"
+    },
+    {
+      "score": 0.8952198,
+      "name": "Multi-Coated Variable Polarizing ND Neutral Density Adjustable ND2 -ND400 (Waterproof, Scratchproof, Dustproof) (58MM)",
+      "content": "Multi-Coated Variable Polarizing ND Neutral Density Adjustable ND2 -ND400 (Waterproof, Scratchproof, Dustproof) (58MM) This product is a versatile and durable camera lens filter that combines two essential functions: a **Variable Neutral Density (ND) filter** and a **Circular Polarizer (CPL) filter*"
+    },
+    {
+      "score": 0.89474285,
+      "name": "MICROSMT M21 Smart LED TV (75-SMT-SL/1024/08-KSR-22),75 Inches.",
+      "content": "MICROSMT M21 Smart LED TV (75-SMT-SL/1024/08-KSR-22),75 Inches. The MICROSMT M21 Smart LED TV is a 75-inch, internet-connected television designed to be a central entertainment and media hub. Its primary purpose is to deliver a large, immersive visual experience for various forms of content.\n\n**Who "
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-04-25T13:44:02.793595",
+  "method": "baseline",
+  "query": "I'm about to drive cross-country alone for three days straight. How do I survive the boredom and stay safe?",
+  "subqueries": [
+    "I'm about to drive cross-country alone for three days straight. How do I survive the boredom and stay safe?"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 0.026035785675048828,
+  "results": [
+    {
+      "score": 0.5,
+      "name": "Drive Safe Keychain Gift for Dad Husband Boyfriend on Father''s Day Thanksgiving Anniversary Gift",
+      "content": "Drive Safe Keychain Gift for Dad Husband Boyfriend on Father''s Day Thanksgiving Anniversary Gift"
+    },
+    {
+      "score": 0.5,
+      "name": "pritla V Neck Vest",
+      "content": "pritla V Neck Vest"
+    },
+    {
+      "score": 0.33333334,
+      "name": "Kaameri Bazaar Drive Safe Metal Keychain (Silver/Black) - valentine day gift for boyfriend girlfriend husband wife",
+      "content": "Kaameri Bazaar Drive Safe Metal Keychain (Silver/Black) - valentine day gift for boyfriend girlfriend husband wife"
+    },
+    {
+      "score": 0.33333334,
+      "name": "Lovable All Day Long Minimiser Bra",
+      "content": "Lovable All Day Long Minimiser Bra"
+    },
+    {
+      "score": 0.25,
+      "name": "Girnar Masaledar Limbooz 180g",
+      "content": "Girnar Masaledar Limbooz 180g"
+    }
+  ]
+}

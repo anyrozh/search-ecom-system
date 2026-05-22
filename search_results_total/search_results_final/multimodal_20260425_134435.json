@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-04-25T13:44:35.888187",
+  "method": "multimodal",
+  "query": "I got accepted to a semester abroad in a cold country and I've never experienced winter. What should I pack?",
+  "subqueries": [
+    "I got accepted to a semester abroad in a cold country and I've never experienced winter. What should I pack?",
+    "Warm winter clothing including insulated jackets, thermal base layers, sweaters, and waterproof pants suitable for cold climates",
+    "Winter accessories such as gloves, scarves, beanies, and thermal socks designed for extreme cold weather",
+    "Footwear for winter conditions including insulated, waterproof boots with good traction for snow and ice",
+    "Cold weather skincare products like moisturizers and lip balms to protect skin from dryness and cold exposure"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.8831729888916016,
+  "results": [
+    {
+      "score": 0.8072275,
+      "name": "The Comfort Closet - Baby's Handmade Sweater with Cap and Booties (6-12 Months) (Blue and White)",
+      "image_url": "https://m.media-amazon.com/images/I/91MKIp+56pL._AC_UL320_.jpg",
+      "content": "The Comfort Closet - Baby's Handmade Sweater with Cap and Booties (6-12 Months) (Blue and White) This product is a handmade clothing set designed to provide warmth, comfort, and a complete, coordinated outfit for babies aged 6 to 12 months. It includes a sweater for the torso, a cap for the head, an"
+    },
+    {
+      "score": 0.7976411,
+      "name": "Winter Indoor And Outdoor For Women",
+      "image_url": "https://m.media-amazon.com/images/I/81puull6k3L._AC_UL320_.jpg",
+      "content": "Winter Indoor And Outdoor For Women This product is designed for women to provide warmth and comfort during the winter season. It is versatile enough to be used in various settings, offering protection from the cold whether indoors or outdoors."
+    },
+    {
+      "score": 0.7923393,
+      "name": "PURSUE FASHION Ultra Soft Unisex Woolen Beanie Cap Plus Muffler Scarf Set for Men Women Girl Boy, Neck Warmer for Men, Bea...",
+      "image_url": "https://m.media-amazon.com/images/I/71ItBRrI-XL._AC_UL320_.jpg",
+      "content": "PURSUE FASHION Ultra Soft Unisex Woolen Beanie Cap Plus Muffler Scarf Set for Men Women Girl Boy, Neck Warmer for Men, Bea... This product is an ultra-soft, woolen unisex set consisting of a beanie cap and a muffler scarf (which also functions as a neck warmer). Its primary purpose is to provide war"
+    },
+    {
+      "score": 0.7922512,
+      "name": "Aaojao Kids Comfortable Indoor & Outdoor Fur Slippers Flipflops for Girls - Grey, EU Size : 25 | UK Size : 8 | Age : 2 To ...",
+      "image_url": "https://m.media-amazon.com/images/I/51bAvWo59cS._AC_UL320_.jpg",
+      "content": "Aaojao Kids Comfortable Indoor & Outdoor Fur Slippers Flipflops for Girls - Grey, EU Size : 25 | UK Size : 8 | Age : 2 To ... These Aaojao Kids Fur Slippers Flipflops are designed to provide young girls, specifically around 2 years old (and slightly older, as indicated by '2 To ...'), with comfortab"
+    },
+    {
+      "score": 0.78988755,
+      "name": "TOPLOT Women's Hoodie||Full Sleeve Solid Sweatshirt Hoodies||Winter Wear for Women||Hooded Neck Style||Long Women's Hoodie...",
+      "image_url": "https://m.media-amazon.com/images/I/71ij7YG1TdL._AC_UL320_.jpg",
+      "content": "TOPLOT Women's Hoodie||Full Sleeve Solid Sweatshirt Hoodies||Winter Wear for Women||Hooded Neck Style||Long Women's Hoodie... This TOPLOT Women's Hoodie is a full-sleeve, solid-colored sweatshirt designed as winter wear. Its primary purpose is to provide warmth, comfort, and a casual style during co"
+    }
+  ]
+}

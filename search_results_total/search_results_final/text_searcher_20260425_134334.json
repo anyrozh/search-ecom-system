@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-04-25T13:43:34.970483",
+  "method": "text_searcher",
+  "query": "I have an important job interview tomorrow and I want to look my absolute best. What can help?",
+  "subqueries": [
+    "I have an important job interview tomorrow and I want to look my absolute best. What can help?",
+    "Professional and stylish business attire for men and women suitable for job interviews",
+    "Grooming and personal care products including skincare, hair styling, and oral hygiene essentials",
+    "Accessories to complement interview outfits such as watches, belts, ties, and briefcases",
+    "Footwear that is formal, comfortable, and appropriate for professional settings"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.645754098892212,
+  "results": [
+    {
+      "score": 0.9149372,
+      "name": "T/S/CLRFUL/BHOOT",
+      "content": "T/S/CLRFUL/BHOOT This product is a **Colorful T-Shirt (T/S)** featuring a **'Bhoot' (Ghost/Spirit)** theme or design. Its purpose is to provide a fun, unique, and comfortable piece of casual wear. It can be used by individuals who appreciate quirky, themed, or vibrant apparel, especially those with "
+    },
+    {
+      "score": 0.91473204,
+      "name": "Houndstooth Puff Sleeve Stand Collar Top, schiffli tops, western short sleeve tops, peplum shirt pan collar top, sleeve le...",
+      "content": "Houndstooth Puff Sleeve Stand Collar Top, schiffli tops, western short sleeve tops, peplum shirt pan collar top, sleeve le... This product range encompasses a variety of tops designed for diverse fashion preferences and occasions. The **Houndstooth Puff Sleeve Stand Collar Top** is a stylish and sop"
+    },
+    {
+      "score": 0.9146553,
+      "name": "SIYARAM�S MEN�S GENTLE GUY POLYESTER VISCOSE SHIRT AND TROUSER SET ( STRIPES , FREE SIZE )",
+      "content": "SIYARAM�S MEN�S GENTLE GUY POLYESTER VISCOSE SHIRT AND TROUSER SET ( STRIPES , FREE SIZE ) This SIYARAM’S MEN’S GENTLE GUY POLYESTER VISCOSE SHIRT AND TROUSER SET is a coordinated two-piece outfit designed for men. Its primary purpose is to provide a complete, stylish, and comfortable ensemble with "
+    },
+    {
+      "score": 0.9145728,
+      "name": "Easies by Killer Trouser,Ankle Length,E-16506 ANKLGHT NVNAVY,34 (E-16506,Navy_34)",
+      "content": "Easies by Killer Trouser,Ankle Length,E-16506 ANKLGHT NVNAVY,34 (E-16506,Navy_34) This product is a pair of 'Easies' ankle-length trousers from the brand Killer Trouser. Designed for comfort and ease of wear, these trousers are suitable for individuals seeking a stylish yet comfortable bottom wear o"
+    },
+    {
+      "score": 0.9128384,
+      "name": "GRECIILOOKS Top for Women - Ruched Bust Square Neck Ribbed Crop Cami Top & Stretchable Slim Fit Crop Top Suitable for Func...",
+      "content": "GRECIILOOKS Top for Women - Ruched Bust Square Neck Ribbed Crop Cami Top & Stretchable Slim Fit Crop Top Suitable for Func... This product is a GRECIILOOKS Top for Women, specifically designed as a Ruched Bust Square Neck Ribbed Crop Cami Top with a stretchable, slim fit. Its primary purpose is to p"
+    }
+  ]
+}

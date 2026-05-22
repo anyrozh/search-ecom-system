@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-04-25T13:44:04.118927",
+  "method": "text_searcher",
+  "query": "I'm about to drive cross-country alone for three days straight. How do I survive the boredom and stay safe?",
+  "subqueries": [
+    "I'm about to drive cross-country alone for three days straight. How do I survive the boredom and stay safe?",
+    "In-car entertainment devices and accessories for long solo drives to alleviate boredom",
+    "Safety and emergency car kits including first aid, roadside assistance, and vehicle maintenance tools",
+    "Comfort and ergonomic car seat cushions and accessories for extended driving sessions",
+    "Portable snacks, hydration solutions, and travel-friendly food containers for multi-day road trips"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.3243048191070557,
+  "results": [
+    {
+      "score": 0.8904891,
+      "name": "Warning NO ROAD NO PROBLEM Decal Car Sticker Waterproof Vinyl Accessories for 4X4 SUV OFFROAD 4WD,15cm*3cm",
+      "content": "Warning NO ROAD NO PROBLEM Decal Car Sticker Waterproof Vinyl Accessories for 4X4 SUV OFFROAD 4WD,15cm*3cm This product is a waterproof vinyl car decal featuring the phrase 'Warning NO ROAD NO PROBLEM'. Its purpose is to allow owners of 4X4s, SUVs, and other off-road (4WD) vehicles to personalize th"
+    },
+    {
+      "score": 0.88922936,
+      "name": "10 Liters Refrigerator, 220V-240V Heating Mini Fridge Cooling for Car for Home(#2)",
+      "content": "10 Liters Refrigerator, 220V-240V Heating Mini Fridge Cooling for Car for Home(#2) This 10-liter mini-fridge is a versatile, portable appliance designed for both cooling and heating. Operating on 220V-240V AC power, it's ideal for use at home, in offices, or dorm rooms. Its 'for Car' designation sug"
+    },
+    {
+      "score": 0.88863957,
+      "name": "Safety Net Wired 1080P Dvr Multifunctional Car Key Chain Mini Cam Dvr IR Night Vision Motion Detection Perfect Indoor Cove...",
+      "content": "Safety Net Wired 1080P Dvr Multifunctional Car Key Chain Mini Cam Dvr IR Night Vision Motion Detection Perfect Indoor Cove... This product is a **multifunctional, high-definition (1080P) mini camera disguised as a car key chain**, designed for **covert video surveillance**. Its primary purpose is to"
+    },
+    {
+      "score": 0.88608044,
+      "name": "Mini Fridge, 2 in 1 Warmer 4L 6 Can -20℃ Portable 12/24V DC 110V AC Car Fridge, Detachable Car Refrigerator with Car Charg...",
+      "content": "Mini Fridge, 2 in 1 Warmer 4L 6 Can -20℃ Portable 12/24V DC 110V AC Car Fridge, Detachable Car Refrigerator with Car Charg... This is a portable 2-in-1 mini fridge and warmer, capable of cooling items down to -20℃ or keeping them warm. Its dual power compatibility (12/24V DC for vehicles and 110V AC"
+    },
+    {
+      "score": 0.88439417,
+      "name": "8L Mini Fridge, 12V AC/DC Large Capacity Mirror Beauty Portable Electric Cooler& Warmer with LED Light, White Convenient M...",
+      "content": "8L Mini Fridge, 12V AC/DC Large Capacity Mirror Beauty Portable Electric Cooler& Warmer with LED Light, White Convenient M... This 8L Mini Fridge is a versatile, portable electric cooler and warmer, uniquely designed with a mirror and LED light. It operates on both AC (standard wall outlet) and 12V "
+    }
+  ]
+}

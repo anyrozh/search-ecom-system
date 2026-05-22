@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-04-25T13:43:26.230114",
+  "method": "text_searcher",
+  "query": "I have two weeks off and want to completely disconnect from screens. How can I keep myself entertained?",
+  "subqueries": [
+    "I have two weeks off and want to completely disconnect from screens. How can I keep myself entertained?",
+    "Books and printed novels for immersive reading and entertainment without screens",
+    "Board games and card games for group or solo offline fun and social interaction",
+    "Outdoor activity gear such as hiking equipment, camping supplies, and sports accessories for active recreation",
+    "Creative hobby kits including painting, knitting, or puzzle sets for hands-on engagement and relaxation"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.585486888885498,
+  "results": [
+    {
+      "score": 0.9152614,
+      "name": "T/S/CLRFUL/BHOOT",
+      "content": "T/S/CLRFUL/BHOOT This product is a **Colorful T-Shirt (T/S)** featuring a **'Bhoot' (Ghost/Spirit)** theme or design. Its purpose is to provide a fun, unique, and comfortable piece of casual wear. It can be used by individuals who appreciate quirky, themed, or vibrant apparel, especially those with "
+    },
+    {
+      "score": 0.9144612,
+      "name": "URBANPLAYERS Girl's Plain Regular fit Hoodie (ETGSS2020SER16_Grey_7-8YR 7-8YR)",
+      "content": "URBANPLAYERS Girl's Plain Regular fit Hoodie (ETGSS2020SER16_Grey_7-8YR 7-8YR) This URBANPLAYERS Girl's Plain Regular fit Hoodie is designed to provide comfort, warmth, and a casual style. It is intended for girls aged 7 to 8 years old. They can use it for a variety of everyday activities, including"
+    },
+    {
+      "score": 0.90281856,
+      "name": "V Dot Men's Casual Shirt (8907670856185_VDSF517E01928_44_Grey)",
+      "content": "V Dot Men's Casual Shirt (8907670856185_VDSF517E01928_44_Grey) This V Dot Men's Casual Shirt is an upper-body garment designed for men. Its purpose is to provide a comfortable, stylish, and versatile clothing option suitable for a variety of informal occasions. Men can use it for everyday wear, casu"
+    },
+    {
+      "score": 0.9019858,
+      "name": "Multi-Coated Variable Polarizing ND Neutral Density Adjustable ND2 -ND400 (Waterproof, Scratchproof, Dustproof) (67MM)",
+      "content": "Multi-Coated Variable Polarizing ND Neutral Density Adjustable ND2 -ND400 (Waterproof, Scratchproof, Dustproof) (67MM) This product is a versatile 67MM camera lens filter that combines two essential functions: a **Variable Neutral Density (ND) filter** and a **Polarizing filter**. Its primary purpos"
+    },
+    {
+      "score": 0.901826,
+      "name": "Funny Meme Graphic Printed Men's 100% Cotton Tshirt | Smart Trendy Stylish | FunkyT-Shirt | Swag t-Shirts | Funny desi T-S...",
+      "content": "Funny Meme Graphic Printed Men's 100% Cotton Tshirt | Smart Trendy Stylish | FunkyT-Shirt | Swag t-Shirts | Funny desi T-S... This product is a men's 100% cotton t-shirt featuring funny meme graphics, often with a 'desi' (South Asian) cultural twist. Its purpose is to provide a comfortable, trendy, "
+    }
+  ]
+}

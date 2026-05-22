@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-04-25T13:44:27.917414",
+  "method": "multimodal",
+  "query": "My doctor told me I need to lose 15 kg and reduce stress. What products can support this lifestyle change?",
+  "subqueries": [
+    "My doctor told me I need to lose 15 kg and reduce stress. What products can support this lifestyle change?",
+    "Weight loss supplements and meal replacement shakes to support healthy dieting",
+    "Home fitness equipment and workout gear for effective exercise routines",
+    "Stress relief products such as aromatherapy diffusers, essential oils, and relaxation aids",
+    "Wearable fitness trackers and smartwatches to monitor physical activity and stress levels"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.7580757141113281,
+  "results": [
+    {
+      "score": 0.8480242,
+      "name": "LABOGENS POTASSIUM SULPHATE 500GM, Assay : Min. 99% K2SO4 M.W. 174.26, (CAS NO. 7778-80-5)",
+      "image_url": "https://m.media-amazon.com/images/I/51wVOHvx-hL._AC_UL320_.jpg",
+      "content": "LABOGENS POTASSIUM SULPHATE 500GM, Assay : Min. 99% K2SO4 M.W. 174.26, (CAS NO. 7778-80-5) This product, LABOGENS POTASSIUM SULPHATE (K2SO4) with a minimum 99% assay, is a high-purity chemical compound primarily used as a source of essential plant nutrients, potassium and sulfur. It is widely utiliz"
+    },
+    {
+      "score": 0.80734444,
+      "name": "OK LIFE CARE MY 90 - ADVANCED MULTIVITAMINS (ANTIOXIDANT AND ENERGY BOOSTER) - 60 TABLET",
+      "image_url": "https://m.media-amazon.com/images/I/41stSUhSNIL._AC_UL320_.jpg",
+      "content": "OK LIFE CARE MY 90 - ADVANCED MULTIVITAMINS (ANTIOXIDANT AND ENERGY BOOSTER) - 60 TABLET OK LIFE CARE MY 90 - ADVANCED MULTIVITAMINS is a dietary supplement designed to provide a comprehensive blend of essential vitamins and minerals. Its primary purpose is to act as an antioxidant, helping to prote"
+    },
+    {
+      "score": 0.8066318,
+      "name": "WishNew Wellness B Active Complete| Vitamin B complex 100% RDA of B Vitamins| Benfotiamine 150mg| Methylcobalamin Vitamin ...",
+      "image_url": "https://m.media-amazon.com/images/I/81pNzd5h8dL._AC_UL320_.jpg",
+      "content": "WishNew Wellness B Active Complete| Vitamin B complex 100% RDA of B Vitamins| Benfotiamine 150mg| Methylcobalamin Vitamin ... WishNew Wellness B Active Complete is a comprehensive Vitamin B complex supplement formulated to provide 100% of the Recommended Daily Allowance (RDA) for essential B vitamin"
+    },
+    {
+      "score": 0.80470175,
+      "name": "Women's Tube Bra for Everyday use,Gym Bra,Stretchable Strapless,Non Padded & Non-Wired,Dance wear and Any Sport Activity,M...",
+      "image_url": "https://m.media-amazon.com/images/I/31+GuPvQXfL._AC_UL320_.jpg",
+      "content": "Women's Tube Bra for Everyday use,Gym Bra,Stretchable Strapless,Non Padded & Non-Wired,Dance wear and Any Sport Activity,M... This product is a Women's Tube Bra, characterized by its stretchable, strapless, non-padded, and non-wired design, prioritizing comfort and flexibility. It is intended for wo"
+    },
+    {
+      "score": 0.8034159,
+      "name": "prompt nutrition GAT L - Arginine Pack of 180 Tabs With Importer Tag.",
+      "image_url": "https://m.media-amazon.com/images/I/41imhSGar6L._AC_UL320_.jpg",
+      "content": "prompt nutrition GAT L - Arginine Pack of 180 Tabs With Importer Tag. GAT L-Arginine is a dietary supplement containing the amino acid L-Arginine. Its primary purpose is to serve as a precursor to Nitric Oxide (NO) in the body. Nitric Oxide helps relax and widen blood vessels, leading to improved bl"
+    }
+  ]
+}

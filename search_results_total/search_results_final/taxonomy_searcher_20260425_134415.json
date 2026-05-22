@@ -1,0 +1,49 @@
+{
+  "timestamp": "2026-04-25T13:44:15.217687",
+  "method": "taxonomy_searcher",
+  "query": "I'm leaving my house empty for a month while traveling. How do I make sure everything stays safe?",
+  "subqueries": [
+    "I'm leaving my house empty for a month while traveling. How do I make sure everything stays safe?",
+    "Home security systems with remote monitoring and alarm features",
+    "Smart locks and door/window sensors for enhanced entry protection",
+    "Indoor and outdoor surveillance cameras with night vision and motion detection",
+    "Timers and smart plugs for automated lighting to simulate occupancy"
+  ],
+  "taxonomies_found": [
+    "home & kitchen/Home Storage"
+  ],
+  "taxonomy_fallback": false,
+  "search_time": 2.8609907627105713,
+  "results": [
+    {
+      "score": 0.8481619,
+      "name": "Heart Home 2.5 Liter Mini Desktop Trash Bin with Lid Tiny Garbage Trash Bin (Grey) (HS_36_HEARTH018540), Small",
+      "image_url": "https://m.media-amazon.com/images/I/61TnQLgqi6L._AC_UL320_.jpg",
+      "content": "Heart Home 2.5 Liter Mini Desktop Trash Bin with Lid Tiny Garbage Trash Bin (Grey) (HS_36_HEARTH018540), Small The Heart Home 2.5 Liter Mini Desktop Trash Bin is a compact, lidded container designed for convenient disposal of small waste items. It's ideal for individuals working at desks (home or of"
+    },
+    {
+      "score": 0.8345696,
+      "name": "Home Maker - Biodegradable Garbage Bags (Medium) Size 48 cm x 56 cm 1 Rolls 30 Bags Dustbin Bag/Trash Bag - Black Color",
+      "image_url": "https://m.media-amazon.com/images/I/71xLR9JpLbL._AC_UL320_.jpg",
+      "content": "Home Maker - Biodegradable Garbage Bags (Medium) Size 48 cm x 56 cm 1 Rolls 30 Bags Dustbin Bag/Trash Bag - Black Color These Home Maker Biodegradable Garbage Bags are designed for the hygienic collection and disposal of waste. They are ideal for individuals, households, and offices looking for an e"
+    },
+    {
+      "score": 0.8082873,
+      "name": "PARASNATH Stainless Steel 15 Rods Extra Large Foldable Cloth Dryer/Clothes Drying Stand - Made in India",
+      "image_url": "https://m.media-amazon.com/images/I/919TzEL4xBL._AC_UL320_.jpg",
+      "content": "PARASNATH Stainless Steel 15 Rods Extra Large Foldable Cloth Dryer/Clothes Drying Stand - Made in India The PARASNATH Stainless Steel 15 Rods Extra Large Foldable Cloth Dryer is designed for efficiently air-drying a large volume of laundry. It is ideal for individuals and families living in homes or"
+    },
+    {
+      "score": 0.77464414,
+      "name": "DRONTER Stainless Steel, PVC, ABS Nail Free Seamless Adhesive Non-Trace No Drilling Installation Hanging, Waterproof Screw...",
+      "image_url": "https://m.media-amazon.com/images/I/4173MPnOesL._AC_UL320_.jpg",
+      "content": "DRONTER Stainless Steel, PVC, ABS Nail Free Seamless Adhesive Non-Trace No Drilling Installation Hanging, Waterproof Screw... The DRONTER product is an innovative, damage-free hanging solution designed for easy and quick installation without the need for drilling, nails, or tools. Made from durable "
+    },
+    {
+      "score": 0.7742867,
+      "name": "Scizor Retractable Clothesline Indoor Clothes Lines retracting | Heavy Duty for Drying Laundry line Outdoor|Wall Mounted S...",
+      "image_url": "https://m.media-amazon.com/images/I/61rGsm-e8GL._AC_UL320_.jpg",
+      "content": "Scizor Retractable Clothesline Indoor Clothes Lines retracting | Heavy Duty for Drying Laundry line Outdoor|Wall Mounted S... The Scizor Retractable Clothesline is a versatile, wall-mounted drying solution designed for both indoor and outdoor use. Its primary purpose is to provide a convenient, spac"
+    }
+  ]
+}

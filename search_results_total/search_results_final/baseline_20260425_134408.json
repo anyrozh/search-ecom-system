@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-04-25T13:44:08.918452",
+  "method": "baseline",
+  "query": "I'm leaving my house empty for a month while traveling. How do I make sure everything stays safe?",
+  "subqueries": [
+    "I'm leaving my house empty for a month while traveling. How do I make sure everything stays safe?"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 0.023373842239379883,
+  "results": [
+    {
+      "score": 0.5,
+      "name": "House of Quirk 7pcs Set Travel Organizer Packing Cubes Lightweight Travel Luggage Organizers with Laundry Bag or Toiletry ...",
+      "content": "House of Quirk 7pcs Set Travel Organizer Packing Cubes Lightweight Travel Luggage Organizers with Laundry Bag or Toiletry ..."
+    },
+    {
+      "score": 0.5,
+      "name": "DABUR Swarna Guggulu 30 Tabs",
+      "content": "DABUR Swarna Guggulu 30 Tabs"
+    },
+    {
+      "score": 0.33333334,
+      "name": "HARRODS Travel Bottles with Flip Cap (4 Pcs) Empty Amber Dispenser Container for Travel Size Cosmetics (100ml)",
+      "content": "HARRODS Travel Bottles with Flip Cap (4 Pcs) Empty Amber Dispenser Container for Travel Size Cosmetics (100ml)"
+    },
+    {
+      "score": 0.33333334,
+      "name": "Kuruti B Sheets Women Anarkali Kurta",
+      "content": "Kuruti B Sheets Women Anarkali Kurta"
+    },
+    {
+      "score": 0.25,
+      "name": "REMANG 6Pcs Empty Refillable Travel Cosmetic Bottles Multipurpose Travel Toiletries Pouch Kit Mini Containers for Face Cre...",
+      "content": "REMANG 6Pcs Empty Refillable Travel Cosmetic Bottles Multipurpose Travel Toiletries Pouch Kit Mini Containers for Face Cre..."
+    }
+  ]
+}

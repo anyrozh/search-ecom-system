@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-04-25T13:42:50.171348",
+  "method": "text_searcher",
+  "query": "My sister just had a baby and I want to give her something really useful. What should I get?",
+  "subqueries": [
+    "My sister just had a baby and I want to give her something really useful. What should I get?",
+    "Essential newborn baby care products such as diapers, wipes, and baby lotion",
+    "Practical baby feeding accessories including bottles, sterilizers, and nursing pillows",
+    "Comfortable and safe baby clothing and swaddles suitable for newborns",
+    "Helpful parenting and baby monitoring gadgets like baby monitors and thermometers"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.8992550373077393,
+  "results": [
+    {
+      "score": 0.90092236,
+      "name": "MOM'S PRIDE® Freesize Adjustable, Washable and Reusable pocket cloth diaper for Newborn Child Toddler Infant Babies (0 - 2...",
+      "content": "MOM'S PRIDE® Freesize Adjustable, Washable and Reusable pocket cloth diaper for Newborn Child Toddler Infant Babies (0 - 2... The MOM'S PRIDE® freesize adjustable pocket cloth diaper is designed to absorb and contain a baby's urine and feces. It is intended for use by infants, newborns, toddlers, an"
+    },
+    {
+      "score": 0.8970526,
+      "name": "CUSTOMARY Baby Boy's and Baby Girl's Sweater, Pyjama and Booties (0-6 Months) (6-12 Month, Black-White)",
+      "content": "CUSTOMARY Baby Boy's and Baby Girl's Sweater, Pyjama and Booties (0-6 Months) (6-12 Month, Black-White) This product is a complete clothing set for infants, comprising a sweater, pyjama, and booties. It is designed for both baby boys and baby girls, available in sizes 0-6 months and 6-12 months. Its"
+    },
+    {
+      "score": 0.89688134,
+      "name": "NEW BORNBABY HUB Baby Bibs Super Soft and Absorbent 100% Cotton Baby Bibs Set for Newborns/Infants/Toddlers/Babies (3-24 M...",
+      "content": "NEW BORNBABY HUB Baby Bibs Super Soft and Absorbent 100% Cotton Baby Bibs Set for Newborns/Infants/Toddlers/Babies (3-24 M... These are baby bibs, specifically designed to keep a baby's clothing clean and dry. Made from 100% cotton, they are super soft and highly absorbent. They can be used by newbo"
+    },
+    {
+      "score": 0.8954777,
+      "name": "Supples-Comfy Pants-S-42,Unisex Baby, Pack of 42",
+      "content": "Supples-Comfy Pants-S-42,Unisex Baby, Pack of 42 The product 'Supples-Comfy Pants-S-42, Unisex Baby, Pack of 42' refers to a pack of 42 comfortable, size Small, disposable pants designed for babies. These are likely pull-up diapers or training pants, intended to absorb urine and feces, keeping the b"
+    },
+    {
+      "score": 0.89468616,
+      "name": "MOM'S PRIDE® Baby Pocket Cloth Diapers Reusable Cloth Diapers ,Washable, Adjustable Cloth Diapers One Size Adjustable Reus...",
+      "content": "MOM'S PRIDE® Baby Pocket Cloth Diapers Reusable Cloth Diapers ,Washable, Adjustable Cloth Diapers One Size Adjustable Reus... MOM'S PRIDE® Baby Pocket Cloth Diapers are reusable, washable, and adjustable cloth diapers designed to absorb and contain a baby's waste. They are intended for use by babies"
+    }
+  ]
+}

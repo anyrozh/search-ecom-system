@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-04-25T13:43:00.939880",
+  "method": "multimodal",
+  "query": "I'm adopting a rescue dog this weekend. What should I prepare at home before bringing him?",
+  "subqueries": [
+    "I'm adopting a rescue dog this weekend. What should I prepare at home before bringing him?",
+    "Essential dog supplies including food and water bowls, leash, collar with ID tags, and a comfortable dog bed",
+    "Dog safety and hygiene products such as grooming brushes, shampoo, nail clippers, and waste disposal bags",
+    "Training aids like puppy pads, chew toys, and basic obedience training tools",
+    "Home safety and comfort items including baby gates, crate or kennel, and pet-friendly cleaning supplies"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.9913280010223389,
+  "results": [
+    {
+      "score": 0.84501696,
+      "name": "DPR MAKK Home APPLIANCES 5 in 1 Cool Plus -Haier A.C",
+      "image_url": "https://m.media-amazon.com/images/I/217aZZe2s2L._AC_UL320_.jpg",
+      "content": "DPR MAKK Home APPLIANCES 5 in 1 Cool Plus -Haier A.C The DPR MAKK Home APPLIANCES 5 in 1 Cool Plus - Haier A.C. is a multi-functional air conditioning unit manufactured by Haier. Its primary purpose is to provide comprehensive climate control and comfort in indoor environments. It is ideal for indiv"
+    },
+    {
+      "score": 0.84180784,
+      "name": "Lloyd 1.5 Ton 2 Star Fixed Speed Split AC (Copper, Anti-Viral + PM 2.5 Filter, 2023 Model, White, GLS18C2XWASS)",
+      "image_url": "https://m.media-amazon.com/images/I/41pKfo8B+xL._AC_UL320_.jpg",
+      "content": "Lloyd 1.5 Ton 2 Star Fixed Speed Split AC (Copper, Anti-Viral + PM 2.5 Filter, 2023 Model, White, GLS18C2XWASS) The Lloyd 1.5 Ton 2 Star Fixed Speed Split AC is designed to provide effective cooling and improved air quality for indoor spaces. It's ideal for individuals, families, or small businesses"
+    },
+    {
+      "score": 0.8390118,
+      "name": "KAIN 10 ltrs (9 Cms) backpack(KBK006_2_3_pink)",
+      "image_url": "https://m.media-amazon.com/images/I/81SdvdyuGuL._AC_UL320_.jpg",
+      "content": "KAIN 10 ltrs (9 Cms) backpack(KBK006_2_3_pink) The KAIN 10 ltrs (9 Cms) backpack, identified by its pink color, is a compact and lightweight bag designed for carrying essential items without the bulk of a larger pack. Its 10-liter capacity makes it ideal for situations where only a few items are nee"
+    },
+    {
+      "score": 0.83856624,
+      "name": "LG 1.5 TON 5 STAR AI Convertible 6-in-1 Split AC with Anti Virus Protection, 2022 MODEL, (PS-Q19ENZE,WHITE)",
+      "image_url": "https://m.media-amazon.com/images/I/31IKEzzTX6L._AC_UL320_.jpg",
+      "content": "LG 1.5 TON 5 STAR AI Convertible 6-in-1 Split AC with Anti Virus Protection, 2022 MODEL, (PS-Q19ENZE,WHITE) This LG 1.5 TON 5 STAR AI Convertible 6-in-1 Split AC is designed to provide efficient and flexible cooling for medium to large indoor spaces. It's ideal for homeowners, families, or small bus"
+    },
+    {
+      "score": 0.8364899,
+      "name": "Carrier 18K Indus CX 1.5 Ton 3 Star Split AC (Copper Condenser, CAS18IN3R31F1, White)",
+      "image_url": "https://m.media-amazon.com/images/I/41Z12es55oL._AC_UL320_.jpg",
+      "content": "Carrier 18K Indus CX 1.5 Ton 3 Star Split AC (Copper Condenser, CAS18IN3R31F1, White) The Carrier 18K Indus CX 1.5 Ton 3 Star Split AC is an air conditioning unit designed to cool and dehumidify indoor spaces. It is primarily used by individuals, families, or small businesses to achieve thermal comf"
+    }
+  ]
+}

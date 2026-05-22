@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-04-25T13:44:15.248301",
+  "method": "baseline",
+  "query": "I want to make personalized Christmas gifts for my family this year instead of buying them. What do I need?",
+  "subqueries": [
+    "I want to make personalized Christmas gifts for my family this year instead of buying them. What do I need?"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 0.02956390380859375,
+  "results": [
+    {
+      "score": 0.5,
+      "name": "Best Friend Keychain, Couples Gifts Keyring, Double Sided for BFF Dad Mother Friendship Christmas Birthday, Friends TV Sho...",
+      "content": "Best Friend Keychain, Couples Gifts Keyring, Double Sided for BFF Dad Mother Friendship Christmas Birthday, Friends TV Sho..."
+    },
+    {
+      "score": 0.5,
+      "name": "Sanvatsar Home Decorative Diya Set of 6 | Corporate Gift, Diwali Gift Diya,Deepak, Candles, New Year Gift, Christmas Gift...",
+      "content": "Sanvatsar Home Decorative Diya Set of 6 | Corporate Gift, Diwali Gift Diya,Deepak, Candles, New Year Gift, Christmas Gift..."
+    },
+    {
+      "score": 0.33333334,
+      "name": "mens jens",
+      "content": "mens jens"
+    },
+    {
+      "score": 0.33333334,
+      "name": "Pramadda Pure Luxury Black Leather Sling Bag For Women Stylish | christmas gift for women | new year gift hampers | christ...",
+      "content": "Pramadda Pure Luxury Black Leather Sling Bag For Women Stylish | christmas gift for women | new year gift hampers | christ..."
+    },
+    {
+      "score": 0.25,
+      "name": "HASMI SURMI kajal",
+      "content": "HASMI SURMI kajal"
+    }
+  ]
+}

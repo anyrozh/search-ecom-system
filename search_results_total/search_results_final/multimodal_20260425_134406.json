@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-04-25T13:44:06.082990",
+  "method": "multimodal",
+  "query": "I'm about to drive cross-country alone for three days straight. How do I survive the boredom and stay safe?",
+  "subqueries": [
+    "I'm about to drive cross-country alone for three days straight. How do I survive the boredom and stay safe?",
+    "In-car entertainment devices and accessories for long solo drives",
+    "Safety and emergency car kits including first aid, roadside assistance, and vehicle tools",
+    "Comfort and ergonomic car seat cushions and travel pillows for extended driving",
+    "Healthy snacks and hydration solutions suitable for long road trips"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.9632267951965332,
+  "results": [
+    {
+      "score": 0.85709727,
+      "name": "KAIN 10 ltrs (9 Cms) backpack(KBK006_2_3_pink)",
+      "image_url": "https://m.media-amazon.com/images/I/81SdvdyuGuL._AC_UL320_.jpg",
+      "content": "KAIN 10 ltrs (9 Cms) backpack(KBK006_2_3_pink) The KAIN 10 ltrs (9 Cms) backpack, identified by its pink color, is a compact and lightweight bag designed for carrying essential items without the bulk of a larger pack. Its 10-liter capacity makes it ideal for situations where only a few items are nee"
+    },
+    {
+      "score": 0.8529071,
+      "name": "DPR MAKK Home APPLIANCES 5 in 1 Cool Plus -Haier A.C",
+      "image_url": "https://m.media-amazon.com/images/I/217aZZe2s2L._AC_UL320_.jpg",
+      "content": "DPR MAKK Home APPLIANCES 5 in 1 Cool Plus -Haier A.C The DPR MAKK Home APPLIANCES 5 in 1 Cool Plus - Haier A.C. is a multi-functional air conditioning unit manufactured by Haier. Its primary purpose is to provide comprehensive climate control and comfort in indoor environments. It is ideal for indiv"
+    },
+    {
+      "score": 0.8521873,
+      "name": "LG 1.5 TON 5 STAR AI Convertible 6-in-1 Split AC with Anti Virus Protection, 2022 MODEL, (PS-Q19ENZE,WHITE)",
+      "image_url": "https://m.media-amazon.com/images/I/31IKEzzTX6L._AC_UL320_.jpg",
+      "content": "LG 1.5 TON 5 STAR AI Convertible 6-in-1 Split AC with Anti Virus Protection, 2022 MODEL, (PS-Q19ENZE,WHITE) This LG 1.5 TON 5 STAR AI Convertible 6-in-1 Split AC is designed to provide efficient and flexible cooling for medium to large indoor spaces. It's ideal for homeowners, families, or small bus"
+    },
+    {
+      "score": 0.8509513,
+      "name": "Lloyd 1.5 Ton 2 Star Fixed Speed Split AC (Copper, Anti-Viral + PM 2.5 Filter, 2023 Model, White, GLS18C2XWASS)",
+      "image_url": "https://m.media-amazon.com/images/I/41pKfo8B+xL._AC_UL320_.jpg",
+      "content": "Lloyd 1.5 Ton 2 Star Fixed Speed Split AC (Copper, Anti-Viral + PM 2.5 Filter, 2023 Model, White, GLS18C2XWASS) The Lloyd 1.5 Ton 2 Star Fixed Speed Split AC is designed to provide effective cooling and improved air quality for indoor spaces. It's ideal for individuals, families, or small businesses"
+    },
+    {
+      "score": 0.8464927,
+      "name": "LG 2.0 Ton 3 Star AI DUAL Inverter Split AC (Copper, Super Convertible 6-in-1 Cooling, 4 Way Swing, HD Filter with Anti-Vi...",
+      "image_url": "https://m.media-amazon.com/images/I/51JFb7FctDL._AC_UL320_.jpg",
+      "content": "LG 2.0 Ton 3 Star AI DUAL Inverter Split AC (Copper, Super Convertible 6-in-1 Cooling, 4 Way Swing, HD Filter with Anti-Vi... This LG 2.0 Ton 3 Star AI DUAL Inverter Split AC is designed to provide powerful, energy-efficient, and intelligent cooling for larger indoor spaces. It's ideal for individua"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-04-25T13:44:10.889817",
+  "method": "text_searcher",
+  "query": "I'm leaving my house empty for a month while traveling. How do I make sure everything stays safe?",
+  "subqueries": [
+    "I'm leaving my house empty for a month while traveling. How do I make sure everything stays safe?",
+    "Home security systems with remote monitoring and alarm features",
+    "Smart home devices for automated lighting and appliance control",
+    "Surveillance cameras with night vision and motion detection",
+    "Secure lock systems including smart locks and deadbolts"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.9704861640930176,
+  "results": [
+    {
+      "score": 0.92270535,
+      "name": "Dahua NVR2108HS-S2 1080P 8CH NVR (Black)",
+      "content": "Dahua NVR2108HS-S2 1080P 8CH NVR (Black) The Dahua NVR2108HS-S2 is an 8-channel Network Video Recorder (NVR) designed to record, store, and manage high-definition (up to 1080P) video footage from IP (Internet Protocol) security cameras. Its primary purpose is to provide a centralized system for vide"
+    },
+    {
+      "score": 0.91840917,
+      "name": "RFV1 WiFi CCTV Camera 1080p HD PTZ | Supports Icsee app | IP66 Waterproof | Color Night Vision | LED Lights & Auto Trackin...",
+      "content": "RFV1 WiFi CCTV Camera 1080p HD PTZ | Supports Icsee app | IP66 Waterproof | Color Night Vision | LED Lights & Auto Trackin... The RFV1 WiFi CCTV Camera is a high-definition (1080p HD) security camera designed for comprehensive surveillance. Its primary purpose is to provide real-time video monitorin"
+    },
+    {
+      "score": 0.9129814,
+      "name": "CP PLUS 16 CHANNEL DVR CP-UVR-1601E1-HC",
+      "content": "CP PLUS 16 CHANNEL DVR CP-UVR-1601E1-HC The CP PLUS 16 CHANNEL DVR CP-UVR-1601E1-HC is a Digital Video Recorder (DVR) designed to be the central recording and management unit for a video surveillance system. Its primary purpose is to connect, record, store, and manage video footage from up to 16 sec"
+    },
+    {
+      "score": 0.91133595,
+      "name": "Techno //(CP-GPC-T24PL2-S) 2.4 MP Full HD IR Guard Plus",
+      "content": "Techno //(CP-GPC-T24PL2-S) 2.4 MP Full HD IR Guard Plus The Techno //(CP-GPC-T24PL2-S) 2.4 MP Full HD IR Guard Plus is a high-definition security camera designed for robust surveillance. Its primary purpose is to provide clear, detailed video monitoring, capturing footage at 2.4 Megapixels in Full H"
+    },
+    {
+      "score": 0.9098639,
+      "name": "SAFETYNET Mini Spy Camera, WiFi Wireless Hidden Cameras, with Night Vision Hidden Spy Camera, HD 1080P Micro Camera Home S...",
+      "content": "SAFETYNET Mini Spy Camera, WiFi Wireless Hidden Cameras, with Night Vision Hidden Spy Camera, HD 1080P Micro Camera Home S... The SAFETYNET Mini Spy Camera is a compact, discreet, and high-definition (1080P) wireless camera designed for covert surveillance. Equipped with WiFi connectivity and night "
+    }
+  ]
+}

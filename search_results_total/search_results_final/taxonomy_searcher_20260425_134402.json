@@ -1,0 +1,49 @@
+{
+  "timestamp": "2026-04-25T13:44:02.766553",
+  "method": "taxonomy_searcher",
+  "query": "I want to pick up a creative hobby that I can practice quietly in my apartment at night. What do I need?",
+  "subqueries": [
+    "I want to pick up a creative hobby that I can practice quietly in my apartment at night. What do I need?",
+    "quiet creative hobby starter kits suitable for indoor use at night",
+    "noise-free art supplies such as sketchbooks, pencils, and watercolor sets",
+    "compact and portable crafting tools for small apartment spaces",
+    "soft lighting solutions for comfortable nighttime hobby practice"
+  ],
+  "taxonomies_found": [
+    "home & kitchen/Sewing & Craft Supplies"
+  ],
+  "taxonomy_fallback": false,
+  "search_time": 4.990680932998657,
+  "results": [
+    {
+      "score": 0.805114,
+      "name": "Little Birdie Water Colour Book A5, 62 Pages 14.8 X 21 cm",
+      "image_url": "https://m.media-amazon.com/images/I/61P1g5BxUiL._AC_UL320_.jpg",
+      "content": "Little Birdie Water Colour Book A5, 62 Pages 14.8 X 21 cm The Little Birdie Water Colour Book A5 is a specialized art pad containing 62 pages, specifically designed for painting with watercolors. Its A5 size (14.8 x 21 cm) makes it portable and convenient for various uses. It can be used by artists "
+    },
+    {
+      "score": 0.78582,
+      "name": "MONT MARTE Acrylic Paint Set 24pcex36ml",
+      "image_url": "https://m.media-amazon.com/images/I/71Xuw6Pdt2L._AC_UL320_.jpg",
+      "content": "MONT MARTE Acrylic Paint Set 24pcex36ml The MONT MARTE Acrylic Paint Set 24pcex36ml is a comprehensive collection of 24 tubes of 36ml acrylic paints, designed for artistic expression and creative projects. It is suitable for a broad audience, from beginners and students learning to paint, to hobbyis"
+    },
+    {
+      "score": 0.7851647,
+      "name": "Lakeer Plain Foam Roller Brushes for Painting, Art and Craft Projects Set of 3",
+      "image_url": "https://m.media-amazon.com/images/I/41QW9kwvYFL._AC_UL320_.jpg",
+      "content": "Lakeer Plain Foam Roller Brushes for Painting, Art and Craft Projects Set of 3 The Lakeer Plain Foam Roller Brushes are designed for applying smooth, even coats of various liquid mediums. They are ideal for artists, crafters, students, and hobbyists of all skill levels. Users can employ them for a w"
+    },
+    {
+      "score": 0.78392637,
+      "name": "Itsy Bitsy - Craft Cement Grey - 450gm Pack of 2",
+      "image_url": "https://m.media-amazon.com/images/I/7199c8wwSwL._AC_UL320_.jpg",
+      "content": "Itsy Bitsy - Craft Cement Grey - 450gm Pack of 2 Itsy Bitsy Craft Cement Grey is a specialized, fine-grain cement designed for a wide range of crafting and DIY projects. Its grey color provides a versatile base for various aesthetics, from industrial to natural. It's ideal for crafters, artists, hob"
+    },
+    {
+      "score": 0.7833309,
+      "name": "Crafts 4 ALL Acrylic Paint Set for Kids and Adults - 24 Pack of 12mL Craft Paint Colors for Wood, Canvas, Fabric and Ceram...",
+      "image_url": "https://m.media-amazon.com/images/I/51wZNchjq4L._AC_UL320_.jpg",
+      "content": "Crafts 4 ALL Acrylic Paint Set for Kids and Adults - 24 Pack of 12mL Craft Paint Colors for Wood, Canvas, Fabric and Ceram... This product is an acrylic paint set featuring 24 different 12mL craft paint colors. Its purpose is to provide a versatile range of paints for various art and craft projects."
+    }
+  ]
+}

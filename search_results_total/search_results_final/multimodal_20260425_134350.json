@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-04-25T13:43:50.790804",
+  "method": "multimodal",
+  "query": "Our office is organizing a weekend team-building outdoors. What should we bring for group activities?",
+  "subqueries": [
+    "Our office is organizing a weekend team-building outdoors. What should we bring for group activities?",
+    "Outdoor team-building games and activity kits suitable for group participation",
+    "Portable seating and picnic accessories for outdoor group comfort",
+    "Weather-appropriate outdoor clothing and sun protection gear for team members",
+    "First aid kits and safety equipment for outdoor group events"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.661142110824585,
+  "results": [
+    {
+      "score": 0.852168,
+      "name": "WOMEN MARKS NSB-06-ZIPPER-HANDBAG",
+      "image_url": "https://m.media-amazon.com/images/I/61SKMRKID9L._AC_UL320_.jpg",
+      "content": "WOMEN MARKS NSB-06-ZIPPER-HANDBAG The WOMEN MARKS NSB-06-ZIPPER-HANDBAG is a functional and fashionable accessory primarily designed for women. Its purpose is to securely carry everyday personal essentials such as a wallet, phone, keys, cosmetics, and other small items. Women can use it for a variet"
+    },
+    {
+      "score": 0.8337431,
+      "name": "KAIN 10 ltrs (9 Cms) backpack(KBK006_2_3_pink)",
+      "image_url": "https://m.media-amazon.com/images/I/81SdvdyuGuL._AC_UL320_.jpg",
+      "content": "KAIN 10 ltrs (9 Cms) backpack(KBK006_2_3_pink) The KAIN 10 ltrs (9 Cms) backpack, identified by its pink color, is a compact and lightweight bag designed for carrying essential items without the bulk of a larger pack. Its 10-liter capacity makes it ideal for situations where only a few items are nee"
+    },
+    {
+      "score": 0.8307454,
+      "name": "Godrej 1.5 Ton 5 Star 5-In-1 Convertible, Inverter Split AC (100% Copper, Heavy Duty Cooling at 52°C, 2023 Model,AC 1.5T E...",
+      "image_url": "https://m.media-amazon.com/images/I/51HEnpDyVpL._AC_UL320_.jpg",
+      "content": "Godrej 1.5 Ton 5 Star 5-In-1 Convertible, Inverter Split AC (100% Copper, Heavy Duty Cooling at 52°C, 2023 Model,AC 1.5T E... This Godrej 1.5 Ton 5 Star 5-In-1 Convertible Inverter Split AC is designed to provide powerful, energy-efficient, and versatile cooling for medium to large rooms. It's ideal"
+    },
+    {
+      "score": 0.8251793,
+      "name": "DPR MAKK Home APPLIANCES 5 in 1 Cool Plus -Haier A.C",
+      "image_url": "https://m.media-amazon.com/images/I/217aZZe2s2L._AC_UL320_.jpg",
+      "content": "DPR MAKK Home APPLIANCES 5 in 1 Cool Plus -Haier A.C The DPR MAKK Home APPLIANCES 5 in 1 Cool Plus - Haier A.C. is a multi-functional air conditioning unit manufactured by Haier. Its primary purpose is to provide comprehensive climate control and comfort in indoor environments. It is ideal for indiv"
+    },
+    {
+      "score": 0.8212465,
+      "name": "Lloyd 1.5 Ton 2 Star Fixed Speed Split AC (Copper, Anti-Viral + PM 2.5 Filter, 2023 Model, White, GLS18C2XWASS)",
+      "image_url": "https://m.media-amazon.com/images/I/41pKfo8B+xL._AC_UL320_.jpg",
+      "content": "Lloyd 1.5 Ton 2 Star Fixed Speed Split AC (Copper, Anti-Viral + PM 2.5 Filter, 2023 Model, White, GLS18C2XWASS) The Lloyd 1.5 Ton 2 Star Fixed Speed Split AC is designed to provide effective cooling and improved air quality for indoor spaces. It's ideal for individuals, families, or small businesses"
+    }
+  ]
+}

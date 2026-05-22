@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-04-25T13:43:07.517991",
+  "method": "multimodal",
+  "query": "I want to start cooking healthy meals instead of ordering takeout. Where do I even begin?",
+  "subqueries": [
+    "I want to start cooking healthy meals instead of ordering takeout. Where do I even begin?",
+    "Beginner-friendly healthy cooking recipe books and meal planning guides",
+    "Essential kitchen tools and appliances for preparing healthy meals",
+    "Fresh and organic ingredients or healthy meal kits for home cooking"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.5647947788238525,
+  "results": [
+    {
+      "score": 0.8866482,
+      "name": "Organic Tattva, Organic Roasted Chana Dal, 500g | 100% Vegan, Gluten Free and NO Additives",
+      "image_url": "https://m.media-amazon.com/images/I/712LdSFes4L._AC_UL320_.jpg",
+      "content": "Organic Tattva, Organic Roasted Chana Dal, 500g | 100% Vegan, Gluten Free and NO Additives Organic Tattva's Organic Roasted Chana Dal is a nutritious and convenient plant-based food product. Its primary purpose is to serve as a healthy, ready-to-eat snack or a versatile ingredient for various culina"
+    },
+    {
+      "score": 0.84072363,
+      "name": "LABOGENS POTASSIUM SULPHATE 500GM, Assay : Min. 99% K2SO4 M.W. 174.26, (CAS NO. 7778-80-5)",
+      "image_url": "https://m.media-amazon.com/images/I/51wVOHvx-hL._AC_UL320_.jpg",
+      "content": "LABOGENS POTASSIUM SULPHATE 500GM, Assay : Min. 99% K2SO4 M.W. 174.26, (CAS NO. 7778-80-5) This product, LABOGENS POTASSIUM SULPHATE (K2SO4) with a minimum 99% assay, is a high-purity chemical compound primarily used as a source of essential plant nutrients, potassium and sulfur. It is widely utiliz"
+    },
+    {
+      "score": 0.8398533,
+      "name": "Daikin 1 Ton 5 Star Inverter Split AC (Copper, PM 2.5 Filter, 2022 Model, FTKR35U, White)",
+      "image_url": "https://m.media-amazon.com/images/I/41+OYtUdLNL._AC_UL320_.jpg",
+      "content": "Daikin 1 Ton 5 Star Inverter Split AC (Copper, PM 2.5 Filter, 2022 Model, FTKR35U, White) This Daikin 1 Ton 5 Star Inverter Split AC is designed to provide efficient and comfortable cooling for indoor spaces, while also enhancing air quality. It's ideal for individuals, couples, or small families lo"
+    },
+    {
+      "score": 0.839216,
+      "name": "DPR MAKK Home APPLIANCES 5 in 1 Cool Plus -Haier A.C",
+      "image_url": "https://m.media-amazon.com/images/I/217aZZe2s2L._AC_UL320_.jpg",
+      "content": "DPR MAKK Home APPLIANCES 5 in 1 Cool Plus -Haier A.C The DPR MAKK Home APPLIANCES 5 in 1 Cool Plus - Haier A.C. is a multi-functional air conditioning unit manufactured by Haier. Its primary purpose is to provide comprehensive climate control and comfort in indoor environments. It is ideal for indiv"
+    },
+    {
+      "score": 0.83413696,
+      "name": "Haier 1.0 Ton 3 Star Intelli smart Inverter AC(Intelli Convertible 7-in-1, Triple Inverter+ Technology, 2023, HSU13K-PYFR3...",
+      "image_url": "https://m.media-amazon.com/images/I/518brnf3ScL._AC_UL320_.jpg",
+      "content": "Haier 1.0 Ton 3 Star Intelli smart Inverter AC(Intelli Convertible 7-in-1, Triple Inverter+ Technology, 2023, HSU13K-PYFR3... The Haier 1.0 Ton 3 Star Intelli smart Inverter AC is designed to provide efficient, adaptable, and comfortable cooling for small to medium-sized rooms. Its primary purpose i"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-04-25T13:43:16.521298",
+  "method": "taxonomy_searcher",
+  "query": "We just moved into a new apartment and everything is empty. What are the first things to buy?",
+  "subqueries": [
+    "We just moved into a new apartment and everything is empty. What are the first things to buy?",
+    "Essential furniture for living room including sofa, coffee table, and TV stand",
+    "Basic kitchen appliances and utensils such as refrigerator, microwave, pots, and cutlery",
+    "Bedroom furniture and bedding including bed frame, mattress, pillows, and sheets",
+    "Bathroom essentials like towels, shower curtain, bath mat, and toiletries storage"
+  ],
+  "taxonomies_found": [
+    "home & kitchen/Home Storage",
+    "home & kitchen/Home Furnishing"
+  ],
+  "taxonomy_fallback": false,
+  "search_time": 2.8101999759674072,
+  "results": [
+    {
+      "score": 0.85250247,
+      "name": "Heart Home 2.5 Liter Mini Desktop Trash Bin with Lid Tiny Garbage Trash Bin (Grey) (HS_36_HEARTH018540), Small",
+      "image_url": "https://m.media-amazon.com/images/I/61TnQLgqi6L._AC_UL320_.jpg",
+      "content": "Heart Home 2.5 Liter Mini Desktop Trash Bin with Lid Tiny Garbage Trash Bin (Grey) (HS_36_HEARTH018540), Small The Heart Home 2.5 Liter Mini Desktop Trash Bin is a compact, lidded container designed for convenient disposal of small waste items. It's ideal for individuals working at desks (home or of"
+    },
+    {
+      "score": 0.834366,
+      "name": "Home Maker - Biodegradable Garbage Bags (Medium) Size 48 cm x 56 cm 1 Rolls 30 Bags Dustbin Bag/Trash Bag - Black Color",
+      "image_url": "https://m.media-amazon.com/images/I/71xLR9JpLbL._AC_UL320_.jpg",
+      "content": "Home Maker - Biodegradable Garbage Bags (Medium) Size 48 cm x 56 cm 1 Rolls 30 Bags Dustbin Bag/Trash Bag - Black Color These Home Maker Biodegradable Garbage Bags are designed for the hygienic collection and disposal of waste. They are ideal for individuals, households, and offices looking for an e"
+    },
+    {
+      "score": 0.8019116,
+      "name": "PARASNATH Stainless Steel 15 Rods Extra Large Foldable Cloth Dryer/Clothes Drying Stand - Made in India",
+      "image_url": "https://m.media-amazon.com/images/I/919TzEL4xBL._AC_UL320_.jpg",
+      "content": "PARASNATH Stainless Steel 15 Rods Extra Large Foldable Cloth Dryer/Clothes Drying Stand - Made in India The PARASNATH Stainless Steel 15 Rods Extra Large Foldable Cloth Dryer is designed for efficiently air-drying a large volume of laundry. It is ideal for individuals and families living in homes or"
+    },
+    {
+      "score": 0.79139024,
+      "name": "Huesland by Ahmedabad Cotton 144 TC Cotton King Size Bedsheet with 2 Pillow Covers - Grey & Yellow(9ft x 9ft)",
+      "image_url": "https://m.media-amazon.com/images/I/714Ig1a-a2L._AC_UL320_.jpg",
+      "content": "Huesland by Ahmedabad Cotton 144 TC Cotton King Size Bedsheet with 2 Pillow Covers - Grey & Yellow(9ft x 9ft) This Huesland by Ahmedabad Cotton product is a King Size Bedsheet set, crafted from comfortable 144 TC cotton, and includes two matching pillow covers in Grey & Yellow. Its primary purpose i"
+    },
+    {
+      "score": 0.7904329,
+      "name": "Eco Shopee SHOPPING SIMPLIFIED Eco Shopee 4+2 Layer Collapsible Wardrobe For Clothes With Side Pocket 7800-3 (84Cm X 42.5C...",
+      "image_url": "https://m.media-amazon.com/images/I/81v3oGsKjcL._AC_UL320_.jpg",
+      "content": "Eco Shopee SHOPPING SIMPLIFIED Eco Shopee 4+2 Layer Collapsible Wardrobe For Clothes With Side Pocket 7800-3 (84Cm X 42.5C... This product is a 4+2 layer collapsible wardrobe with a side pocket, primarily designed for storing and organizing clothes. Its purpose is to provide a flexible, temporary, a"
+    }
+  ]
+}

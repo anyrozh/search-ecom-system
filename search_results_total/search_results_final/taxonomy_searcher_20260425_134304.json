@@ -1,0 +1,49 @@
+{
+  "timestamp": "2026-04-25T13:43:04.225203",
+  "method": "taxonomy_searcher",
+  "query": "I'm adopting a rescue dog this weekend. What should I prepare at home before bringing him?",
+  "subqueries": [
+    "I'm adopting a rescue dog this weekend. What should I prepare at home before bringing him?",
+    "Essential dog supplies including food and water bowls, leash, collar, and ID tags",
+    "Comfortable dog bed and crate for safe resting and sleeping",
+    "Basic grooming tools such as brushes, nail clippers, and dog shampoo",
+    "Training aids and toys to help with behavior and mental stimulation"
+  ],
+  "taxonomies_found": [
+    "pet supplies/Dog supplies"
+  ],
+  "taxonomy_fallback": false,
+  "search_time": 3.2830162048339844,
+  "results": [
+    {
+      "score": 0.79850763,
+      "name": "ASTRECA Pet Hair, Dust, Lint Remover for Clothing & Furniture and Sofa Home Couch pet - Double Sided, Self-Cleaning & Reus...",
+      "image_url": "https://m.media-amazon.com/images/I/71frcla+RpS._AC_UL320_.jpg",
+      "content": "ASTRECA Pet Hair, Dust, Lint Remover for Clothing & Furniture and Sofa Home Couch pet - Double Sided, Self-Cleaning & Reus... The ASTRECA Pet Hair, Dust, Lint Remover is designed to effectively remove unwanted pet hair, dust, and lint from various surfaces. It is ideal for pet owners and anyone look"
+    },
+    {
+      "score": 0.7981424,
+      "name": "Foodie Puppies (Triple Head Toothbrush) for Dogs, Pet and Cats | Removing Bad Breath | Good Angle Bristles Clean Each Toot...",
+      "image_url": "https://m.media-amazon.com/images/I/51FrCJYN8gL._AC_UL320_.jpg",
+      "content": "Foodie Puppies (Triple Head Toothbrush) for Dogs, Pet and Cats | Removing Bad Breath | Good Angle Bristles Clean Each Toot... This product is a triple-head toothbrush specifically designed for pets, including dogs and cats. Its primary purpose is to help remove bad breath and effectively clean each "
+    },
+    {
+      "score": 0.7917887,
+      "name": "Himavat Pet ID Personalized Colourful Pets Name tag / Identity Tag for Dogs and Cats , Dog ID tag -Customized ( Red-white)",
+      "image_url": "https://m.media-amazon.com/images/I/51xL1dMGSBL._AC_UL320_.jpg",
+      "content": "Himavat Pet ID Personalized Colourful Pets Name tag / Identity Tag for Dogs and Cats , Dog ID tag -Customized ( Red-white) The Himavat Pet ID Tag is a personalized and colorful identity tag designed for dogs and cats. Its primary purpose is to provide essential identification for pets, allowing owne"
+    },
+    {
+      "score": 0.791407,
+      "name": "PETARCHI Design Studio for Pets - Dog Flight Crate Kennel, IATA Compliant Airline Approved Dog Crate Travel Kennel - 32 In...",
+      "image_url": "https://m.media-amazon.com/images/I/5116g73IpZL._AC_UL320_.jpg",
+      "content": "PETARCHI Design Studio for Pets - Dog Flight Crate Kennel, IATA Compliant Airline Approved Dog Crate Travel Kennel - 32 In... This product is a dog crate kennel specifically designed for safe and compliant air travel. It is IATA compliant and airline approved, making it suitable for dog owners who n"
+    },
+    {
+      "score": 0.79126716,
+      "name": "SWIFFER Pet Cat Hair Remover - Double-Sided Standard-Size, Travel Pet Hair Removal Brush, Self-Cleaning Base - Remove Cat ...",
+      "image_url": "https://m.media-amazon.com/images/I/71713qWfTEL._AC_UL320_.jpg",
+      "content": "SWIFFER Pet Cat Hair Remover - Double-Sided Standard-Size, Travel Pet Hair Removal Brush, Self-Cleaning Base - Remove Cat ... This SWIFFER Pet Cat Hair Remover is a double-sided, standard-size brush designed to efficiently remove pet hair, particularly cat hair. It's intended for pet owners, especia"
+    }
+  ]
+}

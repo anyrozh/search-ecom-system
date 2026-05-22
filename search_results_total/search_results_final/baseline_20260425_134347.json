@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-04-25T13:43:47.459407",
+  "method": "baseline",
+  "query": "Our office is organizing a weekend team-building outdoors. What should we bring for group activities?",
+  "subqueries": [
+    "Our office is organizing a weekend team-building outdoors. What should we bring for group activities?"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 0.0435488224029541,
+  "results": [
+    {
+      "score": 0.5,
+      "name": "Lovehush Stylish & Trending Denim Outdoor Walking Comfortable",
+      "content": "Lovehush Stylish & Trending Denim Outdoor Walking Comfortable"
+    },
+    {
+      "score": 0.5,
+      "name": "Active Pixel 4mp Pan Tilt Zoom Home Office WiFi Outdoor PTZ CCTV Camera | Wireless Outdoor Security 360° | 8X Zoom | Night...",
+      "content": "Active Pixel 4mp Pan Tilt Zoom Home Office WiFi Outdoor PTZ CCTV Camera | Wireless Outdoor Security 360° | 8X Zoom | Night..."
+    },
+    {
+      "score": 0.33333334,
+      "name": "WIRE HARNESS TESTER, IT IS PERFORMS TESTS FOR OK, OPEN, SHORT & WIRE INTERCHANGE",
+      "content": "WIRE HARNESS TESTER, IT IS PERFORMS TESTS FOR OK, OPEN, SHORT & WIRE INTERCHANGE"
+    },
+    {
+      "score": 0.33333334,
+      "name": "Trendy Retail Black High Tenacity Nylon Mesh Storage Bags Outdoors Activities Folding Hanging Organizer Bag for Kettle Mob...",
+      "content": "Trendy Retail Black High Tenacity Nylon Mesh Storage Bags Outdoors Activities Folding Hanging Organizer Bag for Kettle Mob..."
+    },
+    {
+      "score": 0.25,
+      "name": "HUETRAP Mens Get Going Outdoor – Graphic Sleeveless Tee",
+      "content": "HUETRAP Mens Get Going Outdoor – Graphic Sleeveless Tee"
+    }
+  ]
+}

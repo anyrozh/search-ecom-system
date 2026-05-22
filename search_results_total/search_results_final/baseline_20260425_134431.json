@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-04-25T13:44:31.621717",
+  "method": "baseline",
+  "query": "I got accepted to a semester abroad in a cold country and I've never experienced winter. What should I pack?",
+  "subqueries": [
+    "I got accepted to a semester abroad in a cold country and I've never experienced winter. What should I pack?"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 0.03243899345397949,
+  "results": [
+    {
+      "score": 0.5,
+      "name": "FabSeasons Winter Outdoor Ear Muffs / Warmer for Men and Women for protection from Cold, Value Combo Pack of 4 & 8",
+      "content": "FabSeasons Winter Outdoor Ear Muffs / Warmer for Men and Women for protection from Cold, Value Combo Pack of 4 & 8"
+    },
+    {
+      "score": 0.5,
+      "name": "NEVA Winter Wear Thermal",
+      "content": "NEVA Winter Wear Thermal"
+    },
+    {
+      "score": 0.33333334,
+      "name": "Campus Sutra Solid",
+      "content": "Campus Sutra Solid"
+    },
+    {
+      "score": 0.33333334,
+      "name": "Sleepy Owl Coffee Dark Roast Cold Brew Packs | Set of 5 Packs - Makes 15 Cups | 3 Step Brew - No Equipment Required | Cold...",
+      "content": "Sleepy Owl Coffee Dark Roast Cold Brew Packs | Set of 5 Packs - Makes 15 Cups | 3 Step Brew - No Equipment Required | Cold..."
+    },
+    {
+      "score": 0.25,
+      "name": "Winter Casual Hoodie",
+      "content": "Winter Casual Hoodie"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-04-25T13:44:17.078119",
+  "method": "text_searcher",
+  "query": "I want to make personalized Christmas gifts for my family this year instead of buying them. What do I need?",
+  "subqueries": [
+    "I want to make personalized Christmas gifts for my family this year instead of buying them. What do I need?",
+    "DIY craft kits and supplies for personalized Christmas gifts",
+    "Customizable gift packaging and wrapping materials for holiday presents",
+    "Personalization tools such as engraving machines, stamps, or embroidery kits",
+    "Holiday-themed decorative materials like ribbons, stickers, and tags for gift embellishment"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.8290820121765137,
+  "results": [
+    {
+      "score": 0.88655204,
+      "name": "T/S/CLRFUL/BHOOT",
+      "content": "T/S/CLRFUL/BHOOT This product is a **Colorful T-Shirt (T/S)** featuring a **'Bhoot' (Ghost/Spirit)** theme or design. Its purpose is to provide a fun, unique, and comfortable piece of casual wear. It can be used by individuals who appreciate quirky, themed, or vibrant apparel, especially those with "
+    },
+    {
+      "score": 0.877686,
+      "name": "BRIDA 100% Cotton Non Padded Non Wired Full Coverage Plus Size Double Layer -Extra Lining & Lift-Special Support Cups-Ever...",
+      "content": "BRIDA 100% Cotton Non Padded Non Wired Full Coverage Plus Size Double Layer -Extra Lining & Lift-Special Support Cups-Ever... The BRIDA 100% Cotton Non Padded Non Wired Full Coverage Plus Size Double Layer bra is designed to provide ultimate comfort, natural shaping, and robust support for **plus-si"
+    },
+    {
+      "score": 0.8775927,
+      "name": "ImpressiveWorks Thank You Gift Tags Labels with String/Thread for Presents,Gifts and Paper Bags (Pack of 40 Tags in 4 Diff...",
+      "content": "ImpressiveWorks Thank You Gift Tags Labels with String/Thread for Presents,Gifts and Paper Bags (Pack of 40 Tags in 4 Diff... This product, 'ImpressiveWorks Thank You Gift Tags Labels with String/Thread', consists of decorative tags designed to convey gratitude. Their primary purpose is to add a per"
+    },
+    {
+      "score": 0.87621367,
+      "name": "A.T.U.N. (ALL THINGS UBER NICE) Girl Dress",
+      "content": "A.T.U.N. (ALL THINGS UBER NICE) Girl Dress The A.T.U.N. (ALL THINGS UBER NICE) Girl Dress is a clothing item specifically designed for young females. Its primary purpose is to provide a stylish, comfortable, and high-quality outfit for girls. It can be used by girls for a variety of occasions, inclu"
+    },
+    {
+      "score": 0.8759042,
+      "name": "Pregnancy Announcement Gifts Daddy and Mommy Est 2020 Keychain Set Parents Gift Mommy to Be Gift First Time Dad Gifts with...",
+      "content": "Pregnancy Announcement Gifts Daddy and Mommy Est 2020 Keychain Set Parents Gift Mommy to Be Gift First Time Dad Gifts with... This product is a commemorative keychain set designed as a thoughtful gift for expectant or new parents. It can be used to announce a pregnancy, celebrate the upcoming arriva"
+    }
+  ]
+}

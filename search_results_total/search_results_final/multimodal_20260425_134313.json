@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-04-25T13:43:13.710226",
+  "method": "multimodal",
+  "query": "We just moved into a new apartment and everything is empty. What are the first things to buy?",
+  "subqueries": [
+    "We just moved into a new apartment and everything is empty. What are the first things to buy?",
+    "Essential furniture for living room including sofa, coffee table, and TV stand",
+    "Basic kitchen appliances and utensils such as refrigerator, microwave, cookware, and cutlery",
+    "Bedroom necessities including bed frame, mattress, pillows, and bedding sets",
+    "Bathroom essentials like towels, shower curtain, bath mat, and toiletries storage"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.5504813194274902,
+  "results": [
+    {
+      "score": 0.8752713,
+      "name": "Whirlpool 1.5 Ton 4 Star, Flexicool Inverter Split AC (Copper, Convertible 4-in-1 Cooling Mode, HD Filter 2023 Model, S3I3...",
+      "image_url": "https://m.media-amazon.com/images/I/51xzmzjFS7L._AC_UL320_.jpg",
+      "content": "Whirlpool 1.5 Ton 4 Star, Flexicool Inverter Split AC (Copper, Convertible 4-in-1 Cooling Mode, HD Filter 2023 Model, S3I3... This Whirlpool 1.5 Ton 4 Star Flexicool Inverter Split AC is designed to provide efficient, customizable, and comfortable cooling for indoor spaces. It's ideal for individual"
+    },
+    {
+      "score": 0.8677396,
+      "name": "LG 2.0 Ton 3 Star AI DUAL Inverter Split AC (Copper, Super Convertible 6-in-1 Cooling, 4 Way Swing, HD Filter with Anti-Vi...",
+      "image_url": "https://m.media-amazon.com/images/I/51JFb7FctDL._AC_UL320_.jpg",
+      "content": "LG 2.0 Ton 3 Star AI DUAL Inverter Split AC (Copper, Super Convertible 6-in-1 Cooling, 4 Way Swing, HD Filter with Anti-Vi... This LG 2.0 Ton 3 Star AI DUAL Inverter Split AC is designed to provide powerful, energy-efficient, and intelligent cooling for larger indoor spaces. It's ideal for individua"
+    },
+    {
+      "score": 0.86695445,
+      "name": "Daikin 1 Ton 5 Star Inverter Split AC (Copper, PM 2.5 Filter, 2022 Model, FTKR35U, White)",
+      "image_url": "https://m.media-amazon.com/images/I/41+OYtUdLNL._AC_UL320_.jpg",
+      "content": "Daikin 1 Ton 5 Star Inverter Split AC (Copper, PM 2.5 Filter, 2022 Model, FTKR35U, White) This Daikin 1 Ton 5 Star Inverter Split AC is designed to provide efficient and comfortable cooling for indoor spaces, while also enhancing air quality. It's ideal for individuals, couples, or small families lo"
+    },
+    {
+      "score": 0.86634046,
+      "name": "Ogeneral 2 Ton 3 Star Window Air Conditioner AXGT24FHTC",
+      "image_url": "https://m.media-amazon.com/images/I/816XGDhs-LL._AC_UL320_.jpg",
+      "content": "Ogeneral 2 Ton 3 Star Window Air Conditioner AXGT24FHTC This Ogeneral 2 Ton 3 Star Window Air Conditioner (AXGT24FHTC) is a self-contained cooling appliance designed to lower the temperature and humidity of indoor spaces. Its primary purpose is to provide comfort by creating a cooler and more pleasa"
+    },
+    {
+      "score": 0.8641629,
+      "name": "Hitachi SPLIT AC - 1.0 Ton HITACHI SHIZEN 3100S INVERTER - R32 - RAPG312HFEOZ1 (Gold)",
+      "image_url": "https://m.media-amazon.com/images/I/417b-AztnjL._AC_UL320_.jpg",
+      "content": "Hitachi SPLIT AC - 1.0 Ton HITACHI SHIZEN 3100S INVERTER - R32 - RAPG312HFEOZ1 (Gold) This product is a 1.0-ton Hitachi Split Inverter Air Conditioner. Its primary purpose is to cool and dehumidify indoor spaces, providing a comfortable environment during hot weather. It is ideal for individuals, fa"
+    }
+  ]
+}

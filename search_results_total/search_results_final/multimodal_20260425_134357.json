@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-04-25T13:43:57.774429",
+  "method": "multimodal",
+  "query": "I want to pick up a creative hobby that I can practice quietly in my apartment at night. What do I need?",
+  "subqueries": [
+    "I want to pick up a creative hobby that I can practice quietly in my apartment at night. What do I need?",
+    "quiet creative hobby starter kits suitable for indoor use at night",
+    "noise-free art supplies such as sketchbooks, pencils, and watercolor sets",
+    "compact and portable crafting tools for small apartment spaces",
+    "ergonomic furniture and lighting designed for comfortable nighttime creative work"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.6568310260772705,
+  "results": [
+    {
+      "score": 0.8610332,
+      "name": "LG 2.0 Ton 3 Star AI DUAL Inverter Split AC (Copper, Super Convertible 6-in-1 Cooling, 4 Way Swing, HD Filter with Anti-Vi...",
+      "image_url": "https://m.media-amazon.com/images/I/51JFb7FctDL._AC_UL320_.jpg",
+      "content": "LG 2.0 Ton 3 Star AI DUAL Inverter Split AC (Copper, Super Convertible 6-in-1 Cooling, 4 Way Swing, HD Filter with Anti-Vi... This LG 2.0 Ton 3 Star AI DUAL Inverter Split AC is designed to provide powerful, energy-efficient, and intelligent cooling for larger indoor spaces. It's ideal for individua"
+    },
+    {
+      "score": 0.8582111,
+      "name": "Godrej 1.5 Ton 5 Star 5-In-1 Convertible, Inverter Split AC (100% Copper, Heavy Duty Cooling at 52°C, 2023 Model,AC 1.5T E...",
+      "image_url": "https://m.media-amazon.com/images/I/51HEnpDyVpL._AC_UL320_.jpg",
+      "content": "Godrej 1.5 Ton 5 Star 5-In-1 Convertible, Inverter Split AC (100% Copper, Heavy Duty Cooling at 52°C, 2023 Model,AC 1.5T E... This Godrej 1.5 Ton 5 Star 5-In-1 Convertible Inverter Split AC is designed to provide powerful, energy-efficient, and versatile cooling for medium to large rooms. It's ideal"
+    },
+    {
+      "score": 0.8575182,
+      "name": "Whirlpool 1.5 Ton 4 Star, Flexicool Inverter Split AC (Copper, Convertible 4-in-1 Cooling Mode, HD Filter 2023 Model, S3I3...",
+      "image_url": "https://m.media-amazon.com/images/I/51xzmzjFS7L._AC_UL320_.jpg",
+      "content": "Whirlpool 1.5 Ton 4 Star, Flexicool Inverter Split AC (Copper, Convertible 4-in-1 Cooling Mode, HD Filter 2023 Model, S3I3... This Whirlpool 1.5 Ton 4 Star Flexicool Inverter Split AC is designed to provide efficient, customizable, and comfortable cooling for indoor spaces. It's ideal for individual"
+    },
+    {
+      "score": 0.8561944,
+      "name": "Ogeneral 2 Ton 3 Star Window Air Conditioner AXGT24FHTC",
+      "image_url": "https://m.media-amazon.com/images/I/816XGDhs-LL._AC_UL320_.jpg",
+      "content": "Ogeneral 2 Ton 3 Star Window Air Conditioner AXGT24FHTC This Ogeneral 2 Ton 3 Star Window Air Conditioner (AXGT24FHTC) is a self-contained cooling appliance designed to lower the temperature and humidity of indoor spaces. Its primary purpose is to provide comfort by creating a cooler and more pleasa"
+    },
+    {
+      "score": 0.85134864,
+      "name": "Hitachi SPLIT AC - 1.0 Ton HITACHI SHIZEN 3100S INVERTER - R32 - RAPG312HFEOZ1 (Gold)",
+      "image_url": "https://m.media-amazon.com/images/I/417b-AztnjL._AC_UL320_.jpg",
+      "content": "Hitachi SPLIT AC - 1.0 Ton HITACHI SHIZEN 3100S INVERTER - R32 - RAPG312HFEOZ1 (Gold) This product is a 1.0-ton Hitachi Split Inverter Air Conditioner. Its primary purpose is to cool and dehumidify indoor spaces, providing a comfortable environment during hot weather. It is ideal for individuals, fa"
+    }
+  ]
+}

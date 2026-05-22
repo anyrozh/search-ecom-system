@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-04-25T13:43:49.128610",
+  "method": "text_searcher",
+  "query": "Our office is organizing a weekend team-building outdoors. What should we bring for group activities?",
+  "subqueries": [
+    "Our office is organizing a weekend team-building outdoors. What should we bring for group activities?",
+    "Outdoor team-building games and activity kits suitable for group participation",
+    "Portable seating and picnic accessories for outdoor group comfort",
+    "Weather-appropriate outdoor clothing and sun protection gear for team members",
+    "First aid kits and safety equipment for outdoor group events"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.6683318614959717,
+  "results": [
+    {
+      "score": 0.8845468,
+      "name": "URBANPLAYERS Girl's Plain Regular fit Hoodie (ETGSS2020SER16_Grey_7-8YR 7-8YR)",
+      "content": "URBANPLAYERS Girl's Plain Regular fit Hoodie (ETGSS2020SER16_Grey_7-8YR 7-8YR) This URBANPLAYERS Girl's Plain Regular fit Hoodie is designed to provide comfort, warmth, and a casual style. It is intended for girls aged 7 to 8 years old. They can use it for a variety of everyday activities, including"
+    },
+    {
+      "score": 0.8715768,
+      "name": "T/S/CLRFUL/BHOOT",
+      "content": "T/S/CLRFUL/BHOOT This product is a **Colorful T-Shirt (T/S)** featuring a **'Bhoot' (Ghost/Spirit)** theme or design. Its purpose is to provide a fun, unique, and comfortable piece of casual wear. It can be used by individuals who appreciate quirky, themed, or vibrant apparel, especially those with "
+    },
+    {
+      "score": 0.87072444,
+      "name": "FREECULTR Men Other Briefs (Pack of 5)(FCP-XT-B-POB-SEG-SW-TV-CW-L_-BLACK, GREEN, S WINE, T VIOLET, C WHITE_L)",
+      "content": "FREECULTR Men Other Briefs (Pack of 5)(FCP-XT-B-POB-SEG-SW-TV-CW-L_-BLACK, GREEN, S WINE, T VIOLET, C WHITE_L) This product is a pack of five men's briefs from the brand FREECULTR. Designed specifically for men, these briefs serve as essential everyday undergarments, providing comfort, support, and "
+    },
+    {
+      "score": 0.8695485,
+      "name": "URBANPLAYERS Girl's Plain Regular fit Hoodie (ETGSS2020SER12_Black_11-12YR 11-12YR)",
+      "content": "URBANPLAYERS Girl's Plain Regular fit Hoodie (ETGSS2020SER12_Black_11-12YR 11-12YR) This URBANPLAYERS Girl's Plain Regular fit Hoodie is designed to provide warmth, comfort, and a casual style. It is intended for girls aged 11-12 years who can use it for everyday wear, such as school, leisure activi"
+    },
+    {
+      "score": 0.86639166,
+      "name": "U.S. POLO ASSN. Men's Modern (I664-PR_Navy Players_L)",
+      "content": "U.S. POLO ASSN. Men's Modern (I664-PR_Navy Players_L) This U.S. POLO ASSN. Men's Modern apparel item, likely a shirt (such as a polo or t-shirt), is designed to offer a contemporary and comfortable top for men. It can be used by men who appreciate a classic, sporty, and preppy aesthetic for various "
+    }
+  ]
+}

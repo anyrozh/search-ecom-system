@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-04-25T13:43:53.964956",
+  "method": "taxonomy_searcher",
+  "query": "Our office is organizing a weekend team-building outdoors. What should we bring for group activities?",
+  "subqueries": [
+    "Our office is organizing a weekend team-building outdoors. What should we bring for group activities?",
+    "Outdoor team-building games and activity kits suitable for group participation",
+    "Portable seating and picnic accessories for outdoor group comfort",
+    "Weather-appropriate outdoor clothing and sun protection gear for team members",
+    "Portable sound systems and communication devices for coordinating group activities"
+  ],
+  "taxonomies_found": [
+    "sports & fitness/All Sports, Fitness & Outdoors",
+    "sports & fitness/Camping & Hiking"
+  ],
+  "taxonomy_fallback": false,
+  "search_time": 3.1729700565338135,
+  "results": [
+    {
+      "score": 0.7648262,
+      "name": "Coleman Tropic 10 Liter Minimaxi Soft Cooler with Store Capecity - 3 X 1.5 Liter Bottle and Ice Retention -12 Hour/Light W...",
+      "image_url": "https://m.media-amazon.com/images/I/51FR0TnrRuL._AC_UL320_.jpg",
+      "content": "Coleman Tropic 10 Liter Minimaxi Soft Cooler with Store Capecity - 3 X 1.5 Liter Bottle and Ice Retention -12 Hour/Light W... The Coleman Tropic 10 Liter Minimaxi Soft Cooler is a portable, insulated bag designed to keep food and beverages cold for extended periods, specifically up to 12 hours. Its "
+    },
+    {
+      "score": 0.76425016,
+      "name": "Jockey Men's Cap",
+      "image_url": "https://m.media-amazon.com/images/I/81IyGwVLzgL._AC_UL320_.jpg",
+      "content": "Jockey Men's Cap The Jockey Men's Cap is a versatile piece of headwear designed primarily to offer protection from the sun's rays for the face and eyes. It also serves as a casual fashion accessory, adding a sporty or relaxed touch to an outfit. This cap is suitable for men of all ages who are looki"
+    },
+    {
+      "score": 0.7622446,
+      "name": "MAPPLE CREATION Fabric Outdoor Portable Privacy Dressing Changing Tent for 1 Person Pop Up Room, Shower Toilet for Camping...",
+      "image_url": "https://m.media-amazon.com/images/I/71Thdeh1OXL._AC_UL320_.jpg",
+      "content": "MAPPLE CREATION Fabric Outdoor Portable Privacy Dressing Changing Tent for 1 Person Pop Up Room, Shower Toilet for Camping... This MAPPLE CREATION tent is a portable, pop-up outdoor privacy shelter designed for a single person. Its primary purpose is to provide a private, enclosed space for various "
+    },
+    {
+      "score": 0.7612209,
+      "name": "5 O'CLOCK SPORTS New Premium Sports Combo of PU-Leather Gym Bag Gym/Fitness Kit/Combo/Gym Accessories/Gym Kit/for Men and ...",
+      "image_url": "https://m.media-amazon.com/images/I/71DLu3YO-XL._AC_UL320_.jpg",
+      "content": "5 O'CLOCK SPORTS New Premium Sports Combo of PU-Leather Gym Bag Gym/Fitness Kit/Combo/Gym Accessories/Gym Kit/for Men and ... This product is a premium sports combo, primarily featuring a PU-leather gym bag along with various gym/fitness accessories. Its purpose is to provide a convenient and organi"
+    },
+    {
+      "score": 0.75961995,
+      "name": "Nikrim™Waterproof Polyester Camping and Outdoor Tent 4/6/8 Person Tent (Multi Color) (8 Person Tent)",
+      "image_url": "https://m.media-amazon.com/images/I/6104mcQVk6L._AC_UL320_.jpg",
+      "content": "Nikrim™Waterproof Polyester Camping and Outdoor Tent 4/6/8 Person Tent (Multi Color) (8 Person Tent) The Nikrim™ Waterproof Polyester Camping and Outdoor Tent (specifically the 8-person model) is designed to provide durable and weather-resistant shelter for outdoor enthusiasts. It's ideal for famili"
+    }
+  ]
+}

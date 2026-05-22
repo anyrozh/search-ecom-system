@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-04-25T13:42:57.295332",
+  "method": "baseline",
+  "query": "I'm adopting a rescue dog this weekend. What should I prepare at home before bringing him?",
+  "subqueries": [
+    "I'm adopting a rescue dog this weekend. What should I prepare at home before bringing him?"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 0.32106804847717285,
+  "results": [
+    {
+      "score": 0.5,
+      "name": "Home's Good Adjustable Dogs Harness with Reflective Stripes Vest, No Pull & Easy Control Dog Chest Vest Belt for Medium Dogs",
+      "content": "Home's Good Adjustable Dogs Harness with Reflective Stripes Vest, No Pull & Easy Control Dog Chest Vest Belt for Medium Dogs"
+    },
+    {
+      "score": 0.5,
+      "name": "GENESIS ARTS CUSTOMISED SS BONE KEYCHAIN FOR DOGS AND PET LOVERS, ENGRAVED KEYCHAIN, PERSONAL USE, GIFT PURPOSE",
+      "content": "GENESIS ARTS CUSTOMISED SS BONE KEYCHAIN FOR DOGS AND PET LOVERS, ENGRAVED KEYCHAIN, PERSONAL USE, GIFT PURPOSE"
+    },
+    {
+      "score": 0.33333334,
+      "name": "OutPetcare Housetraining AID for Puppies, 500 ml",
+      "content": "OutPetcare Housetraining AID for Puppies, 500 ml"
+    },
+    {
+      "score": 0.33333334,
+      "name": "Home Bargains Adjustable Dog Feeding Bowl, Dog Food Stand, Double Pet Food and Water Bowls, Raised Feeder Dispenser, Two S...",
+      "content": "Home Bargains Adjustable Dog Feeding Bowl, Dog Food Stand, Double Pet Food and Water Bowls, Raised Feeder Dispenser, Two S..."
+    },
+    {
+      "score": 0.25,
+      "name": "Giggles - Sniffy The Dog , Pull along toy , Head bobs,Tail wags,Encourages Walking , 12 months & above , Infant and Presch...",
+      "content": "Giggles - Sniffy The Dog , Pull along toy , Head bobs,Tail wags,Encourages Walking , 12 months & above , Infant and Presch..."
+    }
+  ]
+}

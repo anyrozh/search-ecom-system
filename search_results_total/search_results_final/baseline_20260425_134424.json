@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-04-25T13:44:24.430587",
+  "method": "baseline",
+  "query": "My doctor told me I need to lose 15 kg and reduce stress. What products can support this lifestyle change?",
+  "subqueries": [
+    "My doctor told me I need to lose 15 kg and reduce stress. What products can support this lifestyle change?"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 0.05110502243041992,
+  "results": [
+    {
+      "score": 0.5,
+      "name": "Dr. Scholl's Men's Sport Insoles with Superior Shock Absorption and Arch Support to Reduce Muscle Fatigue and Stress on Lo...",
+      "content": "Dr. Scholl's Men's Sport Insoles with Superior Shock Absorption and Arch Support to Reduce Muscle Fatigue and Stress on Lo..."
+    },
+    {
+      "score": 0.5,
+      "name": "HEALTHY MUSCLE AND NERVE FUNCTION, MAGNESIUM CITRATE TABLETS",
+      "content": "HEALTHY MUSCLE AND NERVE FUNCTION, MAGNESIUM CITRATE TABLETS"
+    },
+    {
+      "score": 0.33333334,
+      "name": "Tri Tech Orgo Products Pure Neem Oil Cake pallets 15 kg Bag, Organic Plant Food with Zero Oil Extraction",
+      "content": "Tri Tech Orgo Products Pure Neem Oil Cake pallets 15 kg Bag, Organic Plant Food with Zero Oil Extraction"
+    },
+    {
+      "score": 0.33333334,
+      "name": "Baidyanath Kesari Shakti Kalp 1 kg",
+      "content": "Baidyanath Kesari Shakti Kalp 1 kg"
+    },
+    {
+      "score": 0.25,
+      "name": "Grizzly Nutrition, True Cellurage, Pre Workout, upto 65 Servings, citrulline, beta alanine, caffeine +13 performance boost...",
+      "content": "Grizzly Nutrition, True Cellurage, Pre Workout, upto 65 Servings, citrulline, beta alanine, caffeine +13 performance boost..."
+    }
+  ]
+}

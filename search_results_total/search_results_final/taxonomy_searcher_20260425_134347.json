@@ -1,0 +1,49 @@
+{
+  "timestamp": "2026-04-25T13:43:47.414881",
+  "method": "taxonomy_searcher",
+  "query": "My 7-year-old is bored during summer break and I want to keep him learning. Any ideas?",
+  "subqueries": [
+    "My 7-year-old is bored during summer break and I want to keep him learning. Any ideas?",
+    "Educational toys and games for 7-year-old children to promote learning and engagement",
+    "Interactive learning kits and science experiment sets suitable for elementary school kids",
+    "Children's books and activity workbooks focused on summer learning and skill development",
+    "Outdoor educational play equipment and kits that combine physical activity with learning"
+  ],
+  "taxonomies_found": [
+    "toys & baby products/Toys & Games"
+  ],
+  "taxonomy_fallback": false,
+  "search_time": 4.7444539070129395,
+  "results": [
+    {
+      "score": 0.79570043,
+      "name": "Skillmatics Floor Puzzle & Game - Piece & Play Up in Space, Jigsaw Puzzle (48 Pieces, 2 x 3 feet), Ages 3 to 7",
+      "image_url": "https://m.media-amazon.com/images/I/81tG1fFKISL._AC_UL320_.jpg",
+      "content": "Skillmatics Floor Puzzle & Game - Piece & Play Up in Space, Jigsaw Puzzle (48 Pieces, 2 x 3 feet), Ages 3 to 7 This Skillmatics Floor Puzzle & Game is a large, 48-piece 'Up in Space' themed jigsaw puzzle designed for children aged 3 to 7. Its primary purpose is to provide engaging entertainment and "
+    },
+    {
+      "score": 0.7856744,
+      "name": "Drawing Book A4 Size Approx | Plain Sketch Pad for Kids, Students & Artists | 34 White Blank Unruled Pages | 29.5 x 21 cm...",
+      "image_url": "https://m.media-amazon.com/images/I/71pPoltmRuL._AC_UL320_.jpg",
+      "content": "Drawing Book A4 Size Approx | Plain Sketch Pad for Kids, Students & Artists | 34 White Blank Unruled Pages | 29.5 x 21 cm... This product is a plain sketch pad or drawing book with 34 blank, unruled white pages, approximately A4 size (29.5 x 21 cm). Its purpose is to provide a dedicated surface for "
+    },
+    {
+      "score": 0.7838747,
+      "name": "Youngineers 16-in-1 Physics Practicals Kit for Class 10, CBSE & ICSE Board Exams, Ages 14-16, Science Experiments, Interac...",
+      "image_url": "https://m.media-amazon.com/images/I/815gIiLGFLL._AC_UL320_.jpg",
+      "content": "Youngineers 16-in-1 Physics Practicals Kit for Class 10, CBSE & ICSE Board Exams, Ages 14-16, Science Experiments, Interac... The Youngineers 16-in-1 Physics Practicals Kit is designed for Class 10 students, typically aged 14-16, to perform various science experiments. Its purpose is to provide hand"
+    },
+    {
+      "score": 0.781343,
+      "name": "Centy Toys Fire Ladder Truck, Yellow",
+      "image_url": "https://m.media-amazon.com/images/I/61cHOh-uo0L._AC_UL320_.jpg",
+      "content": "Centy Toys Fire Ladder Truck, Yellow This product is a yellow toy replica of a fire ladder truck, manufactured by Centy Toys. Its primary purpose is to provide children with an engaging and durable toy for imaginative play. Children, typically preschoolers and early elementary school age, can use it"
+    },
+    {
+      "score": 0.7809017,
+      "name": "Imagimake 5-in-1 Awesome Craft Kit- Kids Arts and Crafts- Arts and Crafts for Kids ages 6-8 - Air Dry Clay, Paper Quilling...",
+      "image_url": "https://m.media-amazon.com/images/I/91IgnJpKuLL._AC_UL320_.jpg",
+      "content": "Imagimake 5-in-1 Awesome Craft Kit- Kids Arts and Crafts- Arts and Crafts for Kids ages 6-8 - Air Dry Clay, Paper Quilling... The Imagimake 5-in-1 Awesome Craft Kit is a comprehensive arts and crafts set designed specifically for children aged 6 to 8 years old. Its purpose is to provide a diverse an"
+    }
+  ]
+}

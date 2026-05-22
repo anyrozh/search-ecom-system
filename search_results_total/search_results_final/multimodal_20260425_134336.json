@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-04-25T13:43:36.219190",
+  "method": "multimodal",
+  "query": "I have an important job interview tomorrow and I want to look my absolute best. What can help?",
+  "subqueries": [
+    "I have an important job interview tomorrow and I want to look my absolute best. What can help?",
+    "Professional and stylish business attire suitable for job interviews",
+    "Grooming and personal care products for a polished appearance",
+    "Accessories that complement formal outfits, such as watches, ties, and belts"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.247807264328003,
+  "results": [
+    {
+      "score": 0.8048717,
+      "name": "Houndstooth Puff Sleeve Stand Collar Top, schiffli tops, western short sleeve tops, peplum shirt pan collar top, sleeve le...",
+      "image_url": "https://m.media-amazon.com/images/I/81kv4rQ0i4L._AC_UL320_.jpg",
+      "content": "Houndstooth Puff Sleeve Stand Collar Top, schiffli tops, western short sleeve tops, peplum shirt pan collar top, sleeve le... This product range encompasses a variety of tops designed for diverse fashion preferences and occasions. The **Houndstooth Puff Sleeve Stand Collar Top** is a stylish and sop"
+    },
+    {
+      "score": 0.80387884,
+      "name": "Metloke Men Casual Shirt | Full Sleeves Formal Slim Fit Plain Office Shirts for Men",
+      "image_url": "https://m.media-amazon.com/images/I/61DFAqpMvyL._AC_UL320_.jpg",
+      "content": "Metloke Men Casual Shirt | Full Sleeves Formal Slim Fit Plain Office Shirts for Men This Metloke Men's shirt is designed as a versatile wardrobe staple for men, offering a blend of comfort and style. With its full sleeves, slim fit, and plain design, it caters to various occasions. Men can use it fo"
+    },
+    {
+      "score": 0.80036145,
+      "name": "Campus Sutra Men Solid Stylish Full Sleeve Casual Blazer's",
+      "image_url": "https://m.media-amazon.com/images/I/31QQhf29YLL._AC_UL320_.jpg",
+      "content": "Campus Sutra Men Solid Stylish Full Sleeve Casual Blazer's The Campus Sutra Men Solid Stylish Full Sleeve Casual Blazer is designed to offer a smart-casual layering option that elevates an outfit without the formality of a traditional suit jacket. It's perfect for men who want to add a touch of soph"
+    },
+    {
+      "score": 0.7999887,
+      "name": "V Dot Men's Casual Shirt (8907670856185_VDSF517E01928_44_Grey)",
+      "image_url": "https://m.media-amazon.com/images/I/61rB3JKK2UL._AC_UL320_.jpg",
+      "content": "V Dot Men's Casual Shirt (8907670856185_VDSF517E01928_44_Grey) This V Dot Men's Casual Shirt is an upper-body garment designed for men. Its purpose is to provide a comfortable, stylish, and versatile clothing option suitable for a variety of informal occasions. Men can use it for everyday wear, casu"
+    },
+    {
+      "score": 0.799942,
+      "name": "COOL MEAN Casual laffer Cotton Lining Regular Long Sleeves Shirt for Men Latest Shirt for Men Stylish Shirt for Men (Pack ...",
+      "image_url": "https://m.media-amazon.com/images/I/51L39QcQkSL._AC_UL320_.jpg",
+      "content": "COOL MEAN Casual laffer Cotton Lining Regular Long Sleeves Shirt for Men Latest Shirt for Men Stylish Shirt for Men (Pack ... This product is a men's long-sleeved shirt, designed for casual wear. Made with a cotton lining, it offers comfort and a regular fit. It is marketed as a 'latest' and 'stylis"
+    }
+  ]
+}

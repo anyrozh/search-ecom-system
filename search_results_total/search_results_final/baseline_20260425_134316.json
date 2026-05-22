@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-04-25T13:43:16.578175",
+  "method": "baseline",
+  "query": "I'm starting a YouTube channel but I have zero equipment. What do I absolutely need on day one?",
+  "subqueries": [
+    "I'm starting a YouTube channel but I have zero equipment. What do I absolutely need on day one?"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 0.05421090126037598,
+  "results": [
+    {
+      "score": 0.5,
+      "name": "Sloggi Women Bra",
+      "content": "Sloggi Women Bra"
+    },
+    {
+      "score": 0.5,
+      "name": "Puma Unisex-Adult Future Rider Day Zero Future Rider Day Zero",
+      "content": "Puma Unisex-Adult Future Rider Day Zero Future Rider Day Zero"
+    },
+    {
+      "score": 0.33333334,
+      "name": "PASCAL Home Gym Equipments for Men, [8-100Kg], One Curl Rod, One Straight Rod+ One Pair Dumbbell Rods, PVC Dumbbell Plate...",
+      "content": "PASCAL Home Gym Equipments for Men, [8-100Kg], One Curl Rod, One Straight Rod+ One Pair Dumbbell Rods, PVC Dumbbell Plate..."
+    },
+    {
+      "score": 0.33333334,
+      "name": "Sloggi Men Briefs",
+      "content": "Sloggi Men Briefs"
+    },
+    {
+      "score": 0.25,
+      "name": "hitkary kesar elaichi sharbat 750 ml",
+      "content": "hitkary kesar elaichi sharbat 750 ml"
+    }
+  ]
+}

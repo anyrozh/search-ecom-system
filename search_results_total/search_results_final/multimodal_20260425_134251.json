@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-04-25T13:42:51.981903",
+  "method": "multimodal",
+  "query": "My sister just had a baby and I want to give her something really useful. What should I get?",
+  "subqueries": [
+    "My sister just had a baby and I want to give her something really useful. What should I get?",
+    "Essential newborn baby care products such as diapers, wipes, and baby lotion",
+    "Practical baby feeding accessories including bottles, sterilizers, and nursing pillows",
+    "Comfortable and safe baby clothing and swaddles suitable for newborns",
+    "Useful parenting aids like baby monitors, diaper bags, and baby carriers"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.8080251216888428,
+  "results": [
+    {
+      "score": 0.82285255,
+      "name": "MOM'S PRIDE® Freesize Adjustable, Washable and Reusable pocket cloth diaper for Newborn Child Toddler Infant Babies (0 - 2...",
+      "image_url": "https://m.media-amazon.com/images/I/91KJceaVBDL._AC_UL320_.jpg",
+      "content": "MOM'S PRIDE® Freesize Adjustable, Washable and Reusable pocket cloth diaper for Newborn Child Toddler Infant Babies (0 - 2... The MOM'S PRIDE® freesize adjustable pocket cloth diaper is designed to absorb and contain a baby's urine and feces. It is intended for use by infants, newborns, toddlers, an"
+    },
+    {
+      "score": 0.8212039,
+      "name": "Daikin 1 Ton 5 Star Inverter Split AC (Copper, PM 2.5 Filter, 2022 Model, FTKR35U, White)",
+      "image_url": "https://m.media-amazon.com/images/I/41+OYtUdLNL._AC_UL320_.jpg",
+      "content": "Daikin 1 Ton 5 Star Inverter Split AC (Copper, PM 2.5 Filter, 2022 Model, FTKR35U, White) This Daikin 1 Ton 5 Star Inverter Split AC is designed to provide efficient and comfortable cooling for indoor spaces, while also enhancing air quality. It's ideal for individuals, couples, or small families lo"
+    },
+    {
+      "score": 0.8185954,
+      "name": "REN STAR Women's Floral Print Hosiery Cotton Full Sleeve Nightwear Nighty/Maxi/Gown (Color: Yellow, Size-XXL) FSX-047",
+      "image_url": "https://m.media-amazon.com/images/I/814WRxr+6dL._AC_UL320_.jpg",
+      "content": "REN STAR Women's Floral Print Hosiery Cotton Full Sleeve Nightwear Nighty/Maxi/Gown (Color: Yellow, Size-XXL) FSX-047 This product is a women's full-sleeve nightwear, designed as a nighty, maxi, or gown, made from comfortable hosiery cotton with a floral print. It is intended for women, specifically"
+    },
+    {
+      "score": 0.81459475,
+      "name": "AmtiQ Women's Printed Embellished Bikini Bra Panty Lingerie Set (Black)",
+      "image_url": "https://m.media-amazon.com/images/I/51LNFEZVc5L._AC_UL320_.jpg",
+      "content": "AmtiQ Women's Printed Embellished Bikini Bra Panty Lingerie Set (Black) The AmtiQ Women's Printed Embellished Bikini Bra Panty Lingerie Set is an intimate apparel item designed for women. Its purpose is to provide a stylish, comfortable, and often alluring undergarment option, featuring decorative p"
+    },
+    {
+      "score": 0.81440914,
+      "name": "Haier 1.0 Ton 3 Star Intelli smart Inverter AC(Intelli Convertible 7-in-1, Triple Inverter+ Technology, 2023, HSU13K-PYFR3...",
+      "image_url": "https://m.media-amazon.com/images/I/518brnf3ScL._AC_UL320_.jpg",
+      "content": "Haier 1.0 Ton 3 Star Intelli smart Inverter AC(Intelli Convertible 7-in-1, Triple Inverter+ Technology, 2023, HSU13K-PYFR3... The Haier 1.0 Ton 3 Star Intelli smart Inverter AC is designed to provide efficient, adaptable, and comfortable cooling for small to medium-sized rooms. Its primary purpose i"
+    }
+  ]
+}

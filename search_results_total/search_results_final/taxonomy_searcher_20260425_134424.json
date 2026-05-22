@@ -1,0 +1,49 @@
+{
+  "timestamp": "2026-04-25T13:44:24.378348",
+  "method": "taxonomy_searcher",
+  "query": "I want to make personalized Christmas gifts for my family this year instead of buying them. What do I need?",
+  "subqueries": [
+    "I want to make personalized Christmas gifts for my family this year instead of buying them. What do I need?",
+    "DIY craft kits and supplies for personalized Christmas gifts",
+    "Customizable gift packaging and wrapping materials for holiday presents",
+    "Personalization tools such as engraving machines, stamps, or embroidery kits",
+    "Holiday-themed decorative materials like ribbons, stickers, and ornaments for gift embellishment"
+  ],
+  "taxonomies_found": [
+    "home & kitchen/Sewing & Craft Supplies"
+  ],
+  "taxonomy_fallback": false,
+  "search_time": 5.390040874481201,
+  "results": [
+    {
+      "score": 0.80839705,
+      "name": "Little Birdie Water Colour Book A5, 62 Pages 14.8 X 21 cm",
+      "image_url": "https://m.media-amazon.com/images/I/61P1g5BxUiL._AC_UL320_.jpg",
+      "content": "Little Birdie Water Colour Book A5, 62 Pages 14.8 X 21 cm The Little Birdie Water Colour Book A5 is a specialized art pad containing 62 pages, specifically designed for painting with watercolors. Its A5 size (14.8 x 21 cm) makes it portable and convenient for various uses. It can be used by artists "
+    },
+    {
+      "score": 0.79913676,
+      "name": "E Shopping Glossy Plastic Gift Wrappers, Wrapping Paper Coloured Holographic Print, Pack of 20, 64 X 45 cm with 20 Ribbon ...",
+      "image_url": "https://m.media-amazon.com/images/I/81yesuxh2bL._AC_UL320_.jpg",
+      "content": "E Shopping Glossy Plastic Gift Wrappers, Wrapping Paper Coloured Holographic Print, Pack of 20, 64 X 45 cm with 20 Ribbon ... This product, 'E Shopping Glossy Plastic Gift Wrappers,' is designed for the decorative wrapping of gifts. It consists of a pack of 20 sheets of glossy plastic wrapping paper"
+    },
+    {
+      "score": 0.7889035,
+      "name": "ImpressiveWorks Thank You Gift Tags Labels with String/Thread for Presents,Gifts and Paper Bags (Pack of 40 Tags in 4 Diff...",
+      "image_url": "https://m.media-amazon.com/images/I/71-dQ1ExZXL._AC_UL320_.jpg",
+      "content": "ImpressiveWorks Thank You Gift Tags Labels with String/Thread for Presents,Gifts and Paper Bags (Pack of 40 Tags in 4 Diff... This product, 'ImpressiveWorks Thank You Gift Tags Labels with String/Thread', consists of decorative tags designed to convey gratitude. Their primary purpose is to add a per"
+    },
+    {
+      "score": 0.78563744,
+      "name": "ImpressiveWorks Wrapping paper | wrapping Sheets | Wrapping paper Sheets | wrapping Cover with 8 Different Designs 16 shee...",
+      "image_url": "https://m.media-amazon.com/images/I/81MY0wo40VL._AC_UL320_.jpg",
+      "content": "ImpressiveWorks Wrapping paper | wrapping Sheets | Wrapping paper Sheets | wrapping Cover with 8 Different Designs 16 shee... This product, ImpressiveWorks Wrapping paper, consists of 16 sheets of decorative wrapping material featuring 8 distinct designs. Its primary purpose is to aesthetically cove"
+    },
+    {
+      "score": 0.7836493,
+      "name": "Arrow Gifting Paper Bag - 7.5 x 23 x 22 cms (Pack of 25)Multicolor",
+      "image_url": "https://m.media-amazon.com/images/I/41ZMaLwJuyL._AC_UL320_.jpg",
+      "content": "Arrow Gifting Paper Bag - 7.5 x 23 x 22 cms (Pack of 25)Multicolor This product is a pack of 25 multicolor paper bags, specifically designed for gifting. Its primary purpose is to provide an attractive, convenient, and often reusable way to package gifts, making them presentable and easy to carry. I"
+    }
+  ]
+}

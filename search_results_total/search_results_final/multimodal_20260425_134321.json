@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-04-25T13:43:21.183321",
+  "method": "multimodal",
+  "query": "I'm starting a YouTube channel but I have zero equipment. What do I absolutely need on day one?",
+  "subqueries": [
+    "I'm starting a YouTube channel but I have zero equipment. What do I absolutely need on day one?",
+    "entry-level video camera or smartphone with high-quality video recording capabilities for YouTube content creation",
+    "basic external microphone or lavalier mic to capture clear and professional audio for videos",
+    "portable ring light or LED panel light to ensure proper lighting and enhance video quality",
+    "stable tripod or smartphone mount to hold the camera steady during recording sessions"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 2.1901190280914307,
+  "results": [
+    {
+      "score": 0.8330664,
+      "name": "QAZ 1080p HD USB Universal Interface Mini Flexi Neck Camera , Supports Micro SD Card Recording (Not Included) Security Cam...",
+      "image_url": "https://m.media-amazon.com/images/I/51h3vCNjRJL._AC_UL320_.jpg",
+      "content": "QAZ 1080p HD USB Universal Interface Mini Flexi Neck Camera , Supports Micro SD Card Recording (Not Included) Security Cam... This product is a compact, high-definition (1080p) camera with a flexible neck and USB interface, primarily designed for surveillance and recording. It supports direct record"
+    },
+    {
+      "score": 0.8258453,
+      "name": "Dual Level Microphone for Smartphone Camera,157 Inch/4m BOYA BY-M1DM Dual-Head Lapel Mics with 1/8 Plug Adapter Compatible...",
+      "image_url": "https://m.media-amazon.com/images/I/61z2RCGhZXL._AC_UL320_.jpg",
+      "content": "Dual Level Microphone for Smartphone Camera,157 Inch/4m BOYA BY-M1DM Dual-Head Lapel Mics with 1/8 Plug Adapter Compatible... The BOYA BY-M1DM is a dual-head lapel microphone system designed to capture high-quality audio for video recordings. It features two clip-on microphones on a single 4-meter c"
+    },
+    {
+      "score": 0.8248934,
+      "name": "CAM 360 4K Full HD 1080P Video and Audio Recorder Mini Spy Pen Body Camera Lens Cover/ Portable Hidden Recorder with Data ...",
+      "image_url": "https://m.media-amazon.com/images/I/61-wIYMA7DL._AC_UL320_.jpg",
+      "content": "CAM 360 4K Full HD 1080P Video and Audio Recorder Mini Spy Pen Body Camera Lens Cover/ Portable Hidden Recorder with Data ... This product is a highly discreet and portable video and audio recorder, designed to be easily concealed, often resembling a pen or integrated into a small, hidden form facto"
+    },
+    {
+      "score": 0.82415724,
+      "name": "CP PLUS 2MP Full-Color Guard + Network IR Bullet Camera | 2Megapixel PS CMOS Image Sensor | Smart H.265+ and Smart H.264+ ...",
+      "image_url": "https://m.media-amazon.com/images/I/51CDu7aSefL._AC_UL320_.jpg",
+      "content": "CP PLUS 2MP Full-Color Guard + Network IR Bullet Camera | 2Megapixel PS CMOS Image Sensor | Smart H.265+ and Smart H.264+ ... This is an advanced 2-megapixel IP security camera designed for comprehensive surveillance. It offers high-definition video, full-color imaging even in low light, and infrare"
+    },
+    {
+      "score": 0.82367736,
+      "name": "Logitech Digital C922 Pro Stream Webcam 1080P Camera for HD Video Streaming Recording 720P At 60Fps - Black",
+      "image_url": "https://m.media-amazon.com/images/I/61gpJAcAQIL._AC_UL320_.jpg",
+      "content": "Logitech Digital C922 Pro Stream Webcam 1080P Camera for HD Video Streaming Recording 720P At 60Fps - Black The Logitech C922 Pro Stream Webcam is a high-definition camera specifically designed for live video content creation. It captures crisp 1080p video for streaming and recording, and offers a s"
+    }
+  ]
+}

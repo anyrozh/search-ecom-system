@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-04-25T13:44:18.986722",
+  "method": "multimodal",
+  "query": "I want to make personalized Christmas gifts for my family this year instead of buying them. What do I need?",
+  "subqueries": [
+    "I want to make personalized Christmas gifts for my family this year instead of buying them. What do I need?",
+    "DIY craft kits and supplies for personalized Christmas gifts",
+    "Customizable gift packaging and wrapping materials for holiday presents",
+    "Personalization tools such as engraving machines, stamps, or embroidery kits",
+    "Holiday-themed decorative items and embellishments for handmade gifts"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.907679796218872,
+  "results": [
+    {
+      "score": 0.7993854,
+      "name": "NEORAH — Couples Gift Set Customise name Vegan Leather Men's Wallet and Women's wallet Clutch with Name personalisation~ a...",
+      "image_url": "https://m.media-amazon.com/images/I/81ZodjzJ+TL._AC_UL320_.jpg",
+      "content": "NEORAH — Couples Gift Set Customise name Vegan Leather Men's Wallet and Women's wallet Clutch with Name personalisation~ a... This product is a personalized gift set designed for couples, featuring a vegan leather men's wallet and a matching women's clutch, both customizable with names. Its purpose "
+    },
+    {
+      "score": 0.79575944,
+      "name": "E Shopping Glossy Plastic Gift Wrappers, Wrapping Paper Coloured Holographic Print, Pack of 20, 64 X 45 cm with 20 Ribbon ...",
+      "image_url": "https://m.media-amazon.com/images/I/81yesuxh2bL._AC_UL320_.jpg",
+      "content": "E Shopping Glossy Plastic Gift Wrappers, Wrapping Paper Coloured Holographic Print, Pack of 20, 64 X 45 cm with 20 Ribbon ... This product, 'E Shopping Glossy Plastic Gift Wrappers,' is designed for the decorative wrapping of gifts. It consists of a pack of 20 sheets of glossy plastic wrapping paper"
+    },
+    {
+      "score": 0.79554486,
+      "name": "Royalkart (56cm x 88cm) 3D Double-Sided Photography Backdrop For Food, Small Products Professional Photoshoots (Pack of 2)...",
+      "image_url": "https://m.media-amazon.com/images/I/71J8HsHK3aL._AC_UL320_.jpg",
+      "content": "Royalkart (56cm x 88cm) 3D Double-Sided Photography Backdrop For Food, Small Products Professional Photoshoots (Pack of 2)... The Royalkart 3D Double-Sided Photography Backdrops (56cm x 88cm, Pack of 2) are designed to provide versatile and realistic backgrounds for product photography. They are pri"
+    },
+    {
+      "score": 0.7927008,
+      "name": "GIFT MY PASSION Merry Christmas Quotation Photo Frame with Black Men's Wallet Hamper Pack of 2",
+      "image_url": "https://m.media-amazon.com/images/I/71eMK6hjETL._AC_UL320_.jpg",
+      "content": "GIFT MY PASSION Merry Christmas Quotation Photo Frame with Black Men's Wallet Hamper Pack of 2 This product is a 'Hamper Pack of 2' designed as a thoughtful Christmas gift. It combines a 'Merry Christmas Quotation Photo Frame' for festive decoration or displaying a cherished memory, and a practical "
+    },
+    {
+      "score": 0.79232484,
+      "name": "Birthday Popper DIY Reusable Bags | Set of 12 | Kids Party Bags, Gift Bag, Kids Party Favor Bags, Candy Treat Goody Bag, K...",
+      "image_url": "https://m.media-amazon.com/images/I/51jC2z+UrIL._AC_UL320_.jpg",
+      "content": "Birthday Popper DIY Reusable Bags | Set of 12 | Kids Party Bags, Gift Bag, Kids Party Favor Bags, Candy Treat Goody Bag, K... This product is a set of 12 reusable bags designed primarily for children's birthday parties and events. Parents, party planners, or anyone organizing a kids' gathering can u"
+    }
+  ]
+}

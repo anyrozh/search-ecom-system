@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-04-25T13:43:04.365046",
+  "method": "baseline",
+  "query": "I want to start cooking healthy meals instead of ordering takeout. Where do I even begin?",
+  "subqueries": [
+    "I want to start cooking healthy meals instead of ordering takeout. Where do I even begin?"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 0.13722896575927734,
+  "results": [
+    {
+      "score": 0.5,
+      "name": "Baidyanath Kesari Shakti Kalp 1 kg",
+      "content": "Baidyanath Kesari Shakti Kalp 1 kg"
+    },
+    {
+      "score": 0.5,
+      "name": "Samsung 23 L Solo Microwave Oven (MS23J5133AG/TL, Healthy Cook, Black)",
+      "content": "Samsung 23 L Solo Microwave Oven (MS23J5133AG/TL, Healthy Cook, Black)"
+    },
+    {
+      "score": 0.33333334,
+      "name": "hitkary kesar elaichi sharbat 750 ml",
+      "content": "hitkary kesar elaichi sharbat 750 ml"
+    },
+    {
+      "score": 0.33333334,
+      "name": "PAANSMITH DRY PAAN 170g - HEALTHY DIGESTIVE | DRY PAAN | AFTER-MEAL | Mouth Freshener",
+      "content": "PAANSMITH DRY PAAN 170g - HEALTHY DIGESTIVE | DRY PAAN | AFTER-MEAL | Mouth Freshener"
+    },
+    {
+      "score": 0.25,
+      "name": "Testo 0563 2750 270 Cooking Oil Tester, 10\" Length x 2\" Width x 1\" Height",
+      "content": "Testo 0563 2750 270 Cooking Oil Tester, 10\" Length x 2\" Width x 1\" Height"
+    }
+  ]
+}

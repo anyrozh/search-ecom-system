@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-04-25T13:43:10.609759",
+  "method": "baseline",
+  "query": "We just moved into a new apartment and everything is empty. What are the first things to buy?",
+  "subqueries": [
+    "We just moved into a new apartment and everything is empty. What are the first things to buy?"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 0.06705379486083984,
+  "results": [
+    {
+      "score": 0.5,
+      "name": "Our First Home Keychains New Home Keychain Housewarming Gift for New Homeowner House Keyring Moving in Key Chain New Home ...",
+      "content": "Our First Home Keychains New Home Keychain Housewarming Gift for New Homeowner House Keyring Moving in Key Chain New Home ..."
+    },
+    {
+      "score": 0.5,
+      "name": "hitkary kesar elaichi sharbat 750 ml",
+      "content": "hitkary kesar elaichi sharbat 750 ml"
+    },
+    {
+      "score": 0.33333334,
+      "name": "Qtavia Spa Kit",
+      "content": "Qtavia Spa Kit"
+    },
+    {
+      "score": 0.33333334,
+      "name": "First Aid Bag - First Aid Kit Bag Empty for Home Outdoor Travel Camping Hiking, Mini Empty Medical Storage Bag Portable Pouch",
+      "content": "First Aid Bag - First Aid Kit Bag Empty for Home Outdoor Travel Camping Hiking, Mini Empty Medical Storage Bag Portable Pouch"
+    },
+    {
+      "score": 0.25,
+      "name": "PALAY® 2 Pack First Aid Pouch Portable First Aid Kit Bag Empty Emergency Treatment Medicine Bags Organizer Travel Pharmacy...",
+      "content": "PALAY® 2 Pack First Aid Pouch Portable First Aid Kit Bag Empty Emergency Treatment Medicine Bags Organizer Travel Pharmacy..."
+    }
+  ]
+}

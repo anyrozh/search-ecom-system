@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-04-25T13:43:10.539761",
+  "method": "taxonomy_searcher",
+  "query": "I want to start cooking healthy meals instead of ordering takeout. Where do I even begin?",
+  "subqueries": [
+    "I want to start cooking healthy meals instead of ordering takeout. Where do I even begin?",
+    "Beginner-friendly healthy cooking recipe books and meal planning guides",
+    "Essential kitchen tools and cookware sets for preparing healthy meals",
+    "Fresh and organic ingredients or healthy meal kit delivery services",
+    "Small kitchen appliances that support healthy cooking, such as air fryers and blenders"
+  ],
+  "taxonomies_found": [
+    "grocery & gourmet foods/All Grocery & Gourmet Foods",
+    "home & kitchen/Kitchen & Dining"
+  ],
+  "taxonomy_fallback": false,
+  "search_time": 3.0208487510681152,
+  "results": [
+    {
+      "score": 0.88765097,
+      "name": "Organic Tattva, Organic Roasted Chana Dal, 500g | 100% Vegan, Gluten Free and NO Additives",
+      "image_url": "https://m.media-amazon.com/images/I/712LdSFes4L._AC_UL320_.jpg",
+      "content": "Organic Tattva, Organic Roasted Chana Dal, 500g | 100% Vegan, Gluten Free and NO Additives Organic Tattva's Organic Roasted Chana Dal is a nutritious and convenient plant-based food product. Its primary purpose is to serve as a healthy, ready-to-eat snack or a versatile ingredient for various culina"
+    },
+    {
+      "score": 0.8246108,
+      "name": "Saptamveda 100% Organic Amla Indian Gooseberry Powder (150gm)| Drinking, Eating, Hair Nourishment, Repair Damage Hair & Sk...",
+      "image_url": "https://m.media-amazon.com/images/I/81vSZU+Vu8L._AC_UL320_.jpg",
+      "content": "Saptamveda 100% Organic Amla Indian Gooseberry Powder (150gm)| Drinking, Eating, Hair Nourishment, Repair Damage Hair & Sk... This product is Saptamveda's 100% Organic Amla (Indian Gooseberry) Powder, weighing 150gm. Its primary purpose is to serve as a versatile natural supplement for holistic well"
+    },
+    {
+      "score": 0.8114765,
+      "name": "DEVCHHAYA ENTERPRISE Manual 2 in 1 Wafer Maker Machine Vegetable Cutter and Fruit Slicer Snack Chips Machine for Carrot, C...",
+      "image_url": "https://m.media-amazon.com/images/I/61ols18MMsL._AC_UL320_.jpg",
+      "content": "DEVCHHAYA ENTERPRISE Manual 2 in 1 Wafer Maker Machine Vegetable Cutter and Fruit Slicer Snack Chips Machine for Carrot, C... The DEVCHHAYA ENTERPRISE Manual 2 in 1 Wafer Maker Machine is a versatile, hand-operated kitchen tool designed for efficient food preparation. Its primary purpose is to funct"
+    },
+    {
+      "score": 0.7912601,
+      "name": "Urban Platter Icing Sugar, 1Kg",
+      "image_url": "https://m.media-amazon.com/images/I/614IjE4jgUL._AC_UL320_.jpg",
+      "content": "Urban Platter Icing Sugar, 1Kg Urban Platter Icing Sugar, 1Kg is a finely powdered form of sugar, also known as confectioners' sugar, characterized by its smooth texture and quick dissolving properties. Its primary purpose is to create smooth, lump-free frostings, icings, and glazes for various bake"
+    },
+    {
+      "score": 0.79120964,
+      "name": "More Bengal Gram Dal - Roasted, 500g (Loose)",
+      "image_url": "https://m.media-amazon.com/images/I/71INJynix0L._AC_UL320_.jpg",
+      "content": "More Bengal Gram Dal - Roasted, 500g (Loose) More Bengal Gram Dal - Roasted, 500g (Loose) is a nutritious and versatile legume product. Its primary purpose is to provide a convenient, ready-to-eat source of plant-based protein and dietary fiber. Being roasted, it requires no further cooking, making "
+    }
+  ]
+}

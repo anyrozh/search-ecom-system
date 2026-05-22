@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-04-25T13:43:33.323784",
+  "method": "baseline",
+  "query": "I have an important job interview tomorrow and I want to look my absolute best. What can help?",
+  "subqueries": [
+    "I have an important job interview tomorrow and I want to look my absolute best. What can help?"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 0.02550220489501953,
+  "results": [
+    {
+      "score": 0.5,
+      "name": "MODEST CITY Abaya Imported Burkhas or Burqa Classic Looks premium imported fabric, with a rich feel & texture and is flow...",
+      "content": "MODEST CITY Abaya Imported Burkhas or Burqa Classic Looks premium imported fabric, with a rich feel & texture and is flow..."
+    },
+    {
+      "score": 0.5,
+      "name": "Kuruti B Sheets Women Anarkali Kurta",
+      "content": "Kuruti B Sheets Women Anarkali Kurta"
+    },
+    {
+      "score": 0.33333334,
+      "name": "QYOOTY Women's Trendy Designer best denim shoulder handbag for classic look",
+      "content": "QYOOTY Women's Trendy Designer best denim shoulder handbag for classic look"
+    },
+    {
+      "score": 0.33333334,
+      "name": "Me-On Face Primer",
+      "content": "Me-On Face Primer"
+    },
+    {
+      "score": 0.25,
+      "name": "mens jens",
+      "content": "mens jens"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-04-25T13:43:18.992379",
+  "method": "text_searcher",
+  "query": "I'm starting a YouTube channel but I have zero equipment. What do I absolutely need on day one?",
+  "subqueries": [
+    "I'm starting a YouTube channel but I have zero equipment. What do I absolutely need on day one?",
+    "entry-level video camera or smartphone with high-quality video recording capabilities for YouTube content creation",
+    "basic external microphone for clear audio recording suitable for vlogging or talking head videos",
+    "portable lighting kit or ring light to ensure proper illumination during video shoots",
+    "stable tripod or camera mount compatible with chosen recording device for steady shots"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 2.4124410152435303,
+  "results": [
+    {
+      "score": 0.93088603,
+      "name": "Multi-Coated Variable Polarizing ND Neutral Density Adjustable ND2 -ND400 (Waterproof, Scratchproof, Dustproof) (58MM)",
+      "content": "Multi-Coated Variable Polarizing ND Neutral Density Adjustable ND2 -ND400 (Waterproof, Scratchproof, Dustproof) (58MM) This product is a versatile and durable camera lens filter that combines two essential functions: a **Variable Neutral Density (ND) filter** and a **Circular Polarizer (CPL) filter*"
+    },
+    {
+      "score": 0.91519654,
+      "name": "Dual Level Microphone for Smartphone Camera,157 Inch/4m BOYA BY-M1DM Dual-Head Lapel Mics with 1/8 Plug Adapter Compatible...",
+      "content": "Dual Level Microphone for Smartphone Camera,157 Inch/4m BOYA BY-M1DM Dual-Head Lapel Mics with 1/8 Plug Adapter Compatible... The BOYA BY-M1DM is a dual-head lapel microphone system designed to capture high-quality audio for video recordings. It features two clip-on microphones on a single 4-meter c"
+    },
+    {
+      "score": 0.9137777,
+      "name": "16 Channel Full HD H.265+ DVR Upto 2 MP Supported (Model - CP-UVR-1601E1-IC OR CP-UVR-1601E1-HC). by True Vision Technolog...",
+      "content": "16 Channel Full HD H.265+ DVR Upto 2 MP Supported (Model - CP-UVR-1601E1-IC OR CP-UVR-1601E1-HC). by True Vision Technolog... This product is a 16-channel Digital Video Recorder (DVR) designed as the central recording unit for a video surveillance system. Its primary purpose is to record, store, and"
+    },
+    {
+      "score": 0.91353524,
+      "name": "LYLA HD 3MP(Megapixels) 1/2.5'' 6mm F2.4 Fixed Iris CS Mount Lens for CCTV Industrial Camera",
+      "content": "LYLA HD 3MP(Megapixels) 1/2.5'' 6mm F2.4 Fixed Iris CS Mount Lens for CCTV Industrial Camera The LYLA HD 3MP 1/2.5'' 6mm F2.4 Fixed Iris CS Mount Lens is a specialized optical component designed to capture high-definition, detailed images for **CCTV (surveillance)** and **industrial camera systems ("
+    },
+    {
+      "score": 0.91307837,
+      "name": "HIKVISION 8 Channel DVR 1080P Lite H.265Pro+ 2MP DVR DS-7108HGHI-K1 with USEWELL HDMI (Without Hard Drive), White",
+      "content": "HIKVISION 8 Channel DVR 1080P Lite H.265Pro+ 2MP DVR DS-7108HGHI-K1 with USEWELL HDMI (Without Hard Drive), White This HIKVISION 8 Channel DVR is a central recording unit for a wired security camera system. Its primary purpose is to capture, compress (using H.265Pro+ for efficient storage), and mana"
+    }
+  ]
+}

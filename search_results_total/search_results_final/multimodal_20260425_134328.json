@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-04-25T13:43:28.109176",
+  "method": "multimodal",
+  "query": "I have two weeks off and want to completely disconnect from screens. How can I keep myself entertained?",
+  "subqueries": [
+    "I have two weeks off and want to completely disconnect from screens. How can I keep myself entertained?",
+    "Books and printed novels for immersive reading without screens",
+    "Board games and card games for group or solo entertainment",
+    "Outdoor activity gear such as hiking, camping, or gardening equipment",
+    "Creative hobby supplies including art, crafting, or musical instruments"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.8781728744506836,
+  "results": [
+    {
+      "score": 0.8658955,
+      "name": "NEUTRON Fashion Analog Black and Grey Color Dial Women Watch - GX10-(13-L-10) (Pack of 2)",
+      "image_url": "https://m.media-amazon.com/images/I/71ffTBjpk1L._AC_UL320_.jpg",
+      "content": "NEUTRON Fashion Analog Black and Grey Color Dial Women Watch - GX10-(13-L-10) (Pack of 2) This product is a pack of two analog watches specifically designed for women. Its primary purpose is to provide a convenient and stylish way to tell time, while also serving as a fashionable accessory to comple"
+    },
+    {
+      "score": 0.7931831,
+      "name": "POONAM ART EXPORTS,WHERE INNOVATION NEVER STOPS Entertainment Unit - 09",
+      "image_url": "https://m.media-amazon.com/images/I/41lqwIZqZXL._AC_UL320_.jpg",
+      "content": "POONAM ART EXPORTS,WHERE INNOVATION NEVER STOPS Entertainment Unit - 09 This product, an 'Entertainment Unit - 09' from POONAM ART EXPORTS, is designed to serve as a central hub for home entertainment systems. Its primary purpose is to house and organize televisions, media players, gaming consoles, "
+    },
+    {
+      "score": 0.7879488,
+      "name": "URBANPLAYERS Girl's Plain Regular fit Hoodie (ETGSS2020SER16_Grey_7-8YR 7-8YR)",
+      "image_url": "https://m.media-amazon.com/images/I/71Oap5EuN1L._AC_UL320_.jpg",
+      "content": "URBANPLAYERS Girl's Plain Regular fit Hoodie (ETGSS2020SER16_Grey_7-8YR 7-8YR) This URBANPLAYERS Girl's Plain Regular fit Hoodie is designed to provide comfort, warmth, and a casual style. It is intended for girls aged 7 to 8 years old. They can use it for a variety of everyday activities, including"
+    },
+    {
+      "score": 0.78674996,
+      "name": "m mhb HD Quality Bluetooth Spy Camera Hidden Video Audio Recording Bluetooth Camera Inbuilt 4GB Memory. with inbuilt Recha...",
+      "image_url": "https://m.media-amazon.com/images/I/61-wtVO7vML._AC_UL320_.jpg",
+      "content": "m mhb HD Quality Bluetooth Spy Camera Hidden Video Audio Recording Bluetooth Camera Inbuilt 4GB Memory. with inbuilt Recha... This product is an HD quality Bluetooth Spy Camera designed for discreet video and audio recording. It appears as a standard Bluetooth device, making it inconspicuous for cov"
+    },
+    {
+      "score": 0.7857541,
+      "name": "KARP Children Deluxe Art Drawing Set for Kids Case Studio Art and Craft Supplies Drawing and Painting Set Great Gift (150 ...",
+      "image_url": "https://m.media-amazon.com/images/I/71BPPHAKz7S._AC_UL320_.jpg",
+      "content": "KARP Children Deluxe Art Drawing Set for Kids Case Studio Art and Craft Supplies Drawing and Painting Set Great Gift (150 ... This product is a comprehensive deluxe art and craft set specifically designed for children. Its primary purpose is to provide young users with a wide array of drawing, paint"
+    }
+  ]
+}

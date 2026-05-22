@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-04-25T13:43:24.643864",
+  "method": "baseline",
+  "query": "I have two weeks off and want to completely disconnect from screens. How can I keep myself entertained?",
+  "subqueries": [
+    "I have two weeks off and want to completely disconnect from screens. How can I keep myself entertained?"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 0.041589975357055664,
+  "results": [
+    {
+      "score": 0.5,
+      "name": "Shuban Fiberglass Mesh Mosquito Net Screen-Self-Closing with Magnet Closures Screen Heavy Duty Mesh , Keep Bugs Mosquito F...",
+      "content": "Shuban Fiberglass Mesh Mosquito Net Screen-Self-Closing with Magnet Closures Screen Heavy Duty Mesh , Keep Bugs Mosquito F..."
+    },
+    {
+      "score": 0.5,
+      "name": "DABUR Swarna Guggulu 30 Tabs",
+      "content": "DABUR Swarna Guggulu 30 Tabs"
+    },
+    {
+      "score": 0.33333334,
+      "name": "Xtore Spice Herb Grinder with Pollen Catcher and Brush, Two Filtration Mesh Screens, Black",
+      "content": "Xtore Spice Herb Grinder with Pollen Catcher and Brush, Two Filtration Mesh Screens, Black"
+    },
+    {
+      "score": 0.33333334,
+      "name": "Shree Saatvik Pudina Vita",
+      "content": "Shree Saatvik Pudina Vita"
+    },
+    {
+      "score": 0.25,
+      "name": "Kuruti B Sheets Women Anarkali Kurta",
+      "content": "Kuruti B Sheets Women Anarkali Kurta"
+    }
+  ]
+}

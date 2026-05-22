@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-04-25T13:44:12.355672",
+  "method": "multimodal",
+  "query": "I'm leaving my house empty for a month while traveling. How do I make sure everything stays safe?",
+  "subqueries": [
+    "I'm leaving my house empty for a month while traveling. How do I make sure everything stays safe?",
+    "Home security systems with remote monitoring and alarm features",
+    "Smart surveillance cameras with motion detection and night vision",
+    "Automatic timers for lights and appliances to simulate occupancy",
+    "Secure lock systems including smart locks and deadbolts for doors and windows"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.4647250175476074,
+  "results": [
+    {
+      "score": 0.8757589,
+      "name": "Godrej 1.5 Ton 5 Star 5-In-1 Convertible, Inverter Split AC (100% Copper, Heavy Duty Cooling at 52°C, 2023 Model,AC 1.5T E...",
+      "image_url": "https://m.media-amazon.com/images/I/51HEnpDyVpL._AC_UL320_.jpg",
+      "content": "Godrej 1.5 Ton 5 Star 5-In-1 Convertible, Inverter Split AC (100% Copper, Heavy Duty Cooling at 52°C, 2023 Model,AC 1.5T E... This Godrej 1.5 Ton 5 Star 5-In-1 Convertible Inverter Split AC is designed to provide powerful, energy-efficient, and versatile cooling for medium to large rooms. It's ideal"
+    },
+    {
+      "score": 0.8708182,
+      "name": "Haier 1.0 Ton 3 Star Intelli smart Inverter AC(Intelli Convertible 7-in-1, Triple Inverter+ Technology, 2023, HSU13K-PYFR3...",
+      "image_url": "https://m.media-amazon.com/images/I/518brnf3ScL._AC_UL320_.jpg",
+      "content": "Haier 1.0 Ton 3 Star Intelli smart Inverter AC(Intelli Convertible 7-in-1, Triple Inverter+ Technology, 2023, HSU13K-PYFR3... The Haier 1.0 Ton 3 Star Intelli smart Inverter AC is designed to provide efficient, adaptable, and comfortable cooling for small to medium-sized rooms. Its primary purpose i"
+    },
+    {
+      "score": 0.86987764,
+      "name": "Daikin 1 Ton 5 Star Inverter Split AC (Copper, PM 2.5 Filter, 2022 Model, FTKR35U, White)",
+      "image_url": "https://m.media-amazon.com/images/I/41+OYtUdLNL._AC_UL320_.jpg",
+      "content": "Daikin 1 Ton 5 Star Inverter Split AC (Copper, PM 2.5 Filter, 2022 Model, FTKR35U, White) This Daikin 1 Ton 5 Star Inverter Split AC is designed to provide efficient and comfortable cooling for indoor spaces, while also enhancing air quality. It's ideal for individuals, couples, or small families lo"
+    },
+    {
+      "score": 0.8688372,
+      "name": "Panasonic 1.5 Ton 3 Star Wi-Fi Inverter Smart Split AC (Copper Condenser, 7 in 1 Convertible with additional AI Mode, PM ...",
+      "image_url": "https://m.media-amazon.com/images/I/61PWjQFDtQL._AC_UL320_.jpg",
+      "content": "Panasonic 1.5 Ton 3 Star Wi-Fi Inverter Smart Split AC (Copper Condenser, 7 in 1 Convertible with additional AI Mode, PM ... This Panasonic 1.5 Ton 3 Star Wi-Fi Inverter Smart Split AC is designed to provide efficient, smart, and versatile air conditioning for medium to large rooms. It's ideal for h"
+    },
+    {
+      "score": 0.8678004,
+      "name": "SPLIT AC - 1.8TR HITACHI SHIZEN 3100S INVERTER - R32 - RMQG322HFEOZ1",
+      "image_url": "https://m.media-amazon.com/images/I/417b-AztnjL._AC_UL320_.jpg",
+      "content": "SPLIT AC - 1.8TR HITACHI SHIZEN 3100S INVERTER - R32 - RMQG322HFEOZ1 This product is a Hitachi 1.8-ton Inverter Split AC, designed to efficiently cool medium to large indoor spaces (e.g., living rooms, master bedrooms, small offices). Its Inverter technology ensures energy savings, consistent temper"
+    }
+  ]
+}

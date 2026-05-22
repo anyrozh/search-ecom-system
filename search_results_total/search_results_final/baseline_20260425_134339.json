@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-04-25T13:43:39.338207",
+  "method": "baseline",
+  "query": "My 7-year-old is bored during summer break and I want to keep him learning. Any ideas?",
+  "subqueries": [
+    "My 7-year-old is bored during summer break and I want to keep him learning. Any ideas?"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 0.05594491958618164,
+  "results": [
+    {
+      "score": 0.5,
+      "name": "Einstein Box for 1-Year-Old Boys/Girls | Gift Toys for 1-Year-Old Kids | Board Books and Pretend Play Gift Pack | Learning...",
+      "content": "Einstein Box for 1-Year-Old Boys/Girls | Gift Toys for 1-Year-Old Kids | Board Books and Pretend Play Gift Pack | Learning..."
+    },
+    {
+      "score": 0.5,
+      "name": "Reading Comprehension: Grade 1 (Practice Makes Perfect)",
+      "content": "Reading Comprehension: Grade 1 (Practice Makes Perfect)"
+    },
+    {
+      "score": 0.33333334,
+      "name": "Genius Box - Play Some Learning 7 In 1 Activity & Learning Kit For Children Age 3 Years And Up : Magical Colours Education...",
+      "content": "Genius Box - Play Some Learning 7 In 1 Activity & Learning Kit For Children Age 3 Years And Up : Magical Colours Education..."
+    },
+    {
+      "score": 0.33333334,
+      "name": "Reading Comprehension, Grade 1 (Master Skills)",
+      "content": "Reading Comprehension, Grade 1 (Master Skills)"
+    },
+    {
+      "score": 0.25,
+      "name": "Inferring: Grades 1-2 / Ages 6-7 (Spotlight on Reading)",
+      "content": "Inferring: Grades 1-2 / Ages 6-7 (Spotlight on Reading)"
+    }
+  ]
+}

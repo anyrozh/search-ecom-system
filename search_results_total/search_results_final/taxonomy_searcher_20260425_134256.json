@@ -1,0 +1,51 @@
+{
+  "timestamp": "2026-04-25T13:42:56.971612",
+  "method": "taxonomy_searcher",
+  "query": "My sister just had a baby and I want to give her something really useful. What should I get?",
+  "subqueries": [
+    "My sister just had a baby and I want to give her something really useful. What should I get?",
+    "Essential newborn baby care products such as diapers, wipes, and baby lotion",
+    "Practical baby feeding items including bottles, breast pumps, and nursing pillows",
+    "Comfort and sleep aids for babies like swaddle blankets, baby monitors, and cribs",
+    "Useful postpartum care products for new mothers such as nursing bras, recovery kits, and comfortable clothing"
+  ],
+  "taxonomies_found": [
+    "toys & baby products/Baby Products",
+    "toys & baby products/Nursing & Feeding",
+    "toys & baby products/Baby Bath, Skin & Grooming"
+  ],
+  "taxonomy_fallback": false,
+  "search_time": 4.9848411083221436,
+  "results": [
+    {
+      "score": 0.8104513,
+      "name": "LuvLap Bunny Food & Fruit Nibbler & Luvlap Anti-Colic Wide Neck Natura Flo Baby Feeding Bottle, 150ml, New Born/Infants/To...",
+      "image_url": "https://m.media-amazon.com/images/I/51HeW0ZFo7L._AC_UL320_.jpg",
+      "content": "LuvLap Bunny Food & Fruit Nibbler & Luvlap Anti-Colic Wide Neck Natura Flo Baby Feeding Bottle, 150ml, New Born/Infants/To... This product combines two essential feeding items for babies: a **Food & Fruit Nibbler** and an **Anti-Colic Baby Feeding Bottle**. The nibbler is designed for infants (typic"
+    },
+    {
+      "score": 0.80894023,
+      "name": "NEW BORNBABY HUB Baby Bibs Super Soft and Absorbent 100% Cotton Baby Bibs Set for Newborns/Infants/Toddlers/Babies (3-24 M...",
+      "image_url": "https://m.media-amazon.com/images/I/819jTdG1ZTL._AC_UL320_.jpg",
+      "content": "NEW BORNBABY HUB Baby Bibs Super Soft and Absorbent 100% Cotton Baby Bibs Set for Newborns/Infants/Toddlers/Babies (3-24 M... These are baby bibs, specifically designed to keep a baby's clothing clean and dry. Made from 100% cotton, they are super soft and highly absorbent. They can be used by newbo"
+    },
+    {
+      "score": 0.8044679,
+      "name": "DAPHNE Baby Diaper Bag for Mother, Baby Products, New Born Baby Product, New Born Baby Gift, Baby Gifts for New Born, Baby...",
+      "image_url": "https://m.media-amazon.com/images/I/81l4AvOQZQL._AC_UL320_.jpg",
+      "content": "DAPHNE Baby Diaper Bag for Mother, Baby Products, New Born Baby Product, New Born Baby Gift, Baby Gifts for New Born, Baby... The DAPHNE Baby Diaper Bag is a specialized and practical bag designed for mothers, fathers, and caregivers of newborns and young babies. Its primary purpose is to convenient"
+    },
+    {
+      "score": 0.79749674,
+      "name": "linenaffairs Swaddle Blanket 100% Organic Cotton Muslin, Wrap Cloth Cotton Swaddle for Newborn Baby Girl's and Boy's Soft ...",
+      "image_url": "https://m.media-amazon.com/images/I/71ugC0upCNL._AC_UL320_.jpg",
+      "content": "linenaffairs Swaddle Blanket 100% Organic Cotton Muslin, Wrap Cloth Cotton Swaddle for Newborn Baby Girl's and Boy's Soft ... This product is a soft, breathable swaddle blanket made from 100% organic cotton muslin. It is designed for newborn babies, both girls and boys, to be used as a wrap cloth fo"
+    },
+    {
+      "score": 0.7967469,
+      "name": "Vicks BabyRub 25ml, Specifically for Babies-Moisturize, Soothe and Relax your baby",
+      "image_url": "https://m.media-amazon.com/images/I/61XelP+tpoL._AC_UL320_.jpg",
+      "content": "Vicks BabyRub 25ml, Specifically for Babies-Moisturize, Soothe and Relax your baby Vicks BabyRub 25ml is a gentle topical rub specifically formulated for babies. Its primary purpose is to moisturize, soothe, and relax your baby, providing comfort and a calming sensation."
+    }
+  ]
+}

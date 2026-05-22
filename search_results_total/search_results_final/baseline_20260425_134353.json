@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-04-25T13:43:53.990204",
+  "method": "baseline",
+  "query": "I want to pick up a creative hobby that I can practice quietly in my apartment at night. What do I need?",
+  "subqueries": [
+    "I want to pick up a creative hobby that I can practice quietly in my apartment at night. What do I need?"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 0.024290084838867188,
+  "results": [
+    {
+      "score": 0.5,
+      "name": "Flair Creative Series Super Smart Kit | Combination Smart Kit for Your Creative Need | Use for Writing, Colouring, Drawing...",
+      "content": "Flair Creative Series Super Smart Kit | Combination Smart Kit for Your Creative Need | Use for Writing, Colouring, Drawing..."
+    },
+    {
+      "score": 0.5,
+      "name": "Learning The Basics Of Home Theater",
+      "content": "Learning The Basics Of Home Theater"
+    },
+    {
+      "score": 0.33333334,
+      "name": "Citaaz Creative Luminous Acrylic Board DIY Memo Acrylic Message Board Light LED Night Light, Personalized Night Light, Chi...",
+      "content": "Citaaz Creative Luminous Acrylic Board DIY Memo Acrylic Message Board Light LED Night Light, Personalized Night Light, Chi..."
+    },
+    {
+      "score": 0.33333334,
+      "name": "mens jens",
+      "content": "mens jens"
+    },
+    {
+      "score": 0.25,
+      "name": "Kuruti B Sheets Women Anarkali Kurta",
+      "content": "Kuruti B Sheets Women Anarkali Kurta"
+    }
+  ]
+}

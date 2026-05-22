@@ -1,0 +1,49 @@
+{
+  "timestamp": "2026-04-25T13:43:33.297209",
+  "method": "taxonomy_searcher",
+  "query": "I have two weeks off and want to completely disconnect from screens. How can I keep myself entertained?",
+  "subqueries": [
+    "I have two weeks off and want to completely disconnect from screens. How can I keep myself entertained?",
+    "Books and printed novels for immersive reading without screens",
+    "Board games and card games for group or solo entertainment",
+    "Outdoor activity gear such as hiking, camping, or gardening equipment",
+    "Creative hobby supplies including art, crafting, or musical instruments"
+  ],
+  "taxonomies_found": [
+    "sports & fitness/All Sports, Fitness & Outdoors"
+  ],
+  "taxonomy_fallback": false,
+  "search_time": 5.186908960342407,
+  "results": [
+    {
+      "score": 0.7691475,
+      "name": "Jockey Men's Cap",
+      "image_url": "https://m.media-amazon.com/images/I/81IyGwVLzgL._AC_UL320_.jpg",
+      "content": "Jockey Men's Cap The Jockey Men's Cap is a versatile piece of headwear designed primarily to offer protection from the sun's rays for the face and eyes. It also serves as a casual fashion accessory, adding a sporty or relaxed touch to an outfit. This cap is suitable for men of all ages who are looki"
+    },
+    {
+      "score": 0.7677885,
+      "name": "Coleman Tropic 10 Liter Minimaxi Soft Cooler with Store Capecity - 3 X 1.5 Liter Bottle and Ice Retention -12 Hour/Light W...",
+      "image_url": "https://m.media-amazon.com/images/I/51FR0TnrRuL._AC_UL320_.jpg",
+      "content": "Coleman Tropic 10 Liter Minimaxi Soft Cooler with Store Capecity - 3 X 1.5 Liter Bottle and Ice Retention -12 Hour/Light W... The Coleman Tropic 10 Liter Minimaxi Soft Cooler is a portable, insulated bag designed to keep food and beverages cold for extended periods, specifically up to 12 hours. Its "
+    },
+    {
+      "score": 0.76650125,
+      "name": "LEWEL Men's Stylish Hooded Graphic Printed T-Shirt (Olive Green, Black)",
+      "image_url": "https://m.media-amazon.com/images/I/610jF2HhdNL._AC_UL320_.jpg",
+      "content": "LEWEL Men's Stylish Hooded Graphic Printed T-Shirt (Olive Green, Black) This LEWEL Men's Stylish Hooded Graphic Printed T-Shirt is designed to provide a comfortable, fashionable, and versatile casual top. It is intended for men who appreciate modern, graphic-driven styles and the added comfort and a"
+    },
+    {
+      "score": 0.76465386,
+      "name": "NJ Drawstring Muslin Bag,Coin Pouch,Herb Bag,Pouch for Wedding Party,Jewellery Bag,Gift wrap Pack Bag, Ring Pouch, Party g...",
+      "image_url": "https://m.media-amazon.com/images/I/61kuz8iHWbL._AC_UL320_.jpg",
+      "content": "NJ Drawstring Muslin Bag,Coin Pouch,Herb Bag,Pouch for Wedding Party,Jewellery Bag,Gift wrap Pack Bag, Ring Pouch, Party g... The NJ Drawstring Muslin Bag is a versatile, reusable pouch designed for organizing, gifting, and packaging small items. It can be used by individuals to store coins, herbs, "
+    },
+    {
+      "score": 0.76458347,
+      "name": "DDM Sports New Modern CR7 World Cup 2022 Football Size 5 with Pump Full Size - 5, Combo Football with AIR Pump",
+      "image_url": "https://m.media-amazon.com/images/I/41DOpZNf4OL._AC_UL320_.jpg",
+      "content": "DDM Sports New Modern CR7 World Cup 2022 Football Size 5 with Pump Full Size - 5, Combo Football with AIR Pump This product is a standard Size 5 football (soccer ball) designed for playing the sport, featuring a design inspired by Cristiano Ronaldo and the 2022 World Cup. It includes an air pump, ma"
+    }
+  ]
+}

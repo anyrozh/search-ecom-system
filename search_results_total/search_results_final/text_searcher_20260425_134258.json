@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-04-25T13:42:58.947157",
+  "method": "text_searcher",
+  "query": "I'm adopting a rescue dog this weekend. What should I prepare at home before bringing him?",
+  "subqueries": [
+    "I'm adopting a rescue dog this weekend. What should I prepare at home before bringing him?",
+    "Essential dog supplies including food and water bowls, leash, collar, and ID tags",
+    "Comfortable dog bed and crate for safe resting and sleeping",
+    "Basic grooming tools such as brushes, nail clippers, and dog shampoo",
+    "Training aids and toys to help with behavior and mental stimulation"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.6506941318511963,
+  "results": [
+    {
+      "score": 0.8991083,
+      "name": "Loyal Ammonium Chloride 99.5% (250 Gm)",
+      "content": "Loyal Ammonium Chloride 99.5% (250 Gm) Loyal Ammonium Chloride 99.5% (250 Gm) is a versatile chemical compound with various applications. It is primarily used:\n\n*   **In Veterinary Medicine:** As a urinary acidifier to help prevent or dissolve struvite urinary stones in pets (e.g., cats and dogs), a"
+    },
+    {
+      "score": 0.88912696,
+      "name": "URBANPLAYERS Girl's Plain Regular fit Hoodie (ETGSS2020SER16_Grey_7-8YR 7-8YR)",
+      "content": "URBANPLAYERS Girl's Plain Regular fit Hoodie (ETGSS2020SER16_Grey_7-8YR 7-8YR) This URBANPLAYERS Girl's Plain Regular fit Hoodie is designed to provide comfort, warmth, and a casual style. It is intended for girls aged 7 to 8 years old. They can use it for a variety of everyday activities, including"
+    },
+    {
+      "score": 0.88740474,
+      "name": "BRIDA 100% Cotton Non Padded Non Wired Full Coverage Plus Size Double Layer -Extra Lining & Lift-Special Support Cups-Ever...",
+      "content": "BRIDA 100% Cotton Non Padded Non Wired Full Coverage Plus Size Double Layer -Extra Lining & Lift-Special Support Cups-Ever... The BRIDA 100% Cotton Non Padded Non Wired Full Coverage Plus Size Double Layer bra is designed to provide ultimate comfort, natural shaping, and robust support for **plus-si"
+    },
+    {
+      "score": 0.88212574,
+      "name": "ISOCHEM Stearic Acid (500GM) Assay 98% Min",
+      "content": "ISOCHEM Stearic Acid (500GM) Assay 98% Min ISOCHEM Stearic Acid (98% Min purity) is a versatile saturated fatty acid primarily used as an emulsifier, thickener, and lubricant. Its high purity makes it suitable for a wide range of applications.\n\n*   **Purpose:** To provide texture, stability, emulsif"
+    },
+    {
+      "score": 0.88120335,
+      "name": "LABOGENS CALCIUM CARBONATE 1 KG, (calcite powder)",
+      "content": "LABOGENS CALCIUM CARBONATE 1 KG, (calcite powder) LABOGENS CALCIUM CARBONATE 1 KG (calcite powder) is a versatile inorganic compound primarily used as a chemical reagent, filler, and pH modifier. It can be used by **laboratories** for experiments, analyses, and research; by **educational institution"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-04-25T13:43:05.952289",
+  "method": "text_searcher",
+  "query": "I want to start cooking healthy meals instead of ordering takeout. Where do I even begin?",
+  "subqueries": [
+    "I want to start cooking healthy meals instead of ordering takeout. Where do I even begin?",
+    "Beginner-friendly healthy cooking recipe books and meal planning guides",
+    "Essential kitchen tools and cookware sets for preparing healthy meals",
+    "Fresh and organic ingredients or healthy meal kit delivery services",
+    "Nutritional kitchen gadgets such as food scales, blenders, and air fryers"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.5862658023834229,
+  "results": [
+    {
+      "score": 0.90431666,
+      "name": "Healthy Treat Roasted 7 in 1 Superseed Mix with fruit (150gm) | Mix Seeds | Diet Snacks | Roasted Seeds for Eating",
+      "content": "Healthy Treat Roasted 7 in 1 Superseed Mix with fruit (150gm) | Mix Seeds | Diet Snacks | Roasted Seeds for Eating This product is a 'Healthy Treat' offering a 'Roasted 7 in 1 Superseed Mix with fruit', designed as a nutritious and convenient 'Diet Snack'. It's intended for health-conscious individu"
+    },
+    {
+      "score": 0.89544815,
+      "name": "NatureVit Wheatgrass Powder, 100g | Vegan, Non-GMO, Gluten-Free | Rich in Fiber, Chlorophyll, Fatty Acids & Minerals | Sup...",
+      "content": "NatureVit Wheatgrass Powder, 100g | Vegan, Non-GMO, Gluten-Free | Rich in Fiber, Chlorophyll, Fatty Acids & Minerals | Sup... NatureVit Wheatgrass Powder is a dietary supplement intended to enrich one's diet with a concentrated source of vital nutrients. It is suitable for a wide range of individual"
+    },
+    {
+      "score": 0.8946206,
+      "name": "D4Diet Roasted Moong Jor, 200g / High Protein, Gluten Free, Vegan snack / Healthy Namkeen / Roasted Namkeen",
+      "content": "D4Diet Roasted Moong Jor, 200g / High Protein, Gluten Free, Vegan snack / Healthy Namkeen / Roasted Namkeen D4Diet Roasted Moong Jor is a healthy, high-protein, gluten-free, and vegan savory snack. Its purpose is to offer a nutritious alternative to traditional fried namkeen, catering to health-cons"
+    },
+    {
+      "score": 0.8934586,
+      "name": "RIGHTCRUNCH Amarnath Crackers Variety Combo | Gluten-free & Baked | Healthy Home/Office Snack | Protein-rich | 4 Assorted ...",
+      "content": "RIGHTCRUNCH Amarnath Crackers Variety Combo | Gluten-free & Baked | Healthy Home/Office Snack | Protein-rich | 4 Assorted ... The RIGHTCRUNCH Amarnath Crackers Variety Combo is a healthy, gluten-free, and protein-rich baked snack. It's ideal for anyone seeking a nutritious and convenient snack optio"
+    },
+    {
+      "score": 0.891706,
+      "name": "SO GOOD Organic Khakhra Methi 900gm | Not Fried Healthy Snack | Evening Snack | 100% organic ingredients - Pack of 3 * 300gm",
+      "content": "SO GOOD Organic Khakhra Methi 900gm | Not Fried Healthy Snack | Evening Snack | 100% organic ingredients - Pack of 3 * 300gm This product is SO GOOD Organic Khakhra Methi, a not-fried, healthy, and 100% organic savory snack. Its primary purpose is to offer a guilt-free, wholesome snacking option. It"
+    }
+  ]
+}

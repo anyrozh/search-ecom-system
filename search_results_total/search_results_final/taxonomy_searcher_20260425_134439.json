@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-04-25T13:44:39.482675",
+  "method": "taxonomy_searcher",
+  "query": "I got accepted to a semester abroad in a cold country and I've never experienced winter. What should I pack?",
+  "subqueries": [
+    "I got accepted to a semester abroad in a cold country and I've never experienced winter. What should I pack?",
+    "Warm winter clothing including insulated jackets, thermal base layers, sweaters, and waterproof pants suitable for cold climates",
+    "Winter accessories such as gloves, scarves, beanies, and thermal socks to protect extremities from cold weather",
+    "Footwear designed for winter conditions including insulated, waterproof boots with good traction for snow and ice",
+    "Cold weather skincare products like moisturizers and lip balms to prevent dryness and chapping in winter"
+  ],
+  "taxonomies_found": [
+    "bags & luggage/Travel Accessories",
+    "bags & luggage/Travel Duffles"
+  ],
+  "taxonomy_fallback": false,
+  "search_time": 3.5931789875030518,
+  "results": [
+    {
+      "score": 0.8213333,
+      "name": "MATRICE Duffle Bag with Grey Faux Vegan Leather(NE-S-0796-Grey)",
+      "image_url": "https://m.media-amazon.com/images/I/61goJIbctmL._AC_UL320_.jpg",
+      "content": "MATRICE Duffle Bag with Grey Faux Vegan Leather(NE-S-0796-Grey) The MATRICE Duffle Bag is a versatile and stylish carry-all designed for convenient transport of personal belongings. Crafted with grey faux vegan leather, it appeals to individuals seeking an ethical and fashionable accessory. It's ide"
+    },
+    {
+      "score": 0.799729,
+      "name": "FlYHIGH Stylish Quality Fabric Waterproof Expandable Lightweight 40 L 22 Inch Travel Duffel Bag (Blue)",
+      "image_url": "https://m.media-amazon.com/images/I/71XzS4Eqx-L._AC_UL320_.jpg",
+      "content": "FlYHIGH Stylish Quality Fabric Waterproof Expandable Lightweight 40 L 22 Inch Travel Duffel Bag (Blue) The FlYHIGH Travel Duffel Bag is designed as a versatile and practical solution for carrying personal belongings during travel. Its purpose is to provide a lightweight, waterproof, and expandable s"
+    },
+    {
+      "score": 0.796575,
+      "name": "Large Capacity Travel Bag - Portable Lightweight Waterproof Oxford Fabric Bag,Travel Duffel Bag,Shoulder Weekender Overnig...",
+      "image_url": "https://m.media-amazon.com/images/I/31q6vTbGJuL._AC_UL320_.jpg",
+      "content": "Large Capacity Travel Bag - Portable Lightweight Waterproof Oxford Fabric Bag,Travel Duffel Bag,Shoulder Weekender Overnig... This Large Capacity Travel Bag is a versatile and practical solution for carrying personal belongings. Designed as a portable, lightweight, and waterproof Oxford fabric duffe"
+    },
+    {
+      "score": 0.79004985,
+      "name": "WktobeHVB Core Sliders for Working Out, 1-Pair with Carry Bag, Dual Sided Gliding Discs for Full Body Workout on Carpet or...",
+      "image_url": "https://m.media-amazon.com/images/I/71LzG1FZFBL._AC_UL320_.jpg",
+      "content": "WktobeHVB Core Sliders for Working Out, 1-Pair with Carry Bag, Dual Sided Gliding Discs for Full Body Workout on Carpet or... The WktobeHVB Core Sliders are dual-sided gliding discs designed to add an unstable and challenging element to bodyweight exercises. They can be used by individuals of all fi"
+    },
+    {
+      "score": 0.76329315,
+      "name": "Wildcraft Unisex-Adult Polyester SUPERMASK W95+ Reusable Outdoor Respirator 5P : Popcorn : BLK_Anthra : M (8903338298045 M...",
+      "image_url": "https://m.media-amazon.com/images/I/611AXURbEgL._AC_UL320_.jpg",
+      "content": "Wildcraft Unisex-Adult Polyester SUPERMASK W95+ Reusable Outdoor Respirator 5P : Popcorn : BLK_Anthra : M (8903338298045 M... This product is a reusable outdoor respirator designed for unisex adults. Its primary purpose is to provide respiratory protection by filtering airborne particles, making it "
+    }
+  ]
+}

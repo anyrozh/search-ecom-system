@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-04-25T13:43:24.601052",
+  "method": "taxonomy_searcher",
+  "query": "I'm starting a YouTube channel but I have zero equipment. What do I absolutely need on day one?",
+  "subqueries": [
+    "I'm starting a YouTube channel but I have zero equipment. What do I absolutely need on day one?",
+    "entry-level video camera or smartphone with high-quality video recording capabilities for YouTube content creation",
+    "basic external microphone for clear audio recording suitable for vlogging or talking head videos",
+    "portable lighting kit or ring light to ensure well-lit video footage in indoor or low-light environments",
+    "stable tripod or smartphone mount to hold the camera steady during recording sessions"
+  ],
+  "taxonomies_found": [
+    "music/Musical Instruments & Professional Audio",
+    "tv, audio & cameras/Cameras"
+  ],
+  "taxonomy_fallback": false,
+  "search_time": 3.416830062866211,
+  "results": [
+    {
+      "score": 0.8243852,
+      "name": "Logitech Digital C922 Pro Stream Webcam 1080P Camera for HD Video Streaming Recording 720P At 60Fps - Black",
+      "image_url": "https://m.media-amazon.com/images/I/61gpJAcAQIL._AC_UL320_.jpg",
+      "content": "Logitech Digital C922 Pro Stream Webcam 1080P Camera for HD Video Streaming Recording 720P At 60Fps - Black The Logitech C922 Pro Stream Webcam is a high-definition camera specifically designed for live video content creation. It captures crisp 1080p video for streaming and recording, and offers a s"
+    },
+    {
+      "score": 0.82176065,
+      "name": "Multi-Coated Variable Polarizing ND Neutral Density Adjustable ND2 -ND400 (Waterproof, Scratchproof, Dustproof) (58MM)",
+      "image_url": "https://m.media-amazon.com/images/I/51ZE3QsfsTL._AC_UL320_.jpg",
+      "content": "Multi-Coated Variable Polarizing ND Neutral Density Adjustable ND2 -ND400 (Waterproof, Scratchproof, Dustproof) (58MM) This product is a versatile and durable camera lens filter that combines two essential functions: a **Variable Neutral Density (ND) filter** and a **Circular Polarizer (CPL) filter*"
+    },
+    {
+      "score": 0.814042,
+      "name": "YANTRALAY SCHOOL OF GADGETS Mic-1 Cardiod On- Camera Shotgun Vlogging Microphone Compatible with Go Pro Hero 9/8/7, iPhon...",
+      "image_url": "https://m.media-amazon.com/images/I/51Pj+XMJFaL._AC_UL320_.jpg",
+      "content": "YANTRALAY SCHOOL OF GADGETS Mic-1 Cardiod On- Camera Shotgun Vlogging Microphone Compatible with Go Pro Hero 9/8/7, iPhon... The YANTRALAY SCHOOL OF GADGETS Mic-1 is an on-camera shotgun vlogging microphone designed to capture clear, focused audio for video content. Its cardioid pickup pattern effec"
+    },
+    {
+      "score": 0.8139214,
+      "name": "Creative Live! Cam Sync 1080p Optical Zoom 3X V2 Full HD Wide-Angle USSB Auto Mute Noise Cancellation Built-in Mic, Privac...",
+      "image_url": "https://m.media-amazon.com/images/I/612OnJpMpyL._AC_UL320_.jpg",
+      "content": "Creative Live! Cam Sync 1080p Optical Zoom 3X V2 Full HD Wide-Angle USSB Auto Mute Noise Cancellation Built-in Mic, Privac... This product is a high-definition (1080p Full HD) webcam, the Creative Live! Cam Sync 1080p Optical Zoom 3X V2. It features a 3X optical zoom for clear close-ups, a wide-angl"
+    },
+    {
+      "score": 0.812253,
+      "name": "HKUTOTECH Trending Collar Clip Microphone Omnidirectional Mic with Easy Clip On System Perfect for Recording YouTube/Inter...",
+      "image_url": "https://m.media-amazon.com/images/I/61tk9-VnC+L._AC_UL320_.jpg",
+      "content": "HKUTOTECH Trending Collar Clip Microphone Omnidirectional Mic with Easy Clip On System Perfect for Recording YouTube/Inter... The HKUTOTECH Trending Collar Clip Microphone is an omnidirectional, wearable microphone designed for clear and convenient audio capture. Its primary purpose is to provide hi"
+    }
+  ]
+}

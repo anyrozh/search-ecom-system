@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-04-25T13:44:34.004162",
+  "method": "text_searcher",
+  "query": "I got accepted to a semester abroad in a cold country and I've never experienced winter. What should I pack?",
+  "subqueries": [
+    "I got accepted to a semester abroad in a cold country and I've never experienced winter. What should I pack?",
+    "Warm winter clothing including insulated jackets, thermal base layers, sweaters, and waterproof pants suitable for cold climates",
+    "Winter accessories such as gloves, scarves, beanies, and thermal socks designed for extreme cold weather",
+    "Footwear for winter conditions including insulated, waterproof boots with good traction for snow and ice",
+    "Cold weather skincare products like moisturizers and lip balms to protect skin from dryness and wind"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 2.381511926651001,
+  "results": [
+    {
+      "score": 0.894541,
+      "name": "TOPLOT Women's Hoodie||Full Sleeve Solid Sweatshirt Hoodies||Winter Wear for Women||Hooded Neck Style||Long Women's Hoodie...",
+      "content": "TOPLOT Women's Hoodie||Full Sleeve Solid Sweatshirt Hoodies||Winter Wear for Women||Hooded Neck Style||Long Women's Hoodie... This TOPLOT Women's Hoodie is a full-sleeve, solid-colored sweatshirt designed as winter wear. Its primary purpose is to provide warmth, comfort, and a casual style during co"
+    },
+    {
+      "score": 0.8926669,
+      "name": "The Comfort Closet - Baby's Handmade Sweater with Cap and Booties (6-12 Months) (Blue and White)",
+      "content": "The Comfort Closet - Baby's Handmade Sweater with Cap and Booties (6-12 Months) (Blue and White) This product is a handmade clothing set designed to provide warmth, comfort, and a complete, coordinated outfit for babies aged 6 to 12 months. It includes a sweater for the torso, a cap for the head, an"
+    },
+    {
+      "score": 0.8870366,
+      "name": "URBANPLAYERS Girl's Plain Regular fit Hoodie (ETGSS2020SER12_Black_11-12YR 11-12YR)",
+      "content": "URBANPLAYERS Girl's Plain Regular fit Hoodie (ETGSS2020SER12_Black_11-12YR 11-12YR) This URBANPLAYERS Girl's Plain Regular fit Hoodie is designed to provide warmth, comfort, and a casual style. It is intended for girls aged 11-12 years who can use it for everyday wear, such as school, leisure activi"
+    },
+    {
+      "score": 0.88580406,
+      "name": "BRIDA 100% Cotton Non Padded Non Wired Full Coverage Plus Size Double Layer -Extra Lining & Lift-Special Support Cups-Ever...",
+      "content": "BRIDA 100% Cotton Non Padded Non Wired Full Coverage Plus Size Double Layer -Extra Lining & Lift-Special Support Cups-Ever... The BRIDA 100% Cotton Non Padded Non Wired Full Coverage Plus Size Double Layer bra is designed to provide ultimate comfort, natural shaping, and robust support for **plus-si"
+    },
+    {
+      "score": 0.88496715,
+      "name": "U.S. POLO ASSN. Women's Cotton Blend Hooded Neck Sweatshirt (8905034153512_Off White_M)",
+      "content": "U.S. POLO ASSN. Women's Cotton Blend Hooded Neck Sweatshirt (8905034153512_Off White_M) This U.S. POLO ASSN. Women's Cotton Blend Hooded Neck Sweatshirt is designed to provide warmth, comfort, and a casual style. It is intended for women who desire a versatile and cozy garment for everyday wear, lou"
+    }
+  ]
+}

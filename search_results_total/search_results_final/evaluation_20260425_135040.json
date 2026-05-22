@@ -1,0 +1,3854 @@
+{
+  "summary": [
+    {
+      "Method": "baseline",
+      "Query": "My sister just had a baby and I want to give her something r",
+      "Time(s)": 1.1226,
+      "OTR@K": 0.8,
+      "Avg Rel": 6.4,
+      "P(click)": 0.64,
+      "P(buy)": 0.53,
+      "NDCG": 1.0,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "baseline",
+      "Query": "I'm adopting a rescue dog this weekend. What should I prepar",
+      "Time(s)": 0.3211,
+      "OTR@K": 0.4,
+      "Avg Rel": 3.8,
+      "P(click)": 0.46,
+      "P(buy)": 0.33,
+      "NDCG": 0.7669,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "baseline",
+      "Query": "I want to start cooking healthy meals instead of ordering ta",
+      "Time(s)": 0.1372,
+      "OTR@K": 0.2,
+      "Avg Rel": 2.4,
+      "P(click)": 0.33,
+      "P(buy)": 0.2,
+      "NDCG": 0.7434,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "baseline",
+      "Query": "We just moved into a new apartment and everything is empty. ",
+      "Time(s)": 0.0671,
+      "OTR@K": 0.0,
+      "Avg Rel": 1.6,
+      "P(click)": 0.26,
+      "P(buy)": 0.12,
+      "NDCG": 0.8021,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "baseline",
+      "Query": "I'm starting a YouTube channel but I have zero equipment. Wh",
+      "Time(s)": 0.0542,
+      "OTR@K": 0.0,
+      "Avg Rel": 0.0,
+      "P(click)": 0.02,
+      "P(buy)": 0.0,
+      "NDCG": 0.0,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "baseline",
+      "Query": "I have two weeks off and want to completely disconnect from ",
+      "Time(s)": 0.0416,
+      "OTR@K": 0.0,
+      "Avg Rel": 0.4,
+      "P(click)": 0.12,
+      "P(buy)": 0.04,
+      "NDCG": 0.9197,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "baseline",
+      "Query": "I have an important job interview tomorrow and I want to loo",
+      "Time(s)": 0.0255,
+      "OTR@K": 0.4,
+      "Avg Rel": 4.2,
+      "P(click)": 0.47,
+      "P(buy)": 0.32,
+      "NDCG": 0.8044,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "baseline",
+      "Query": "My 7-year-old is bored during summer break and I want to kee",
+      "Time(s)": 0.0559,
+      "OTR@K": 0.8,
+      "Avg Rel": 6.4,
+      "P(click)": 0.67,
+      "P(buy)": 0.54,
+      "NDCG": 0.8127,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "baseline",
+      "Query": "Our office is organizing a weekend team-building outdoors. W",
+      "Time(s)": 0.0435,
+      "OTR@K": 0.0,
+      "Avg Rel": 1.0,
+      "P(click)": 0.2,
+      "P(buy)": 0.08,
+      "NDCG": 0.8084,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "baseline",
+      "Query": "I want to pick up a creative hobby that I can practice quiet",
+      "Time(s)": 0.0243,
+      "OTR@K": 0.4,
+      "Avg Rel": 3.4,
+      "P(click)": 0.36,
+      "P(buy)": 0.28,
+      "NDCG": 0.9512,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "baseline",
+      "Query": "I'm about to drive cross-country alone for three days straig",
+      "Time(s)": 0.026,
+      "OTR@K": 0.0,
+      "Avg Rel": 0.4,
+      "P(click)": 0.1,
+      "P(buy)": 0.04,
+      "NDCG": 0.9197,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "baseline",
+      "Query": "I'm leaving my house empty for a month while traveling. How ",
+      "Time(s)": 0.0234,
+      "OTR@K": 0.0,
+      "Avg Rel": 0.8,
+      "P(click)": 0.14,
+      "P(buy)": 0.08,
+      "NDCG": 0.922,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "baseline",
+      "Query": "I want to make personalized Christmas gifts for my family th",
+      "Time(s)": 0.0296,
+      "OTR@K": 0.0,
+      "Avg Rel": 1.6,
+      "P(click)": 0.24,
+      "P(buy)": 0.1,
+      "NDCG": 0.9765,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "baseline",
+      "Query": "My doctor told me I need to lose 15 kg and reduce stress. Wh",
+      "Time(s)": 0.0511,
+      "OTR@K": 0.0,
+      "Avg Rel": 2.6,
+      "P(click)": 0.32,
+      "P(buy)": 0.16,
+      "NDCG": 0.9311,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "baseline",
+      "Query": "I got accepted to a semester abroad in a cold country and I'",
+      "Time(s)": 0.0324,
+      "OTR@K": 0.6,
+      "Avg Rel": 5.0,
+      "P(click)": 0.51,
+      "P(buy)": 0.4,
+      "NDCG": 0.9609,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "text_searcher",
+      "Query": "My sister just had a baby and I want to give her something r",
+      "Time(s)": 1.8993,
+      "OTR@K": 1.0,
+      "Avg Rel": 8.4,
+      "P(click)": 0.85,
+      "P(buy)": 0.75,
+      "NDCG": 0.9903,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "text_searcher",
+      "Query": "I'm adopting a rescue dog this weekend. What should I prepar",
+      "Time(s)": 1.6507,
+      "OTR@K": 0.0,
+      "Avg Rel": 0.2,
+      "P(click)": 0.04,
+      "P(buy)": 0.0,
+      "NDCG": 1.0,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "text_searcher",
+      "Query": "I want to start cooking healthy meals instead of ordering ta",
+      "Time(s)": 1.5863,
+      "OTR@K": 0.0,
+      "Avg Rel": 3.0,
+      "P(click)": 0.38,
+      "P(buy)": 0.18,
+      "NDCG": 1.0,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "text_searcher",
+      "Query": "We just moved into a new apartment and everything is empty. ",
+      "Time(s)": 1.5483,
+      "OTR@K": 0.2,
+      "Avg Rel": 2.6,
+      "P(click)": 0.32,
+      "P(buy)": 0.2,
+      "NDCG": 0.7609,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "text_searcher",
+      "Query": "I'm starting a YouTube channel but I have zero equipment. Wh",
+      "Time(s)": 2.4124,
+      "OTR@K": 0.2,
+      "Avg Rel": 2.4,
+      "P(click)": 0.3,
+      "P(buy)": 0.18,
+      "NDCG": 0.7827,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "text_searcher",
+      "Query": "I have two weeks off and want to completely disconnect from ",
+      "Time(s)": 1.5855,
+      "OTR@K": 0.0,
+      "Avg Rel": 0.4,
+      "P(click)": 0.1,
+      "P(buy)": 0.04,
+      "NDCG": 0.5013,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "text_searcher",
+      "Query": "I have an important job interview tomorrow and I want to loo",
+      "Time(s)": 1.6458,
+      "OTR@K": 0.6,
+      "Avg Rel": 5.2,
+      "P(click)": 0.55,
+      "P(buy)": 0.43,
+      "NDCG": 0.7725,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "text_searcher",
+      "Query": "My 7-year-old is bored during summer break and I want to kee",
+      "Time(s)": 1.8368,
+      "OTR@K": 0.0,
+      "Avg Rel": 0.8,
+      "P(click)": 0.16,
+      "P(buy)": 0.06,
+      "NDCG": 1.0,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "text_searcher",
+      "Query": "Our office is organizing a weekend team-building outdoors. W",
+      "Time(s)": 1.6683,
+      "OTR@K": 0.0,
+      "Avg Rel": 0.4,
+      "P(click)": 0.12,
+      "P(buy)": 0.04,
+      "NDCG": 0.6241,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "text_searcher",
+      "Query": "I want to pick up a creative hobby that I can practice quiet",
+      "Time(s)": 2.1258,
+      "OTR@K": 0.2,
+      "Avg Rel": 2.0,
+      "P(click)": 0.27,
+      "P(buy)": 0.17,
+      "NDCG": 0.6547,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "text_searcher",
+      "Query": "I'm about to drive cross-country alone for three days straig",
+      "Time(s)": 1.3243,
+      "OTR@K": 0.0,
+      "Avg Rel": 1.8,
+      "P(click)": 0.26,
+      "P(buy)": 0.14,
+      "NDCG": 0.7941,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "text_searcher",
+      "Query": "I'm leaving my house empty for a month while traveling. How ",
+      "Time(s)": 1.9705,
+      "OTR@K": 1.0,
+      "Avg Rel": 8.2,
+      "P(click)": 0.82,
+      "P(buy)": 0.71,
+      "NDCG": 0.985,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "text_searcher",
+      "Query": "I want to make personalized Christmas gifts for my family th",
+      "Time(s)": 1.8291,
+      "OTR@K": 0.2,
+      "Avg Rel": 2.2,
+      "P(click)": 0.24,
+      "P(buy)": 0.16,
+      "NDCG": 0.6774,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "text_searcher",
+      "Query": "My doctor told me I need to lose 15 kg and reduce stress. Wh",
+      "Time(s)": 1.7269,
+      "OTR@K": 0.4,
+      "Avg Rel": 4.6,
+      "P(click)": 0.52,
+      "P(buy)": 0.36,
+      "NDCG": 0.9365,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "text_searcher",
+      "Query": "I got accepted to a semester abroad in a cold country and I'",
+      "Time(s)": 2.3815,
+      "OTR@K": 0.4,
+      "Avg Rel": 4.0,
+      "P(click)": 0.44,
+      "P(buy)": 0.31,
+      "NDCG": 0.9006,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "multimodal",
+      "Query": "My sister just had a baby and I want to give her something r",
+      "Time(s)": 1.808,
+      "OTR@K": 0.2,
+      "Avg Rel": 2.6,
+      "P(click)": 0.35,
+      "P(buy)": 0.25,
+      "NDCG": 1.0,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "multimodal",
+      "Query": "I'm adopting a rescue dog this weekend. What should I prepar",
+      "Time(s)": 1.9913,
+      "OTR@K": 0.0,
+      "Avg Rel": 0.2,
+      "P(click)": 0.08,
+      "P(buy)": 0.02,
+      "NDCG": 1.0,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "multimodal",
+      "Query": "I want to start cooking healthy meals instead of ordering ta",
+      "Time(s)": 1.5648,
+      "OTR@K": 0.0,
+      "Avg Rel": 0.6,
+      "P(click)": 0.16,
+      "P(buy)": 0.04,
+      "NDCG": 1.0,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "multimodal",
+      "Query": "We just moved into a new apartment and everything is empty. ",
+      "Time(s)": 1.5505,
+      "OTR@K": 0.0,
+      "Avg Rel": 3.2,
+      "P(click)": 0.4,
+      "P(buy)": 0.2,
+      "NDCG": 0.9492,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "multimodal",
+      "Query": "I'm starting a YouTube channel but I have zero equipment. Wh",
+      "Time(s)": 2.1901,
+      "OTR@K": 0.6,
+      "Avg Rel": 5.4,
+      "P(click)": 0.58,
+      "P(buy)": 0.46,
+      "NDCG": 0.9023,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "multimodal",
+      "Query": "I have two weeks off and want to completely disconnect from ",
+      "Time(s)": 1.8782,
+      "OTR@K": 0.2,
+      "Avg Rel": 2.0,
+      "P(click)": 0.24,
+      "P(buy)": 0.16,
+      "NDCG": 0.5672,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "multimodal",
+      "Query": "I have an important job interview tomorrow and I want to loo",
+      "Time(s)": 1.2478,
+      "OTR@K": 0.6,
+      "Avg Rel": 5.4,
+      "P(click)": 0.61,
+      "P(buy)": 0.44,
+      "NDCG": 0.8588,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "multimodal",
+      "Query": "My 7-year-old is bored during summer break and I want to kee",
+      "Time(s)": 1.4924,
+      "OTR@K": 1.0,
+      "Avg Rel": 8.0,
+      "P(click)": 0.82,
+      "P(buy)": 0.72,
+      "NDCG": 0.9801,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "multimodal",
+      "Query": "Our office is organizing a weekend team-building outdoors. W",
+      "Time(s)": 1.6611,
+      "OTR@K": 0.0,
+      "Avg Rel": 0.4,
+      "P(click)": 0.12,
+      "P(buy)": 0.02,
+      "NDCG": 0.6309,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "multimodal",
+      "Query": "I want to pick up a creative hobby that I can practice quiet",
+      "Time(s)": 1.6568,
+      "OTR@K": 0.0,
+      "Avg Rel": 0.2,
+      "P(click)": 0.1,
+      "P(buy)": 0.02,
+      "NDCG": 0.6309,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "multimodal",
+      "Query": "I'm about to drive cross-country alone for three days straig",
+      "Time(s)": 1.9632,
+      "OTR@K": 0.0,
+      "Avg Rel": 0.2,
+      "P(click)": 0.06,
+      "P(buy)": 0.02,
+      "NDCG": 1.0,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "multimodal",
+      "Query": "I'm leaving my house empty for a month while traveling. How ",
+      "Time(s)": 1.4647,
+      "OTR@K": 0.0,
+      "Avg Rel": 1.2,
+      "P(click)": 0.2,
+      "P(buy)": 0.1,
+      "NDCG": 0.8558,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "multimodal",
+      "Query": "I want to make personalized Christmas gifts for my family th",
+      "Time(s)": 1.9077,
+      "OTR@K": 0.0,
+      "Avg Rel": 2.8,
+      "P(click)": 0.38,
+      "P(buy)": 0.18,
+      "NDCG": 0.9866,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "multimodal",
+      "Query": "My doctor told me I need to lose 15 kg and reduce stress. Wh",
+      "Time(s)": 1.7581,
+      "OTR@K": 0.0,
+      "Avg Rel": 2.4,
+      "P(click)": 0.3,
+      "P(buy)": 0.14,
+      "NDCG": 0.7324,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "multimodal",
+      "Query": "I got accepted to a semester abroad in a cold country and I'",
+      "Time(s)": 1.8832,
+      "OTR@K": 0.6,
+      "Avg Rel": 5.0,
+      "P(click)": 0.55,
+      "P(buy)": 0.44,
+      "NDCG": 0.7453,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "taxonomy_searcher",
+      "Query": "My sister just had a baby and I want to give her something r",
+      "Time(s)": 4.9848,
+      "OTR@K": 1.0,
+      "Avg Rel": 8.4,
+      "P(click)": 0.87,
+      "P(buy)": 0.76,
+      "NDCG": 0.9722,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "taxonomy_searcher",
+      "Query": "I'm adopting a rescue dog this weekend. What should I prepar",
+      "Time(s)": 3.283,
+      "OTR@K": 0.4,
+      "Avg Rel": 4.4,
+      "P(click)": 0.51,
+      "P(buy)": 0.34,
+      "NDCG": 0.9465,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "taxonomy_searcher",
+      "Query": "I want to start cooking healthy meals instead of ordering ta",
+      "Time(s)": 3.0208,
+      "OTR@K": 0.2,
+      "Avg Rel": 3.6,
+      "P(click)": 0.4,
+      "P(buy)": 0.26,
+      "NDCG": 0.8647,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "taxonomy_searcher",
+      "Query": "We just moved into a new apartment and everything is empty. ",
+      "Time(s)": 2.8102,
+      "OTR@K": 0.4,
+      "Avg Rel": 4.6,
+      "P(click)": 0.52,
+      "P(buy)": 0.36,
+      "NDCG": 0.7883,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "taxonomy_searcher",
+      "Query": "I'm starting a YouTube channel but I have zero equipment. Wh",
+      "Time(s)": 3.4168,
+      "OTR@K": 0.8,
+      "Avg Rel": 6.6,
+      "P(click)": 0.72,
+      "P(buy)": 0.57,
+      "NDCG": 0.9334,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "taxonomy_searcher",
+      "Query": "I have two weeks off and want to completely disconnect from ",
+      "Time(s)": 5.1869,
+      "OTR@K": 0.2,
+      "Avg Rel": 1.8,
+      "P(click)": 0.26,
+      "P(buy)": 0.16,
+      "NDCG": 0.4636,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "taxonomy_searcher",
+      "Query": "I have an important job interview tomorrow and I want to loo",
+      "Time(s)": 3.0608,
+      "OTR@K": 0.2,
+      "Avg Rel": 3.4,
+      "P(click)": 0.43,
+      "P(buy)": 0.26,
+      "NDCG": 0.8715,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "taxonomy_searcher",
+      "Query": "My 7-year-old is bored during summer break and I want to kee",
+      "Time(s)": 4.7445,
+      "OTR@K": 0.6,
+      "Avg Rel": 5.8,
+      "P(click)": 0.6,
+      "P(buy)": 0.48,
+      "NDCG": 0.9633,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "taxonomy_searcher",
+      "Query": "Our office is organizing a weekend team-building outdoors. W",
+      "Time(s)": 3.173,
+      "OTR@K": 0.0,
+      "Avg Rel": 2.4,
+      "P(click)": 0.32,
+      "P(buy)": 0.14,
+      "NDCG": 0.8647,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "taxonomy_searcher",
+      "Query": "I want to pick up a creative hobby that I can practice quiet",
+      "Time(s)": 4.9907,
+      "OTR@K": 0.8,
+      "Avg Rel": 6.8,
+      "P(click)": 0.67,
+      "P(buy)": 0.54,
+      "NDCG": 0.9864,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "taxonomy_searcher",
+      "Query": "I'm about to drive cross-country alone for three days straig",
+      "Time(s)": 2.8094,
+      "OTR@K": 0.0,
+      "Avg Rel": 0.6,
+      "P(click)": 0.14,
+      "P(buy)": 0.06,
+      "NDCG": 0.6697,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "taxonomy_searcher",
+      "Query": "I'm leaving my house empty for a month while traveling. How ",
+      "Time(s)": 2.861,
+      "OTR@K": 0.0,
+      "Avg Rel": 0.8,
+      "P(click)": 0.18,
+      "P(buy)": 0.08,
+      "NDCG": 0.7606,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "taxonomy_searcher",
+      "Query": "I want to make personalized Christmas gifts for my family th",
+      "Time(s)": 5.39,
+      "OTR@K": 0.4,
+      "Avg Rel": 4.8,
+      "P(click)": 0.52,
+      "P(buy)": 0.36,
+      "NDCG": 0.8207,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "taxonomy_searcher",
+      "Query": "My doctor told me I need to lose 15 kg and reduce stress. Wh",
+      "Time(s)": 3.6699,
+      "OTR@K": 0.2,
+      "Avg Rel": 4.0,
+      "P(click)": 0.46,
+      "P(buy)": 0.28,
+      "NDCG": 0.8454,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "taxonomy_searcher",
+      "Query": "I got accepted to a semester abroad in a cold country and I'",
+      "Time(s)": 3.5932,
+      "OTR@K": 0.0,
+      "Avg Rel": 1.6,
+      "P(click)": 0.26,
+      "P(buy)": 0.12,
+      "NDCG": 0.9045,
+      "P@1": 0,
+      "Tax.Fallback": false
+    }
+  ],
+  "evaluations": {
+    "baseline": {
+      "My sister just had a baby and I want to give her something really useful. What should I get?": [
+        {
+          "position": 1,
+          "product_name": "Aveeno Daily Moisture Baby Lotion 8oz",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.65,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "ONKAR Umbrella Baby Mosquito Net, Safe & Easy Use Ensures Your Baby's Safe Sleep. Gives a Protection Against Dengue & Mala...",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.65,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "ONKAR Unique Umbrella Design Mosquito Net for New Born Baby, Safe & Easy Use Ensures Your Baby's Safe Sleep. Gives a Prote...",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.65,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "NEW GEN Baby Casual WEAR",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Kuruti B Sheets Women Anarkali Kurta",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.25,
+          "rerank_score": null
+        }
+      ],
+      "I'm adopting a rescue dog this weekend. What should I prepare at home before bringing him?": [
+        {
+          "position": 1,
+          "product_name": "Home's Good Adjustable Dogs Harness with Reflective Stripes Vest, No Pull & Easy Control Dog Chest Vest Belt for Medium Dogs",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "GENESIS ARTS CUSTOMISED SS BONE KEYCHAIN FOR DOGS AND PET LOVERS, ENGRAVED KEYCHAIN, PERSONAL USE, GIFT PURPOSE",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "OutPetcare Housetraining AID for Puppies, 500 ml",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Home Bargains Adjustable Dog Feeding Bowl, Dog Food Stand, Double Pet Food and Water Bowls, Raised Feeder Dispenser, Two S...",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.65,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Giggles - Sniffy The Dog , Pull along toy , Head bobs,Tail wags,Encourages Walking , 12 months & above , Infant and Presch...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.25,
+          "rerank_score": null
+        }
+      ],
+      "I want to start cooking healthy meals instead of ordering takeout. Where do I even begin?": [
+        {
+          "position": 1,
+          "product_name": "Baidyanath Kesari Shakti Kalp 1 kg",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Samsung 23 L Solo Microwave Oven (MS23J5133AG/TL, Healthy Cook, Black)",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "hitkary kesar elaichi sharbat 750 ml",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "PAANSMITH DRY PAAN 170g - HEALTHY DIGESTIVE | DRY PAAN | AFTER-MEAL | Mouth Freshener",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Testo 0563 2750 270 Cooking Oil Tester, 10\" Length x 2\" Width x 1\" Height",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.25,
+          "rerank_score": null
+        }
+      ],
+      "We just moved into a new apartment and everything is empty. What are the first things to buy?": [
+        {
+          "position": 1,
+          "product_name": "Our First Home Keychains New Home Keychain Housewarming Gift for New Homeowner House Keyring Moving in Key Chain New Home ...",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "hitkary kesar elaichi sharbat 750 ml",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Qtavia Spa Kit",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "First Aid Bag - First Aid Kit Bag Empty for Home Outdoor Travel Camping Hiking, Mini Empty Medical Storage Bag Portable Pouch",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "PALAY® 2 Pack First Aid Pouch Portable First Aid Kit Bag Empty Emergency Treatment Medicine Bags Organizer Travel Pharmacy...",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.25,
+          "rerank_score": null
+        }
+      ],
+      "I'm starting a YouTube channel but I have zero equipment. What do I absolutely need on day one?": [
+        {
+          "position": 1,
+          "product_name": "Sloggi Women Bra",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Puma Unisex-Adult Future Rider Day Zero Future Rider Day Zero",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "PASCAL Home Gym Equipments for Men, [8-100Kg], One Curl Rod, One Straight Rod+ One Pair Dumbbell Rods, PVC Dumbbell Plate...",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Sloggi Men Briefs",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "hitkary kesar elaichi sharbat 750 ml",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.25,
+          "rerank_score": null
+        }
+      ],
+      "I have two weeks off and want to completely disconnect from screens. How can I keep myself entertained?": [
+        {
+          "position": 1,
+          "product_name": "Shuban Fiberglass Mesh Mosquito Net Screen-Self-Closing with Magnet Closures Screen Heavy Duty Mesh , Keep Bugs Mosquito F...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "DABUR Swarna Guggulu 30 Tabs",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Xtore Spice Herb Grinder with Pollen Catcher and Brush, Two Filtration Mesh Screens, Black",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Shree Saatvik Pudina Vita",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Kuruti B Sheets Women Anarkali Kurta",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.25,
+          "rerank_score": null
+        }
+      ],
+      "I have an important job interview tomorrow and I want to look my absolute best. What can help?": [
+        {
+          "position": 1,
+          "product_name": "MODEST CITY Abaya Imported Burkhas or Burqa Classic Looks premium imported fabric, with a rich feel & texture and is flow...",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Kuruti B Sheets Women Anarkali Kurta",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "QYOOTY Women's Trendy Designer best denim shoulder handbag for classic look",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Me-On Face Primer",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "mens jens",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.25,
+          "rerank_score": null
+        }
+      ],
+      "My 7-year-old is bored during summer break and I want to keep him learning. Any ideas?": [
+        {
+          "position": 1,
+          "product_name": "Einstein Box for 1-Year-Old Boys/Girls | Gift Toys for 1-Year-Old Kids | Board Books and Pretend Play Gift Pack | Learning...",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Reading Comprehension: Grade 1 (Practice Makes Perfect)",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Genius Box - Play Some Learning 7 In 1 Activity & Learning Kit For Children Age 3 Years And Up : Magical Colours Education...",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.85,
+          "probability_to_buy": 0.75,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Reading Comprehension, Grade 1 (Master Skills)",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Inferring: Grades 1-2 / Ages 6-7 (Spotlight on Reading)",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.65,
+          "hybrid_score": 0.25,
+          "rerank_score": null
+        }
+      ],
+      "Our office is organizing a weekend team-building outdoors. What should we bring for group activities?": [
+        {
+          "position": 1,
+          "product_name": "Lovehush Stylish & Trending Denim Outdoor Walking Comfortable",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Active Pixel 4mp Pan Tilt Zoom Home Office WiFi Outdoor PTZ CCTV Camera | Wireless Outdoor Security 360° | 8X Zoom | Night...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "WIRE HARNESS TESTER, IT IS PERFORMS TESTS FOR OK, OPEN, SHORT & WIRE INTERCHANGE",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Trendy Retail Black High Tenacity Nylon Mesh Storage Bags Outdoors Activities Folding Hanging Organizer Bag for Kettle Mob...",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "HUETRAP Mens Get Going Outdoor – Graphic Sleeveless Tee",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.25,
+          "rerank_score": null
+        }
+      ],
+      "I want to pick up a creative hobby that I can practice quietly in my apartment at night. What do I need?": [
+        {
+          "position": 1,
+          "product_name": "Flair Creative Series Super Smart Kit | Combination Smart Kit for Your Creative Need | Use for Writing, Colouring, Drawing...",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.8,
+          "probability_to_buy": 0.7,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Learning The Basics Of Home Theater",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Citaaz Creative Luminous Acrylic Board DIY Memo Acrylic Message Board Light LED Night Light, Personalized Night Light, Chi...",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "mens jens",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Kuruti B Sheets Women Anarkali Kurta",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.25,
+          "rerank_score": null
+        }
+      ],
+      "I'm about to drive cross-country alone for three days straight. How do I survive the boredom and stay safe?": [
+        {
+          "position": 1,
+          "product_name": "Drive Safe Keychain Gift for Dad Husband Boyfriend on Father''s Day Thanksgiving Anniversary Gift",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "pritla V Neck Vest",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Kaameri Bazaar Drive Safe Metal Keychain (Silver/Black) - valentine day gift for boyfriend girlfriend husband wife",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Lovable All Day Long Minimiser Bra",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Girnar Masaledar Limbooz 180g",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.25,
+          "rerank_score": null
+        }
+      ],
+      "I'm leaving my house empty for a month while traveling. How do I make sure everything stays safe?": [
+        {
+          "position": 1,
+          "product_name": "House of Quirk 7pcs Set Travel Organizer Packing Cubes Lightweight Travel Luggage Organizers with Laundry Bag or Toiletry ...",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "DABUR Swarna Guggulu 30 Tabs",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "HARRODS Travel Bottles with Flip Cap (4 Pcs) Empty Amber Dispenser Container for Travel Size Cosmetics (100ml)",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Kuruti B Sheets Women Anarkali Kurta",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "REMANG 6Pcs Empty Refillable Travel Cosmetic Bottles Multipurpose Travel Toiletries Pouch Kit Mini Containers for Face Cre...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.25,
+          "rerank_score": null
+        }
+      ],
+      "I want to make personalized Christmas gifts for my family this year instead of buying them. What do I need?": [
+        {
+          "position": 1,
+          "product_name": "Best Friend Keychain, Couples Gifts Keyring, Double Sided for BFF Dad Mother Friendship Christmas Birthday, Friends TV Sho...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Sanvatsar Home Decorative Diya Set of 6 | Corporate Gift, Diwali Gift Diya,Deepak, Candles, New Year Gift, Christmas Gift...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "mens jens",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Pramadda Pure Luxury Black Leather Sling Bag For Women Stylish | christmas gift for women | new year gift hampers | christ...",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "HASMI SURMI kajal",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.25,
+          "rerank_score": null
+        }
+      ],
+      "My doctor told me I need to lose 15 kg and reduce stress. What products can support this lifestyle change?": [
+        {
+          "position": 1,
+          "product_name": "Dr. Scholl's Men's Sport Insoles with Superior Shock Absorption and Arch Support to Reduce Muscle Fatigue and Stress on Lo...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "HEALTHY MUSCLE AND NERVE FUNCTION, MAGNESIUM CITRATE TABLETS",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Tri Tech Orgo Products Pure Neem Oil Cake pallets 15 kg Bag, Organic Plant Food with Zero Oil Extraction",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Baidyanath Kesari Shakti Kalp 1 kg",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Grizzly Nutrition, True Cellurage, Pre Workout, upto 65 Servings, citrulline, beta alanine, caffeine +13 performance boost...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.25,
+          "rerank_score": null
+        }
+      ],
+      "I got accepted to a semester abroad in a cold country and I've never experienced winter. What should I pack?": [
+        {
+          "position": 1,
+          "product_name": "FabSeasons Winter Outdoor Ear Muffs / Warmer for Men and Women for protection from Cold, Value Combo Pack of 4 & 8",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.65,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "NEVA Winter Wear Thermal",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.65,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Campus Sutra Solid",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Sleepy Owl Coffee Dark Roast Cold Brew Packs | Set of 5 Packs - Makes 15 Cups | 3 Step Brew - No Equipment Required | Cold...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Winter Casual Hoodie",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.25,
+          "rerank_score": null
+        }
+      ]
+    },
+    "text_searcher": {
+      "My sister just had a baby and I want to give her something really useful. What should I get?": [
+        {
+          "position": 1,
+          "product_name": "MOM'S PRIDE® Freesize Adjustable, Washable and Reusable pocket cloth diaper for Newborn Child Toddler Infant Babies (0 - 2...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.90092236,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "CUSTOMARY Baby Boy's and Baby Girl's Sweater, Pyjama and Booties (0-6 Months) (6-12 Month, Black-White)",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.65,
+          "hybrid_score": 0.8970526,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "NEW BORNBABY HUB Baby Bibs Super Soft and Absorbent 100% Cotton Baby Bibs Set for Newborns/Infants/Toddlers/Babies (3-24 M...",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.65,
+          "hybrid_score": 0.89688134,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Supples-Comfy Pants-S-42,Unisex Baby, Pack of 42",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.85,
+          "probability_to_buy": 0.75,
+          "hybrid_score": 0.8954777,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "MOM'S PRIDE® Baby Pocket Cloth Diapers Reusable Cloth Diapers ,Washable, Adjustable Cloth Diapers One Size Adjustable Reus...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.89468616,
+          "rerank_score": null
+        }
+      ],
+      "I'm adopting a rescue dog this weekend. What should I prepare at home before bringing him?": [
+        {
+          "position": 1,
+          "product_name": "Loyal Ammonium Chloride 99.5% (250 Gm)",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8991083,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "URBANPLAYERS Girl's Plain Regular fit Hoodie (ETGSS2020SER16_Grey_7-8YR 7-8YR)",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.88912696,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "BRIDA 100% Cotton Non Padded Non Wired Full Coverage Plus Size Double Layer -Extra Lining & Lift-Special Support Cups-Ever...",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.88740474,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "ISOCHEM Stearic Acid (500GM) Assay 98% Min",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.88212574,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "LABOGENS CALCIUM CARBONATE 1 KG, (calcite powder)",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.88120335,
+          "rerank_score": null
+        }
+      ],
+      "I want to start cooking healthy meals instead of ordering takeout. Where do I even begin?": [
+        {
+          "position": 1,
+          "product_name": "Healthy Treat Roasted 7 in 1 Superseed Mix with fruit (150gm) | Mix Seeds | Diet Snacks | Roasted Seeds for Eating",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.90431666,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "NatureVit Wheatgrass Powder, 100g | Vegan, Non-GMO, Gluten-Free | Rich in Fiber, Chlorophyll, Fatty Acids & Minerals | Sup...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.89544815,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "D4Diet Roasted Moong Jor, 200g / High Protein, Gluten Free, Vegan snack / Healthy Namkeen / Roasted Namkeen",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.8946206,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "RIGHTCRUNCH Amarnath Crackers Variety Combo | Gluten-free & Baked | Healthy Home/Office Snack | Protein-rich | 4 Assorted ...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.8934586,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "SO GOOD Organic Khakhra Methi 900gm | Not Fried Healthy Snack | Evening Snack | 100% organic ingredients - Pack of 3 * 300gm",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.891706,
+          "rerank_score": null
+        }
+      ],
+      "We just moved into a new apartment and everything is empty. What are the first things to buy?": [
+        {
+          "position": 1,
+          "product_name": "DPR MAKK Home APPLIANCES Dual Inverter A.C 1 TON 5STAR L.G",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.8951829,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "WHIRLPOOL AC SUPREMECOOL 1.5T 3S INV EXP S3i3ADO (41408)",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.89133376,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "BRIDA 100% Cotton Non Padded Non Wired Full Coverage Plus Size Double Layer -Extra Lining & Lift-Special Support Cups-Ever...",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8891264,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "coca industries Next GO Single Bed Soft Cotton Tuffted Floor Mattress Ruyi Gadda Foldable Hypoallergenic with Pillow Gives...",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.88700217,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "LEOTUDE Women's Boyfriend/Loose Fit Hoodie Sweatshirt",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8868514,
+          "rerank_score": null
+        }
+      ],
+      "I'm starting a YouTube channel but I have zero equipment. What do I absolutely need on day one?": [
+        {
+          "position": 1,
+          "product_name": "Multi-Coated Variable Polarizing ND Neutral Density Adjustable ND2 -ND400 (Waterproof, Scratchproof, Dustproof) (58MM)",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.93088603,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Dual Level Microphone for Smartphone Camera,157 Inch/4m BOYA BY-M1DM Dual-Head Lapel Mics with 1/8 Plug Adapter Compatible...",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.8,
+          "probability_to_buy": 0.7,
+          "hybrid_score": 0.91519654,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "16 Channel Full HD H.265+ DVR Upto 2 MP Supported (Model - CP-UVR-1601E1-IC OR CP-UVR-1601E1-HC). by True Vision Technolog...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.9137777,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "LYLA HD 3MP(Megapixels) 1/2.5'' 6mm F2.4 Fixed Iris CS Mount Lens for CCTV Industrial Camera",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.91353524,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "HIKVISION 8 Channel DVR 1080P Lite H.265Pro+ 2MP DVR DS-7108HGHI-K1 with USEWELL HDMI (Without Hard Drive), White",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.91307837,
+          "rerank_score": null
+        }
+      ],
+      "I have two weeks off and want to completely disconnect from screens. How can I keep myself entertained?": [
+        {
+          "position": 1,
+          "product_name": "T/S/CLRFUL/BHOOT",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.9152614,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "URBANPLAYERS Girl's Plain Regular fit Hoodie (ETGSS2020SER16_Grey_7-8YR 7-8YR)",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.9144612,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "V Dot Men's Casual Shirt (8907670856185_VDSF517E01928_44_Grey)",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.90281856,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Multi-Coated Variable Polarizing ND Neutral Density Adjustable ND2 -ND400 (Waterproof, Scratchproof, Dustproof) (67MM)",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.9019858,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Funny Meme Graphic Printed Men's 100% Cotton Tshirt | Smart Trendy Stylish | FunkyT-Shirt | Swag t-Shirts | Funny desi T-S...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.901826,
+          "rerank_score": null
+        }
+      ],
+      "I have an important job interview tomorrow and I want to look my absolute best. What can help?": [
+        {
+          "position": 1,
+          "product_name": "T/S/CLRFUL/BHOOT",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.9149372,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Houndstooth Puff Sleeve Stand Collar Top, schiffli tops, western short sleeve tops, peplum shirt pan collar top, sleeve le...",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.91473204,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "SIYARAM�S MEN�S GENTLE GUY POLYESTER VISCOSE SHIRT AND TROUSER SET ( STRIPES , FREE SIZE )",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.65,
+          "hybrid_score": 0.9146553,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Easies by Killer Trouser,Ankle Length,E-16506 ANKLGHT NVNAVY,34 (E-16506,Navy_34)",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.9145728,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "GRECIILOOKS Top for Women - Ruched Bust Square Neck Ribbed Crop Cami Top & Stretchable Slim Fit Crop Top Suitable for Func...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.9128384,
+          "rerank_score": null
+        }
+      ],
+      "My 7-year-old is bored during summer break and I want to keep him learning. Any ideas?": [
+        {
+          "position": 1,
+          "product_name": "URBANPLAYERS Girl's Plain Regular fit Hoodie (ETGSS2020SER16_Grey_7-8YR 7-8YR)",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8903215,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "MICROSMT M21 Smart LED TV (75-SMT-SL/1024/08-KSR-22),75 Inches.",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.87705207,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "LABOGENS CALCIUM CARBONATE 1 KG, (calcite powder)",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.86935127,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "MICROSMT M34 Smart LED TV (43-SMT-FL/1024/08-KSR-22),43 Inches.",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8676625,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "URBANPLAYERS Girl's Plain Regular fit Hoodie (ETGSS2020SER12_Black_11-12YR 11-12YR)",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.865666,
+          "rerank_score": null
+        }
+      ],
+      "Our office is organizing a weekend team-building outdoors. What should we bring for group activities?": [
+        {
+          "position": 1,
+          "product_name": "URBANPLAYERS Girl's Plain Regular fit Hoodie (ETGSS2020SER16_Grey_7-8YR 7-8YR)",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8845468,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "T/S/CLRFUL/BHOOT",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8715768,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "FREECULTR Men Other Briefs (Pack of 5)(FCP-XT-B-POB-SEG-SW-TV-CW-L_-BLACK, GREEN, S WINE, T VIOLET, C WHITE_L)",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.87072444,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "URBANPLAYERS Girl's Plain Regular fit Hoodie (ETGSS2020SER12_Black_11-12YR 11-12YR)",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8695485,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "U.S. POLO ASSN. Men's Modern (I664-PR_Navy Players_L)",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.86639166,
+          "rerank_score": null
+        }
+      ],
+      "I want to pick up a creative hobby that I can practice quietly in my apartment at night. What do I need?": [
+        {
+          "position": 1,
+          "product_name": "DPR MAKK Home APPLIANCES Dual Inverter A.C 1 TON 5STAR L.G",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8988038,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "GRANOTONE Acrylic Colour Art and Craft Paint, DIY Paint, Rich Pigment, Non-Craking Paint for Canvas, Wood, Leather, Earthe...",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.65,
+          "hybrid_score": 0.89693063,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Kelific Home || Cabin Fan|| Office Fan|| 12Inches 300 MM || 100%Copper Motor ||High Speed ||1 Year Warranty || HSLV Techno...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8960886,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Multi-Coated Variable Polarizing ND Neutral Density Adjustable ND2 -ND400 (Waterproof, Scratchproof, Dustproof) (58MM)",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8952198,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "MICROSMT M21 Smart LED TV (75-SMT-SL/1024/08-KSR-22),75 Inches.",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.89474285,
+          "rerank_score": null
+        }
+      ],
+      "I'm about to drive cross-country alone for three days straight. How do I survive the boredom and stay safe?": [
+        {
+          "position": 1,
+          "product_name": "Warning NO ROAD NO PROBLEM Decal Car Sticker Waterproof Vinyl Accessories for 4X4 SUV OFFROAD 4WD,15cm*3cm",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8904891,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "10 Liters Refrigerator, 220V-240V Heating Mini Fridge Cooling for Car for Home(#2)",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.88922936,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Safety Net Wired 1080P Dvr Multifunctional Car Key Chain Mini Cam Dvr IR Night Vision Motion Detection Perfect Indoor Cove...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.88863957,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Mini Fridge, 2 in 1 Warmer 4L 6 Can -20℃ Portable 12/24V DC 110V AC Car Fridge, Detachable Car Refrigerator with Car Charg...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.88608044,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "8L Mini Fridge, 12V AC/DC Large Capacity Mirror Beauty Portable Electric Cooler& Warmer with LED Light, White Convenient M...",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.88439417,
+          "rerank_score": null
+        }
+      ],
+      "I'm leaving my house empty for a month while traveling. How do I make sure everything stays safe?": [
+        {
+          "position": 1,
+          "product_name": "Dahua NVR2108HS-S2 1080P 8CH NVR (Black)",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.65,
+          "hybrid_score": 0.92270535,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "RFV1 WiFi CCTV Camera 1080p HD PTZ | Supports Icsee app | IP66 Waterproof | Color Night Vision | LED Lights & Auto Trackin...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.91840917,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "CP PLUS 16 CHANNEL DVR CP-UVR-1601E1-HC",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.8,
+          "probability_to_buy": 0.7,
+          "hybrid_score": 0.9129814,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Techno //(CP-GPC-T24PL2-S) 2.4 MP Full HD IR Guard Plus",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.85,
+          "probability_to_buy": 0.7,
+          "hybrid_score": 0.91133595,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "SAFETYNET Mini Spy Camera, WiFi Wireless Hidden Cameras, with Night Vision Hidden Spy Camera, HD 1080P Micro Camera Home S...",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.65,
+          "hybrid_score": 0.9098639,
+          "rerank_score": null
+        }
+      ],
+      "I want to make personalized Christmas gifts for my family this year instead of buying them. What do I need?": [
+        {
+          "position": 1,
+          "product_name": "T/S/CLRFUL/BHOOT",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.88655204,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "BRIDA 100% Cotton Non Padded Non Wired Full Coverage Plus Size Double Layer -Extra Lining & Lift-Special Support Cups-Ever...",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.877686,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "ImpressiveWorks Thank You Gift Tags Labels with String/Thread for Presents,Gifts and Paper Bags (Pack of 40 Tags in 4 Diff...",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.8775927,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "A.T.U.N. (ALL THINGS UBER NICE) Girl Dress",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.87621367,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Pregnancy Announcement Gifts Daddy and Mommy Est 2020 Keychain Set Parents Gift Mommy to Be Gift First Time Dad Gifts with...",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8759042,
+          "rerank_score": null
+        }
+      ],
+      "My doctor told me I need to lose 15 kg and reduce stress. What products can support this lifestyle change?": [
+        {
+          "position": 1,
+          "product_name": "NutriJa WHEY PROTEIN ISOLATE 95% [Zero Carb, Zero Fat with Digestive Enzymes] - 2lbs (Mango)",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.9187201,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Healthyhey Nutrition N-Acetyl L-Cysteine (NAC) - Non-GMO - Gluten Free -Pack of 120 Veg. Capsules",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.91837144,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Dr.NUTRA BCAA 2:1:1 Vegan BCAA Powder, 5 Grams of Amino Acids, Caffeine Free, Pure Powder Pre-Post Workout (Blue Raspberr...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.9169317,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "prompt nutrition GAT L - Arginine Pack of 180 Tabs With Importer Tag.",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.9157665,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "AQUATEIN PRO - PROTEIN WATER - 21 Grams Protein - Pack of 8 - Sugar Free, Fat Free, Carb Free - Your Best Protein Buddy (T...",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.9092087,
+          "rerank_score": null
+        }
+      ],
+      "I got accepted to a semester abroad in a cold country and I've never experienced winter. What should I pack?": [
+        {
+          "position": 1,
+          "product_name": "TOPLOT Women's Hoodie||Full Sleeve Solid Sweatshirt Hoodies||Winter Wear for Women||Hooded Neck Style||Long Women's Hoodie...",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.65,
+          "hybrid_score": 0.894541,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "The Comfort Closet - Baby's Handmade Sweater with Cap and Booties (6-12 Months) (Blue and White)",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8926669,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "URBANPLAYERS Girl's Plain Regular fit Hoodie (ETGSS2020SER12_Black_11-12YR 11-12YR)",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.8870366,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "BRIDA 100% Cotton Non Padded Non Wired Full Coverage Plus Size Double Layer -Extra Lining & Lift-Special Support Cups-Ever...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.88580406,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "U.S. POLO ASSN. Women's Cotton Blend Hooded Neck Sweatshirt (8905034153512_Off White_M)",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.88496715,
+          "rerank_score": null
+        }
+      ]
+    },
+    "multimodal": {
+      "My sister just had a baby and I want to give her something really useful. What should I get?": [
+        {
+          "position": 1,
+          "product_name": "MOM'S PRIDE® Freesize Adjustable, Washable and Reusable pocket cloth diaper for Newborn Child Toddler Infant Babies (0 - 2...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.82285255,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Daikin 1 Ton 5 Star Inverter Split AC (Copper, PM 2.5 Filter, 2022 Model, FTKR35U, White)",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8212039,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "REN STAR Women's Floral Print Hosiery Cotton Full Sleeve Nightwear Nighty/Maxi/Gown (Color: Yellow, Size-XXL) FSX-047",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8185954,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "AmtiQ Women's Printed Embellished Bikini Bra Panty Lingerie Set (Black)",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.81459475,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Haier 1.0 Ton 3 Star Intelli smart Inverter AC(Intelli Convertible 7-in-1, Triple Inverter+ Technology, 2023, HSU13K-PYFR3...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.81440914,
+          "rerank_score": null
+        }
+      ],
+      "I'm adopting a rescue dog this weekend. What should I prepare at home before bringing him?": [
+        {
+          "position": 1,
+          "product_name": "DPR MAKK Home APPLIANCES 5 in 1 Cool Plus -Haier A.C",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.84501696,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Lloyd 1.5 Ton 2 Star Fixed Speed Split AC (Copper, Anti-Viral + PM 2.5 Filter, 2023 Model, White, GLS18C2XWASS)",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.84180784,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "KAIN 10 ltrs (9 Cms) backpack(KBK006_2_3_pink)",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8390118,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "LG 1.5 TON 5 STAR AI Convertible 6-in-1 Split AC with Anti Virus Protection, 2022 MODEL, (PS-Q19ENZE,WHITE)",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.83856624,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Carrier 18K Indus CX 1.5 Ton 3 Star Split AC (Copper Condenser, CAS18IN3R31F1, White)",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8364899,
+          "rerank_score": null
+        }
+      ],
+      "I want to start cooking healthy meals instead of ordering takeout. Where do I even begin?": [
+        {
+          "position": 1,
+          "product_name": "Organic Tattva, Organic Roasted Chana Dal, 500g | 100% Vegan, Gluten Free and NO Additives",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.8866482,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "LABOGENS POTASSIUM SULPHATE 500GM, Assay : Min. 99% K2SO4 M.W. 174.26, (CAS NO. 7778-80-5)",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.84072363,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Daikin 1 Ton 5 Star Inverter Split AC (Copper, PM 2.5 Filter, 2022 Model, FTKR35U, White)",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8398533,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "DPR MAKK Home APPLIANCES 5 in 1 Cool Plus -Haier A.C",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.839216,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Haier 1.0 Ton 3 Star Intelli smart Inverter AC(Intelli Convertible 7-in-1, Triple Inverter+ Technology, 2023, HSU13K-PYFR3...",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.83413696,
+          "rerank_score": null
+        }
+      ],
+      "We just moved into a new apartment and everything is empty. What are the first things to buy?": [
+        {
+          "position": 1,
+          "product_name": "Whirlpool 1.5 Ton 4 Star, Flexicool Inverter Split AC (Copper, Convertible 4-in-1 Cooling Mode, HD Filter 2023 Model, S3I3...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.8752713,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "LG 2.0 Ton 3 Star AI DUAL Inverter Split AC (Copper, Super Convertible 6-in-1 Cooling, 4 Way Swing, HD Filter with Anti-Vi...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.8677396,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Daikin 1 Ton 5 Star Inverter Split AC (Copper, PM 2.5 Filter, 2022 Model, FTKR35U, White)",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.86695445,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Ogeneral 2 Ton 3 Star Window Air Conditioner AXGT24FHTC",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.86634046,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Hitachi SPLIT AC - 1.0 Ton HITACHI SHIZEN 3100S INVERTER - R32 - RAPG312HFEOZ1 (Gold)",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.8641629,
+          "rerank_score": null
+        }
+      ],
+      "I'm starting a YouTube channel but I have zero equipment. What do I absolutely need on day one?": [
+        {
+          "position": 1,
+          "product_name": "QAZ 1080p HD USB Universal Interface Mini Flexi Neck Camera , Supports Micro SD Card Recording (Not Included) Security Cam...",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.8330664,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Dual Level Microphone for Smartphone Camera,157 Inch/4m BOYA BY-M1DM Dual-Head Lapel Mics with 1/8 Plug Adapter Compatible...",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.65,
+          "hybrid_score": 0.8258453,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "CAM 360 4K Full HD 1080P Video and Audio Recorder Mini Spy Pen Body Camera Lens Cover/ Portable Hidden Recorder with Data ...",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8248934,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "CP PLUS 2MP Full-Color Guard + Network IR Bullet Camera | 2Megapixel PS CMOS Image Sensor | Smart H.265+ and Smart H.264+ ...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.82415724,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Logitech Digital C922 Pro Stream Webcam 1080P Camera for HD Video Streaming Recording 720P At 60Fps - Black",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.82367736,
+          "rerank_score": null
+        }
+      ],
+      "I have two weeks off and want to completely disconnect from screens. How can I keep myself entertained?": [
+        {
+          "position": 1,
+          "product_name": "NEUTRON Fashion Analog Black and Grey Color Dial Women Watch - GX10-(13-L-10) (Pack of 2)",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8658955,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "POONAM ART EXPORTS,WHERE INNOVATION NEVER STOPS Entertainment Unit - 09",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.7931831,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "URBANPLAYERS Girl's Plain Regular fit Hoodie (ETGSS2020SER16_Grey_7-8YR 7-8YR)",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.7879488,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "m mhb HD Quality Bluetooth Spy Camera Hidden Video Audio Recording Bluetooth Camera Inbuilt 4GB Memory. with inbuilt Recha...",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.78674996,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "KARP Children Deluxe Art Drawing Set for Kids Case Studio Art and Craft Supplies Drawing and Painting Set Great Gift (150 ...",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.7857541,
+          "rerank_score": null
+        }
+      ],
+      "I have an important job interview tomorrow and I want to look my absolute best. What can help?": [
+        {
+          "position": 1,
+          "product_name": "Houndstooth Puff Sleeve Stand Collar Top, schiffli tops, western short sleeve tops, peplum shirt pan collar top, sleeve le...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.8048717,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Metloke Men Casual Shirt | Full Sleeves Formal Slim Fit Plain Office Shirts for Men",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.80387884,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Campus Sutra Men Solid Stylish Full Sleeve Casual Blazer's",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.80036145,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "V Dot Men's Casual Shirt (8907670856185_VDSF517E01928_44_Grey)",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.7999887,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "COOL MEAN Casual laffer Cotton Lining Regular Long Sleeves Shirt for Men Latest Shirt for Men Stylish Shirt for Men (Pack ...",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.799942,
+          "rerank_score": null
+        }
+      ],
+      "My 7-year-old is bored during summer break and I want to keep him learning. Any ideas?": [
+        {
+          "position": 1,
+          "product_name": "Skillmatics Floor Puzzle & Game - Piece & Play Up in Space, Jigsaw Puzzle (48 Pieces, 2 x 3 feet), Ages 3 to 7",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.8,
+          "probability_to_buy": 0.7,
+          "hybrid_score": 0.797535,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Math Strategy Board Game - Math Builder. Best Gift for Children Educational Toy for Boys and Girls",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.7878465,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Drawing Book A4 Size Approx | Plain Sketch Pad for Kids, Students & Artists | 34 White Blank Unruled Pages | 29.5 x 21 cm...",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.7876777,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Genius Box Educational Toy for 3+ Year Age: Farm Fun DIY,Activity Kit, Learning Kit, Educational Kit, STEM Toy",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.8,
+          "probability_to_buy": 0.7,
+          "hybrid_score": 0.7867789,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Smartivity Kaleidoscope STEM Educational DIY Fun Toys, Educational & Construction based Activity Game for Kids 6 to 14, Bi...",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.85,
+          "probability_to_buy": 0.75,
+          "hybrid_score": 0.78650934,
+          "rerank_score": null
+        }
+      ],
+      "Our office is organizing a weekend team-building outdoors. What should we bring for group activities?": [
+        {
+          "position": 1,
+          "product_name": "WOMEN MARKS NSB-06-ZIPPER-HANDBAG",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.852168,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "KAIN 10 ltrs (9 Cms) backpack(KBK006_2_3_pink)",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8337431,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Godrej 1.5 Ton 5 Star 5-In-1 Convertible, Inverter Split AC (100% Copper, Heavy Duty Cooling at 52°C, 2023 Model,AC 1.5T E...",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8307454,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "DPR MAKK Home APPLIANCES 5 in 1 Cool Plus -Haier A.C",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8251793,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Lloyd 1.5 Ton 2 Star Fixed Speed Split AC (Copper, Anti-Viral + PM 2.5 Filter, 2023 Model, White, GLS18C2XWASS)",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8212465,
+          "rerank_score": null
+        }
+      ],
+      "I want to pick up a creative hobby that I can practice quietly in my apartment at night. What do I need?": [
+        {
+          "position": 1,
+          "product_name": "LG 2.0 Ton 3 Star AI DUAL Inverter Split AC (Copper, Super Convertible 6-in-1 Cooling, 4 Way Swing, HD Filter with Anti-Vi...",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8610332,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Godrej 1.5 Ton 5 Star 5-In-1 Convertible, Inverter Split AC (100% Copper, Heavy Duty Cooling at 52°C, 2023 Model,AC 1.5T E...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8582111,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Whirlpool 1.5 Ton 4 Star, Flexicool Inverter Split AC (Copper, Convertible 4-in-1 Cooling Mode, HD Filter 2023 Model, S3I3...",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8575182,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Ogeneral 2 Ton 3 Star Window Air Conditioner AXGT24FHTC",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8561944,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Hitachi SPLIT AC - 1.0 Ton HITACHI SHIZEN 3100S INVERTER - R32 - RAPG312HFEOZ1 (Gold)",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.85134864,
+          "rerank_score": null
+        }
+      ],
+      "I'm about to drive cross-country alone for three days straight. How do I survive the boredom and stay safe?": [
+        {
+          "position": 1,
+          "product_name": "KAIN 10 ltrs (9 Cms) backpack(KBK006_2_3_pink)",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.85709727,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "DPR MAKK Home APPLIANCES 5 in 1 Cool Plus -Haier A.C",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8529071,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "LG 1.5 TON 5 STAR AI Convertible 6-in-1 Split AC with Anti Virus Protection, 2022 MODEL, (PS-Q19ENZE,WHITE)",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8521873,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Lloyd 1.5 Ton 2 Star Fixed Speed Split AC (Copper, Anti-Viral + PM 2.5 Filter, 2023 Model, White, GLS18C2XWASS)",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8509513,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "LG 2.0 Ton 3 Star AI DUAL Inverter Split AC (Copper, Super Convertible 6-in-1 Cooling, 4 Way Swing, HD Filter with Anti-Vi...",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8464927,
+          "rerank_score": null
+        }
+      ],
+      "I'm leaving my house empty for a month while traveling. How do I make sure everything stays safe?": [
+        {
+          "position": 1,
+          "product_name": "Godrej 1.5 Ton 5 Star 5-In-1 Convertible, Inverter Split AC (100% Copper, Heavy Duty Cooling at 52°C, 2023 Model,AC 1.5T E...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8757589,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Haier 1.0 Ton 3 Star Intelli smart Inverter AC(Intelli Convertible 7-in-1, Triple Inverter+ Technology, 2023, HSU13K-PYFR3...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8708182,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Daikin 1 Ton 5 Star Inverter Split AC (Copper, PM 2.5 Filter, 2022 Model, FTKR35U, White)",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.86987764,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Panasonic 1.5 Ton 3 Star Wi-Fi Inverter Smart Split AC (Copper Condenser, 7 in 1 Convertible with additional AI Mode, PM ...",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8688372,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "SPLIT AC - 1.8TR HITACHI SHIZEN 3100S INVERTER - R32 - RMQG322HFEOZ1",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8678004,
+          "rerank_score": null
+        }
+      ],
+      "I want to make personalized Christmas gifts for my family this year instead of buying them. What do I need?": [
+        {
+          "position": 1,
+          "product_name": "NEORAH — Couples Gift Set Customise name Vegan Leather Men's Wallet and Women's wallet Clutch with Name personalisation~ a...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.7993854,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "E Shopping Glossy Plastic Gift Wrappers, Wrapping Paper Coloured Holographic Print, Pack of 20, 64 X 45 cm with 20 Ribbon ...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.79575944,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Royalkart (56cm x 88cm) 3D Double-Sided Photography Backdrop For Food, Small Products Professional Photoshoots (Pack of 2)...",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.79554486,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "GIFT MY PASSION Merry Christmas Quotation Photo Frame with Black Men's Wallet Hamper Pack of 2",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.7927008,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Birthday Popper DIY Reusable Bags | Set of 12 | Kids Party Bags, Gift Bag, Kids Party Favor Bags, Candy Treat Goody Bag, K...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.79232484,
+          "rerank_score": null
+        }
+      ],
+      "My doctor told me I need to lose 15 kg and reduce stress. What products can support this lifestyle change?": [
+        {
+          "position": 1,
+          "product_name": "LABOGENS POTASSIUM SULPHATE 500GM, Assay : Min. 99% K2SO4 M.W. 174.26, (CAS NO. 7778-80-5)",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8480242,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "OK LIFE CARE MY 90 - ADVANCED MULTIVITAMINS (ANTIOXIDANT AND ENERGY BOOSTER) - 60 TABLET",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.80734444,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "WishNew Wellness B Active Complete| Vitamin B complex 100% RDA of B Vitamins| Benfotiamine 150mg| Methylcobalamin Vitamin ...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.8066318,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Women's Tube Bra for Everyday use,Gym Bra,Stretchable Strapless,Non Padded & Non-Wired,Dance wear and Any Sport Activity,M...",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.80470175,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "prompt nutrition GAT L - Arginine Pack of 180 Tabs With Importer Tag.",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.8034159,
+          "rerank_score": null
+        }
+      ],
+      "I got accepted to a semester abroad in a cold country and I've never experienced winter. What should I pack?": [
+        {
+          "position": 1,
+          "product_name": "The Comfort Closet - Baby's Handmade Sweater with Cap and Booties (6-12 Months) (Blue and White)",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8072275,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Winter Indoor And Outdoor For Women",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.7976411,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "PURSUE FASHION Ultra Soft Unisex Woolen Beanie Cap Plus Muffler Scarf Set for Men Women Girl Boy, Neck Warmer for Men, Bea...",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.65,
+          "hybrid_score": 0.7923393,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Aaojao Kids Comfortable Indoor & Outdoor Fur Slippers Flipflops for Girls - Grey, EU Size : 25 | UK Size : 8 | Age : 2 To ...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.7922512,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "TOPLOT Women's Hoodie||Full Sleeve Solid Sweatshirt Hoodies||Winter Wear for Women||Hooded Neck Style||Long Women's Hoodie...",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.85,
+          "probability_to_buy": 0.75,
+          "hybrid_score": 0.78988755,
+          "rerank_score": null
+        }
+      ]
+    },
+    "taxonomy_searcher": {
+      "My sister just had a baby and I want to give her something really useful. What should I get?": [
+        {
+          "position": 1,
+          "product_name": "LuvLap Bunny Food & Fruit Nibbler & Luvlap Anti-Colic Wide Neck Natura Flo Baby Feeding Bottle, 150ml, New Born/Infants/To...",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.85,
+          "probability_to_buy": 0.7,
+          "hybrid_score": 0.8104513,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "NEW BORNBABY HUB Baby Bibs Super Soft and Absorbent 100% Cotton Baby Bibs Set for Newborns/Infants/Toddlers/Babies (3-24 M...",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.8,
+          "probability_to_buy": 0.7,
+          "hybrid_score": 0.80894023,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "DAPHNE Baby Diaper Bag for Mother, Baby Products, New Born Baby Product, New Born Baby Gift, Baby Gifts for New Born, Baby...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.8044679,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "linenaffairs Swaddle Blanket 100% Organic Cotton Muslin, Wrap Cloth Cotton Swaddle for Newborn Baby Girl's and Boy's Soft ...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.79749674,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Vicks BabyRub 25ml, Specifically for Babies-Moisturize, Soothe and Relax your baby",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.8,
+          "probability_to_buy": 0.7,
+          "hybrid_score": 0.7967469,
+          "rerank_score": null
+        }
+      ],
+      "I'm adopting a rescue dog this weekend. What should I prepare at home before bringing him?": [
+        {
+          "position": 1,
+          "product_name": "ASTRECA Pet Hair, Dust, Lint Remover for Clothing & Furniture and Sofa Home Couch pet - Double Sided, Self-Cleaning & Reus...",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.79850763,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Foodie Puppies (Triple Head Toothbrush) for Dogs, Pet and Cats | Removing Bad Breath | Good Angle Bristles Clean Each Toot...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.7981424,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Himavat Pet ID Personalized Colourful Pets Name tag / Identity Tag for Dogs and Cats , Dog ID tag -Customized ( Red-white)",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.7917887,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "PETARCHI Design Studio for Pets - Dog Flight Crate Kennel, IATA Compliant Airline Approved Dog Crate Travel Kennel - 32 In...",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.791407,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "SWIFFER Pet Cat Hair Remover - Double-Sided Standard-Size, Travel Pet Hair Removal Brush, Self-Cleaning Base - Remove Cat ...",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.79126716,
+          "rerank_score": null
+        }
+      ],
+      "I want to start cooking healthy meals instead of ordering takeout. Where do I even begin?": [
+        {
+          "position": 1,
+          "product_name": "Organic Tattva, Organic Roasted Chana Dal, 500g | 100% Vegan, Gluten Free and NO Additives",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.88765097,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Saptamveda 100% Organic Amla Indian Gooseberry Powder (150gm)| Drinking, Eating, Hair Nourishment, Repair Damage Hair & Sk...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.8246108,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "DEVCHHAYA ENTERPRISE Manual 2 in 1 Wafer Maker Machine Vegetable Cutter and Fruit Slicer Snack Chips Machine for Carrot, C...",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.8114765,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Urban Platter Icing Sugar, 1Kg",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.7912601,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "More Bengal Gram Dal - Roasted, 500g (Loose)",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.79120964,
+          "rerank_score": null
+        }
+      ],
+      "We just moved into a new apartment and everything is empty. What are the first things to buy?": [
+        {
+          "position": 1,
+          "product_name": "Heart Home 2.5 Liter Mini Desktop Trash Bin with Lid Tiny Garbage Trash Bin (Grey) (HS_36_HEARTH018540), Small",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.85250247,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Home Maker - Biodegradable Garbage Bags (Medium) Size 48 cm x 56 cm 1 Rolls 30 Bags Dustbin Bag/Trash Bag - Black Color",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.834366,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "PARASNATH Stainless Steel 15 Rods Extra Large Foldable Cloth Dryer/Clothes Drying Stand - Made in India",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.8019116,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Huesland by Ahmedabad Cotton 144 TC Cotton King Size Bedsheet with 2 Pillow Covers - Grey & Yellow(9ft x 9ft)",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.79139024,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Eco Shopee SHOPPING SIMPLIFIED Eco Shopee 4+2 Layer Collapsible Wardrobe For Clothes With Side Pocket 7800-3 (84Cm X 42.5C...",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.7904329,
+          "rerank_score": null
+        }
+      ],
+      "I'm starting a YouTube channel but I have zero equipment. What do I absolutely need on day one?": [
+        {
+          "position": 1,
+          "product_name": "Logitech Digital C922 Pro Stream Webcam 1080P Camera for HD Video Streaming Recording 720P At 60Fps - Black",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.8243852,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Multi-Coated Variable Polarizing ND Neutral Density Adjustable ND2 -ND400 (Waterproof, Scratchproof, Dustproof) (58MM)",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.82176065,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "YANTRALAY SCHOOL OF GADGETS Mic-1 Cardiod On- Camera Shotgun Vlogging Microphone Compatible with Go Pro Hero 9/8/7, iPhon...",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.814042,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Creative Live! Cam Sync 1080p Optical Zoom 3X V2 Full HD Wide-Angle USSB Auto Mute Noise Cancellation Built-in Mic, Privac...",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.85,
+          "probability_to_buy": 0.7,
+          "hybrid_score": 0.8139214,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "HKUTOTECH Trending Collar Clip Microphone Omnidirectional Mic with Easy Clip On System Perfect for Recording YouTube/Inter...",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.812253,
+          "rerank_score": null
+        }
+      ],
+      "I have two weeks off and want to completely disconnect from screens. How can I keep myself entertained?": [
+        {
+          "position": 1,
+          "product_name": "Jockey Men's Cap",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.7691475,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Coleman Tropic 10 Liter Minimaxi Soft Cooler with Store Capecity - 3 X 1.5 Liter Bottle and Ice Retention -12 Hour/Light W...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.7677885,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "LEWEL Men's Stylish Hooded Graphic Printed T-Shirt (Olive Green, Black)",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.76650125,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "NJ Drawstring Muslin Bag,Coin Pouch,Herb Bag,Pouch for Wedding Party,Jewellery Bag,Gift wrap Pack Bag, Ring Pouch, Party g...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.76465386,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "DDM Sports New Modern CR7 World Cup 2022 Football Size 5 with Pump Full Size - 5, Combo Football with AIR Pump",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.76458347,
+          "rerank_score": null
+        }
+      ],
+      "I have an important job interview tomorrow and I want to look my absolute best. What can help?": [
+        {
+          "position": 1,
+          "product_name": "CLASSIC FASHION Women's Handbag (cfs0177_Multicolored)",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.77124333,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Foxtale Squalene & Vitamin B5 Moisturizer for Dry, Sensitive & Flaky skin | Comfort Zone Rich Moisture Cream | Nourishing...",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.7693145,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Lavie HYPATIA LG EW TOTE",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.7683601,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Flora Women's Clutch (Set of 2) (FLORA-092_Red)",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.76544106,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Diana Korr Women's Handbag (Grey)",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.764019,
+          "rerank_score": null
+        }
+      ],
+      "My 7-year-old is bored during summer break and I want to keep him learning. Any ideas?": [
+        {
+          "position": 1,
+          "product_name": "Skillmatics Floor Puzzle & Game - Piece & Play Up in Space, Jigsaw Puzzle (48 Pieces, 2 x 3 feet), Ages 3 to 7",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.8,
+          "probability_to_buy": 0.7,
+          "hybrid_score": 0.79570043,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Drawing Book A4 Size Approx | Plain Sketch Pad for Kids, Students & Artists | 34 White Blank Unruled Pages | 29.5 x 21 cm...",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.7856744,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Youngineers 16-in-1 Physics Practicals Kit for Class 10, CBSE & ICSE Board Exams, Ages 14-16, Science Experiments, Interac...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.7838747,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Centy Toys Fire Ladder Truck, Yellow",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.781343,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Imagimake 5-in-1 Awesome Craft Kit- Kids Arts and Crafts- Arts and Crafts for Kids ages 6-8 - Air Dry Clay, Paper Quilling...",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.8,
+          "probability_to_buy": 0.7,
+          "hybrid_score": 0.7809017,
+          "rerank_score": null
+        }
+      ],
+      "Our office is organizing a weekend team-building outdoors. What should we bring for group activities?": [
+        {
+          "position": 1,
+          "product_name": "Coleman Tropic 10 Liter Minimaxi Soft Cooler with Store Capecity - 3 X 1.5 Liter Bottle and Ice Retention -12 Hour/Light W...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.7648262,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Jockey Men's Cap",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.76425016,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "MAPPLE CREATION Fabric Outdoor Portable Privacy Dressing Changing Tent for 1 Person Pop Up Room, Shower Toilet for Camping...",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.7622446,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "5 O'CLOCK SPORTS New Premium Sports Combo of PU-Leather Gym Bag Gym/Fitness Kit/Combo/Gym Accessories/Gym Kit/for Men and ...",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.7612209,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Nikrim™Waterproof Polyester Camping and Outdoor Tent 4/6/8 Person Tent (Multi Color) (8 Person Tent)",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.75961995,
+          "rerank_score": null
+        }
+      ],
+      "I want to pick up a creative hobby that I can practice quietly in my apartment at night. What do I need?": [
+        {
+          "position": 1,
+          "product_name": "Little Birdie Water Colour Book A5, 62 Pages 14.8 X 21 cm",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.65,
+          "hybrid_score": 0.805114,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "MONT MARTE Acrylic Paint Set 24pcex36ml",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.78582,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Lakeer Plain Foam Roller Brushes for Painting, Art and Craft Projects Set of 3",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.7851647,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Itsy Bitsy - Craft Cement Grey - 450gm Pack of 2",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.78392637,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Crafts 4 ALL Acrylic Paint Set for Kids and Adults - 24 Pack of 12mL Craft Paint Colors for Wood, Canvas, Fabric and Ceram...",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.65,
+          "hybrid_score": 0.7833309,
+          "rerank_score": null
+        }
+      ],
+      "I'm about to drive cross-country alone for three days straight. How do I survive the boredom and stay safe?": [
+        {
+          "position": 1,
+          "product_name": "DALUCI PVC Enema kit satvik movement | 1.5 Litre | Improved Model enema kit for home use with instruction - 1 silicon tub...",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.7520201,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Godrej aer twist | Long-Lasting, Spill-proof Car Freshener | Bright Tangy Delight (45g)",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.74935937,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "GoTrippin Solid 60 ml Travel Bottles for Toiletries, Leak Proof Refillable Containers, Small Travel Kit Bottle Set (4 Coun...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.7485986,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "KareIn Premium Underpads, Large 60 x 90 Cm, High Absorbency, Leak Proof, Pack of 1, 10 Count",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.7482219,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "mCaffeine Moment Gift Set With Signature Body Scrub, Face Wash & Face Scrub | Gift Kit For All Ages & Skin Types | Best Gi...",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.74776125,
+          "rerank_score": null
+        }
+      ],
+      "I'm leaving my house empty for a month while traveling. How do I make sure everything stays safe?": [
+        {
+          "position": 1,
+          "product_name": "Heart Home 2.5 Liter Mini Desktop Trash Bin with Lid Tiny Garbage Trash Bin (Grey) (HS_36_HEARTH018540), Small",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8481619,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Home Maker - Biodegradable Garbage Bags (Medium) Size 48 cm x 56 cm 1 Rolls 30 Bags Dustbin Bag/Trash Bag - Black Color",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8345696,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "PARASNATH Stainless Steel 15 Rods Extra Large Foldable Cloth Dryer/Clothes Drying Stand - Made in India",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8082873,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "DRONTER Stainless Steel, PVC, ABS Nail Free Seamless Adhesive Non-Trace No Drilling Installation Hanging, Waterproof Screw...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.77464414,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Scizor Retractable Clothesline Indoor Clothes Lines retracting | Heavy Duty for Drying Laundry line Outdoor|Wall Mounted S...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.7742867,
+          "rerank_score": null
+        }
+      ],
+      "I want to make personalized Christmas gifts for my family this year instead of buying them. What do I need?": [
+        {
+          "position": 1,
+          "product_name": "Little Birdie Water Colour Book A5, 62 Pages 14.8 X 21 cm",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.80839705,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "E Shopping Glossy Plastic Gift Wrappers, Wrapping Paper Coloured Holographic Print, Pack of 20, 64 X 45 cm with 20 Ribbon ...",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.79913676,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "ImpressiveWorks Thank You Gift Tags Labels with String/Thread for Presents,Gifts and Paper Bags (Pack of 40 Tags in 4 Diff...",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.7889035,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "ImpressiveWorks Wrapping paper | wrapping Sheets | Wrapping paper Sheets | wrapping Cover with 8 Different Designs 16 shee...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.78563744,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Arrow Gifting Paper Bag - 7.5 x 23 x 22 cms (Pack of 25)Multicolor",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.7836493,
+          "rerank_score": null
+        }
+      ],
+      "My doctor told me I need to lose 15 kg and reduce stress. What products can support this lifestyle change?": [
+        {
+          "position": 1,
+          "product_name": "OK LIFE CARE MY 90 - ADVANCED MULTIVITAMINS (ANTIOXIDANT AND ENERGY BOOSTER) - 60 TABLET",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.80734444,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "WishNew Wellness B Active Complete| Vitamin B complex 100% RDA of B Vitamins| Benfotiamine 150mg| Methylcobalamin Vitamin ...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.8066318,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "prompt nutrition GAT L - Arginine Pack of 180 Tabs With Importer Tag.",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.8034159,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Dr.NUTRA BCAA 2:1:1 Vegan BCAA Powder, 5 Grams of Amino Acids, Caffeine Free, Pure Powder Pre-Post Workout (Blue Raspberr...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.80005383,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "AS-IT-IS Nutrition Pea Protein Isolate | Designed for Meal Supplementation | Easy To Digest - Vegan & Gluten-Free (2000 gms)",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.799817,
+          "rerank_score": null
+        }
+      ],
+      "I got accepted to a semester abroad in a cold country and I've never experienced winter. What should I pack?": [
+        {
+          "position": 1,
+          "product_name": "MATRICE Duffle Bag with Grey Faux Vegan Leather(NE-S-0796-Grey)",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8213333,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "FlYHIGH Stylish Quality Fabric Waterproof Expandable Lightweight 40 L 22 Inch Travel Duffel Bag (Blue)",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.799729,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Large Capacity Travel Bag - Portable Lightweight Waterproof Oxford Fabric Bag,Travel Duffel Bag,Shoulder Weekender Overnig...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.796575,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "WktobeHVB Core Sliders for Working Out, 1-Pair with Carry Bag, Dual Sided Gliding Discs for Full Body Workout on Carpet or...",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.79004985,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Wildcraft Unisex-Adult Polyester SUPERMASK W95+ Reusable Outdoor Respirator 5P : Popcorn : BLK_Anthra : M (8903338298045 M...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.76329315,
+          "rerank_score": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-04-25T13:42:48.264989",
+  "method": "baseline",
+  "query": "My sister just had a baby and I want to give her something really useful. What should I get?",
+  "subqueries": [
+    "My sister just had a baby and I want to give her something really useful. What should I get?"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.1225759983062744,
+  "results": [
+    {
+      "score": 0.5,
+      "name": "Aveeno Daily Moisture Baby Lotion 8oz",
+      "content": "Aveeno Daily Moisture Baby Lotion 8oz"
+    },
+    {
+      "score": 0.5,
+      "name": "ONKAR Umbrella Baby Mosquito Net, Safe & Easy Use Ensures Your Baby's Safe Sleep. Gives a Protection Against Dengue & Mala...",
+      "content": "ONKAR Umbrella Baby Mosquito Net, Safe & Easy Use Ensures Your Baby's Safe Sleep. Gives a Protection Against Dengue & Mala..."
+    },
+    {
+      "score": 0.33333334,
+      "name": "ONKAR Unique Umbrella Design Mosquito Net for New Born Baby, Safe & Easy Use Ensures Your Baby's Safe Sleep. Gives a Prote...",
+      "content": "ONKAR Unique Umbrella Design Mosquito Net for New Born Baby, Safe & Easy Use Ensures Your Baby's Safe Sleep. Gives a Prote..."
+    },
+    {
+      "score": 0.33333334,
+      "name": "NEW GEN Baby Casual WEAR",
+      "content": "NEW GEN Baby Casual WEAR"
+    },
+    {
+      "score": 0.25,
+      "name": "Kuruti B Sheets Women Anarkali Kurta",
+      "content": "Kuruti B Sheets Women Anarkali Kurta"
+    }
+  ]
+}
