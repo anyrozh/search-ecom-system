@@ -51,4 +51,4 @@ jupyter notebook search_project_up.ipynb
 НАГЛЯДНЫЕ РЕЗУЛЬТАТЫ ПРОГОНА
 ---
 
-
+папка search_results
