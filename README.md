@@ -84,7 +84,7 @@ jupyter notebook search_project_up.ipynb
 
 Логи метрик
 
-<img width="1163" height="350" alt="image" src="https://github.com/user-attachments/assets/3278c710-1062-4f6f-b41f-d3b80809a116" />
+<img width="1156" height="228" alt="image" src="https://github.com/user-attachments/assets/91c4cfcb-e15a-4dce-aa79-caed7193c87b" />
 
 
 
