@@ -75,12 +75,12 @@ jupyter notebook search_project_up.ipynb
 ПРИМЕР ПРОГОНА СКРИПТА ПО ОДНОМУ ЗАПРОСУ
 ---
 Вывод релевантных топов 
+<img width="1371" height="546" alt="image" src="https://github.com/user-attachments/assets/c1f1f54e-2891-47c7-8cfc-9ddb73f01245" />
 
-<img width="1370" height="557" alt="image" src="https://github.com/user-attachments/assets/ed406dda-d81c-4153-a6da-3bbd67001129" />
 
 Вывод оценок по релевантным товарам 
 
-<img width="1371" height="546" alt="image" src="https://github.com/user-attachments/assets/c1f1f54e-2891-47c7-8cfc-9ddb73f01245" />
+<img width="1370" height="557" alt="image" src="https://github.com/user-attachments/assets/ed406dda-d81c-4153-a6da-3bbd67001129" />
 
 Логи метрик
 
