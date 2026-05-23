@@ -17,7 +17,7 @@
 | `st_model` | Sentence Transformer для текста | `clip-ViT-B-32-multilingual-v1`, `all-MiniLM-L6-v2` |
 | `rerank_model` | Cross-encoder для переранжирования | `ms-marco-MiniLM-L-6-v2`, `ms-marco-MiniLM-L-12-v2` |
 | `sparse_model` | Модель для разреженного поиска BM25 | `Qdrant/bm25` |
-| `search_limit` | Количество результатов поиска | непрервыное значение (от 5-10) |
+| `search_limit` | top-k товаров | непрервыное значение (от 5-10) |
 | `taxonomy_limit` | Максимум категорий таксономии | непрервыне значение (от 0-10) |
 | `use_reranking` | Включение переранжирования | `True`, `False` |
 | `fusion_alpha` | Вес текстового поиска (0-1) | 0.5-0.9 |
