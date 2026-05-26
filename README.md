@@ -74,6 +74,7 @@ jupyter notebook search_project_up.ipynb
 ---
 
 папка search_results - logs по неопределённым запросам
+папка  - logs по определённым запросам
 
 ПРИМЕР ПРОГОНА СКРИПТА ПО ОДНОМУ ЗАПРОСУ 
 ---
