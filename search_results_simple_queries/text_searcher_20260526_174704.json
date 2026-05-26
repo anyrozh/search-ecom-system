@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-05-26T17:47:04.635870",
+  "method": "text_searcher",
+  "query": "air fryer",
+  "subqueries": [
+    "air fryer",
+    "compact air fryer with digital touchscreen and multiple cooking presets",
+    "large capacity air fryer suitable for family-sized meals",
+    "air fryer with multi-function capabilities including baking, grilling, and roasting",
+    "air fryer accessories and replacement parts such as baskets, racks, and liners"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 2.2039480209350586,
+  "results": [
+    {
+      "score": 0.8997156,
+      "name": "Multi-Coated Variable Polarizing ND Neutral Density Adjustable ND2 -ND400 (Waterproof, Scratchproof, Dustproof) (58MM)",
+      "content": "Multi-Coated Variable Polarizing ND Neutral Density Adjustable ND2 -ND400 (Waterproof, Scratchproof, Dustproof) (58MM) This product is a versatile and durable camera lens filter that combines two essential functions: a **Variable Neutral Density (ND) filter** and a **Circular Polarizer (CPL) filter*"
+    },
+    {
+      "score": 0.8928735,
+      "name": "Allin Exporters DT-1830T Tower Shape Ultrasonic Humidifier Cool Mist Air Purifier Large Capacity Overnight Negative Ion Ge...",
+      "content": "Allin Exporters DT-1830T Tower Shape Ultrasonic Humidifier Cool Mist Air Purifier Large Capacity Overnight Negative Ion Ge... The Allin Exporters DT-1830T is a multi-functional, tower-shaped device designed to significantly improve indoor air quality and comfort. Its primary purpose is to act as bot"
+    },
+    {
+      "score": 0.8901857,
+      "name": "HRK Personal Space Air-Cooler, 3-in-1 USB Mini Portable Air Conditioner Humidifier Purifier Mini Cooler, Air Cooler for Ro...",
+      "content": "HRK Personal Space Air-Cooler, 3-in-1 USB Mini Portable Air Conditioner Humidifier Purifier Mini Cooler, Air Cooler for Ro... The HRK Personal Space Air-Cooler is a compact, multi-functional device designed to provide localized personal comfort. It acts as a 3-in-1 unit, offering air cooling, humidi"
+    },
+    {
+      "score": 0.8822561,
+      "name": "8L Mini Fridge, 12V AC/DC Large Capacity Mirror Beauty Portable Electric Cooler& Warmer with LED Light, White Convenient M...",
+      "content": "8L Mini Fridge, 12V AC/DC Large Capacity Mirror Beauty Portable Electric Cooler& Warmer with LED Light, White Convenient M... This 8L Mini Fridge is a versatile, portable electric cooler and warmer, uniquely designed with a mirror and LED light. It operates on both AC (standard wall outlet) and 12V "
+    },
+    {
+      "score": 0.88186294,
+      "name": "10 Liters Refrigerator, 220V-240V Heating Mini Fridge Cooling for Car for Home(#2)",
+      "content": "10 Liters Refrigerator, 220V-240V Heating Mini Fridge Cooling for Car for Home(#2) This 10-liter mini-fridge is a versatile, portable appliance designed for both cooling and heating. Operating on 220V-240V AC power, it's ideal for use at home, in offices, or dorm rooms. Its 'for Car' designation sug"
+    }
+  ]
+}

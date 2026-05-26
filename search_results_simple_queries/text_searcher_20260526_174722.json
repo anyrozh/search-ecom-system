@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-05-26T17:47:22.696238",
+  "method": "text_searcher",
+  "query": "treadmill",
+  "subqueries": [
+    "treadmill",
+    "foldable home treadmills with digital display and adjustable speed settings",
+    "commercial-grade treadmills for gym and fitness center use",
+    "compact and lightweight treadmills suitable for small apartments",
+    "treadmills with built-in heart rate monitors and workout programs"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 2.148343086242676,
+  "results": [
+    {
+      "score": 0.8514725,
+      "name": "CRUISTER Round Neck Half Sleeve T-Shirt for Mens- Sports T-Shirt, Dry Fit - Gym/Running/Yoga T-Shirt - Quick Dry & Stretch...",
+      "content": "CRUISTER Round Neck Half Sleeve T-Shirt for Mens- Sports T-Shirt, Dry Fit - Gym/Running/Yoga T-Shirt - Quick Dry & Stretch... This is a men's round neck, half-sleeve t-shirt specifically designed for sports and fitness activities. Its 'Dry Fit', 'Quick Dry', and 'Stretch' properties make it ideal fo"
+    },
+    {
+      "score": 0.8505222,
+      "name": "Women's Tube Bra for Everyday use,Gym Bra,Stretchable Strapless,Non Padded & Non-Wired,Dance wear and Any Sport Activity,M...",
+      "content": "Women's Tube Bra for Everyday use,Gym Bra,Stretchable Strapless,Non Padded & Non-Wired,Dance wear and Any Sport Activity,M... This product is a Women's Tube Bra, characterized by its stretchable, strapless, non-padded, and non-wired design, prioritizing comfort and flexibility. It is intended for wo"
+    },
+    {
+      "score": 0.85008407,
+      "name": "Ritu-Creation Women’s Air Bra, Sports Bra, Stretchable Non-Padded Seamless Bra,Pack of 2,Black/Beige",
+      "content": "Ritu-Creation Women’s Air Bra, Sports Bra, Stretchable Non-Padded Seamless Bra,Pack of 2,Black/Beige This product is a pack of two women's bras designed for comfort, support, and versatility. It functions as both an 'Air Bra' for lightweight, breathable everyday wear and a 'Sports Bra' suitable for "
+    },
+    {
+      "score": 0.8499413,
+      "name": "TRASA Women's and Girl's Nylon and Spandex Non-Padded and Non-Wired Thin Strip Sports Bra, Air Bra, Free Size (Size 28 to ...",
+      "content": "TRASA Women's and Girl's Nylon and Spandex Non-Padded and Non-Wired Thin Strip Sports Bra, Air Bra, Free Size (Size 28 to ... This TRASA bra is a comfortable, lightweight, and flexible sports bra designed for women and girls. Its non-padded, non-wired, and thin-strip 'Air Bra' design prioritizes nat"
+    },
+    {
+      "score": 0.8496092,
+      "name": "Musclen Fitness Weight Lifting Dumbbell Plates , 10 Kg Weight Plates, 2.5Kg X 4 (Black) (2.5KG-4PLATES-S)",
+      "content": "Musclen Fitness Weight Lifting Dumbbell Plates , 10 Kg Weight Plates, 2.5Kg X 4 (Black) (2.5KG-4PLATES-S) These Musclen Fitness Weight Lifting Dumbbell Plates are designed to add adjustable resistance to dumbbells or barbells, enabling users to customize their workout intensity. Comprising four 2.5 "
+    }
+  ]
+}

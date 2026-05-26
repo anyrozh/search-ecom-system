@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-05-26T17:47:20.519732",
+  "method": "taxonomy_searcher",
+  "query": "crocs",
+  "subqueries": [
+    "crocs",
+    "Men's Crocs casual slip-on clogs for everyday wear",
+    "Women's Crocs lightweight and comfortable sandals",
+    "Kids' Crocs colorful and durable shoes for play",
+    "Crocs accessories such as Jibbitz charms and shoe liners"
+  ],
+  "taxonomies_found": [
+    "women's shoes/Shoes",
+    "men's shoes/Casual Shoes"
+  ],
+  "taxonomy_fallback": false,
+  "search_time": 3.763478994369507,
+  "results": [
+    {
+      "score": 0.8143445,
+      "name": "North Star Mens GBX-p3 Loafer",
+      "image_url": "https://m.media-amazon.com/images/I/717SbKwqgLL._AC_UL320_.jpg",
+      "content": "North Star Mens GBX-p3 Loafer The North Star Mens GBX-p3 Loafer is a type of slip-on shoe designed specifically for men. Its purpose is to provide a comfortable, stylish, and versatile footwear option. Men can use these loafers for a variety of occasions, including casual everyday wear, smart-casual"
+    },
+    {
+      "score": 0.8111474,
+      "name": "crocs Bayaband Clog UK M9W11",
+      "image_url": "https://m.media-amazon.com/images/I/71yJCuM95YL._AC_UL320_.jpg",
+      "content": "crocs Bayaband Clog UK M9W11 The Crocs Bayaband Clog is a lightweight, comfortable, and versatile slip-on shoe known for its iconic design and Croslite™ foam construction. It can be used by individuals of all ages (this specific size, UK M9W11, indicates adult sizing) who prioritize comfort, ease of"
+    },
+    {
+      "score": 0.7998176,
+      "name": "Big Fox Perforated-6 Men's Croco Moccasins Loafers Style Shoes",
+      "image_url": "https://m.media-amazon.com/images/I/61NqXop+eSS._AC_UL320_.jpg",
+      "content": "Big Fox Perforated-6 Men's Croco Moccasins Loafers Style Shoes This product is a pair of men's slip-on shoes, combining the comfort of moccasins with the stylish appeal of loafers. Its purpose is to provide breathable (due to perforations), comfortable, and fashionable footwear with a distinctive cr"
+    },
+    {
+      "score": 0.7940175,
+      "name": "crocs Classic Marble Unisex Clog",
+      "image_url": "https://m.media-amazon.com/images/I/61yiteH9fsL._AC_UL320_.jpg",
+      "content": "crocs Classic Marble Unisex Clog The Crocs Classic Marble Unisex Clog is a comfortable, lightweight, and versatile slip-on shoe. Its primary purpose is to provide easy-to-wear, cushioned comfort for everyday casual use. Made from Crocs' signature Croslite™ material, it's also water-friendly, buoyant"
+    },
+    {
+      "score": 0.7936781,
+      "name": "crocs unisex-adult Bayaband Clog LIGHT GREY/CANDY PINK Clog - 3 UK Men/ 4 UK Women (M4W6) (205089-0FS)",
+      "image_url": "https://m.media-amazon.com/images/I/71HlobLfqgL._AC_UL320_.jpg",
+      "content": "crocs unisex-adult Bayaband Clog LIGHT GREY/CANDY PINK Clog - 3 UK Men/ 4 UK Women (M4W6) (205089-0FS) This product is a Crocs Bayaband Clog, a lightweight and comfortable slip-on shoe. It is designed for unisex adults, meaning both men and women can use it. Its primary purpose is for casual wear, o"
+    }
+  ]
+}

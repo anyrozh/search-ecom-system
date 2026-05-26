@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-05-26T17:46:09.208878",
+  "method": "baseline",
+  "query": "face mask",
+  "subqueries": [
+    "face mask"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 0.05901002883911133,
+  "results": [
+    {
+      "score": 0.5,
+      "name": "Enamor unisex-adult Face Mask",
+      "content": "Enamor unisex-adult Face Mask"
+    },
+    {
+      "score": 0.5,
+      "name": "Boldfit N95 Face Mask For Men & Women N95 Mask With 5 Layer N95 Masks For Adults & Kids N 95 Mask Face Mask Men Anti Pollu...",
+      "content": "Boldfit N95 Face Mask For Men & Women N95 Mask With 5 Layer N95 Masks For Adults & Kids N 95 Mask Face Mask Men Anti Pollu..."
+    },
+    {
+      "score": 0.33333334,
+      "name": "Spoinkky Cotton Face Mask Pack of 12 | Reusable and Washable Mask | Reusable Cloth Face Mask (Pack of 12)",
+      "content": "Spoinkky Cotton Face Mask Pack of 12 | Reusable and Washable Mask | Reusable Cloth Face Mask (Pack of 12)"
+    },
+    {
+      "score": 0.33333334,
+      "name": "Diverse unisex Masks",
+      "content": "Diverse unisex Masks"
+    },
+    {
+      "score": 0.25,
+      "name": "PROTECTERR Reversible Cotton Printed Face Mask For Kids | 2 Ply Adjustable Mask | Earloop Breathable Kids Face Mask | Pack...",
+      "content": "PROTECTERR Reversible Cotton Printed Face Mask For Kids | 2 Ply Adjustable Mask | Earloop Breathable Kids Face Mask | Pack..."
+    }
+  ]
+}

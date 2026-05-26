@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-05-26T17:47:38.522775",
+  "method": "baseline",
+  "query": "vacuum cleaner",
+  "subqueries": [
+    "vacuum cleaner"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 0.022881031036376953,
+  "results": [
+    {
+      "score": 0.5,
+      "name": "SEIBEN Handheld Wireless Car Vacuum Cleaner, Cordless Vacuum Cleaner High Power, Rechargeable Portable Vacuum Cleaner with...",
+      "content": "SEIBEN Handheld Wireless Car Vacuum Cleaner, Cordless Vacuum Cleaner High Power, Rechargeable Portable Vacuum Cleaner with..."
+    },
+    {
+      "score": 0.5,
+      "name": "Vacuum Packing Machine",
+      "content": "Vacuum Packing Machine"
+    },
+    {
+      "score": 0.33333334,
+      "name": "Syga Car Vacuum Cleaner Wireless Charging Household Vacuum Cleaner Mini Portable Handheld Car Vacuum Cleaner (USBWireless-...",
+      "content": "Syga Car Vacuum Cleaner Wireless Charging Household Vacuum Cleaner Mini Portable Handheld Car Vacuum Cleaner (USBWireless-..."
+    },
+    {
+      "score": 0.33333334,
+      "name": "Value Vacuum Pump",
+      "content": "Value Vacuum Pump"
+    },
+    {
+      "score": 0.25,
+      "name": "Balzano Tornado Cordless Vacuum Cleaner, Vacuum Cleaner for Home, 2-in-1 Portable Car Vacuum Cleaner, Multi-Purpose & Ultr...",
+      "content": "Balzano Tornado Cordless Vacuum Cleaner, Vacuum Cleaner for Home, 2-in-1 Portable Car Vacuum Cleaner, Multi-Purpose & Ultr..."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "timestamp": "2026-05-26T17:45:57.708293",
+  "method": "taxonomy_searcher",
+  "query": "iphone",
+  "subqueries": [
+    "iphone",
+    "Latest model iPhone smartphones with various storage capacities and colors",
+    "Protective cases and covers compatible with different iPhone models",
+    "iPhone accessories including chargers, cables, and wireless earbuds",
+    "Screen protectors and repair kits for iPhone devices"
+  ],
+  "taxonomies_found": [
+    "tv, audio & cameras/Headphones",
+    "tv, audio & cameras/Cameras",
+    "tv, audio & cameras/Televisions"
+  ],
+  "taxonomy_fallback": true,
+  "search_time": 7.229245901107788,
+  "results": [
+    {
+      "score": 0.8152857,
+      "name": "Honeywell Trueno U10 Bluetooth V5.1+EDR in Ear Wireless Neckband with mic, Upto 15H Playtime, 10mm Drivers, Integrated Con...",
+      "image_url": "https://m.media-amazon.com/images/I/41OAgyROYnL._AC_UL320_.jpg",
+      "content": "Honeywell Trueno U10 Bluetooth V5.1+EDR in Ear Wireless Neckband with mic, Upto 15H Playtime, 10mm Drivers, Integrated Con... The Honeywell Trueno U10 is a wireless in-ear neckband designed for convenient, hands-free audio. Its primary purpose is to provide a seamless listening experience for music,"
+    },
+    {
+      "score": 0.7990814,
+      "name": "i Mobile Earphone for i Phone Earphones with Lightning Connector Wired Headset 7,7 Plus, 8,8 Plus, X, XR, Xs, Xs Max Wired...",
+      "image_url": "https://m.media-amazon.com/images/I/41+zrv0YFkL._AC_UL320_.jpg",
+      "content": "i Mobile Earphone for i Phone Earphones with Lightning Connector Wired Headset 7,7 Plus, 8,8 Plus, X, XR, Xs, Xs Max Wired... This product is a wired earphone/headset featuring a Lightning Connector, specifically designed for use with Apple iPhone models 7, 7 Plus, 8, 8 Plus, X, XR, Xs, and Xs Max. "
+    },
+    {
+      "score": 0.7946094,
+      "name": "Technoview 12MP WiFi Mini Camera Full HD Video and Audio Recorder IR Night Visio, Motion Detection, Body Action Camera wit...",
+      "image_url": "https://m.media-amazon.com/images/I/51KaQYiMPML._AC_UL320_.jpg",
+      "content": "Technoview 12MP WiFi Mini Camera Full HD Video and Audio Recorder IR Night Visio, Motion Detection, Body Action Camera wit... The Technoview 12MP WiFi Mini Camera is a compact, high-definition video and audio recorder designed for versatile use. It features a 12-megapixel sensor, Wi-Fi connectivity "
+    },
+    {
+      "score": 0.794431,
+      "name": "SONATA GOLD Branded Hidden Voice Recorder | Audio Bug Device | Spy Voice Recorder Product Microphone | Built-in Rechargeab...",
+      "image_url": "https://m.media-amazon.com/images/I/51BfIH0pfIL._AC_UL320_.jpg",
+      "content": "SONATA GOLD Branded Hidden Voice Recorder | Audio Bug Device | Spy Voice Recorder Product Microphone | Built-in Rechargeab... The SONATA GOLD Branded Hidden Voice Recorder is a compact, discreet audio recording device designed for covert sound capture. Its primary purpose is to secretly record conve"
+    },
+    {
+      "score": 0.7941599,
+      "name": "Jmk Store Android Wired in-Ear Headphone with 3.5mm Jack & Mic for All Smartphones & 2 in 1 Type C and Micro OTG Male to U...",
+      "image_url": "https://m.media-amazon.com/images/I/4195RG97cpL._AC_UL320_.jpg",
+      "content": "Jmk Store Android Wired in-Ear Headphone with 3.5mm Jack & Mic for All Smartphones & 2 in 1 Type C and Micro OTG Male to U... This product offers a dual solution for smartphone users. It includes a wired in-ear headphone with a 3.5mm jack and an integrated microphone, perfect for listening to audio,"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-05-26T17:47:06.724192",
+  "method": "multimodal",
+  "query": "air fryer",
+  "subqueries": [
+    "air fryer",
+    "compact air fryer with digital touchscreen and multiple cooking presets",
+    "large capacity air fryer suitable for family-sized meals",
+    "air fryer with multi-function capabilities including baking, grilling, and roasting",
+    "air fryer accessories such as baking pans, racks, and silicone mats compatible with popular models"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 2.087397813796997,
+  "results": [
+    {
+      "score": 0.7995851,
+      "name": "HRK Personal Space Air-Cooler, 3-in-1 USB Mini Portable Air Conditioner Humidifier Purifier Mini Cooler, Air Cooler for Ro...",
+      "image_url": "https://m.media-amazon.com/images/I/61Vnoy0m+QL._AC_UL320_.jpg",
+      "content": "HRK Personal Space Air-Cooler, 3-in-1 USB Mini Portable Air Conditioner Humidifier Purifier Mini Cooler, Air Cooler for Ro... The HRK Personal Space Air-Cooler is a compact, multi-functional device designed to provide localized personal comfort. It acts as a 3-in-1 unit, offering air cooling, humidi"
+    },
+    {
+      "score": 0.79934233,
+      "name": "1 Star Rating 192 L Freeze.Crown Design.",
+      "image_url": "https://m.media-amazon.com/images/I/61nRvxKEpiL._AC_UL320_.jpg",
+      "content": "1 Star Rating 192 L Freeze.Crown Design. This product is a 192-liter freezer, primarily designed for the long-term storage and preservation of frozen food items. Its '1 Star Rating' indicates it's a basic model in terms of energy efficiency, often appealing to those looking for a more budget-friendl"
+    },
+    {
+      "score": 0.7980823,
+      "name": "HASTHIP® LED Aroma Diffuser Humidifier 360 °Aroma Humidifier Ultra Quiet Humidifier Essential Oil Diffuser Aromatherapy Di...",
+      "image_url": "https://m.media-amazon.com/images/I/71Lp37NUhdL._AC_UL320_.jpg",
+      "content": "HASTHIP® LED Aroma Diffuser Humidifier 360 °Aroma Humidifier Ultra Quiet Humidifier Essential Oil Diffuser Aromatherapy Di... The HASTHIP® LED Aroma Diffuser Humidifier is a multi-functional device designed to enhance indoor environments. Its primary purpose is to act as both an **essential oil diff"
+    },
+    {
+      "score": 0.79786694,
+      "name": "Mini Refrigerator, 4L Mini Refrigerator Heating Car Refrigerator Dual-Using White Single Type Car Refrigerator for Car for...",
+      "image_url": "https://m.media-amazon.com/images/I/51yJEnqhNNS._AC_UL320_.jpg",
+      "content": "Mini Refrigerator, 4L Mini Refrigerator Heating Car Refrigerator Dual-Using White Single Type Car Refrigerator for Car for... This product is a compact, 4-liter portable refrigerator designed primarily for use in vehicles. Its dual-functionality allows it to both cool items (like drinks, snacks, med"
+    },
+    {
+      "score": 0.79775417,
+      "name": "8L Mini Fridge, 12V AC/DC Large Capacity Mirror Beauty Portable Electric Cooler& Warmer with LED Light, White Convenient M...",
+      "image_url": "https://m.media-amazon.com/images/I/51ujiUAT6-L._AC_UL320_.jpg",
+      "content": "8L Mini Fridge, 12V AC/DC Large Capacity Mirror Beauty Portable Electric Cooler& Warmer with LED Light, White Convenient M... This 8L Mini Fridge is a versatile, portable electric cooler and warmer, uniquely designed with a mirror and LED light. It operates on both AC (standard wall outlet) and 12V "
+    }
+  ]
+}

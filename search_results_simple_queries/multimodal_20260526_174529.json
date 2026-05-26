@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-05-26T17:45:29.533105",
+  "method": "multimodal",
+  "query": "airpods",
+  "subqueries": [
+    "airpods",
+    "Apple AirPods wireless earbuds with charging case",
+    "AirPods Pro with active noise cancellation and customizable fit",
+    "AirPods accessories including protective cases and wireless chargers",
+    "Replacement parts and batteries for Apple AirPods"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 2.1584630012512207,
+  "results": [
+    {
+      "score": 0.7967631,
+      "name": "Earphones for vivo T1 44W, T1x, T2x, Y21G, Y21s, Y22 2022, Y31s, Y33, Y33e, Y35 2022, Y52, Y53s NFC, Y55, Y55s, Y71T, Y76,...",
+      "image_url": "https://m.media-amazon.com/images/I/51nwsnMxubL._AC_UL320_.jpg",
+      "content": "Earphones for vivo T1 44W, T1x, T2x, Y21G, Y21s, Y22 2022, Y31s, Y33, Y33e, Y35 2022, Y52, Y53s NFC, Y55, Y55s, Y71T, Y76,... This product is a set of earphones specifically designed for a range of Vivo smartphone models, including the T1 44W, T1x, T2x, Y21G, Y21s, Y22 2022, Y31s, Y33, Y33e, Y35 202"
+    },
+    {
+      "score": 0.79572314,
+      "name": "Amozo Tough Rugged Shockproof Cover Case Compatible with AirPods Pro 2 / AirPods Pro GEN-2 (2022) - (Polycarbonate | Black)",
+      "image_url": "https://m.media-amazon.com/images/I/61fIietqeLL._AC_UL320_.jpg",
+      "content": "Amozo Tough Rugged Shockproof Cover Case Compatible with AirPods Pro 2 / AirPods Pro GEN-2 (2022) - (Polycarbonate | Black) This product is a protective, tough, rugged, and shockproof cover case specifically designed for the Apple AirPods Pro 2 / AirPods Pro GEN-2 (2022) charging case. Made from dur"
+    },
+    {
+      "score": 0.78991437,
+      "name": "m mhb HD Quality Bluetooth Spy Camera Hidden Video Audio Recording Bluetooth Camera Inbuilt 4GB Memory. with inbuilt Recha...",
+      "image_url": "https://m.media-amazon.com/images/I/61-wtVO7vML._AC_UL320_.jpg",
+      "content": "m mhb HD Quality Bluetooth Spy Camera Hidden Video Audio Recording Bluetooth Camera Inbuilt 4GB Memory. with inbuilt Recha... This product is an HD quality Bluetooth Spy Camera designed for discreet video and audio recording. It appears as a standard Bluetooth device, making it inconspicuous for cov"
+    },
+    {
+      "score": 0.78988725,
+      "name": "EarFun Free 2 Wireless Earbuds, QCC3040 aptX Audio Technology, Dynamic Drivers, Bluetooth 5.2, Touch Control + Volume Cont...",
+      "image_url": "https://m.media-amazon.com/images/I/61vBgc4+GZL._AC_UL320_.jpg",
+      "content": "EarFun Free 2 Wireless Earbuds, QCC3040 aptX Audio Technology, Dynamic Drivers, Bluetooth 5.2, Touch Control + Volume Cont... The EarFun Free 2 Wireless Earbuds are designed for individuals seeking a high-quality, wire-free audio experience. Featuring advanced QCC3040 aptX audio technology and dynam"
+    },
+    {
+      "score": 0.7890256,
+      "name": "Zebronics Zeb-Sound Bomb N1 True Wireless In Ear Earbuds with ENC, Gaming Mode (up to 50ms), up to 18H Playback, Bluetooth...",
+      "image_url": "https://m.media-amazon.com/images/I/5143d5F4iRL._AC_UL320_.jpg",
+      "content": "Zebronics Zeb-Sound Bomb N1 True Wireless In Ear Earbuds with ENC, Gaming Mode (up to 50ms), up to 18H Playback, Bluetooth... These are true wireless in-ear earbuds designed for a versatile audio experience. They are ideal for individuals who want to listen to music, podcasts, or audiobooks wireless"
+    }
+  ]
+}

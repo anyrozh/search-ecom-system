@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-05-26T17:46:20.091591",
+  "method": "text_searcher",
+  "query": "sewing machine",
+  "subqueries": [
+    "sewing machine",
+    "basic sewing machines for beginners with essential stitch functions",
+    "advanced computerized sewing machines with multiple stitch patterns and automatic features",
+    "portable and compact sewing machines suitable for travel and small projects",
+    "heavy-duty sewing machines designed for thick fabrics and professional use"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.8615539073944092,
+  "results": [
+    {
+      "score": 0.86379385,
+      "name": "Hesch 9 Seam Ripper and Thread Remover Kit, 2 Big and 2 Small Sewing Stitch Thread Unpicker and 1 Sewing Trimming Scissor ...",
+      "content": "Hesch 9 Seam Ripper and Thread Remover Kit, 2 Big and 2 Small Sewing Stitch Thread Unpicker and 1 Sewing Trimming Scissor ... This kit is designed to help users efficiently remove unwanted stitches, threads, and seams from fabric, and to trim loose threads. It's ideal for anyone involved in sewing, "
+    },
+    {
+      "score": 0.8617454,
+      "name": "SSKR Sewing Machine Needles 100/16, HA x 1-10 Needles Set - Works with All Automatic Sewing Machines (USHA/Singer/Brother)",
+      "content": "SSKR Sewing Machine Needles 100/16, HA x 1-10 Needles Set - Works with All Automatic Sewing Machines (USHA/Singer/Brother) This product is a set of 10 SSKR sewing machine needles, size 100/16 (a medium-heavy size, also known as 16 US/Singer size), designed for household sewing machines. Its primary "
+    },
+    {
+      "score": 0.851435,
+      "name": "Lovetholy 2pcs, 11.5X6.5cm Kery Designer Embroidery Neck sew on Applique Patches/Decorative Patches for Clothes, Jackets, ...",
+      "content": "Lovetholy 2pcs, 11.5X6.5cm Kery Designer Embroidery Neck sew on Applique Patches/Decorative Patches for Clothes, Jackets, ... These Lovetholy Kery Designer Embroidery Patches are decorative, sew-on appliques designed to personalize, enhance, or repair various fabric items. They can be used by anyone"
+    },
+    {
+      "score": 0.8495139,
+      "name": "DEVICE OF PN Lint/Fabric Shaver for Cloths, Lint Remover for Woolen Sweaters, Blankets, Jackets/Burr Remover Pill Remover ...",
+      "content": "DEVICE OF PN Lint/Fabric Shaver for Cloths, Lint Remover for Woolen Sweaters, Blankets, Jackets/Burr Remover Pill Remover ... The DEVICE OF PN Lint/Fabric Shaver is designed to remove lint, fabric pills (also known as bobbles or fuzz), and burrs from various textile items. It is ideal for anyone loo"
+    },
+    {
+      "score": 0.8472762,
+      "name": "USHA, Singer 100 Sewing Machine Needles of Size 16 - HAX1, 15X1, 16/100 (silver)",
+      "content": "USHA, Singer 100 Sewing Machine Needles of Size 16 - HAX1, 15X1, 16/100 (silver) These USHA, Singer 100 Sewing Machine Needles, sized 16/100 (HAX1, 15X1), are essential replacement or spare needles designed for domestic sewing machines. Their primary purpose is to facilitate the creation of stitches"
+    }
+  ]
+}

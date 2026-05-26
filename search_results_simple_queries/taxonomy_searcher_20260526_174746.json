@@ -1,0 +1,49 @@
+{
+  "timestamp": "2026-05-26T17:47:46.363484",
+  "method": "taxonomy_searcher",
+  "query": "vacuum cleaner",
+  "subqueries": [
+    "vacuum cleaner",
+    "cordless handheld vacuum cleaner for quick and portable cleaning",
+    "upright vacuum cleaner with strong suction for deep carpet cleaning",
+    "robot vacuum cleaner with smart navigation for automated floor cleaning",
+    "canister vacuum cleaner suitable for multi-surface cleaning including hard floors and upholstery"
+  ],
+  "taxonomies_found": [
+    "appliances/All Appliances"
+  ],
+  "taxonomy_fallback": false,
+  "search_time": 3.7083709239959717,
+  "results": [
+    {
+      "score": 0.8049118,
+      "name": "STARQ Foam Bottle for Washing Foam Cannon(Empty Bottle) (only Bottle(Empty))",
+      "image_url": "https://m.media-amazon.com/images/I/11SjVotxAbL._AC_UL320_.jpg",
+      "content": "STARQ Foam Bottle for Washing Foam Cannon(Empty Bottle) (only Bottle(Empty)) The STARQ Foam Bottle is an empty, standalone bottle designed as a replacement or spare part for a foam cannon system used in vehicle washing. Its primary purpose is to hold a diluted car wash soap or shampoo solution. It c"
+    },
+    {
+      "score": 0.7824429,
+      "name": "CHESTON Vacuum Cleaner Wet & Dry 15L Capacity | 1200W Motor with HEPA Filter, & Blower Function for Home Office Carpet Car...",
+      "image_url": "https://m.media-amazon.com/images/I/61q-0DfS6JL._AC_UL320_.jpg",
+      "content": "CHESTON Vacuum Cleaner Wet & Dry 15L Capacity | 1200W Motor with HEPA Filter, & Blower Function for Home Office Carpet Car... The CHESTON Vacuum Cleaner is a versatile, powerful cleaning appliance designed to handle both dry debris and liquid spills. Equipped with a 1200W motor and a HEPA filter for"
+    },
+    {
+      "score": 0.78214353,
+      "name": "Eufy by Anker, RoboVac G30 Hybrid, 2-in-1 Robot Vacuum, Mop and Sweep with Smart Dynamic Navigation 2.0, 2000Pa Suction, W...",
+      "image_url": "https://m.media-amazon.com/images/I/81jrFSfZpNL._AC_UL320_.jpg",
+      "content": "Eufy by Anker, RoboVac G30 Hybrid, 2-in-1 Robot Vacuum, Mop and Sweep with Smart Dynamic Navigation 2.0, 2000Pa Suction, W... The Eufy by Anker RoboVac G30 Hybrid is an automated 2-in-1 robot designed to comprehensively clean floors by vacuuming, mopping, and sweeping. It's ideal for individuals and"
+    },
+    {
+      "score": 0.7810749,
+      "name": "ResQTech PW-107 1900 Watt 150 Bar High Pressure Washer with Foam Cannon,90 Degree Nozzle ,Rotary Turbo Nozzle ,7m Hose Pip...",
+      "image_url": "https://m.media-amazon.com/images/I/61+cLD+-tCL._AC_UL320_.jpg",
+      "content": "ResQTech PW-107 1900 Watt 150 Bar High Pressure Washer with Foam Cannon,90 Degree Nozzle ,Rotary Turbo Nozzle ,7m Hose Pip... The ResQTech PW-107 is a powerful 1900 Watt, 150 Bar high-pressure washer designed to efficiently remove stubborn dirt, grime, mold, and other contaminants using a high-press"
+    },
+    {
+      "score": 0.7780739,
+      "name": "ECOVACS DEEBOT N8 2-in-1 Robotic Vacuum Cleaner, 2022 New Launch, Most Powerful Suction, Covers 2000+ Sq. Ft in One Charg...",
+      "image_url": "https://m.media-amazon.com/images/I/61GgIV3tqRL._AC_UL320_.jpg",
+      "content": "ECOVACS DEEBOT N8 2-in-1 Robotic Vacuum Cleaner, 2022 New Launch, Most Powerful Suction, Covers 2000+ Sq. Ft in One Charg... The ECOVACS DEEBOT N8 is a 2-in-1 robotic vacuum cleaner and mop, launched in 2022, designed to automate floor cleaning. It's ideal for homeowners, particularly those with lar"
+    }
+  ]
+}

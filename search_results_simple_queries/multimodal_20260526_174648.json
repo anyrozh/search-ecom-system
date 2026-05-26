@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-05-26T17:46:48.155157",
+  "method": "multimodal",
+  "query": "blender",
+  "subqueries": [
+    "blender",
+    "high-performance countertop blender for smoothies and food processing",
+    "compact personal blender for single-serve shakes and portable use",
+    "immersion hand blender for blending soups and sauces directly in pots",
+    "commercial-grade blender for heavy-duty kitchen and restaurant use"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 3.000328302383423,
+  "results": [
+    {
+      "score": 0.81677973,
+      "name": "MAYUMI® GLS Experts Nutri-Blend, 22000 RPM Mixer-Grinder, Blender, SS Blades, 2 Unbreakable Jars, 1 Years Warranty, 400 W-...",
+      "image_url": "https://m.media-amazon.com/images/I/71ESeCNf2jL._AC_UL320_.jpg",
+      "content": "MAYUMI® GLS Experts Nutri-Blend, 22000 RPM Mixer-Grinder, Blender, SS Blades, 2 Unbreakable Jars, 1 Years Warranty, 400 W-... The MAYUMI® GLS Experts Nutri-Blend is a versatile kitchen appliance designed as a mixer-grinder and blender. Its primary purpose is to efficiently process various food items"
+    },
+    {
+      "score": 0.8148036,
+      "name": "Wonderchef Nutri-Blend, 400W, 22000 RPM Mixer-Grinder, Blender, SS Blades, 2 Unbreakable Jars, With Sipper Lid, 2 Years Wa...",
+      "image_url": "https://m.media-amazon.com/images/I/61OD1-RvQxL._AC_UL320_.jpg",
+      "content": "Wonderchef Nutri-Blend, 400W, 22000 RPM Mixer-Grinder, Blender, SS Blades, 2 Unbreakable Jars, With Sipper Lid, 2 Years Wa... The Wonderchef Nutri-Blend is a compact, powerful 400W mixer-grinder and blender, engineered for quick and efficient preparation of healthy food and drinks. It's ideal for he"
+    },
+    {
+      "score": 0.80911386,
+      "name": "SilentPowerSunmeet Bullet Jars for Mixer Grinder Combo of 2 Jar (530 ML and 350 ML) with Gym Sipper Cap, Black- NSA34",
+      "image_url": "https://m.media-amazon.com/images/I/61ZZiImfkvL._AC_UL320_.jpg",
+      "content": "SilentPowerSunmeet Bullet Jars for Mixer Grinder Combo of 2 Jar (530 ML and 350 ML) with Gym Sipper Cap, Black- NSA34 This product offers a combo of two bullet-style jars (530 ML and 350 ML) primarily designed as accessories or replacements for a mixer grinder. Their main purpose is to facilitate th"
+    },
+    {
+      "score": 0.8077717,
+      "name": "Panasonic SR-WA22H(SS) 2.2 Litre Food Steamer, Burgundy, 750 Watts",
+      "image_url": "https://m.media-amazon.com/images/I/71+r32pvYJL._AC_UL320_.jpg",
+      "content": "Panasonic SR-WA22H(SS) 2.2 Litre Food Steamer, Burgundy, 750 Watts The Panasonic SR-WA22H(SS) is a 2.2 Litre food steamer designed for healthy and convenient cooking. Its primary purpose is to gently cook a variety of foods using steam, preserving nutrients and natural flavors without the need for a"
+    },
+    {
+      "score": 0.80525464,
+      "name": "Su-mix Heavy Bullet Jar for Mixer Grinder Small Set of 1 (350 ML) ABS Transparent Plastic Mixer Juicer Jar",
+      "image_url": "https://m.media-amazon.com/images/I/61skbW25iHL._AC_UL320_.jpg",
+      "content": "Su-mix Heavy Bullet Jar for Mixer Grinder Small Set of 1 (350 ML) ABS Transparent Plastic Mixer Juicer Jar This Su-mix Heavy Bullet Jar is a small, durable (ABS transparent plastic) 350 ML replacement or additional jar designed for use with compatible mixer grinders. It's ideal for individuals or sm"
+    }
+  ]
+}

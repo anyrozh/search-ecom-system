@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-05-26T17:47:14.611102",
+  "method": "text_searcher",
+  "query": "crocs",
+  "subqueries": [
+    "crocs",
+    "Men's Crocs casual slip-on clogs for everyday wear",
+    "Women's Crocs lightweight and comfortable sandals",
+    "Children's Crocs colorful and durable footwear for kids",
+    "Crocs accessories including Jibbitz charms and shoe liners"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.9666752815246582,
+  "results": [
+    {
+      "score": 0.8917886,
+      "name": "crocs 207713 UK",
+      "content": "crocs 207713 UK The product 'crocs 207713 UK' refers to a specific model of Crocs footwear, likely a pair of their signature foam clogs or sandals, with '207713' being the style or model number and 'UK' indicating the sizing standard. The primary purpose of Crocs footwear is to provide comfortable, "
+    },
+    {
+      "score": 0.87911373,
+      "name": "SHOEGAZNG Shoegazing Women Casual Flat Sandals for College Girls| Flat Sandals for Women",
+      "content": "SHOEGAZNG Shoegazing Women Casual Flat Sandals for College Girls| Flat Sandals for Women These are casual flat sandals designed for women, specifically marketed towards college girls, for comfortable everyday wear."
+    },
+    {
+      "score": 0.8686417,
+      "name": "Footons women's comfortable stylish designer daily/fashion/casual women's slippers",
+      "content": "Footons women's comfortable stylish designer daily/fashion/casual women's slippers Footons women's slippers are designed to provide women with comfortable, stylish, and fashionable footwear. They are ideal for daily wear, complementing casual outfits, or adding a touch of style to relaxed occasions."
+    },
+    {
+      "score": 0.8684434,
+      "name": "1 WALK Comfortable DR Sole Women-Flats/Sandals/Fancy WEAR Original/Slippers/Casual Footwear-Black@MP-DR100B-Black-$Parent SKU",
+      "content": "1 WALK Comfortable DR Sole Women-Flats/Sandals/Fancy WEAR Original/Slippers/Casual Footwear-Black@MP-DR100B-Black-$Parent SKU This product is a versatile pair of black women's footwear from 1 WALK, featuring a comfortable 'DR Sole' for enhanced support. It is designed for women seeking supportive an"
+    },
+    {
+      "score": 0.8663589,
+      "name": "B-NED-K Men's Muccasin Shoes::Nagara Shoes for Men::Trending Shoes Shoes for Men and Boys::Slip-on Shoes for Men",
+      "content": "B-NED-K Men's Muccasin Shoes::Nagara Shoes for Men::Trending Shoes Shoes for Men and Boys::Slip-on Shoes for Men This product is a collection of men's slip-on shoes, primarily featuring a moccasin style. It's designed for men (and boys, as indicated by 'Trending Shoes Shoes for Men and Boys') who ar"
+    }
+  ]
+}

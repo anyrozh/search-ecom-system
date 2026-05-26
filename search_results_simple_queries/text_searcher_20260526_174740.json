@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-05-26T17:47:40.515528",
+  "method": "text_searcher",
+  "query": "vacuum cleaner",
+  "subqueries": [
+    "vacuum cleaner",
+    "cordless handheld vacuum cleaner for quick and portable cleaning",
+    "upright vacuum cleaner with strong suction power for deep carpet cleaning",
+    "robot vacuum cleaner with smart navigation for automated floor cleaning",
+    "canister vacuum cleaner suitable for multi-surface cleaning including hardwood and tiles"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.991960048675537,
+  "results": [
+    {
+      "score": 0.88042533,
+      "name": "ECOVACS DEEBOT N8 2-in-1 Robotic Vacuum Cleaner, 2022 New Launch, Most Powerful Suction, Covers 2000+ Sq. Ft in One Charg...",
+      "content": "ECOVACS DEEBOT N8 2-in-1 Robotic Vacuum Cleaner, 2022 New Launch, Most Powerful Suction, Covers 2000+ Sq. Ft in One Charg... The ECOVACS DEEBOT N8 is a 2-in-1 robotic vacuum cleaner and mop, launched in 2022, designed to automate floor cleaning. It's ideal for homeowners, particularly those with lar"
+    },
+    {
+      "score": 0.86759835,
+      "name": "Eufy by Anker, RoboVac G30 Hybrid, 2-in-1 Robot Vacuum, Mop and Sweep with Smart Dynamic Navigation 2.0, 2000Pa Suction, W...",
+      "content": "Eufy by Anker, RoboVac G30 Hybrid, 2-in-1 Robot Vacuum, Mop and Sweep with Smart Dynamic Navigation 2.0, 2000Pa Suction, W... The Eufy by Anker RoboVac G30 Hybrid is an automated 2-in-1 robot designed to comprehensively clean floors by vacuuming, mopping, and sweeping. It's ideal for individuals and"
+    },
+    {
+      "score": 0.8575852,
+      "name": "Multi-Coated Variable Polarizing ND Neutral Density Adjustable ND2 -ND400 (Waterproof, Scratchproof, Dustproof) (58MM)",
+      "content": "Multi-Coated Variable Polarizing ND Neutral Density Adjustable ND2 -ND400 (Waterproof, Scratchproof, Dustproof) (58MM) This product is a versatile and durable camera lens filter that combines two essential functions: a **Variable Neutral Density (ND) filter** and a **Circular Polarizer (CPL) filter*"
+    },
+    {
+      "score": 0.8575063,
+      "name": "T.O.G. DC12V Mini Vacuum Pump Negative Pressure Air Suction Pump 5L/min 65-120kpa",
+      "content": "T.O.G. DC12V Mini Vacuum Pump Negative Pressure Air Suction Pump 5L/min 65-120kpa The T.O.G. DC12V Mini Vacuum Pump is a compact, low-power air suction pump designed to create negative pressure or a vacuum by actively removing air from a sealed space. Operating on 12V DC, it's capable of moving 5 li"
+    },
+    {
+      "score": 0.85736394,
+      "name": "RODAK Fleece Dust Bags Set of 4 - for Karchre Vacuum Cleaner WD4, WD5, WD6",
+      "content": "RODAK Fleece Dust Bags Set of 4 - for Karchre Vacuum Cleaner WD4, WD5, WD6 The RODAK Fleece Dust Bags Set of 4 is a consumable accessory specifically designed for use with Kärcher WD4, WD5, and WD6 wet/dry vacuum cleaners. Its primary purpose is to collect dry dust, dirt, debris, and fine particles "
+    }
+  ]
+}

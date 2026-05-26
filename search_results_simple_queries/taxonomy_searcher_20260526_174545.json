@@ -1,0 +1,51 @@
+{
+  "timestamp": "2026-05-26T17:45:45.495572",
+  "method": "taxonomy_searcher",
+  "query": "laptop",
+  "subqueries": [
+    "laptop",
+    "high-performance laptops for gaming with dedicated graphics cards and fast processors",
+    "lightweight and portable laptops suitable for students and frequent travelers",
+    "business laptops with enhanced security features and professional software compatibility",
+    "budget-friendly laptops for everyday use including web browsing and office applications"
+  ],
+  "taxonomies_found": [
+    "tv, audio & cameras/Headphones",
+    "tv, audio & cameras/Televisions",
+    "appliances/All Appliances"
+  ],
+  "taxonomy_fallback": true,
+  "search_time": 6.757020950317383,
+  "results": [
+    {
+      "score": 0.7903771,
+      "name": "Honeywell Trueno U10 Bluetooth V5.1+EDR in Ear Wireless Neckband with mic, Upto 15H Playtime, 10mm Drivers, Integrated Con...",
+      "image_url": "https://m.media-amazon.com/images/I/41OAgyROYnL._AC_UL320_.jpg",
+      "content": "Honeywell Trueno U10 Bluetooth V5.1+EDR in Ear Wireless Neckband with mic, Upto 15H Playtime, 10mm Drivers, Integrated Con... The Honeywell Trueno U10 is a wireless in-ear neckband designed for convenient, hands-free audio. Its primary purpose is to provide a seamless listening experience for music,"
+    },
+    {
+      "score": 0.78265697,
+      "name": "MICROSMT M21 Smart LED TV (75-SMT-SL/1024/08-KSR-22),75 Inches.",
+      "image_url": "https://m.media-amazon.com/images/I/41gmezKJxCL._AC_UL320_.jpg",
+      "content": "MICROSMT M21 Smart LED TV (75-SMT-SL/1024/08-KSR-22),75 Inches. The MICROSMT M21 Smart LED TV is a 75-inch, internet-connected television designed to be a central entertainment and media hub. Its primary purpose is to deliver a large, immersive visual experience for various forms of content.\n\n**Who "
+    },
+    {
+      "score": 0.78021,
+      "name": "MICROSMT M34 Smart LED TV (43-SMT-FL/1024/08-KSR-22),43 Inches.",
+      "image_url": "https://m.media-amazon.com/images/I/41gmezKJxCL._AC_UL320_.jpg",
+      "content": "MICROSMT M34 Smart LED TV (43-SMT-FL/1024/08-KSR-22),43 Inches. The MICROSMT M34 is a 43-inch Smart LED TV designed for comprehensive home entertainment. It can be used by individuals, families, or anyone seeking a modern television for their living space. Its purpose is to provide access to a wide "
+    },
+    {
+      "score": 0.776121,
+      "name": "MICROSMT M83 Smart LED TV (75-SMT-4K/1024/08-KSR-22),75 Inches.",
+      "image_url": "https://m.media-amazon.com/images/I/41gmezKJxCL._AC_UL320_.jpg",
+      "content": "MICROSMT M83 Smart LED TV (75-SMT-4K/1024/08-KSR-22),75 Inches. The MICROSMT M83 Smart LED TV is a 75-inch, 4K Ultra High Definition (UHD) television equipped with smart functionalities, meaning it can connect to the internet and run various applications. Its primary purpose is to deliver high-quali"
+    },
+    {
+      "score": 0.77603716,
+      "name": "MICROSMT M57 Smart LED TV (50-SMT-SB/1024/08-KSR-22),50 Inches.",
+      "image_url": "https://m.media-amazon.com/images/I/41gmezKJxCL._AC_UL320_.jpg",
+      "content": "MICROSMT M57 Smart LED TV (50-SMT-SB/1024/08-KSR-22),50 Inches. The MICROSMT M57 Smart LED TV is a 50-inch high-definition television designed to be a comprehensive entertainment hub. Its primary purpose is to deliver immersive visual and audio content. As a 'Smart TV,' it connects to the internet, "
+    }
+  ]
+}

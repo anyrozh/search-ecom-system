@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-05-26T17:47:20.546965",
+  "method": "baseline",
+  "query": "treadmill",
+  "subqueries": [
+    "treadmill"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 0.02503204345703125,
+  "results": [
+    {
+      "score": 0.5,
+      "name": "Sole F60 Treadmill",
+      "content": "Sole F60 Treadmill"
+    },
+    {
+      "score": 0.5,
+      "name": "Treadmill lubrication oil 500 ml silicone treadmill oil all treadmill",
+      "content": "Treadmill lubrication oil 500 ml silicone treadmill oil all treadmill"
+    },
+    {
+      "score": 0.33333334,
+      "name": "BLUNTFIT Treadmill Safety Key | Universal Treadmill Magnet Security Lock | Fitness Replacement Kit for All Treadmill- Red",
+      "content": "BLUNTFIT Treadmill Safety Key | Universal Treadmill Magnet Security Lock | Fitness Replacement Kit for All Treadmill- Red"
+    },
+    {
+      "score": 0.33333334,
+      "name": "AT-100 Motorsied Treadmill",
+      "content": "AT-100 Motorsied Treadmill"
+    },
+    {
+      "score": 0.25,
+      "name": "Kettler Track S2 Treadmill, Black, Regular",
+      "content": "Kettler Track S2 Treadmill, Black, Regular"
+    }
+  ]
+}

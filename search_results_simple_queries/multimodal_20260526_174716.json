@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-05-26T17:47:16.754830",
+  "method": "multimodal",
+  "query": "crocs",
+  "subqueries": [
+    "crocs",
+    "Men's Crocs casual slip-on clogs for everyday wear",
+    "Women's Crocs lightweight and comfortable sandals",
+    "Kids' Crocs colorful and durable shoes for play",
+    "Crocs accessories such as Jibbitz charms and shoe liners"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 2.142570972442627,
+  "results": [
+    {
+      "score": 0.8111474,
+      "name": "crocs Bayaband Clog UK M9W11",
+      "image_url": "https://m.media-amazon.com/images/I/71yJCuM95YL._AC_UL320_.jpg",
+      "content": "crocs Bayaband Clog UK M9W11 The Crocs Bayaband Clog is a lightweight, comfortable, and versatile slip-on shoe known for its iconic design and Croslite™ foam construction. It can be used by individuals of all ages (this specific size, UK M9W11, indicates adult sizing) who prioritize comfort, ease of"
+    },
+    {
+      "score": 0.80705345,
+      "name": "crocs unisex-child Bayaband Clog SLATE GREY/LIME PUNCH Clog - 1-1.5 Years, 4 Kids UK, 11.5 cms(C4) (207018-0GX)",
+      "image_url": "https://m.media-amazon.com/images/I/71-IRy6dV0L._AC_UL320_.jpg",
+      "content": "crocs unisex-child Bayaband Clog SLATE GREY/LIME PUNCH Clog - 1-1.5 Years, 4 Kids UK, 11.5 cms(C4) (207018-0GX) This product is a pair of Crocs Bayaband Clogs, a comfortable and lightweight footwear option designed specifically for young children. It is a unisex item, suitable for both boys and girl"
+    },
+    {
+      "score": 0.80195254,
+      "name": "SHOEGAZNG Shoegazing Women Casual Flat Sandals for College Girls| Flat Sandals for Women",
+      "image_url": "https://m.media-amazon.com/images/I/51rXG-wUzgL._AC_UL320_.jpg",
+      "content": "SHOEGAZNG Shoegazing Women Casual Flat Sandals for College Girls| Flat Sandals for Women These are casual flat sandals designed for women, specifically marketed towards college girls, for comfortable everyday wear."
+    },
+    {
+      "score": 0.7998176,
+      "name": "Big Fox Perforated-6 Men's Croco Moccasins Loafers Style Shoes",
+      "image_url": "https://m.media-amazon.com/images/I/61NqXop+eSS._AC_UL320_.jpg",
+      "content": "Big Fox Perforated-6 Men's Croco Moccasins Loafers Style Shoes This product is a pair of men's slip-on shoes, combining the comfort of moccasins with the stylish appeal of loafers. Its purpose is to provide breathable (due to perforations), comfortable, and fashionable footwear with a distinctive cr"
+    },
+    {
+      "score": 0.7976988,
+      "name": "crocs 207713 UK",
+      "image_url": "https://m.media-amazon.com/images/I/71FtrXukgCL._AC_UL320_.jpg",
+      "content": "crocs 207713 UK The product 'crocs 207713 UK' refers to a specific model of Crocs footwear, likely a pair of their signature foam clogs or sandals, with '207713' being the style or model number and 'UK' indicating the sizing standard. The primary purpose of Crocs footwear is to provide comfortable, "
+    }
+  ]
+}

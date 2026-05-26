@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-05-26T17:46:33.386698",
+  "method": "baseline",
+  "query": "toilet paper",
+  "subqueries": [
+    "toilet paper"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 0.04122805595397949,
+  "results": [
+    {
+      "score": 0.5,
+      "name": "BIP Toilet Tissue Paper",
+      "content": "BIP Toilet Tissue Paper"
+    },
+    {
+      "score": 0.5,
+      "name": "Plantex Space Aluminum Toilet Paper Roll Holder/Toilet Paper Holder for Bathroom/Kitchen Tissue Holder/Bathroom Accessorie...",
+      "content": "Plantex Space Aluminum Toilet Paper Roll Holder/Toilet Paper Holder for Bathroom/Kitchen Tissue Holder/Bathroom Accessorie..."
+    },
+    {
+      "score": 0.4166667,
+      "name": "Toilet Tissue Rolls with 100% Natural Tissue, Extra Soft Tissue Paper, Pulls Toilet Paper Roll , 50 Meters X 2 ply Pack of...",
+      "content": "Toilet Tissue Rolls with 100% Natural Tissue, Extra Soft Tissue Paper, Pulls Toilet Paper Roll , 50 Meters X 2 ply Pack of..."
+    },
+    {
+      "score": 0.33333334,
+      "name": "Craft Expertise Paper Towel Holder for Kitchen, Toilet, Bar, Office, Restaurant Bathroom Toilet Tissue Paper Roll Storage ...",
+      "content": "Craft Expertise Paper Towel Holder for Kitchen, Toilet, Bar, Office, Restaurant Bathroom Toilet Tissue Paper Roll Storage ..."
+    },
+    {
+      "score": 0.33333334,
+      "name": "V4L Paper Toilet Rolls Pack Of 6",
+      "content": "V4L Paper Toilet Rolls Pack Of 6"
+    }
+  ]
+}

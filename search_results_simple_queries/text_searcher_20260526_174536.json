@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-05-26T17:45:36.449032",
+  "method": "text_searcher",
+  "query": "laptop",
+  "subqueries": [
+    "laptop",
+    "high-performance laptops for gaming with dedicated graphics cards",
+    "lightweight and portable laptops for business and travel use",
+    "budget-friendly laptops suitable for everyday tasks and web browsing",
+    "2-in-1 convertible laptops with touchscreen and tablet functionality"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 2.4319260120391846,
+  "results": [
+    {
+      "score": 0.8982371,
+      "name": "BENNETT Drax Laptop Sleeve Case Cover for 39.62 cm (15.6-Inch) Laptop MacBook, Protective (Black)",
+      "content": "BENNETT Drax Laptop Sleeve Case Cover for 39.62 cm (15.6-Inch) Laptop MacBook, Protective (Black) This product is a BENNETT Drax laptop sleeve, case, or cover specifically designed to provide protective storage and portability for 39.62 cm (15.6-inch) laptops and MacBooks. It is intended for student"
+    },
+    {
+      "score": 0.8930179,
+      "name": "(Renewed) HP Chromebook C640 10th Gen Intel Core i5 Thin & Light FHD Laptop (8 GB DDR4 RAM/64 GB eMMC SSD/14\" (35.6 cm) FH...",
+      "content": "(Renewed) HP Chromebook C640 10th Gen Intel Core i5 Thin & Light FHD Laptop (8 GB DDR4 RAM/64 GB eMMC SSD/14\" (35.6 cm) FH... This is a **renewed (refurbished)**, **thin and light HP Chromebook** designed for **fast, secure, and simple web-centric computing**. It's ideal for **students, casual users"
+    },
+    {
+      "score": 0.8874727,
+      "name": "ZIPLINE 35 LTR, 19 inch Black Laptop Backpack for Men & Women College Girls Boys fits 15.6 inch Laptop MacBook pro/Tablet ...",
+      "content": "ZIPLINE 35 LTR, 19 inch Black Laptop Backpack for Men & Women College Girls Boys fits 15.6 inch Laptop MacBook pro/Tablet ... This is a 35-liter, 19-inch black laptop backpack designed to securely carry a 15.6-inch laptop (including MacBook Pro) or tablet. Its purpose is to provide a convenient and "
+    },
+    {
+      "score": 0.8837727,
+      "name": "Generic Polyster Light Weight Laptop Bag 30 ltrs Laptop Backpack for Upto 15.6 inch Laptop-ALB_1XR00298",
+      "content": "Generic Polyster Light Weight Laptop Bag 30 ltrs Laptop Backpack for Upto 15.6 inch Laptop-ALB_1XR00298 This is a lightweight polyester laptop backpack with a 30-liter capacity, specifically designed to securely carry laptops up to 15.6 inches. It's ideal for students, professionals, and commuters w"
+    },
+    {
+      "score": 0.87929463,
+      "name": "AmazonBasics Laptop Sleeve Case Cover Pouch for 13-Inch(33.02 Cm), 13.3-Inch (33.78 Cm) Laptop for Men & Women | Slim Prof...",
+      "content": "AmazonBasics Laptop Sleeve Case Cover Pouch for 13-Inch(33.02 Cm), 13.3-Inch (33.78 Cm) Laptop for Men & Women | Slim Prof... The AmazonBasics Laptop Sleeve is a slim, protective pouch designed for 13-inch and 13.3-inch laptops. It can be used by both men and women to safely carry their laptop, prot"
+    }
+  ]
+}

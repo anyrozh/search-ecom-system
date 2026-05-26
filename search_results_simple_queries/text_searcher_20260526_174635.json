@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-05-26T17:46:35.818169",
+  "method": "text_searcher",
+  "query": "toilet paper",
+  "subqueries": [
+    "toilet paper",
+    "soft and strong toilet paper rolls for everyday home use",
+    "eco-friendly and biodegradable toilet paper made from recycled materials",
+    "bulk pack toilet paper rolls for offices and large families",
+    "flushable and septic-safe toilet paper suitable for sensitive plumbing systems"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 2.430474042892456,
+  "results": [
+    {
+      "score": 0.880188,
+      "name": "BIP Toilet Tissue Paper",
+      "content": "BIP Toilet Tissue Paper BIP Toilet Tissue Paper is a personal hygiene product primarily used for cleaning and drying oneself after using the toilet. It is suitable for everyone, including adults and children, for maintaining cleanliness and comfort in the bathroom."
+    },
+    {
+      "score": 0.8662033,
+      "name": "YOOKO ( Pack of 6 Roll ) Toilet peper Soft Care Luxurious Bathroom Tissue Paper 2 Ply 20 cm Exta Softness Soft Tissue The ...",
+      "content": "YOOKO ( Pack of 6 Roll ) Toilet peper Soft Care Luxurious Bathroom Tissue Paper 2 Ply 20 cm Exta Softness Soft Tissue The ... This product, YOOKO Toilet Paper, is a pack of six rolls of 2-ply bathroom tissue designed for personal hygiene. It is characterized by its 'Soft Care,' 'Luxurious,' and 'Ext"
+    },
+    {
+      "score": 0.86135983,
+      "name": "Babymoon (Set of 2) 1 Cloth Diaper with 5Layers Charcoal Bamboo Insert) Premium Adjustable Reusable Cloth Diaper (Frenchfr...",
+      "content": "Babymoon (Set of 2) 1 Cloth Diaper with 5Layers Charcoal Bamboo Insert) Premium Adjustable Reusable Cloth Diaper (Frenchfr... This product, the Babymoon Premium Adjustable Reusable Cloth Diaper (Set of 2), is designed for babies. Its purpose is to serve as an eco-friendly and cost-effective alternat"
+    },
+    {
+      "score": 0.85664165,
+      "name": "SuperBottoms UNO Freesize Cloth Diaper | Cloth diaper for babies 3M to 3Y | Washable & Reusable cloth diaper | Comes with ...",
+      "content": "SuperBottoms UNO Freesize Cloth Diaper | Cloth diaper for babies 3M to 3Y | Washable & Reusable cloth diaper | Comes with ... The SuperBottoms UNO Freesize Cloth Diaper is a washable and reusable cloth diaper designed for babies aged 3 months to 3 years. Its purpose is to provide an adjustable, eco-"
+    },
+    {
+      "score": 0.8562726,
+      "name": "Paseo Toilet Tissue 2 ply Toilet Paper 10 Toilet Rolls x 200 Toilet Tissue Sheets Sheet Size 11 x 9.9 cm",
+      "content": "Paseo Toilet Tissue 2 ply Toilet Paper 10 Toilet Rolls x 200 Toilet Tissue Sheets Sheet Size 11 x 9.9 cm Paseo Toilet Tissue is a personal hygiene product, specifically 2-ply toilet paper, designed for use in bathrooms. It is used by individuals and households for cleaning themselves after using the"
+    }
+  ]
+}

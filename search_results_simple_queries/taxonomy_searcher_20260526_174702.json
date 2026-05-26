@@ -1,0 +1,49 @@
+{
+  "timestamp": "2026-05-26T17:47:02.403001",
+  "method": "taxonomy_searcher",
+  "query": "compression socks women",
+  "subqueries": [
+    "compression socks women",
+    "compression socks for women with graduated compression for improved circulation",
+    "women's compression socks designed for athletic performance and recovery",
+    "medical-grade compression socks for women to reduce swelling and varicose veins",
+    "fashionable and comfortable compression socks for women suitable for daily wear"
+  ],
+  "taxonomies_found": [
+    "women's clothing/Clothing"
+  ],
+  "taxonomy_fallback": false,
+  "search_time": 6.694514989852905,
+  "results": [
+    {
+      "score": 0.7849124,
+      "name": "GLAMORAS® Women's/Girl's Lace and Net Low Cut Non Slip Lace No Show Liner Socks, Free Size, Black/Beige/Grey/White/Pink (P...",
+      "image_url": "https://m.media-amazon.com/images/I/51uKPYfaJpL._AC_UL320_.jpg",
+      "content": "GLAMORAS® Women's/Girl's Lace and Net Low Cut Non Slip Lace No Show Liner Socks, Free Size, Black/Beige/Grey/White/Pink (P... These GLAMORAS® socks are designed for women and girls who desire a discreet and comfortable foot covering. Their 'low cut' and 'no show liner' style ensures they remain hidd"
+    },
+    {
+      "score": 0.7787726,
+      "name": "Supersox Women's Ankle Length",
+      "image_url": "https://m.media-amazon.com/images/I/816MSP8gWUL._AC_UL320_.jpg",
+      "content": "Supersox Women's Ankle Length Supersox Women's Ankle Length socks are designed to provide comfort, hygiene, and a discreet fit for women's feet. They are primarily for women seeking a low-profile sock that rises just to the ankle, making them ideal for everyday wear, light activities, or casual outi"
+    },
+    {
+      "score": 0.7712013,
+      "name": "Supersox Women Pack of 3 Plain Thumb Socks (Regular/Ankle/Sneaker Lengths)",
+      "image_url": "https://m.media-amazon.com/images/I/71y1MgvEcfL._AC_UL320_.jpg",
+      "content": "Supersox Women Pack of 3 Plain Thumb Socks (Regular/Ankle/Sneaker Lengths) Supersox Women Pack of 3 Plain Thumb Socks are designed for women seeking comfortable and versatile toe-separated socks. The unique 'thumb' or split-toe design separates the big toe from the others, offering enhanced comfort,"
+    },
+    {
+      "score": 0.7691951,
+      "name": "ANCHOR Women's Ankle Length Thumb/Toe Cotton Socks, Combo Pack of 3 Pairs (BEIGE - MID CALF/CREW LENGTH)",
+      "image_url": "https://m.media-amazon.com/images/I/91KG05-byhL._AC_UL320_.jpg",
+      "content": "ANCHOR Women's Ankle Length Thumb/Toe Cotton Socks, Combo Pack of 3 Pairs (BEIGE - MID CALF/CREW LENGTH) This product is a combo pack of three pairs of ANCHOR women's ankle-length cotton socks. They are designed with a unique 'thumb/toe' feature, providing individual compartments for the big toe and"
+    },
+    {
+      "score": 0.76681066,
+      "name": "KOPNHAGN Women's Ankle Length Cotton Socks (Pack Of 5) (KP-WBX-50_Multicolour)",
+      "image_url": "https://m.media-amazon.com/images/I/91cEbFX8uML._AC_UL320_.jpg",
+      "content": "KOPNHAGN Women's Ankle Length Cotton Socks (Pack Of 5) (KP-WBX-50_Multicolour) This product is a pack of five pairs of ankle-length cotton socks specifically designed for women. Their primary purpose is to provide comfort, breathability, and hygiene for the feet. Women can use them for everyday wear"
+    }
+  ]
+}

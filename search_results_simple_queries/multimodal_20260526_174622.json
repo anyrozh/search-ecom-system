@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-05-26T17:46:22.006738",
+  "method": "multimodal",
+  "query": "sewing machine",
+  "subqueries": [
+    "sewing machine",
+    "portable sewing machines suitable for beginners and light home use",
+    "heavy-duty sewing machines designed for thick fabrics and professional tailoring",
+    "computerized sewing machines with advanced stitch options and automated features",
+    "serger and overlock machines for finishing edges and creating professional seams"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.9139759540557861,
+  "results": [
+    {
+      "score": 0.7868505,
+      "name": "Singer Talent 3321 Automatic Zig-Zag Electric Sewing Machine with 21 Built-in Stitches (White)",
+      "image_url": "https://m.media-amazon.com/images/I/41snJP3eMNL._AC_UL320_.jpg",
+      "content": "Singer Talent 3321 Automatic Zig-Zag Electric Sewing Machine with 21 Built-in Stitches (White) The Singer Talent 3321 is an electric sewing machine designed to simplify and enhance various sewing projects. Its 'automatic' features and 21 built-in stitches, including zig-zag, make it versatile and us"
+    },
+    {
+      "score": 0.78010285,
+      "name": "CHILLAXPLUS sewing machine for home tailoring, silai machine for home, sewing machine mini, sewing machine with table set,...",
+      "image_url": "https://m.media-amazon.com/images/I/51hCEa7OLpL._AC_UL320_.jpg",
+      "content": "CHILLAXPLUS sewing machine for home tailoring, silai machine for home, sewing machine mini, sewing machine with table set,... The CHILLAXPLUS sewing machine is a versatile and user-friendly device primarily designed for home sewing and tailoring tasks. It's ideal for home users, beginners, hobbyists"
+    },
+    {
+      "score": 0.7786139,
+      "name": "CHILLAXPLUS mini sewing machine | sewing machine for home tailoring | silai machine for home | stiching mechanic for home...",
+      "image_url": "https://m.media-amazon.com/images/I/61dlA0FY-nS._AC_UL320_.jpg",
+      "content": "CHILLAXPLUS mini sewing machine | sewing machine for home tailoring | silai machine for home | stiching mechanic for home... The CHILLAXPLUS mini sewing machine is a compact and user-friendly device designed for various home sewing needs. It's ideal for beginners, hobbyists, and anyone looking for a"
+    },
+    {
+      "score": 0.7776952,
+      "name": "SR ENTERPRISE Mini Sewing Machine | Sewing Machine for Home Tailoring | Silai Machine | Stiching Mechanic for Home, Straig...",
+      "image_url": "https://m.media-amazon.com/images/I/51Lx0xxqKcL._AC_UL320_.jpg",
+      "content": "SR ENTERPRISE Mini Sewing Machine | Sewing Machine for Home Tailoring | Silai Machine | Stiching Mechanic for Home, Straig... This product is a compact, mini sewing machine designed for domestic use. It serves as a 'Silai Machine' or 'Stitching Mechanic' for individuals at home, enabling them to per"
+    },
+    {
+      "score": 0.77647734,
+      "name": "Singer 1304 Start Sewing Machine with 6 Built-In Stitches, Free Arm Sewing Machine - Best Sewing Machine for Beginners, 70...",
+      "image_url": "https://m.media-amazon.com/images/I/61AxAbfSgJL._AC_UL320_.jpg",
+      "content": "Singer 1304 Start Sewing Machine with 6 Built-In Stitches, Free Arm Sewing Machine - Best Sewing Machine for Beginners, 70... The Singer 1304 Start Sewing Machine is a user-friendly sewing machine designed for basic fabric sewing. It is primarily intended for beginners and individuals new to sewing,"
+    }
+  ]
+}

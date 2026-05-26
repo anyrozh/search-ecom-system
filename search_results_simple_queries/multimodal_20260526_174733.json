@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-05-26T17:47:33.716303",
+  "method": "multimodal",
+  "query": "office chair",
+  "subqueries": [
+    "office chair",
+    "ergonomic office chair with adjustable lumbar support and armrests",
+    "mesh back office chair for breathability and comfort during long work hours",
+    "executive leather office chair with high back and cushioned seating",
+    "compact office chair suitable for small workspaces with swivel and height adjustment"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 2.1033668518066406,
+  "results": [
+    {
+      "score": 0.8045815,
+      "name": "JY Coccyx Seat Cushion for Office Chair, Desk Chair Seat Cushion for Tailbone Pain, Orthopedic Memory Foam Coccyx Seat Cus...",
+      "image_url": "https://m.media-amazon.com/images/I/61SocNL7kAL._AC_UL320_.jpg",
+      "content": "JY Coccyx Seat Cushion for Office Chair, Desk Chair Seat Cushion for Tailbone Pain, Orthopedic Memory Foam Coccyx Seat Cus... The JY Coccyx Seat Cushion is an orthopedic memory foam cushion specifically designed to provide targeted support and comfort, primarily for individuals experiencing tailbone"
+    },
+    {
+      "score": 0.77717125,
+      "name": "JY Coccyx Seat Cushion for Office Chair, Desk Chair Car Seat Cushion for Tailbone Pain, Orthopedic Memory Foam Coccyx Seat...",
+      "image_url": "https://m.media-amazon.com/images/I/61tII53C6gL._AC_UL320_.jpg",
+      "content": "JY Coccyx Seat Cushion for Office Chair, Desk Chair Car Seat Cushion for Tailbone Pain, Orthopedic Memory Foam Coccyx Seat... The JY Coccyx Seat Cushion is an orthopedic memory foam cushion specifically designed to provide comfort and support, primarily for individuals experiencing tailbone pain. It"
+    },
+    {
+      "score": 0.76784545,
+      "name": "Patiofy Jhula For Adults/ Swing For Home/ Hammock Swing Chair/ Swing For Living Room/ Suitable For Indoor & Outdoor/ 120Kg...",
+      "image_url": "https://m.media-amazon.com/images/I/71Wgpi5nwmL._AC_UL320_.jpg",
+      "content": "Patiofy Jhula For Adults/ Swing For Home/ Hammock Swing Chair/ Swing For Living Room/ Suitable For Indoor & Outdoor/ 120Kg... The Patiofy Jhula is a versatile swing chair designed for adults, providing a comfortable and relaxing seating solution. It can be used both indoors (e.g., living room, home)"
+    },
+    {
+      "score": 0.7678143,
+      "name": "Innovative Design Well Furnished Sofa Rocking Chair Armchair Single Seater Sofa Set Accent Chair 3X Comfortable Luxury for...",
+      "image_url": "https://m.media-amazon.com/images/I/61n9Rlpx1tL._AC_UL320_.jpg",
+      "content": "Innovative Design Well Furnished Sofa Rocking Chair Armchair Single Seater Sofa Set Accent Chair 3X Comfortable Luxury for... This product is a versatile and luxurious single-seater furniture piece, designed to function as a comfortable sofa, armchair, or rocking chair. Its primary purpose is to pro"
+    },
+    {
+      "score": 0.7653368,
+      "name": "Faburaa Maple Soft & Relaxing Jute Seat Cushion for Patio Chair Rocking Chair, Office Chair, Desk Chair and Dining Chair w...",
+      "image_url": "https://m.media-amazon.com/images/I/71EyxLwcwmL._AC_UL320_.jpg",
+      "content": "Faburaa Maple Soft & Relaxing Jute Seat Cushion for Patio Chair Rocking Chair, Office Chair, Desk Chair and Dining Chair w... This Faburaa Maple Soft & Relaxing Jute Seat Cushion is designed to enhance comfort and provide a more pleasant seating experience. It is ideal for anyone seeking to soften h"
+    }
+  ]
+}

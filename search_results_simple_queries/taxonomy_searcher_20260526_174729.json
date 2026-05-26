@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-05-26T17:47:29.088413",
+  "method": "taxonomy_searcher",
+  "query": "treadmill",
+  "subqueries": [
+    "treadmill",
+    "foldable home treadmills with digital display and adjustable speed settings",
+    "commercial-grade treadmills for gym and fitness center use with high durability",
+    "compact and lightweight treadmills suitable for small apartments and limited space",
+    "treadmills with built-in workout programs and heart rate monitoring features"
+  ],
+  "taxonomies_found": [
+    "sports & fitness/Running",
+    "sports & fitness/All Exercise & Fitness"
+  ],
+  "taxonomy_fallback": false,
+  "search_time": 4.118952751159668,
+  "results": [
+    {
+      "score": 0.798119,
+      "name": "Sparnod Fitness STH-3000 Series (4 HP Peak) 2 in 1 Foldable Treadmill for Home Cum Under Desk Walking Pad - Slim Enough to...",
+      "image_url": "https://m.media-amazon.com/images/I/51Xnzx5E2DL._AC_UL320_.jpg",
+      "content": "Sparnod Fitness STH-3000 Series (4 HP Peak) 2 in 1 Foldable Treadmill for Home Cum Under Desk Walking Pad - Slim Enough to... The Sparnod Fitness STH-3000 Series is a versatile 2-in-1 foldable treadmill designed for home use. Its primary purpose is to provide a convenient and space-saving solution f"
+    },
+    {
+      "score": 0.79133934,
+      "name": "Fitkit by Cult.Sport FT98 Carbon (2HP Peak, Max Speed - 14km/hr) Treadmill with Free Home Installation, Free Customized Di...",
+      "image_url": "https://m.media-amazon.com/images/I/516JLTLtCKL._AC_UL320_.jpg",
+      "content": "Fitkit by Cult.Sport FT98 Carbon (2HP Peak, Max Speed - 14km/hr) Treadmill with Free Home Installation, Free Customized Di... The Fitkit by Cult.Sport FT98 Carbon Treadmill is a home fitness machine designed for indoor cardiovascular exercise. It allows users to walk, jog, or run in place, providing"
+    },
+    {
+      "score": 0.7802304,
+      "name": "SAM Hexa Dumbbell 7.5kg Set , 7.5kg×2pcs Pair , Hexa Rubber Dambal , Home Gym Kit Dumbells , (Pack Of Two) 15kg Weight",
+      "image_url": "https://m.media-amazon.com/images/I/51I09mHGGVS._AC_UL320_.jpg",
+      "content": "SAM Hexa Dumbbell 7.5kg Set , 7.5kg×2pcs Pair , Hexa Rubber Dambal , Home Gym Kit Dumbells , (Pack Of Two) 15kg Weight This product is a pair of 7.5kg hexagonal rubber-coated dumbbells, totaling 15kg, designed for strength training and fitness. It can be used by individuals of all fitness levels, fr"
+    },
+    {
+      "score": 0.77480847,
+      "name": "Sparnod Fitness STH-600 Manual Treadmill Running Machine for Home Gym - 4 in 1 Multifunction, Foldable, 120-kg Max User We...",
+      "image_url": "https://m.media-amazon.com/images/I/51bxMRQ7qSS._AC_UL320_.jpg",
+      "content": "Sparnod Fitness STH-600 Manual Treadmill Running Machine for Home Gym - 4 in 1 Multifunction, Foldable, 120-kg Max User We... This product is a manual, foldable treadmill designed for home use. It serves as a 4-in-1 multifunction fitness machine, allowing individuals weighing up to 120 kg to engage "
+    },
+    {
+      "score": 0.7723904,
+      "name": "KORE DM-HEXA-5KG-COMBO16 Dumbbells Kits",
+      "image_url": "https://m.media-amazon.com/images/I/71hmkD6-0xL._AC_UL320_.jpg",
+      "content": "KORE DM-HEXA-5KG-COMBO16 Dumbbells Kits The KORE DM-HEXA-5KG-COMBO16 Dumbbells Kits are a comprehensive set of hexagonal dumbbells designed for strength training and muscle development. This kit, likely including 5kg dumbbells and other weights or accessories as part of a 'combo' package, is ideal f"
+    }
+  ]
+}

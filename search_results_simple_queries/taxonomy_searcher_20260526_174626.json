@@ -1,0 +1,49 @@
+{
+  "timestamp": "2026-05-26T17:46:26.763247",
+  "method": "taxonomy_searcher",
+  "query": "sewing machine",
+  "subqueries": [
+    "sewing machine",
+    "basic sewing machines for beginners with essential stitch functions",
+    "advanced computerized sewing machines with multiple stitch patterns and automatic features",
+    "portable and compact sewing machines suitable for travel and small spaces",
+    "heavy-duty sewing machines designed for thick fabrics and professional use"
+  ],
+  "taxonomies_found": [
+    "home & kitchen/Sewing & Craft Supplies"
+  ],
+  "taxonomy_fallback": false,
+  "search_time": 4.7554051876068115,
+  "results": [
+    {
+      "score": 0.7656542,
+      "name": "Hesch 9 Seam Ripper and Thread Remover Kit, 2 Big and 2 Small Sewing Stitch Thread Unpicker and 1 Sewing Trimming Scissor ...",
+      "image_url": "https://m.media-amazon.com/images/I/61jpMXsQdKL._AC_UL320_.jpg",
+      "content": "Hesch 9 Seam Ripper and Thread Remover Kit, 2 Big and 2 Small Sewing Stitch Thread Unpicker and 1 Sewing Trimming Scissor ... This kit is designed to help users efficiently remove unwanted stitches, threads, and seams from fabric, and to trim loose threads. It's ideal for anyone involved in sewing, "
+    },
+    {
+      "score": 0.7584753,
+      "name": "Zeniso® Men's Pants Simple Four Hole Buttons Pack of 4 Dozens, Total 48 Pieces for Sewing, Knitting, Dress Making, Decorat...",
+      "image_url": "https://m.media-amazon.com/images/I/81lCqqCEoYL._AC_UL320_.jpg",
+      "content": "Zeniso® Men's Pants Simple Four Hole Buttons Pack of 4 Dozens, Total 48 Pieces for Sewing, Knitting, Dress Making, Decorat... The Zeniso® Men's Pants Simple Four Hole Buttons are a bulk pack containing 48 (4 dozens) basic, four-hole buttons. Their primary purpose is for use in various textile crafts"
+    },
+    {
+      "score": 0.75536966,
+      "name": "Megumi Roll Fabric Fusing Tape Double Sided Adhesive Hem Tape Iron on Tape (White)",
+      "image_url": "https://m.media-amazon.com/images/I/617potrEeoL._AC_UL320_.jpg",
+      "content": "Megumi Roll Fabric Fusing Tape Double Sided Adhesive Hem Tape Iron on Tape (White) This Megumi Roll Fabric Fusing Tape is a double-sided, iron-on adhesive tape designed to create a strong, permanent, and no-sew bond between fabrics. It's perfect for DIY enthusiasts, crafters, and anyone needing quic"
+    },
+    {
+      "score": 0.7480551,
+      "name": "Vardhman A&E Threads Sewing 10 Spools Each 800 MTR in a Box, 2ply, Fast Color, Attractive Color, Most Needed Basic Colors ...",
+      "image_url": "https://m.media-amazon.com/images/I/71O5mDFsgrS._AC_UL320_.jpg",
+      "content": "Vardhman A&E Threads Sewing 10 Spools Each 800 MTR in a Box, 2ply, Fast Color, Attractive Color, Most Needed Basic Colors ... This product is a versatile collection of high-quality, durable sewing threads, specifically designed for a wide range of textile projects. It can be used by anyone involved "
+    },
+    {
+      "score": 0.74736434,
+      "name": "Lovetholy 2pcs, 11.5X6.5cm Kery Designer Embroidery Neck sew on Applique Patches/Decorative Patches for Clothes, Jackets, ...",
+      "image_url": "https://m.media-amazon.com/images/I/81Y2fG+QAAS._AC_UL320_.jpg",
+      "content": "Lovetholy 2pcs, 11.5X6.5cm Kery Designer Embroidery Neck sew on Applique Patches/Decorative Patches for Clothes, Jackets, ... These Lovetholy Kery Designer Embroidery Patches are decorative, sew-on appliques designed to personalize, enhance, or repair various fabric items. They can be used by anyone"
+    }
+  ]
+}

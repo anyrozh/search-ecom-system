@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-05-26T17:47:12.643517",
+  "method": "baseline",
+  "query": "crocs",
+  "subqueries": [
+    "crocs"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 0.0286407470703125,
+  "results": [
+    {
+      "score": 0.7,
+      "name": "crocs",
+      "content": "crocs"
+    },
+    {
+      "score": 0.6666667,
+      "name": "crocs mens Classc Crocs Flip Flip Flop",
+      "content": "crocs mens Classc Crocs Flip Flip Flop"
+    },
+    {
+      "score": 0.5,
+      "name": "crocs Men's",
+      "content": "crocs Men's"
+    },
+    {
+      "score": 0.33333334,
+      "name": "crocs unisex-adult Classc Crocs Flip Flip Flop",
+      "content": "crocs unisex-adult Classc Crocs Flip Flip Flop"
+    },
+    {
+      "score": 0.25,
+      "name": "crocs unisex-adult Classic Crocs Cutie Clog K Blk Clogs",
+      "content": "crocs unisex-adult Classic Crocs Cutie Clog K Blk Clogs"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-05-26T17:46:52.431424",
+  "method": "baseline",
+  "query": "compression socks women",
+  "subqueries": [
+    "compression socks women"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 0.06427907943725586,
+  "results": [
+    {
+      "score": 0.5,
+      "name": "NEVER QUIT Football socks, Running Compression Socks Stockings 20-30 mm hg Men Women Sports Socks for Marathon Cycling Foo...",
+      "content": "NEVER QUIT Football socks, Running Compression Socks Stockings 20-30 mm hg Men Women Sports Socks for Marathon Cycling Foo..."
+    },
+    {
+      "score": 0.5,
+      "name": "Bonjour womens Socks",
+      "content": "Bonjour womens Socks"
+    },
+    {
+      "score": 0.33333334,
+      "name": "Just rider Calf Compression Sleeve - Leg Compression Socks for Shin Splint, Calf Pain Relief - Men, Women, and Runners - C...",
+      "content": "Just rider Calf Compression Sleeve - Leg Compression Socks for Shin Splint, Calf Pain Relief - Men, Women, and Runners - C..."
+    },
+    {
+      "score": 0.33333334,
+      "name": "Bonjour Women's Socks",
+      "content": "Bonjour Women's Socks"
+    },
+    {
+      "score": 0.25,
+      "name": "Electomania Nylon 1 Pair Calf Compression Sleeve for Men and Women - Calf Compression Socks for Running Calf Pain Relief L...",
+      "content": "Electomania Nylon 1 Pair Calf Compression Sleeve for Men and Women - Calf Compression Socks for Running Calf Pain Relief L..."
+    }
+  ]
+}

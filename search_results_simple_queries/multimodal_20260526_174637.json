@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-05-26T17:46:37.903797",
+  "method": "multimodal",
+  "query": "toilet paper",
+  "subqueries": [
+    "toilet paper",
+    "soft and strong toilet paper rolls for everyday home use",
+    "eco-friendly and biodegradable toilet paper made from recycled materials",
+    "bulk pack toilet paper rolls for office or large family use",
+    "scented or aloe-infused toilet paper for sensitive skin"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 2.0843942165374756,
+  "results": [
+    {
+      "score": 0.8122375,
+      "name": "YOOKO ( Pack of 6 Roll ) Toilet peper Soft Care Luxurious Bathroom Tissue Paper 2 Ply 20 cm Exta Softness Soft Tissue The ...",
+      "image_url": "https://m.media-amazon.com/images/I/21RyuZh43FL._AC_UL320_.jpg",
+      "content": "YOOKO ( Pack of 6 Roll ) Toilet peper Soft Care Luxurious Bathroom Tissue Paper 2 Ply 20 cm Exta Softness Soft Tissue The ... This product, YOOKO Toilet Paper, is a pack of six rolls of 2-ply bathroom tissue designed for personal hygiene. It is characterized by its 'Soft Care,' 'Luxurious,' and 'Ext"
+    },
+    {
+      "score": 0.80697113,
+      "name": "BIP Toilet Tissue Paper",
+      "image_url": "https://m.media-amazon.com/images/I/612uYmT0IkL._AC_UL320_.jpg",
+      "content": "BIP Toilet Tissue Paper BIP Toilet Tissue Paper is a personal hygiene product primarily used for cleaning and drying oneself after using the toilet. It is suitable for everyone, including adults and children, for maintaining cleanliness and comfort in the bathroom."
+    },
+    {
+      "score": 0.78618014,
+      "name": "K.K. VillA Stainless Steel No Drill Self Adhesive Toilet Paper Holder/Tissue Paper Roll Holder/Bathroom Rack for Kitchen/T...",
+      "image_url": "https://m.media-amazon.com/images/I/41L5beZS33L._AC_UL320_.jpg",
+      "content": "K.K. VillA Stainless Steel No Drill Self Adhesive Toilet Paper Holder/Tissue Paper Roll Holder/Bathroom Rack for Kitchen/T... This K.K. VillA product is a versatile, stainless steel, no-drill, self-adhesive holder designed primarily for organizing toilet paper or tissue paper rolls. It can also func"
+    },
+    {
+      "score": 0.7835059,
+      "name": "DeHMY 58MMx25Mtr(2Inch) Thermal Paper roll (Set of 10 Rolls) (58MMx25Mtr(2Inch))",
+      "image_url": "https://m.media-amazon.com/images/I/31b1JONQVDL._AC_UL320_.jpg",
+      "content": "DeHMY 58MMx25Mtr(2Inch) Thermal Paper roll (Set of 10 Rolls) (58MMx25Mtr(2Inch)) The DeHMY 58MMx25Mtr Thermal Paper roll is a specialized paper designed for thermal printers, which print by applying heat directly to the paper, eliminating the need for ink or toner. This set of 10 rolls is primarily "
+    },
+    {
+      "score": 0.78213346,
+      "name": "V4L Paper Toilet Rolls Pack Of 6",
+      "image_url": "https://m.media-amazon.com/images/I/61NSqz02+PL._AC_UL320_.jpg",
+      "content": "V4L Paper Toilet Rolls Pack Of 6 V4L Paper Toilet Rolls are designed for personal hygiene in restrooms. They are used by individuals, families, and various establishments (such as offices, restaurants, and public facilities) to clean and wipe after using the toilet, ensuring cleanliness and comfort."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-05-26T17:46:33.343117",
+  "method": "taxonomy_searcher",
+  "query": "yoga mat",
+  "subqueries": [
+    "yoga mat",
+    "non-slip yoga mat with extra cushioning for joint support",
+    "lightweight and foldable travel yoga mat for portability",
+    "eco-friendly yoga mat made from natural or recycled materials",
+    "thick yoga mat suitable for hot yoga and sweat absorption"
+  ],
+  "taxonomies_found": [
+    "sports & fitness/Yoga",
+    "sports & fitness/All Exercise & Fitness"
+  ],
+  "taxonomy_fallback": false,
+  "search_time": 3.588870048522949,
+  "results": [
+    {
+      "score": 0.80600715,
+      "name": "Reebok Yoga Mat- 4mm",
+      "image_url": "https://m.media-amazon.com/images/I/41zHI8QQmIL._AC_UL320_.jpg",
+      "content": "Reebok Yoga Mat- 4mm The Reebok Yoga Mat- 4mm is designed to provide a stable, cushioned, and non-slip surface for various floor-based exercises. It can be used by individuals of all fitness levels, from beginners to experienced practitioners, including yogis, Pilates enthusiasts, and anyone engagin"
+    },
+    {
+      "score": 0.80309665,
+      "name": "Liffo® yoga matt for men women exercise workout HOME/GYM",
+      "image_url": "https://m.media-amazon.com/images/I/71+E7aRZQcL._AC_UL320_.jpg",
+      "content": "Liffo® yoga matt for men women exercise workout HOME/GYM The Liffo® yoga mat is designed to provide a stable, cushioned, and non-slip surface for individuals during physical activities. It can be used by both men and women for a variety of purposes, including yoga, general exercise, and workouts, wh"
+    },
+    {
+      "score": 0.80195,
+      "name": "SPOKOFIT Camo Yoga Mat With Bag & Strap, Non Slip Foldable Mat Camouflage Seamless Pattern Sweat Absorbent, for Hot Yoga, ...",
+      "image_url": "https://m.media-amazon.com/images/I/51BybccbXLL._AC_UL320_.jpg",
+      "content": "SPOKOFIT Camo Yoga Mat With Bag & Strap, Non Slip Foldable Mat Camouflage Seamless Pattern Sweat Absorbent, for Hot Yoga, ... This SPOKOFIT Camo Yoga Mat is a portable, non-slip, and sweat-absorbent mat designed to provide a stable and hygienic surface for various fitness activities. It's ideal for "
+    },
+    {
+      "score": 0.7915404,
+      "name": "Active Elements Direct from Factory - Canvas Yoga Mat Bag/Cover. Easy Fit up to 4 mm Thick Yoga Mat. Print Design : Om Sym...",
+      "image_url": "https://m.media-amazon.com/images/I/8195SuvM04L._AC_UL320_.jpg",
+      "content": "Active Elements Direct from Factory - Canvas Yoga Mat Bag/Cover. Easy Fit up to 4 mm Thick Yoga Mat. Print Design : Om Sym... This product is a canvas bag or cover specifically designed to transport and protect a yoga mat. It offers an easy and secure fit for yoga mats up to 4mm thick. Featuring an "
+    },
+    {
+      "score": 0.7899225,
+      "name": "SPOKOFIT YOGA MAT With BAG & STRAP Non slip yoga Mat , surface sticky with yoga mat Carry strap FOR GYM, WORKOUT. (WINE) (...",
+      "image_url": "https://m.media-amazon.com/images/I/61XVZFSBkjL._AC_UL320_.jpg",
+      "content": "SPOKOFIT YOGA MAT With BAG & STRAP Non slip yoga Mat , surface sticky with yoga mat Carry strap FOR GYM, WORKOUT. (WINE) (... The SPOKOFIT YOGA MAT is designed to provide a stable, non-slip, and sticky surface for various fitness activities. It comes with a convenient bag and carry strap, making it "
+    }
+  ]
+}

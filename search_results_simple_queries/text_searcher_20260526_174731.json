@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-05-26T17:47:31.611942",
+  "method": "text_searcher",
+  "query": "office chair",
+  "subqueries": [
+    "office chair",
+    "ergonomic office chair with adjustable lumbar support and armrests",
+    "mesh back office chair for breathability and comfort during long work hours",
+    "executive leather office chair with high back and cushioned seating",
+    "compact office chair suitable for small workspaces with swivel and height adjustment"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 2.493643045425415,
+  "results": [
+    {
+      "score": 0.8867211,
+      "name": "JY Coccyx Seat Cushion for Office Chair, Desk Chair Seat Cushion for Tailbone Pain, Orthopedic Memory Foam Coccyx Seat Cus...",
+      "content": "JY Coccyx Seat Cushion for Office Chair, Desk Chair Seat Cushion for Tailbone Pain, Orthopedic Memory Foam Coccyx Seat Cus... The JY Coccyx Seat Cushion is an orthopedic memory foam cushion specifically designed to provide targeted support and comfort, primarily for individuals experiencing tailbone"
+    },
+    {
+      "score": 0.85517186,
+      "name": "Innovative Design Well Furnished Sofa Rocking Chair Armchair Single Seater Sofa Set Accent Chair 3X Comfortable Luxury for...",
+      "content": "Innovative Design Well Furnished Sofa Rocking Chair Armchair Single Seater Sofa Set Accent Chair 3X Comfortable Luxury for... This product is a versatile and luxurious single-seater furniture piece, designed to function as a comfortable sofa, armchair, or rocking chair. Its primary purpose is to pro"
+    },
+    {
+      "score": 0.84043723,
+      "name": "JY Coccyx Seat Cushion for Office Chair, Desk Chair Car Seat Cushion for Tailbone Pain, Orthopedic Memory Foam Coccyx Seat...",
+      "content": "JY Coccyx Seat Cushion for Office Chair, Desk Chair Car Seat Cushion for Tailbone Pain, Orthopedic Memory Foam Coccyx Seat... The JY Coccyx Seat Cushion is an orthopedic memory foam cushion specifically designed to provide comfort and support, primarily for individuals experiencing tailbone pain. It"
+    },
+    {
+      "score": 0.838349,
+      "name": "KINGLY Velvet Blossom 5 Seater 3+1+1 Sofa Cover Set ( English Silver, Grey , 69X27 Inch, 23X27 Inch ) - Set 6 Pc",
+      "content": "KINGLY Velvet Blossom 5 Seater 3+1+1 Sofa Cover Set ( English Silver, Grey , 69X27 Inch, 23X27 Inch ) - Set 6 Pc This product is a 6-piece set of velvet sofa covers, specifically designed for a 5-seater sofa configuration (one three-seater and two single-seater sofas), with dimensions suitable for t"
+    },
+    {
+      "score": 0.8345513,
+      "name": "Jayvaam Sofa Cover with Cushion Cover and Table Cover - 3 Seater and 2 Seater Sofa Covers with Arm Set 16 Pcs - 3+1+1 Pane...",
+      "content": "Jayvaam Sofa Cover with Cushion Cover and Table Cover - 3 Seater and 2 Seater Sofa Covers with Arm Set 16 Pcs - 3+1+1 Pane... The Jayvaam Sofa Cover with Cushion Cover and Table Cover is a comprehensive 16-piece set designed to protect and refresh the appearance of a living room furniture arrangemen"
+    }
+  ]
+}

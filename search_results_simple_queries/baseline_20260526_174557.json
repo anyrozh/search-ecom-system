@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-05-26T17:45:57.745052",
+  "method": "baseline",
+  "query": "nintendo switch",
+  "subqueries": [
+    "nintendo switch"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 0.034091949462890625,
+  "results": [
+    {
+      "score": 0.5,
+      "name": "mens jens",
+      "content": "mens jens"
+    },
+    {
+      "score": 0.5,
+      "name": "UJEAVETTE 2X Portable Mini Charging Grip Charger Holder for Nintendo Switch Joy-con NS",
+      "content": "UJEAVETTE 2X Portable Mini Charging Grip Charger Holder for Nintendo Switch Joy-con NS"
+    },
+    {
+      "score": 0.33333334,
+      "name": "Kinsound High Speed 4K Hdmi Cable With Ethernet Supports 3D, 4K, 1080P Compatible With Tv, Projector, Nintendo Switch, Ps,...",
+      "content": "Kinsound High Speed 4K Hdmi Cable With Ethernet Supports 3D, 4K, 1080P Compatible With Tv, Projector, Nintendo Switch, Ps,..."
+    },
+    {
+      "score": 0.33333334,
+      "name": "exhaut fan",
+      "content": "exhaut fan"
+    },
+    {
+      "score": 0.25,
+      "name": "Hidesign",
+      "content": "Hidesign"
+    }
+  ]
+}

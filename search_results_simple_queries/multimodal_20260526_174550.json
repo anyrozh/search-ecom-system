@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-05-26T17:45:50.477822",
+  "method": "multimodal",
+  "query": "iphone",
+  "subqueries": [
+    "iphone",
+    "Latest model iPhone smartphones with various storage capacities and colors",
+    "Protective cases and covers compatible with different iPhone models",
+    "iPhone accessories including chargers, cables, and wireless earbuds",
+    "Screen protectors and repair kits for iPhone devices"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 3.0188469886779785,
+  "results": [
+    {
+      "score": 0.8415349,
+      "name": "Hohem iSteady X - 3-Axis 259g Lightweight Smartphone Gimbal Foldable Handheld Pocket Stabilizer Youtuber Vlogger Live Vide...",
+      "image_url": "https://m.media-amazon.com/images/I/71IqMCriYlL._AC_UL320_.jpg",
+      "content": "Hohem iSteady X - 3-Axis 259g Lightweight Smartphone Gimbal Foldable Handheld Pocket Stabilizer Youtuber Vlogger Live Vide... The Hohem iSteady X is a lightweight (259g), foldable 3-axis smartphone gimbal designed to provide super smooth, professional-quality video footage by eliminating shakes and "
+    },
+    {
+      "score": 0.8061894,
+      "name": "Roarx Nothing Phone 1 Fast Charger Adapter 20W (Affordable) Original 45 watt Alternate (Max 20 watt) | 1.5% Charge in 1 Mi...",
+      "image_url": "https://m.media-amazon.com/images/I/51S05AAmkrL._AC_UL320_.jpg",
+      "content": "Roarx Nothing Phone 1 Fast Charger Adapter 20W (Affordable) Original 45 watt Alternate (Max 20 watt) | 1.5% Charge in 1 Mi... This Roarx 20W Fast Charger Adapter is an affordable and efficient charging solution specifically designed for the Nothing Phone 1. It serves as an alternative to the phone's"
+    },
+    {
+      "score": 0.80023086,
+      "name": "iPhone Original 20W C Type Fast PD Charger Compatible with I-Phone13/13 mini/13pro/13 pro Max I-Phone 12/12 Pro/12mini/12 ...",
+      "image_url": "https://m.media-amazon.com/images/I/41pLdSzvWyS._AC_UL320_.jpg",
+      "content": "iPhone Original 20W C Type Fast PD Charger Compatible with I-Phone13/13 mini/13pro/13 pro Max I-Phone 12/12 Pro/12mini/12 ... This product is a 20W USB-C Power Delivery (PD) fast charger specifically designed for Apple iPhones. Its purpose is to quickly and efficiently recharge the batteries of comp"
+    },
+    {
+      "score": 0.8000057,
+      "name": "Voice Mini A8 Hidden Voice Recorder | Audio Bug Device | Spy Voice Recorder Product Microphone | Built-in Rechargeable Bat...",
+      "image_url": "https://m.media-amazon.com/images/I/516h4d2RCSL._AC_UL320_.jpg",
+      "content": "Voice Mini A8 Hidden Voice Recorder | Audio Bug Device | Spy Voice Recorder Product Microphone | Built-in Rechargeable Bat... The Voice Mini A8 is a compact, hidden voice recorder designed for discreet audio capture, functioning as a 'spy' device or 'audio bug.' Its primary purpose is to covertly re"
+    },
+    {
+      "score": 0.7990814,
+      "name": "i Mobile Earphone for i Phone Earphones with Lightning Connector Wired Headset 7,7 Plus, 8,8 Plus, X, XR, Xs, Xs Max Wired...",
+      "image_url": "https://m.media-amazon.com/images/I/41+zrv0YFkL._AC_UL320_.jpg",
+      "content": "i Mobile Earphone for i Phone Earphones with Lightning Connector Wired Headset 7,7 Plus, 8,8 Plus, X, XR, Xs, Xs Max Wired... This product is a wired earphone/headset featuring a Lightning Connector, specifically designed for use with Apple iPhone models 7, 7 Plus, 8, 8 Plus, X, XR, Xs, and Xs Max. "
+    }
+  ]
+}

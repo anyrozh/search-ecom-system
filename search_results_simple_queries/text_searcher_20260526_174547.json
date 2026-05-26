@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-05-26T17:45:47.457987",
+  "method": "text_searcher",
+  "query": "iphone",
+  "subqueries": [
+    "iphone",
+    "Latest model iPhone smartphones with various storage capacities and colors",
+    "Protective cases and covers compatible with different iPhone models",
+    "iPhone accessories including chargers, cables, and wireless earbuds",
+    "Screen protectors and repair kits for iPhone devices"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.9294631481170654,
+  "results": [
+    {
+      "score": 0.90012634,
+      "name": "Earphones for vivo T1 44W, T1x, T2x, Y21G, Y21s, Y22 2022, Y31s, Y33, Y33e, Y35 2022, Y52, Y53s NFC, Y55, Y55s, Y71T, Y76,...",
+      "content": "Earphones for vivo T1 44W, T1x, T2x, Y21G, Y21s, Y22 2022, Y31s, Y33, Y33e, Y35 2022, Y52, Y53s NFC, Y55, Y55s, Y71T, Y76,... This product is a set of earphones specifically designed for a range of Vivo smartphone models, including the T1 44W, T1x, T2x, Y21G, Y21s, Y22 2022, Y31s, Y33, Y33e, Y35 202"
+    },
+    {
+      "score": 0.88394856,
+      "name": "QAZ 1080p HD USB Universal Interface Mini Flexi Neck Camera , Supports Micro SD Card Recording (Not Included) Security Cam...",
+      "content": "QAZ 1080p HD USB Universal Interface Mini Flexi Neck Camera , Supports Micro SD Card Recording (Not Included) Security Cam... This product is a compact, high-definition (1080p) camera with a flexible neck and USB interface, primarily designed for surveillance and recording. It supports direct record"
+    },
+    {
+      "score": 0.88366884,
+      "name": "Earphone for Calling and Music Compatible with iPhone 7/8/X/11/12/13/14 Plus/7 Plus/8 Plus/XR/XR Max/11 Pro/11 Pro Max/12 ...",
+      "content": "Earphone for Calling and Music Compatible with iPhone 7/8/X/11/12/13/14 Plus/7 Plus/8 Plus/XR/XR Max/11 Pro/11 Pro Max/12 ... This earphone is an audio accessory designed for iPhone users to facilitate both phone calls and music listening. It is compatible with a wide range of iPhone models, includi"
+    },
+    {
+      "score": 0.8834748,
+      "name": "Mini Spy Camera WiFi Hidden Camera SQ8 Wireless HD 1080P Indoor Home Mini Security Cameras + Nanny Cam Built-in Battery Mo...",
+      "content": "Mini Spy Camera WiFi Hidden Camera SQ8 Wireless HD 1080P Indoor Home Mini Security Cameras + Nanny Cam Built-in Battery Mo... The Mini Spy Camera WiFi Hidden Camera SQ8 is a compact, high-definition (1080P) wireless camera designed for discreet indoor surveillance. It connects via WiFi, enabling rem"
+    },
+    {
+      "score": 0.8827547,
+      "name": "i Mobile Earphone for i Phone Earphones with Lightning Connector Wired Headset 7,7 Plus, 8,8 Plus, X, XR, Xs, Xs Max Wired...",
+      "content": "i Mobile Earphone for i Phone Earphones with Lightning Connector Wired Headset 7,7 Plus, 8,8 Plus, X, XR, Xs, Xs Max Wired... This product is a wired earphone/headset featuring a Lightning Connector, specifically designed for use with Apple iPhone models 7, 7 Plus, 8, 8 Plus, X, XR, Xs, and Xs Max. "
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-05-26T17:45:27.373805",
+  "method": "text_searcher",
+  "query": "airpods",
+  "subqueries": [
+    "airpods",
+    "Apple AirPods wireless earbuds with charging case",
+    "AirPods Pro with active noise cancellation and customizable fit",
+    "AirPods accessories including protective cases and wireless chargers",
+    "Replacement parts and batteries for Apple AirPods"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 2.192675828933716,
+  "results": [
+    {
+      "score": 0.88622564,
+      "name": "Earphones for vivo T1 44W, T1x, T2x, Y21G, Y21s, Y22 2022, Y31s, Y33, Y33e, Y35 2022, Y52, Y53s NFC, Y55, Y55s, Y71T, Y76,...",
+      "content": "Earphones for vivo T1 44W, T1x, T2x, Y21G, Y21s, Y22 2022, Y31s, Y33, Y33e, Y35 2022, Y52, Y53s NFC, Y55, Y55s, Y71T, Y76,... This product is a set of earphones specifically designed for a range of Vivo smartphone models, including the T1 44W, T1x, T2x, Y21G, Y21s, Y22 2022, Y31s, Y33, Y33e, Y35 202"
+    },
+    {
+      "score": 0.8819376,
+      "name": "2 Pairs Reusable Silicone Ear Plugs - NRR 32, Waterproof, Hypoallergenic - Ultra Comfortable Noise Reduction Earplugs for ...",
+      "content": "2 Pairs Reusable Silicone Ear Plugs - NRR 32, Waterproof, Hypoallergenic - Ultra Comfortable Noise Reduction Earplugs for ... These are two pairs of reusable silicone earplugs primarily designed for effective noise reduction, featuring a high NRR (Noise Reduction Rating) of 32. They are also waterpr"
+    },
+    {
+      "score": 0.875687,
+      "name": "Voice Mini A8 Hidden Voice Recorder | Audio Bug Device | Spy Voice Recorder Product Microphone | Built-in Rechargeable Bat...",
+      "content": "Voice Mini A8 Hidden Voice Recorder | Audio Bug Device | Spy Voice Recorder Product Microphone | Built-in Rechargeable Bat... The Voice Mini A8 is a compact, hidden voice recorder designed for discreet audio capture, functioning as a 'spy' device or 'audio bug.' Its primary purpose is to covertly re"
+    },
+    {
+      "score": 0.8747523,
+      "name": "Multi-Coated Variable Polarizing ND Neutral Density Adjustable ND2 -ND400 (Waterproof, Scratchproof, Dustproof) (58MM)",
+      "content": "Multi-Coated Variable Polarizing ND Neutral Density Adjustable ND2 -ND400 (Waterproof, Scratchproof, Dustproof) (58MM) This product is a versatile and durable camera lens filter that combines two essential functions: a **Variable Neutral Density (ND) filter** and a **Circular Polarizer (CPL) filter*"
+    },
+    {
+      "score": 0.87444586,
+      "name": "Portronics Auto 14 2-in-1 Bluetooth Transmitter & Receiver Adaptor (Black)",
+      "content": "Portronics Auto 14 2-in-1 Bluetooth Transmitter & Receiver Adaptor (Black) The Portronics Auto 14 2-in-1 Bluetooth Transmitter & Receiver Adaptor is a versatile device designed to add Bluetooth audio capabilities to almost any audio system, bridging the gap between wired and wireless technology. In "
+    }
+  ]
+}

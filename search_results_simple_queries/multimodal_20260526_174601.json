@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-05-26T17:46:01.950800",
+  "method": "multimodal",
+  "query": "nintendo switch",
+  "subqueries": [
+    "nintendo switch",
+    "Nintendo Switch console with Joy-Con controllers and dock",
+    "Nintendo Switch game cartridges and digital game downloads",
+    "Accessories for Nintendo Switch including carrying cases, screen protectors, and charging docks",
+    "Replacement parts and upgrade components for Nintendo Switch consoles"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 2.256417989730835,
+  "results": [
+    {
+      "score": 0.7741665,
+      "name": "Smart Pro EN-EL10 Battery Charger for Nikon CoolPix S200 S203 S210 S220 S230 Coolpix S500 S510 S520 S570 Coolpix S600 Cool...",
+      "image_url": "https://m.media-amazon.com/images/I/316gMJvP8ZL._AC_UL320_.jpg",
+      "content": "Smart Pro EN-EL10 Battery Charger for Nikon CoolPix S200 S203 S210 S220 S230 Coolpix S500 S510 S520 S570 Coolpix S600 Cool... This is a Smart Pro EN-EL10 Battery Charger designed to recharge the EN-EL10 batteries. It is intended for owners of compatible Nikon CoolPix digital cameras (including model"
+    },
+    {
+      "score": 0.7689459,
+      "name": "SanDisk 32GB 2-Pack Ultra microSDHC UHS-I Memory Card (2x32GB) - SDSQUA4-032G-GN6MT",
+      "image_url": "https://m.media-amazon.com/images/I/61sE6df4IgS._AC_UL320_.jpg",
+      "content": "SanDisk 32GB 2-Pack Ultra microSDHC UHS-I Memory Card (2x32GB) - SDSQUA4-032G-GN6MT This product is a pack of two 32GB SanDisk Ultra microSDHC UHS-I memory cards, designed to expand the digital storage capacity of compatible electronic devices. It's ideal for users of smartphones, tablets, drones, a"
+    },
+    {
+      "score": 0.76770985,
+      "name": "CARE CASE WiFi Receiver 300 Mbps, 2.4GHz, 802.11b/g/n USB 2.0 Wireless Mini Network Adapter",
+      "image_url": "https://m.media-amazon.com/images/I/31Vl674lG+L._AC_UL320_.jpg",
+      "content": "CARE CASE WiFi Receiver 300 Mbps, 2.4GHz, 802.11b/g/n USB 2.0 Wireless Mini Network Adapter This product is a compact USB device that enables a computer to connect to a wireless internet (WiFi) network. It's primarily for users with desktop computers that do not have built-in WiFi capabilities, or f"
+    },
+    {
+      "score": 0.767319,
+      "name": "Battery Charger for Canon LP-E8 Battery LC-E8C 700D 650D 550D 600D -LP-E8",
+      "image_url": "https://m.media-amazon.com/images/I/919cL+VTYvL._AC_UL320_.jpg",
+      "content": "Battery Charger for Canon LP-E8 Battery LC-E8C 700D 650D 550D 600D -LP-E8 This product is a dedicated battery charger specifically designed to recharge Canon LP-E8 camera batteries. It is intended for photographers and videographers who own Canon DSLR cameras that use the LP-E8 battery, including mo"
+    },
+    {
+      "score": 0.76535285,
+      "name": "for Nikon EN-EL3e EN-EL3a D70 D80 D90 D300 D700 US MH-18A Battery Charger",
+      "image_url": "https://m.media-amazon.com/images/I/315O39oaEbL._AC_UL320_.jpg",
+      "content": "for Nikon EN-EL3e EN-EL3a D70 D80 D90 D300 D700 US MH-18A Battery Charger This product is a battery charger specifically designed for Nikon EN-EL3e and EN-EL3a rechargeable camera batteries. It can be used by owners of compatible Nikon DSLR cameras, including models such as the D70, D80, D90, D300, "
+    }
+  ]
+}

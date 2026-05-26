@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-05-26T17:46:14.320017",
+  "method": "multimodal",
+  "query": "face mask",
+  "subqueries": [
+    "face mask",
+    "disposable surgical face masks for medical and everyday protection",
+    "reusable cloth face masks with adjustable ear loops and breathable fabric",
+    "N95 or KN95 respirator masks for high filtration and enhanced safety",
+    "face masks with built-in filters or filter pockets for added protection"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 2.563645839691162,
+  "results": [
+    {
+      "score": 0.81919485,
+      "name": "HYDRISE (Pack of 20 Premium N95 Mask For Men and Women with Mask Adjuster - Washable mask - Reusable mask - Pollution Mask...",
+      "image_url": "https://m.media-amazon.com/images/I/71lcRSuvVBL._AC_UL320_.jpg",
+      "content": "HYDRISE (Pack of 20 Premium N95 Mask For Men and Women with Mask Adjuster - Washable mask - Reusable mask - Pollution Mask... The HYDRISE N95 Mask is a premium, washable, and reusable mask designed for both men and women. Available in a pack of 20, it features a mask adjuster for a secure and comfor"
+    },
+    {
+      "score": 0.8096625,
+      "name": "HYDRISE (Pack of 40 Premium N95 Mask For Men and Women with Mask Adjusters - Washable mask - Reusable mask - Pollution Mas...",
+      "image_url": "https://m.media-amazon.com/images/I/71lcRSuvVBL._AC_UL320_.jpg",
+      "content": "HYDRISE (Pack of 40 Premium N95 Mask For Men and Women with Mask Adjusters - Washable mask - Reusable mask - Pollution Mas... The HYDRISE N95 Mask is a premium, washable, and reusable respiratory protection product, sold in a pack of 40, designed for both men and women. Its primary purpose is to fil"
+    },
+    {
+      "score": 0.80621076,
+      "name": "OxiClear N99 Anti Pollution Face Mask with 4 Activated Carbon Filters & Detachable Headband D.R.D.O Certified (NO-VALVE) (...",
+      "image_url": "https://m.media-amazon.com/images/I/61Jyn357uyL._AC_UL320_.jpg",
+      "content": "OxiClear N99 Anti Pollution Face Mask with 4 Activated Carbon Filters & Detachable Headband D.R.D.O Certified (NO-VALVE) (... The OxiClear N99 Anti Pollution Face Mask is a high-performance respiratory protective device designed to filter out at least 99% of airborne particles, including fine partic"
+    },
+    {
+      "score": 0.8051079,
+      "name": "Boldfit N95 Face Mask For Men & Women N95 Mask With 5 Layer N95 Masks For Adults & Kids N 95 Mask Face Mask Men Anti Pollu...",
+      "image_url": "https://m.media-amazon.com/images/I/71ZhGcb5LcS._AC_UL320_.jpg",
+      "content": "Boldfit N95 Face Mask For Men & Women N95 Mask With 5 Layer N95 Masks For Adults & Kids N 95 Mask Face Mask Men Anti Pollu... The Boldfit N95 Face Mask is a 5-layer N95 standard mask designed for respiratory protection. It can be used by men, women, adults, and kids to help filter out airborne parti"
+    },
+    {
+      "score": 0.8020999,
+      "name": "Elysiann Glorry Double Up V Lifting Mask - Double chin reducer for women, Lifts & Shapes your Face with Face Shaper - Enha...",
+      "image_url": "https://m.media-amazon.com/images/I/51tVGDs0hoL._AC_UL320_.jpg",
+      "content": "Elysiann Glorry Double Up V Lifting Mask - Double chin reducer for women, Lifts & Shapes your Face with Face Shaper - Enha... The Elysiann Glorry Double Up V Lifting Mask is designed for women who wish to reduce the appearance of a double chin and achieve a more lifted and sculpted facial contour. I"
+    }
+  ]
+}

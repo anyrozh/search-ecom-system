@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-05-26T17:46:18.229258",
+  "method": "baseline",
+  "query": "sewing machine",
+  "subqueries": [
+    "sewing machine"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 0.06374907493591309,
+  "results": [
+    {
+      "score": 0.5,
+      "name": "Sewing Machine Folding Standing Base for Easy Stitching, Domestic Sewing Machine",
+      "content": "Sewing Machine Folding Standing Base for Easy Stitching, Domestic Sewing Machine"
+    },
+    {
+      "score": 0.5,
+      "name": "CHILLAXPLUS sewing machine for home tailoring, silai machine for home, sewing machine mini, sewing machine with table set,...",
+      "content": "CHILLAXPLUS sewing machine for home tailoring, silai machine for home, sewing machine mini, sewing machine with table set,..."
+    },
+    {
+      "score": 0.36666667,
+      "name": "SR ENTERPRISE Mini Sewing Machine | Sewing Machine for Home Tailoring | Silai Machine | Stiching Mechanic for Home, Straig...",
+      "content": "SR ENTERPRISE Mini Sewing Machine | Sewing Machine for Home Tailoring | Silai Machine | Stiching Mechanic for Home, Straig..."
+    },
+    {
+      "score": 0.33333334,
+      "name": "GANPADH Stapler Sewing Machine",
+      "content": "GANPADH Stapler Sewing Machine"
+    },
+    {
+      "score": 0.33333334,
+      "name": "Singer 1304 Start Sewing Machine with 6 Built-In Stitches, Free Arm Sewing Machine - Best Sewing Machine for Beginners, 70...",
+      "content": "Singer 1304 Start Sewing Machine with 6 Built-In Stitches, Free Arm Sewing Machine - Best Sewing Machine for Beginners, 70..."
+    }
+  ]
+}

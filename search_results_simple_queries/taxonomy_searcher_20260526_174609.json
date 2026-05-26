@@ -1,0 +1,49 @@
+{
+  "timestamp": "2026-05-26T17:46:09.147123",
+  "method": "taxonomy_searcher",
+  "query": "nintendo switch",
+  "subqueries": [
+    "nintendo switch",
+    "Nintendo Switch console with Joy-Con controllers and dock",
+    "Nintendo Switch game cartridges and digital game downloads",
+    "Accessories for Nintendo Switch including protective cases, screen protectors, and charging docks",
+    "Nintendo Switch compatible controllers and multiplayer gaming accessories"
+  ],
+  "taxonomies_found": [
+    "toys & baby products/Toys & Games"
+  ],
+  "taxonomy_fallback": false,
+  "search_time": 7.195143938064575,
+  "results": [
+    {
+      "score": 0.7558467,
+      "name": "VGRASSP Handheld Video Game Console, Retro Mini Game with 400 Classic Sup Game TV Compatible for Kids, Rechargeable 8 Bit ...",
+      "image_url": "https://m.media-amazon.com/images/I/51qC3djhLQL._AC_UL320_.jpg",
+      "content": "VGRASSP Handheld Video Game Console, Retro Mini Game with 400 Classic Sup Game TV Compatible for Kids, Rechargeable 8 Bit ... The VGRASSP Handheld Video Game Console is a portable, rechargeable gaming device pre-loaded with 400 classic 8-bit games. It is primarily intended for kids to enjoy a retro "
+    },
+    {
+      "score": 0.7414192,
+      "name": "Plastic video games 98800 in 1 handheld console with tv support through av connections, plug and play device, Multi color",
+      "image_url": "https://m.media-amazon.com/images/I/61iJVFnwgQL._AC_UL320_.jpg",
+      "content": "Plastic video games 98800 in 1 handheld console with tv support through av connections, plug and play device, Multi color This product is a multi-color, 'plug and play' handheld gaming console primarily designed for immediate and diverse entertainment. Its main purpose is to offer a massive library "
+    },
+    {
+      "score": 0.73555255,
+      "name": "HDE High Accuracy Professional Jeweler Diamond Tester For Novice and Expert,Diamond Selector II, L101",
+      "image_url": "https://m.media-amazon.com/images/I/71SsZDpnwRL._AC_UL320_.jpg",
+      "content": "HDE High Accuracy Professional Jeweler Diamond Tester For Novice and Expert,Diamond Selector II, L101 The HDE High Accuracy Professional Jeweler Diamond Tester (Diamond Selector II, L101) is a specialized device designed to accurately identify genuine diamonds. It can be used by a wide range of indi"
+    },
+    {
+      "score": 0.73442996,
+      "name": "PATPAT® Poke-mon Binder, Trading Cards Collector Album for 400 Poke-mon Cards Cartoon Prints Zipper Bag Trading Card Binde...",
+      "image_url": "https://m.media-amazon.com/images/I/61cnEPDipoL._AC_UL320_.jpg",
+      "content": "PATPAT® Poke-mon Binder, Trading Cards Collector Album for 400 Poke-mon Cards Cartoon Prints Zipper Bag Trading Card Binde... This product is a PATPAT® Poke-mon Binder, designed as a collector's album to store and protect up to 400 Poke-mon trading cards. It features cartoon prints and a zipper bag "
+    },
+    {
+      "score": 0.73435044,
+      "name": "Mirana C-Type USB Rechargeable Tracer Racing RC Car with Nitro Booster | High Speed Remote Control Car Toy | Gift for Boys...",
+      "image_url": "https://m.media-amazon.com/images/I/61HKGz8Nt2L._AC_UL320_.jpg",
+      "content": "Mirana C-Type USB Rechargeable Tracer Racing RC Car with Nitro Booster | High Speed Remote Control Car Toy | Gift for Boys... This product is a high-speed, remote-controlled (RC) racing car toy, designed for thrilling entertainment and play. It features convenient USB-C recharging and a 'nitro boost"
+    }
+  ]
+}

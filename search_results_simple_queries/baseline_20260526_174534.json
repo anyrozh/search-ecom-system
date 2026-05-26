@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-05-26T17:45:34.016313",
+  "method": "baseline",
+  "query": "laptop",
+  "subqueries": [
+    "laptop"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 0.04923605918884277,
+  "results": [
+    {
+      "score": 0.5,
+      "name": "Powerful Laptop Adoptor",
+      "content": "Powerful Laptop Adoptor"
+    },
+    {
+      "score": 0.5,
+      "name": "Tabelito® Basic Laptop Bag Laptop Cover Laptop Bags Laptop Sleeve Office Bag Laptop Bag 15.6 inch(39.6cm) Laptop Apple/ Le...",
+      "content": "Tabelito® Basic Laptop Bag Laptop Cover Laptop Bags Laptop Sleeve Office Bag Laptop Bag 15.6 inch(39.6cm) Laptop Apple/ Le..."
+    },
+    {
+      "score": 0.33333334,
+      "name": "Fjällräven 15\" Kanken Art Laptop",
+      "content": "Fjällräven 15\" Kanken Art Laptop"
+    },
+    {
+      "score": 0.33333334,
+      "name": "FEDUS 3 in 1 Laptop Screen Guard, Keyboard Protector and Laptop Skin for All 15.6INCH Laptops Laptop Accessories Combo Kit",
+      "content": "FEDUS 3 in 1 Laptop Screen Guard, Keyboard Protector and Laptop Skin for All 15.6INCH Laptops Laptop Accessories Combo Kit"
+    },
+    {
+      "score": 0.25,
+      "name": "Wooum 15.6 Inch Water Resistance Laptop Messenger Bag/Laptop Briefcase/Laptop Sling bag/Laptop Side Bag for Men and Women...",
+      "content": "Wooum 15.6 Inch Water Resistance Laptop Messenger Bag/Laptop Briefcase/Laptop Sling bag/Laptop Side Bag for Men and Women..."
+    }
+  ]
+}

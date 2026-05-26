@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-05-26T17:45:38.737535",
+  "method": "multimodal",
+  "query": "laptop",
+  "subqueries": [
+    "laptop",
+    "high-performance laptops for gaming with dedicated graphics cards",
+    "lightweight and portable laptops for business and travel use",
+    "budget-friendly laptops suitable for everyday tasks and web browsing",
+    "2-in-1 convertible laptops with touchscreen and tablet functionality"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 2.2872812747955322,
+  "results": [
+    {
+      "score": 0.81289387,
+      "name": "FEDUS 3 in 1 Laptop Screen Guard, Keyboard Protector and Laptop Skin for All 15.6INCH Laptops Laptop Accessories Combo Kit",
+      "image_url": "https://m.media-amazon.com/images/I/61nbMEOj1gL._AC_UL320_.jpg",
+      "content": "FEDUS 3 in 1 Laptop Screen Guard, Keyboard Protector and Laptop Skin for All 15.6INCH Laptops Laptop Accessories Combo Kit The FEDUS 3-in-1 Laptop Accessories Combo Kit is designed to provide comprehensive protection and aesthetic enhancement for all 15.6-inch laptops. It includes a screen guard to "
+    },
+    {
+      "score": 0.80190396,
+      "name": "(Renewed) HP Chromebook C640 10th Gen Intel Core i5 Thin & Light FHD Laptop (8 GB DDR4 RAM/64 GB eMMC SSD/14\" (35.6 cm) FH...",
+      "image_url": "https://m.media-amazon.com/images/I/81rapyP7wAL._AC_UL320_.jpg",
+      "content": "(Renewed) HP Chromebook C640 10th Gen Intel Core i5 Thin & Light FHD Laptop (8 GB DDR4 RAM/64 GB eMMC SSD/14\" (35.6 cm) FH... This is a **renewed (refurbished)**, **thin and light HP Chromebook** designed for **fast, secure, and simple web-centric computing**. It's ideal for **students, casual users"
+    },
+    {
+      "score": 0.79699844,
+      "name": "Laptop Cover 13.3 inch for MacBook Air M1 Case Cover Laptop Case Compatible with 2020/2019/2018 MacBook Air M1 A2337 A2179...",
+      "image_url": "https://m.media-amazon.com/images/I/51dE+l0bcbL._AC_UL320_.jpg",
+      "content": "Laptop Cover 13.3 inch for MacBook Air M1 Case Cover Laptop Case Compatible with 2020/2019/2018 MacBook Air M1 A2337 A2179... This product is a protective hard-shell case designed specifically for 13.3-inch MacBook Air models, including the M1 chip (A2337) and earlier 2018-2020 versions (A2179, etc."
+    },
+    {
+      "score": 0.7960564,
+      "name": "BENNETT Drax Laptop Sleeve Case Cover for 39.62 cm (15.6-Inch) Laptop MacBook, Protective (Black)",
+      "image_url": "https://m.media-amazon.com/images/I/A1oZ9-1tYsS._AC_UL320_.jpg",
+      "content": "BENNETT Drax Laptop Sleeve Case Cover for 39.62 cm (15.6-Inch) Laptop MacBook, Protective (Black) This product is a BENNETT Drax laptop sleeve, case, or cover specifically designed to provide protective storage and portability for 39.62 cm (15.6-inch) laptops and MacBooks. It is intended for student"
+    },
+    {
+      "score": 0.7955275,
+      "name": "HP G8 Core Intel i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 240 G8 Business Laptop (14 inch, Black Grey, 1.47 kg) 689...",
+      "image_url": "https://m.media-amazon.com/images/I/41773Soe4-L._AC_UL320_.jpg",
+      "content": "HP G8 Core Intel i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 240 G8 Business Laptop (14 inch, Black Grey, 1.47 kg) 689... The HP 240 G8 Business Laptop is a portable and reliable computing device designed primarily for productivity. It's ideal for **business professionals, students, and general "
+    }
+  ]
+}

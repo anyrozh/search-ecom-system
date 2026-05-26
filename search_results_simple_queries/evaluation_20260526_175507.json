@@ -1,0 +1,3854 @@
+{
+  "summary": [
+    {
+      "Method": "baseline",
+      "Query": "airpods",
+      "Time(s)": 0.5539,
+      "OTR@K": 0.6,
+      "Avg Rel": 4.4,
+      "P(click)": 0.43,
+      "P(buy)": 0.37,
+      "NDCG": 0.6641,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "baseline",
+      "Query": "laptop",
+      "Time(s)": 0.0492,
+      "OTR@K": 0.2,
+      "Avg Rel": 3.8,
+      "P(click)": 0.43,
+      "P(buy)": 0.26,
+      "NDCG": 0.7565,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "baseline",
+      "Query": "iphone",
+      "Time(s)": 0.03,
+      "OTR@K": 0.6,
+      "Avg Rel": 4.8,
+      "P(click)": 0.47,
+      "P(buy)": 0.41,
+      "NDCG": 0.8529,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "baseline",
+      "Query": "nintendo switch",
+      "Time(s)": 0.0341,
+      "OTR@K": 0.4,
+      "Avg Rel": 3.2,
+      "P(click)": 0.31,
+      "P(buy)": 0.25,
+      "NDCG": 0.6951,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "baseline",
+      "Query": "face mask",
+      "Time(s)": 0.059,
+      "OTR@K": 1.0,
+      "Avg Rel": 8.8,
+      "P(click)": 0.91,
+      "P(buy)": 0.81,
+      "NDCG": 0.9983,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "baseline",
+      "Query": "sewing machine",
+      "Time(s)": 0.0637,
+      "OTR@K": 1.0,
+      "Avg Rel": 8.2,
+      "P(click)": 0.85,
+      "P(buy)": 0.75,
+      "NDCG": 0.9508,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "baseline",
+      "Query": "yoga mat",
+      "Time(s)": 0.0411,
+      "OTR@K": 0.6,
+      "Avg Rel": 6.0,
+      "P(click)": 0.65,
+      "P(buy)": 0.55,
+      "NDCG": 0.7834,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "baseline",
+      "Query": "toilet paper",
+      "Time(s)": 0.0412,
+      "OTR@K": 0.6,
+      "Avg Rel": 6.8,
+      "P(click)": 0.73,
+      "P(buy)": 0.59,
+      "NDCG": 0.9336,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "baseline",
+      "Query": "blender",
+      "Time(s)": 0.0247,
+      "OTR@K": 0.2,
+      "Avg Rel": 2.6,
+      "P(click)": 0.27,
+      "P(buy)": 0.21,
+      "NDCG": 0.6835,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "baseline",
+      "Query": "compression socks women",
+      "Time(s)": 0.0643,
+      "OTR@K": 0.6,
+      "Avg Rel": 5.8,
+      "P(click)": 0.59,
+      "P(buy)": 0.45,
+      "NDCG": 0.9339,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "baseline",
+      "Query": "air fryer",
+      "Time(s)": 0.0259,
+      "OTR@K": 0.4,
+      "Avg Rel": 3.4,
+      "P(click)": 0.37,
+      "P(buy)": 0.3,
+      "NDCG": 0.926,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "baseline",
+      "Query": "crocs",
+      "Time(s)": 0.0286,
+      "OTR@K": 1.0,
+      "Avg Rel": 9.4,
+      "P(click)": 0.97,
+      "P(buy)": 0.89,
+      "NDCG": 0.9913,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "baseline",
+      "Query": "treadmill",
+      "Time(s)": 0.025,
+      "OTR@K": 1.0,
+      "Avg Rel": 8.2,
+      "P(click)": 0.85,
+      "P(buy)": 0.75,
+      "NDCG": 0.9748,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "baseline",
+      "Query": "office chair",
+      "Time(s)": 0.0266,
+      "OTR@K": 0.4,
+      "Avg Rel": 5.6,
+      "P(click)": 0.62,
+      "P(buy)": 0.46,
+      "NDCG": 0.8041,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "baseline",
+      "Query": "vacuum cleaner",
+      "Time(s)": 0.0229,
+      "OTR@K": 0.6,
+      "Avg Rel": 5.8,
+      "P(click)": 0.62,
+      "P(buy)": 0.49,
+      "NDCG": 0.8944,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "text_searcher",
+      "Query": "airpods",
+      "Time(s)": 2.1927,
+      "OTR@K": 0.0,
+      "Avg Rel": 1.4,
+      "P(click)": 0.18,
+      "P(buy)": 0.08,
+      "NDCG": 0.9446,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "text_searcher",
+      "Query": "laptop",
+      "Time(s)": 2.4319,
+      "OTR@K": 0.4,
+      "Avg Rel": 5.6,
+      "P(click)": 0.57,
+      "P(buy)": 0.41,
+      "NDCG": 0.8621,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "text_searcher",
+      "Query": "iphone",
+      "Time(s)": 1.9295,
+      "OTR@K": 0.2,
+      "Avg Rel": 3.0,
+      "P(click)": 0.35,
+      "P(buy)": 0.23,
+      "NDCG": 0.6538,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "text_searcher",
+      "Query": "nintendo switch",
+      "Time(s)": 1.9475,
+      "OTR@K": 0.0,
+      "Avg Rel": 2.8,
+      "P(click)": 0.34,
+      "P(buy)": 0.16,
+      "NDCG": 0.9785,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "text_searcher",
+      "Query": "face mask",
+      "Time(s)": 2.5449,
+      "OTR@K": 1.0,
+      "Avg Rel": 9.0,
+      "P(click)": 0.95,
+      "P(buy)": 0.85,
+      "NDCG": 1.0,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "text_searcher",
+      "Query": "sewing machine",
+      "Time(s)": 1.8616,
+      "OTR@K": 0.0,
+      "Avg Rel": 2.8,
+      "P(click)": 0.34,
+      "P(buy)": 0.16,
+      "NDCG": 0.9169,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "text_searcher",
+      "Query": "yoga mat",
+      "Time(s)": 1.3903,
+      "OTR@K": 0.4,
+      "Avg Rel": 5.0,
+      "P(click)": 0.58,
+      "P(buy)": 0.45,
+      "NDCG": 0.714,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "text_searcher",
+      "Query": "toilet paper",
+      "Time(s)": 2.4305,
+      "OTR@K": 0.6,
+      "Avg Rel": 5.8,
+      "P(click)": 0.64,
+      "P(buy)": 0.55,
+      "NDCG": 0.9242,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "text_searcher",
+      "Query": "blender",
+      "Time(s)": 2.6925,
+      "OTR@K": 0.4,
+      "Avg Rel": 3.6,
+      "P(click)": 0.42,
+      "P(buy)": 0.34,
+      "NDCG": 0.8772,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "text_searcher",
+      "Query": "compression socks women",
+      "Time(s)": 1.5891,
+      "OTR@K": 0.0,
+      "Avg Rel": 1.0,
+      "P(click)": 0.16,
+      "P(buy)": 0.06,
+      "NDCG": 0.8964,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "text_searcher",
+      "Query": "air fryer",
+      "Time(s)": 2.2039,
+      "OTR@K": 0.0,
+      "Avg Rel": 0.6,
+      "P(click)": 0.1,
+      "P(buy)": 0.02,
+      "NDCG": 0.7123,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "text_searcher",
+      "Query": "crocs",
+      "Time(s)": 1.9667,
+      "OTR@K": 0.2,
+      "Avg Rel": 3.8,
+      "P(click)": 0.43,
+      "P(buy)": 0.29,
+      "NDCG": 0.9857,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "text_searcher",
+      "Query": "treadmill",
+      "Time(s)": 2.1483,
+      "OTR@K": 0.0,
+      "Avg Rel": 0.6,
+      "P(click)": 0.16,
+      "P(buy)": 0.06,
+      "NDCG": 0.8855,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "text_searcher",
+      "Query": "office chair",
+      "Time(s)": 2.4936,
+      "OTR@K": 0.0,
+      "Avg Rel": 2.0,
+      "P(click)": 0.26,
+      "P(buy)": 0.1,
+      "NDCG": 0.9652,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "text_searcher",
+      "Query": "vacuum cleaner",
+      "Time(s)": 1.992,
+      "OTR@K": 0.4,
+      "Avg Rel": 4.8,
+      "P(click)": 0.52,
+      "P(buy)": 0.43,
+      "NDCG": 0.9742,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "multimodal",
+      "Query": "airpods",
+      "Time(s)": 2.1585,
+      "OTR@K": 0.4,
+      "Avg Rel": 4.6,
+      "P(click)": 0.5,
+      "P(buy)": 0.34,
+      "NDCG": 0.8145,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "multimodal",
+      "Query": "laptop",
+      "Time(s)": 2.2873,
+      "OTR@K": 0.4,
+      "Avg Rel": 6.0,
+      "P(click)": 0.62,
+      "P(buy)": 0.47,
+      "NDCG": 0.8463,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "multimodal",
+      "Query": "iphone",
+      "Time(s)": 3.0188,
+      "OTR@K": 0.4,
+      "Avg Rel": 4.2,
+      "P(click)": 0.47,
+      "P(buy)": 0.35,
+      "NDCG": 0.7518,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "multimodal",
+      "Query": "nintendo switch",
+      "Time(s)": 2.2564,
+      "OTR@K": 0.0,
+      "Avg Rel": 1.0,
+      "P(click)": 0.16,
+      "P(buy)": 0.06,
+      "NDCG": 0.6529,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "multimodal",
+      "Query": "face mask",
+      "Time(s)": 2.5636,
+      "OTR@K": 1.0,
+      "Avg Rel": 8.8,
+      "P(click)": 0.91,
+      "P(buy)": 0.81,
+      "NDCG": 1.0,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "multimodal",
+      "Query": "sewing machine",
+      "Time(s)": 1.914,
+      "OTR@K": 1.0,
+      "Avg Rel": 9.0,
+      "P(click)": 0.95,
+      "P(buy)": 0.85,
+      "NDCG": 1.0,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "multimodal",
+      "Query": "yoga mat",
+      "Time(s)": 1.5543,
+      "OTR@K": 1.0,
+      "Avg Rel": 9.0,
+      "P(click)": 0.95,
+      "P(buy)": 0.87,
+      "NDCG": 1.0,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "multimodal",
+      "Query": "toilet paper",
+      "Time(s)": 2.0844,
+      "OTR@K": 0.8,
+      "Avg Rel": 7.2,
+      "P(click)": 0.76,
+      "P(buy)": 0.67,
+      "NDCG": 0.9818,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "multimodal",
+      "Query": "blender",
+      "Time(s)": 3.0003,
+      "OTR@K": 0.4,
+      "Avg Rel": 5.4,
+      "P(click)": 0.56,
+      "P(buy)": 0.42,
+      "NDCG": 0.993,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "multimodal",
+      "Query": "compression socks women",
+      "Time(s)": 1.6852,
+      "OTR@K": 0.0,
+      "Avg Rel": 2.6,
+      "P(click)": 0.36,
+      "P(buy)": 0.16,
+      "NDCG": 0.8987,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "multimodal",
+      "Query": "air fryer",
+      "Time(s)": 2.0874,
+      "OTR@K": 0.0,
+      "Avg Rel": 0.4,
+      "P(click)": 0.12,
+      "P(buy)": 0.02,
+      "NDCG": 0.8772,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "multimodal",
+      "Query": "crocs",
+      "Time(s)": 2.1426,
+      "OTR@K": 0.6,
+      "Avg Rel": 6.6,
+      "P(click)": 0.73,
+      "P(buy)": 0.59,
+      "NDCG": 0.9686,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "multimodal",
+      "Query": "treadmill",
+      "Time(s)": 2.2712,
+      "OTR@K": 1.0,
+      "Avg Rel": 9.0,
+      "P(click)": 0.95,
+      "P(buy)": 0.85,
+      "NDCG": 1.0,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "multimodal",
+      "Query": "office chair",
+      "Time(s)": 2.1034,
+      "OTR@K": 0.0,
+      "Avg Rel": 3.2,
+      "P(click)": 0.34,
+      "P(buy)": 0.16,
+      "NDCG": 0.9777,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "multimodal",
+      "Query": "vacuum cleaner",
+      "Time(s)": 2.1358,
+      "OTR@K": 0.6,
+      "Avg Rel": 6.0,
+      "P(click)": 0.67,
+      "P(buy)": 0.55,
+      "NDCG": 0.9194,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "taxonomy_searcher",
+      "Query": "airpods",
+      "Time(s)": 4.4306,
+      "OTR@K": 0.4,
+      "Avg Rel": 5.0,
+      "P(click)": 0.52,
+      "P(buy)": 0.35,
+      "NDCG": 0.8174,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "taxonomy_searcher",
+      "Query": "laptop",
+      "Time(s)": 6.757,
+      "OTR@K": 0.0,
+      "Avg Rel": 0.4,
+      "P(click)": 0.14,
+      "P(buy)": 0.04,
+      "NDCG": 0.8503,
+      "P@1": 0,
+      "Tax.Fallback": true
+    },
+    {
+      "Method": "taxonomy_searcher",
+      "Query": "iphone",
+      "Time(s)": 7.2292,
+      "OTR@K": 0.2,
+      "Avg Rel": 2.8,
+      "P(click)": 0.32,
+      "P(buy)": 0.2,
+      "NDCG": 0.7944,
+      "P@1": 0,
+      "Tax.Fallback": true
+    },
+    {
+      "Method": "taxonomy_searcher",
+      "Query": "nintendo switch",
+      "Time(s)": 7.1951,
+      "OTR@K": 0.0,
+      "Avg Rel": 1.8,
+      "P(click)": 0.24,
+      "P(buy)": 0.12,
+      "NDCG": 0.9711,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "taxonomy_searcher",
+      "Query": "face mask",
+      "Time(s)": 3.8419,
+      "OTR@K": 1.0,
+      "Avg Rel": 8.6,
+      "P(click)": 0.87,
+      "P(buy)": 0.78,
+      "NDCG": 0.9735,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "taxonomy_searcher",
+      "Query": "sewing machine",
+      "Time(s)": 4.7554,
+      "OTR@K": 0.0,
+      "Avg Rel": 2.8,
+      "P(click)": 0.36,
+      "P(buy)": 0.18,
+      "NDCG": 0.9778,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "taxonomy_searcher",
+      "Query": "yoga mat",
+      "Time(s)": 3.5889,
+      "OTR@K": 0.8,
+      "Avg Rel": 8.0,
+      "P(click)": 0.84,
+      "P(buy)": 0.73,
+      "NDCG": 0.9911,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "taxonomy_searcher",
+      "Query": "toilet paper",
+      "Time(s)": 4.5282,
+      "OTR@K": 0.6,
+      "Avg Rel": 6.4,
+      "P(click)": 0.71,
+      "P(buy)": 0.6,
+      "NDCG": 0.9804,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "taxonomy_searcher",
+      "Query": "blender",
+      "Time(s)": 4.2086,
+      "OTR@K": 0.4,
+      "Avg Rel": 4.4,
+      "P(click)": 0.45,
+      "P(buy)": 0.33,
+      "NDCG": 0.7151,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "taxonomy_searcher",
+      "Query": "compression socks women",
+      "Time(s)": 6.6945,
+      "OTR@K": 0.0,
+      "Avg Rel": 2.6,
+      "P(click)": 0.32,
+      "P(buy)": 0.16,
+      "NDCG": 0.9236,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "taxonomy_searcher",
+      "Query": "air fryer",
+      "Time(s)": 5.8872,
+      "OTR@K": 0.2,
+      "Avg Rel": 3.4,
+      "P(click)": 0.37,
+      "P(buy)": 0.25,
+      "NDCG": 0.6801,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "taxonomy_searcher",
+      "Query": "crocs",
+      "Time(s)": 3.7635,
+      "OTR@K": 0.6,
+      "Avg Rel": 6.4,
+      "P(click)": 0.71,
+      "P(buy)": 0.57,
+      "NDCG": 0.7784,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "taxonomy_searcher",
+      "Query": "treadmill",
+      "Time(s)": 4.119,
+      "OTR@K": 0.6,
+      "Avg Rel": 5.8,
+      "P(click)": 0.65,
+      "P(buy)": 0.55,
+      "NDCG": 0.9723,
+      "P@1": 1,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "taxonomy_searcher",
+      "Query": "office chair",
+      "Time(s)": 4.7802,
+      "OTR@K": 0.4,
+      "Avg Rel": 4.8,
+      "P(click)": 0.53,
+      "P(buy)": 0.37,
+      "NDCG": 0.6896,
+      "P@1": 0,
+      "Tax.Fallback": false
+    },
+    {
+      "Method": "taxonomy_searcher",
+      "Query": "vacuum cleaner",
+      "Time(s)": 3.7084,
+      "OTR@K": 0.6,
+      "Avg Rel": 5.8,
+      "P(click)": 0.65,
+      "P(buy)": 0.55,
+      "NDCG": 0.7547,
+      "P@1": 0,
+      "Tax.Fallback": false
+    }
+  ],
+  "evaluations": {
+    "baseline": {
+      "airpods": [
+        {
+          "position": 1,
+          "product_name": "Aerosoles Anneli",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "VOYEE Cleaning Kit for Airpods, Cleaner Pen for Airpods, 3-in-1 Multifunctional Bluetooth Earbuds Cleaning Kit for AirPods...",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "mens jens",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "mStick Airpods Pro Leather Protective Cover Compatible with Airpod Pro Case Leather Airpods Pro Protective Case Cover with...",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.65,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "MXVOLT Earhooks Compatible with AirPods 2 AirPods 1 Anti-Lost Secure Earhook Holder Ear Attachment Loops Airpod Clips for ...",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.25,
+          "rerank_score": null
+        }
+      ],
+      "laptop": [
+        {
+          "position": 1,
+          "product_name": "Powerful Laptop Adoptor",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Tabelito® Basic Laptop Bag Laptop Cover Laptop Bags Laptop Sleeve Office Bag Laptop Bag 15.6 inch(39.6cm) Laptop Apple/ Le...",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Fjällräven 15\" Kanken Art Laptop",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "FEDUS 3 in 1 Laptop Screen Guard, Keyboard Protector and Laptop Skin for All 15.6INCH Laptops Laptop Accessories Combo Kit",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Wooum 15.6 Inch Water Resistance Laptop Messenger Bag/Laptop Briefcase/Laptop Sling bag/Laptop Side Bag for Men and Women...",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.25,
+          "rerank_score": null
+        }
+      ],
+      "iphone": [
+        {
+          "position": 1,
+          "product_name": "Amozo Designed for iPhone 14 / iPhone 13 Cover | Matte Ultra Hybrid Compatible for iPhone 14 / iPhone 13 Back Cover Case C...",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.85,
+          "probability_to_buy": 0.75,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "mens jens",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Hidesign",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Spigen Ultra Hybrid Back Cover Case for iPhone SE 2022 | iPhone SE 2020 | iPhone 7 | iPhone 8 (TPU + Poly Carbonate | Black)",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.65,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "CZARTECH Tempered Glass Screen Guard for iPhone 13 | iPhone 14 | iPhone 13 Pro with Cleaning Kit (Pack of 1)",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.65,
+          "hybrid_score": 0.25,
+          "rerank_score": null
+        }
+      ],
+      "nintendo switch": [
+        {
+          "position": 1,
+          "product_name": "mens jens",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "UJEAVETTE 2X Portable Mini Charging Grip Charger Holder for Nintendo Switch Joy-con NS",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.65,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Kinsound High Speed 4K Hdmi Cable With Ethernet Supports 3D, 4K, 1080P Compatible With Tv, Projector, Nintendo Switch, Ps,...",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "exhaut fan",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Hidesign",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.25,
+          "rerank_score": null
+        }
+      ],
+      "face mask": [
+        {
+          "position": 1,
+          "product_name": "Enamor unisex-adult Face Mask",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Boldfit N95 Face Mask For Men & Women N95 Mask With 5 Layer N95 Masks For Adults & Kids N 95 Mask Face Mask Men Anti Pollu...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Spoinkky Cotton Face Mask Pack of 12 | Reusable and Washable Mask | Reusable Cloth Face Mask (Pack of 12)",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Diverse unisex Masks",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.65,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "PROTECTERR Reversible Cotton Printed Face Mask For Kids | 2 Ply Adjustable Mask | Earloop Breathable Kids Face Mask | Pack...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.25,
+          "rerank_score": null
+        }
+      ],
+      "sewing machine": [
+        {
+          "position": 1,
+          "product_name": "Sewing Machine Folding Standing Base for Easy Stitching, Domestic Sewing Machine",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "CHILLAXPLUS sewing machine for home tailoring, silai machine for home, sewing machine mini, sewing machine with table set,...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "SR ENTERPRISE Mini Sewing Machine | Sewing Machine for Home Tailoring | Silai Machine | Stiching Mechanic for Home, Straig...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.36666667,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "GANPADH Stapler Sewing Machine",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Singer 1304 Start Sewing Machine with 6 Built-In Stitches, Free Arm Sewing Machine - Best Sewing Machine for Beginners, 70...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        }
+      ],
+      "yoga mat": [
+        {
+          "position": 1,
+          "product_name": "Yoga Rope",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Boldfit Yoga Mats For Women yoga mat for men Exercise mat for home workout yoga mat for women gym mat Anti Slip Yoga mat W...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Tanz Formal loffer",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Raizex Fitness 10mm PU Leather Exercise Yoga Mat | Yoga Gym Mat | Foldable Yoga Mat | Traveling Mat | Yoga Mat for Men & W...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "OJS Yoga Mats For Women And Men With Bag Exercise mat for home workout gym mat Anti Slip Yoga mat Workout mat Yoga Mat For...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.25,
+          "rerank_score": null
+        }
+      ],
+      "toilet paper": [
+        {
+          "position": 1,
+          "product_name": "BIP Toilet Tissue Paper",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Plantex Space Aluminum Toilet Paper Roll Holder/Toilet Paper Holder for Bathroom/Kitchen Tissue Holder/Bathroom Accessorie...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Toilet Tissue Rolls with 100% Natural Tissue, Extra Soft Tissue Paper, Pulls Toilet Paper Roll , 50 Meters X 2 ply Pack of...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.4166667,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Craft Expertise Paper Towel Holder for Kitchen, Toilet, Bar, Office, Restaurant Bathroom Toilet Tissue Paper Roll Storage ...",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "V4L Paper Toilet Rolls Pack Of 6",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        }
+      ],
+      "blender": [
+        {
+          "position": 1,
+          "product_name": "UPKOCH Tamper Replacement Blender Tamper Blender Accelerator Fit for Vitamix Blenders Blender Replacement Parts",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "mens jens",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Hidesign",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Amazon Portable Blender Cup,Electric USB Juicer Blender,Mini Blender Portable Blender For Shakes and Smoothies, juice,380m...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "CLB",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.25,
+          "rerank_score": null
+        }
+      ],
+      "compression socks women": [
+        {
+          "position": 1,
+          "product_name": "NEVER QUIT Football socks, Running Compression Socks Stockings 20-30 mm hg Men Women Sports Socks for Marathon Cycling Foo...",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.65,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Bonjour womens Socks",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Just rider Calf Compression Sleeve - Leg Compression Socks for Shin Splint, Calf Pain Relief - Men, Women, and Runners - C...",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.65,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Bonjour Women's Socks",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Electomania Nylon 1 Pair Calf Compression Sleeve for Men and Women - Calf Compression Socks for Running Calf Pain Relief L...",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.65,
+          "hybrid_score": 0.25,
+          "rerank_score": null
+        }
+      ],
+      "air fryer": [
+        {
+          "position": 1,
+          "product_name": "Varada Max XL Air Fryer 12 Litre Large Capacity Air Fryer , 8-in-1 Electric Air Fryer Toaster dehydrator for Oil-Less Air ...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.9,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "AIR COOLER TROLLEY",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Square Silicone Air Fryer Liners 2Pcs Air Fryer Silicone Resuable Liners 8 Inch for 4 to 7 QT Air Fryer Silicone Pot Air F...",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "mens jens",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "exhaut fan",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.25,
+          "rerank_score": null
+        }
+      ],
+      "crocs": [
+        {
+          "position": 1,
+          "product_name": "crocs",
+          "on_topic": 1,
+          "relevance": 10,
+          "probability_to_click": 1.0,
+          "probability_to_buy": 1.0,
+          "hybrid_score": 0.7,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "crocs mens Classc Crocs Flip Flip Flop",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.6666667,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "crocs Men's",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "crocs unisex-adult Classc Crocs Flip Flip Flop",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "crocs unisex-adult Classic Crocs Cutie Clog K Blk Clogs",
+          "on_topic": 1,
+          "relevance": 10,
+          "probability_to_click": 1.0,
+          "probability_to_buy": 0.9,
+          "hybrid_score": 0.25,
+          "rerank_score": null
+        }
+      ],
+      "treadmill": [
+        {
+          "position": 1,
+          "product_name": "Sole F60 Treadmill",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Treadmill lubrication oil 500 ml silicone treadmill oil all treadmill",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "BLUNTFIT Treadmill Safety Key | Universal Treadmill Magnet Security Lock | Fitness Replacement Kit for All Treadmill- Red",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "AT-100 Motorsied Treadmill",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Kettler Track S2 Treadmill, Black, Regular",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.25,
+          "rerank_score": null
+        }
+      ],
+      "office chair": [
+        {
+          "position": 1,
+          "product_name": "GOYAL Office Chair Executive Office Chair revolving Visitor Chair Handle Fit to Every Chair Heavy Duty (1 Pair)",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.8333334,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "ROAR WOOD Chair for Office Work at Home Mid Back Ergonomic Office Chair Study Chair Revolving Chair Computer Chair for Wor...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Shona Business Plastic Chair (Brown)",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "RAJCHAIR Office revolving Chair Parts Star PVC Base for Office Chair with Black&White Wheel OR Caster, Shining Chair Base ...",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.25,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "CELLBELL C106 Medium Back Mesh Office Chair/Study Chair/Revolving Chair/Computer Chair for Work from Home Metal Base Heigh...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.25,
+          "rerank_score": null
+        }
+      ],
+      "vacuum cleaner": [
+        {
+          "position": 1,
+          "product_name": "SEIBEN Handheld Wireless Car Vacuum Cleaner, Cordless Vacuum Cleaner High Power, Rechargeable Portable Vacuum Cleaner with...",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.8,
+          "probability_to_buy": 0.7,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Vacuum Packing Machine",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.5,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Syga Car Vacuum Cleaner Wireless Charging Household Vacuum Cleaner Mini Portable Handheld Car Vacuum Cleaner (USBWireless-...",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.85,
+          "probability_to_buy": 0.7,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Value Vacuum Pump",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.33333334,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Balzano Tornado Cordless Vacuum Cleaner, Vacuum Cleaner for Home, 2-in-1 Portable Car Vacuum Cleaner, Multi-Purpose & Ultr...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.25,
+          "rerank_score": null
+        }
+      ]
+    },
+    "text_searcher": {
+      "airpods": [
+        {
+          "position": 1,
+          "product_name": "Earphones for vivo T1 44W, T1x, T2x, Y21G, Y21s, Y22 2022, Y31s, Y33, Y33e, Y35 2022, Y52, Y53s NFC, Y55, Y55s, Y71T, Y76,...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.88622564,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "2 Pairs Reusable Silicone Ear Plugs - NRR 32, Waterproof, Hypoallergenic - Ultra Comfortable Noise Reduction Earplugs for ...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8819376,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Voice Mini A8 Hidden Voice Recorder | Audio Bug Device | Spy Voice Recorder Product Microphone | Built-in Rechargeable Bat...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.875687,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Multi-Coated Variable Polarizing ND Neutral Density Adjustable ND2 -ND400 (Waterproof, Scratchproof, Dustproof) (58MM)",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8747523,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Portronics Auto 14 2-in-1 Bluetooth Transmitter & Receiver Adaptor (Black)",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.87444586,
+          "rerank_score": null
+        }
+      ],
+      "laptop": [
+        {
+          "position": 1,
+          "product_name": "BENNETT Drax Laptop Sleeve Case Cover for 39.62 cm (15.6-Inch) Laptop MacBook, Protective (Black)",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.8982371,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "(Renewed) HP Chromebook C640 10th Gen Intel Core i5 Thin & Light FHD Laptop (8 GB DDR4 RAM/64 GB eMMC SSD/14\" (35.6 cm) FH...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.8930179,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "ZIPLINE 35 LTR, 19 inch Black Laptop Backpack for Men & Women College Girls Boys fits 15.6 inch Laptop MacBook pro/Tablet ...",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.8874727,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Generic Polyster Light Weight Laptop Bag 30 ltrs Laptop Backpack for Upto 15.6 inch Laptop-ALB_1XR00298",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.8837727,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "AmazonBasics Laptop Sleeve Case Cover Pouch for 13-Inch(33.02 Cm), 13.3-Inch (33.78 Cm) Laptop for Men & Women | Slim Prof...",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.87929463,
+          "rerank_score": null
+        }
+      ],
+      "iphone": [
+        {
+          "position": 1,
+          "product_name": "Earphones for vivo T1 44W, T1x, T2x, Y21G, Y21s, Y22 2022, Y31s, Y33, Y33e, Y35 2022, Y52, Y53s NFC, Y55, Y55s, Y71T, Y76,...",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.90012634,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "QAZ 1080p HD USB Universal Interface Mini Flexi Neck Camera , Supports Micro SD Card Recording (Not Included) Security Cam...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.88394856,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Earphone for Calling and Music Compatible with iPhone 7/8/X/11/12/13/14 Plus/7 Plus/8 Plus/XR/XR Max/11 Pro/11 Pro Max/12 ...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.88366884,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Mini Spy Camera WiFi Hidden Camera SQ8 Wireless HD 1080P Indoor Home Mini Security Cameras + Nanny Cam Built-in Battery Mo...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8834748,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "i Mobile Earphone for i Phone Earphones with Lightning Connector Wired Headset 7,7 Plus, 8,8 Plus, X, XR, Xs, Xs Max Wired...",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.65,
+          "hybrid_score": 0.8827547,
+          "rerank_score": null
+        }
+      ],
+      "nintendo switch": [
+        {
+          "position": 1,
+          "product_name": "SanDisk 32GB 2-Pack Ultra microSDHC UHS-I Memory Card (2x32GB) - SDSQUA4-032G-GN6MT",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.86554587,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "SanDisk Ultra MicroSDXC UHS-I Card (SDSQUAR-064G-G061N)",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.86532027,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Samsung EVO Plus 512GB microSDXC UHS-I U3 130MB/s Full HD & 4K UHD Memory Card with Adapter (MB-MC512KA)",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.86382,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "SanDisk Ultra microSD UHS-I Card 256GB, 120MB/s R",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.86064905,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "7SEVEN® Bluetooth Voice Command Compatible RMF-TX520p remote control for Original Sony TV Remotes A80J X80J X85J X90J X95J...",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8583039,
+          "rerank_score": null
+        }
+      ],
+      "face mask": [
+        {
+          "position": 1,
+          "product_name": "HYDRISE (Pack of 20 Premium N95 Mask For Men and Women with Mask Adjuster - Washable mask - Reusable mask - Pollution Mask...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.9165304,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "HYDRISE (Pack of 40 Premium N95 Mask For Men and Women with Mask Adjusters - Washable mask - Reusable mask - Pollution Mas...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.8918396,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "airific by NIRVANA BEING 2.0 N95, FFP2 Washable and Reusable Mask for Adults | Anti Pollution Mask | Tested at Internation...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.88964677,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "OxiClear N99 Anti Pollution Face Mask with 4 Activated Carbon Filters & Detachable Headband D.R.D.O Certified (NO-VALVE) (...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.886122,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "CHITRA EXPORTS N 95 BLACK EAR loop 5 layer 20 PIECE COMBO OF N95 mask reusable, washable, breathable 5 layer mask with EAR...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.87668175,
+          "rerank_score": null
+        }
+      ],
+      "sewing machine": [
+        {
+          "position": 1,
+          "product_name": "Hesch 9 Seam Ripper and Thread Remover Kit, 2 Big and 2 Small Sewing Stitch Thread Unpicker and 1 Sewing Trimming Scissor ...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.86379385,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "SSKR Sewing Machine Needles 100/16, HA x 1-10 Needles Set - Works with All Automatic Sewing Machines (USHA/Singer/Brother)",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.8617454,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Lovetholy 2pcs, 11.5X6.5cm Kery Designer Embroidery Neck sew on Applique Patches/Decorative Patches for Clothes, Jackets, ...",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.851435,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "DEVICE OF PN Lint/Fabric Shaver for Cloths, Lint Remover for Woolen Sweaters, Blankets, Jackets/Burr Remover Pill Remover ...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8495139,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "USHA, Singer 100 Sewing Machine Needles of Size 16 - HAX1, 15X1, 16/100 (silver)",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.8472762,
+          "rerank_score": null
+        }
+      ],
+      "yoga mat": [
+        {
+          "position": 1,
+          "product_name": "Active Elements Direct from Factory - Canvas Yoga Mat Bag/Cover. Easy Fit up to 4 mm Thick Yoga Mat. Print Design : Om Sym...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.8799446,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Mist Jute Yoga Print Eco-Friendly Bag, 14.5x5x12 inches (Beige, 2PK 14.5x5x12\" YogaPrint Jute Bag- Beige) - Pack of 2 (2)",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.8718337,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Skechers-VINYASA - LOVELY OASIS",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8700778,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "QUICK SHEL LUXFOAM PREMIUM 4.5mm EVA yoga mat for men women and children for gym and home workout and flooring exercise wi...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.9,
+          "hybrid_score": 0.8618783,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "tribhuvan.Dual Color (6 MM) Yoga MAT with Carry Bag and Strap for Comfort/Yoga Mat for Meditation, Fitness & Exercise (8m...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.859399,
+          "rerank_score": null
+        }
+      ],
+      "toilet paper": [
+        {
+          "position": 1,
+          "product_name": "BIP Toilet Tissue Paper",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.9,
+          "hybrid_score": 0.880188,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "YOOKO ( Pack of 6 Roll ) Toilet peper Soft Care Luxurious Bathroom Tissue Paper 2 Ply 20 cm Exta Softness Soft Tissue The ...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.8662033,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Babymoon (Set of 2) 1 Cloth Diaper with 5Layers Charcoal Bamboo Insert) Premium Adjustable Reusable Cloth Diaper (Frenchfr...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.86135983,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "SuperBottoms UNO Freesize Cloth Diaper | Cloth diaper for babies 3M to 3Y | Washable & Reusable cloth diaper | Comes with ...",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.85664165,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Paseo Toilet Tissue 2 ply Toilet Paper 10 Toilet Rolls x 200 Toilet Tissue Sheets Sheet Size 11 x 9.9 cm",
+          "on_topic": 1,
+          "relevance": 10,
+          "probability_to_click": 1.0,
+          "probability_to_buy": 0.9,
+          "hybrid_score": 0.8562726,
+          "rerank_score": null
+        }
+      ],
+      "blender": [
+        {
+          "position": 1,
+          "product_name": "MAYUMI® GLS Experts Nutri-Blend, 22000 RPM Mixer-Grinder, Blender, SS Blades, 2 Unbreakable Jars, 1 Years Warranty, 400 W-...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.9019059,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "LABOGENS CALCIUM CARBONATE 1 KG, (calcite powder)",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.89911973,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "ISOCHEM Stearic Acid (500GM) Assay 98% Min",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8987176,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Wonderchef Nutri-Blend, 400W, 22000 RPM Mixer-Grinder, Blender, SS Blades, 2 Unbreakable Jars, With Sipper Lid, 2 Years Wa...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.8974004,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "BECCA HZ FO",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8972089,
+          "rerank_score": null
+        }
+      ],
+      "compression socks women": [
+        {
+          "position": 1,
+          "product_name": "SHOEGAZNG Shoegazing Women Casual Flat Sandals for College Girls| Flat Sandals for Women",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.85855734,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Neska Moda Women's Liners Socks (Pack of 3) (S1027-ZK-Thumb-F-No-WhGyBlk-3Pc-74_White, Black, Grey_Free)",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.85828954,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "SPARK LEE WOMAN CHAPPLE",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8547232,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Footons women's comfortable stylish designer daily/fashion/casual women's slippers",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8476497,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Heyinz Girls Casual Wear Flip Flops |Kids Slip On Slippers(Toddler/Little Kid/Big Kid)(18months to 9years) (Sky Blue, 4_ye...",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8465567,
+          "rerank_score": null
+        }
+      ],
+      "air fryer": [
+        {
+          "position": 1,
+          "product_name": "Multi-Coated Variable Polarizing ND Neutral Density Adjustable ND2 -ND400 (Waterproof, Scratchproof, Dustproof) (58MM)",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8997156,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Allin Exporters DT-1830T Tower Shape Ultrasonic Humidifier Cool Mist Air Purifier Large Capacity Overnight Negative Ion Ge...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8928735,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "HRK Personal Space Air-Cooler, 3-in-1 USB Mini Portable Air Conditioner Humidifier Purifier Mini Cooler, Air Cooler for Ro...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8901857,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "8L Mini Fridge, 12V AC/DC Large Capacity Mirror Beauty Portable Electric Cooler& Warmer with LED Light, White Convenient M...",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8822561,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "10 Liters Refrigerator, 220V-240V Heating Mini Fridge Cooling for Car for Home(#2)",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.88186294,
+          "rerank_score": null
+        }
+      ],
+      "crocs": [
+        {
+          "position": 1,
+          "product_name": "crocs 207713 UK",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.8917886,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "SHOEGAZNG Shoegazing Women Casual Flat Sandals for College Girls| Flat Sandals for Women",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.87911373,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Footons women's comfortable stylish designer daily/fashion/casual women's slippers",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.8686417,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "1 WALK Comfortable DR Sole Women-Flats/Sandals/Fancy WEAR Original/Slippers/Casual Footwear-Black@MP-DR100B-Black-$Parent SKU",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.8684434,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "B-NED-K Men's Muccasin Shoes::Nagara Shoes for Men::Trending Shoes Shoes for Men and Boys::Slip-on Shoes for Men",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8663589,
+          "rerank_score": null
+        }
+      ],
+      "treadmill": [
+        {
+          "position": 1,
+          "product_name": "CRUISTER Round Neck Half Sleeve T-Shirt for Mens- Sports T-Shirt, Dry Fit - Gym/Running/Yoga T-Shirt - Quick Dry & Stretch...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8514725,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Women's Tube Bra for Everyday use,Gym Bra,Stretchable Strapless,Non Padded & Non-Wired,Dance wear and Any Sport Activity,M...",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8505222,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Ritu-Creation Women’s Air Bra, Sports Bra, Stretchable Non-Padded Seamless Bra,Pack of 2,Black/Beige",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.85008407,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "TRASA Women's and Girl's Nylon and Spandex Non-Padded and Non-Wired Thin Strip Sports Bra, Air Bra, Free Size (Size 28 to ...",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8499413,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Musclen Fitness Weight Lifting Dumbbell Plates , 10 Kg Weight Plates, 2.5Kg X 4 (Black) (2.5KG-4PLATES-S)",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8496092,
+          "rerank_score": null
+        }
+      ],
+      "office chair": [
+        {
+          "position": 1,
+          "product_name": "JY Coccyx Seat Cushion for Office Chair, Desk Chair Seat Cushion for Tailbone Pain, Orthopedic Memory Foam Coccyx Seat Cus...",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.8867211,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Innovative Design Well Furnished Sofa Rocking Chair Armchair Single Seater Sofa Set Accent Chair 3X Comfortable Luxury for...",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.85517186,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "JY Coccyx Seat Cushion for Office Chair, Desk Chair Car Seat Cushion for Tailbone Pain, Orthopedic Memory Foam Coccyx Seat...",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.84043723,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "KINGLY Velvet Blossom 5 Seater 3+1+1 Sofa Cover Set ( English Silver, Grey , 69X27 Inch, 23X27 Inch ) - Set 6 Pc",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.838349,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Jayvaam Sofa Cover with Cushion Cover and Table Cover - 3 Seater and 2 Seater Sofa Covers with Arm Set 16 Pcs - 3+1+1 Pane...",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8345513,
+          "rerank_score": null
+        }
+      ],
+      "vacuum cleaner": [
+        {
+          "position": 1,
+          "product_name": "ECOVACS DEEBOT N8 2-in-1 Robotic Vacuum Cleaner, 2022 New Launch, Most Powerful Suction, Covers 2000+ Sq. Ft in One Charg...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.88042533,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Eufy by Anker, RoboVac G30 Hybrid, 2-in-1 Robot Vacuum, Mop and Sweep with Smart Dynamic Navigation 2.0, 2000Pa Suction, W...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.9,
+          "hybrid_score": 0.86759835,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Multi-Coated Variable Polarizing ND Neutral Density Adjustable ND2 -ND400 (Waterproof, Scratchproof, Dustproof) (58MM)",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8575852,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "T.O.G. DC12V Mini Vacuum Pump Negative Pressure Air Suction Pump 5L/min 65-120kpa",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.8575063,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "RODAK Fleece Dust Bags Set of 4 - for Karchre Vacuum Cleaner WD4, WD5, WD6",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.85736394,
+          "rerank_score": null
+        }
+      ]
+    },
+    "multimodal": {
+      "airpods": [
+        {
+          "position": 1,
+          "product_name": "Earphones for vivo T1 44W, T1x, T2x, Y21G, Y21s, Y22 2022, Y31s, Y33, Y33e, Y35 2022, Y52, Y53s NFC, Y55, Y55s, Y71T, Y76,...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.7967631,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Amozo Tough Rugged Shockproof Cover Case Compatible with AirPods Pro 2 / AirPods Pro GEN-2 (2022) - (Polycarbonate | Black)",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.79572314,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "m mhb HD Quality Bluetooth Spy Camera Hidden Video Audio Recording Bluetooth Camera Inbuilt 4GB Memory. with inbuilt Recha...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.78991437,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "EarFun Free 2 Wireless Earbuds, QCC3040 aptX Audio Technology, Dynamic Drivers, Bluetooth 5.2, Touch Control + Volume Cont...",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.78988725,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Zebronics Zeb-Sound Bomb N1 True Wireless In Ear Earbuds with ENC, Gaming Mode (up to 50ms), up to 18H Playback, Bluetooth...",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.7890256,
+          "rerank_score": null
+        }
+      ],
+      "laptop": [
+        {
+          "position": 1,
+          "product_name": "FEDUS 3 in 1 Laptop Screen Guard, Keyboard Protector and Laptop Skin for All 15.6INCH Laptops Laptop Accessories Combo Kit",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.81289387,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "(Renewed) HP Chromebook C640 10th Gen Intel Core i5 Thin & Light FHD Laptop (8 GB DDR4 RAM/64 GB eMMC SSD/14\" (35.6 cm) FH...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.80190396,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Laptop Cover 13.3 inch for MacBook Air M1 Case Cover Laptop Case Compatible with 2020/2019/2018 MacBook Air M1 A2337 A2179...",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.79699844,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "BENNETT Drax Laptop Sleeve Case Cover for 39.62 cm (15.6-Inch) Laptop MacBook, Protective (Black)",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.7960564,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "HP G8 Core Intel i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) 240 G8 Business Laptop (14 inch, Black Grey, 1.47 kg) 689...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.9,
+          "hybrid_score": 0.7955275,
+          "rerank_score": null
+        }
+      ],
+      "iphone": [
+        {
+          "position": 1,
+          "product_name": "Hohem iSteady X - 3-Axis 259g Lightweight Smartphone Gimbal Foldable Handheld Pocket Stabilizer Youtuber Vlogger Live Vide...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.8415349,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Roarx Nothing Phone 1 Fast Charger Adapter 20W (Affordable) Original 45 watt Alternate (Max 20 watt) | 1.5% Charge in 1 Mi...",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.8061894,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "iPhone Original 20W C Type Fast PD Charger Compatible with I-Phone13/13 mini/13pro/13 pro Max I-Phone 12/12 Pro/12mini/12 ...",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.65,
+          "hybrid_score": 0.80023086,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Voice Mini A8 Hidden Voice Recorder | Audio Bug Device | Spy Voice Recorder Product Microphone | Built-in Rechargeable Bat...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8000057,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "i Mobile Earphone for i Phone Earphones with Lightning Connector Wired Headset 7,7 Plus, 8,8 Plus, X, XR, Xs, Xs Max Wired...",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.7990814,
+          "rerank_score": null
+        }
+      ],
+      "nintendo switch": [
+        {
+          "position": 1,
+          "product_name": "Smart Pro EN-EL10 Battery Charger for Nikon CoolPix S200 S203 S210 S220 S230 Coolpix S500 S510 S520 S570 Coolpix S600 Cool...",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.7741665,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "SanDisk 32GB 2-Pack Ultra microSDHC UHS-I Memory Card (2x32GB) - SDSQUA4-032G-GN6MT",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.7689459,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "CARE CASE WiFi Receiver 300 Mbps, 2.4GHz, 802.11b/g/n USB 2.0 Wireless Mini Network Adapter",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.76770985,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Battery Charger for Canon LP-E8 Battery LC-E8C 700D 650D 550D 600D -LP-E8",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.767319,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "for Nikon EN-EL3e EN-EL3a D70 D80 D90 D300 D700 US MH-18A Battery Charger",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.76535285,
+          "rerank_score": null
+        }
+      ],
+      "face mask": [
+        {
+          "position": 1,
+          "product_name": "HYDRISE (Pack of 20 Premium N95 Mask For Men and Women with Mask Adjuster - Washable mask - Reusable mask - Pollution Mask...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.81919485,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "HYDRISE (Pack of 40 Premium N95 Mask For Men and Women with Mask Adjusters - Washable mask - Reusable mask - Pollution Mas...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.8096625,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "OxiClear N99 Anti Pollution Face Mask with 4 Activated Carbon Filters & Detachable Headband D.R.D.O Certified (NO-VALVE) (...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.80621076,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Boldfit N95 Face Mask For Men & Women N95 Mask With 5 Layer N95 Masks For Adults & Kids N 95 Mask Face Mask Men Anti Pollu...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.8051079,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Elysiann Glorry Double Up V Lifting Mask - Double chin reducer for women, Lifts & Shapes your Face with Face Shaper - Enha...",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.65,
+          "hybrid_score": 0.8020999,
+          "rerank_score": null
+        }
+      ],
+      "sewing machine": [
+        {
+          "position": 1,
+          "product_name": "Singer Talent 3321 Automatic Zig-Zag Electric Sewing Machine with 21 Built-in Stitches (White)",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.7868505,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "CHILLAXPLUS sewing machine for home tailoring, silai machine for home, sewing machine mini, sewing machine with table set,...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.78010285,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "CHILLAXPLUS mini sewing machine | sewing machine for home tailoring | silai machine for home | stiching mechanic for home...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.7786139,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "SR ENTERPRISE Mini Sewing Machine | Sewing Machine for Home Tailoring | Silai Machine | Stiching Mechanic for Home, Straig...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.7776952,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Singer 1304 Start Sewing Machine with 6 Built-In Stitches, Free Arm Sewing Machine - Best Sewing Machine for Beginners, 70...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.77647734,
+          "rerank_score": null
+        }
+      ],
+      "yoga mat": [
+        {
+          "position": 1,
+          "product_name": "Reebok Yoga Mat- 4mm",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.8047021,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "SPOKOFIT Camo Yoga Mat With Bag & Strap, Non Slip Foldable Mat Camouflage Seamless Pattern Sweat Absorbent, for Hot Yoga, ...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.9,
+          "hybrid_score": 0.8015422,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Liffo® yoga matt for men women exercise workout HOME/GYM",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.9,
+          "hybrid_score": 0.8015405,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "PROIRON NBR Yoga Mat 1830×660×10 mm - PURPLE Pilates Mat Edge Protection Non-Slip Yoga Mat Exercise Extra Thick Foam Mat F...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.7982756,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "tribhuvan.Dual Color (6 MM) Yoga MAT with Carry Bag and Strap for Comfort/Yoga Mat for Meditation, Fitness & Exercise (8m...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.79484487,
+          "rerank_score": null
+        }
+      ],
+      "toilet paper": [
+        {
+          "position": 1,
+          "product_name": "YOOKO ( Pack of 6 Roll ) Toilet peper Soft Care Luxurious Bathroom Tissue Paper 2 Ply 20 cm Exta Softness Soft Tissue The ...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.8122375,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "BIP Toilet Tissue Paper",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.9,
+          "hybrid_score": 0.80697113,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "K.K. VillA Stainless Steel No Drill Self Adhesive Toilet Paper Holder/Tissue Paper Roll Holder/Bathroom Rack for Kitchen/T...",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.65,
+          "hybrid_score": 0.78618014,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "DeHMY 58MMx25Mtr(2Inch) Thermal Paper roll (Set of 10 Rolls) (58MMx25Mtr(2Inch))",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.7835059,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "V4L Paper Toilet Rolls Pack Of 6",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.78213346,
+          "rerank_score": null
+        }
+      ],
+      "blender": [
+        {
+          "position": 1,
+          "product_name": "MAYUMI® GLS Experts Nutri-Blend, 22000 RPM Mixer-Grinder, Blender, SS Blades, 2 Unbreakable Jars, 1 Years Warranty, 400 W-...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.81677973,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Wonderchef Nutri-Blend, 400W, 22000 RPM Mixer-Grinder, Blender, SS Blades, 2 Unbreakable Jars, With Sipper Lid, 2 Years Wa...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.8148036,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "SilentPowerSunmeet Bullet Jars for Mixer Grinder Combo of 2 Jar (530 ML and 350 ML) with Gym Sipper Cap, Black- NSA34",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.80911386,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Panasonic SR-WA22H(SS) 2.2 Litre Food Steamer, Burgundy, 750 Watts",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8077717,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Su-mix Heavy Bullet Jar for Mixer Grinder Small Set of 1 (350 ML) ABS Transparent Plastic Mixer Juicer Jar",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.80525464,
+          "rerank_score": null
+        }
+      ],
+      "compression socks women": [
+        {
+          "position": 1,
+          "product_name": "Neska Moda Women's Liners Socks (Pack of 3) (S1027-ZK-Thumb-F-No-WhGyBlk-3Pc-74_White, Black, Grey_Free)",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.79140484,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "GLAMORAS® Women's/Girl's Lace and Net Low Cut Non Slip Lace No Show Liner Socks, Free Size, Black/Beige/Grey/White/Pink (P...",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.7849124,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "URBAN ETHNICS Ankle Socks No Show Sock Low-Cut Athletic Men Women Cotton Socks_Free Size_Pack Of 3 Pair",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.7844286,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Supersox Women's Ankle Length",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.7787726,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Nike SX7678-010 U",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.778018,
+          "rerank_score": null
+        }
+      ],
+      "air fryer": [
+        {
+          "position": 1,
+          "product_name": "HRK Personal Space Air-Cooler, 3-in-1 USB Mini Portable Air Conditioner Humidifier Purifier Mini Cooler, Air Cooler for Ro...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.7995851,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "1 Star Rating 192 L Freeze.Crown Design.",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.79934233,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "HASTHIP® LED Aroma Diffuser Humidifier 360 °Aroma Humidifier Ultra Quiet Humidifier Essential Oil Diffuser Aromatherapy Di...",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.7980823,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Mini Refrigerator, 4L Mini Refrigerator Heating Car Refrigerator Dual-Using White Single Type Car Refrigerator for Car for...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.79786694,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "8L Mini Fridge, 12V AC/DC Large Capacity Mirror Beauty Portable Electric Cooler& Warmer with LED Light, White Convenient M...",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.79775417,
+          "rerank_score": null
+        }
+      ],
+      "crocs": [
+        {
+          "position": 1,
+          "product_name": "crocs Bayaband Clog UK M9W11",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.8111474,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "crocs unisex-child Bayaband Clog SLATE GREY/LIME PUNCH Clog - 1-1.5 Years, 4 Kids UK, 11.5 cms(C4) (207018-0GX)",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.80705345,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "SHOEGAZNG Shoegazing Women Casual Flat Sandals for College Girls| Flat Sandals for Women",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.80195254,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Big Fox Perforated-6 Men's Croco Moccasins Loafers Style Shoes",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.7998176,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "crocs 207713 UK",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.7976988,
+          "rerank_score": null
+        }
+      ],
+      "treadmill": [
+        {
+          "position": 1,
+          "product_name": "Sparnod Fitness STH-3000 Series (4 HP Peak) 2 in 1 Foldable Treadmill for Home Cum Under Desk Walking Pad - Slim Enough to...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.798119,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "AGARO Supreme Motorized Foldable Treadmill, AC Power 5HP (8HP Peak), Max User Weight 150Kg, Max Speed 20Km/Hr, 15 Level of...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.7935873,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Cockatoo CTM-11LPLUS 3HP - 6HP Peak DC Motorised Multi Function Treadmill for Home with Manual Incline, Max Speed 14Km/Hr,...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.7933855,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Fitkit by Cult.Sport FT98 Carbon (2HP Peak, Max Speed - 14km/hr) Treadmill with Free Home Installation, Free Customized Di...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.79133934,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "FITNESS WORLD - 2 in 1 Portable and Space Saving Sturdy Folding Slimming Treadmill for Walking and Climbing with Easy Asse...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.78949684,
+          "rerank_score": null
+        }
+      ],
+      "office chair": [
+        {
+          "position": 1,
+          "product_name": "JY Coccyx Seat Cushion for Office Chair, Desk Chair Seat Cushion for Tailbone Pain, Orthopedic Memory Foam Coccyx Seat Cus...",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.8045815,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "JY Coccyx Seat Cushion for Office Chair, Desk Chair Car Seat Cushion for Tailbone Pain, Orthopedic Memory Foam Coccyx Seat...",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.77717125,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Patiofy Jhula For Adults/ Swing For Home/ Hammock Swing Chair/ Swing For Living Room/ Suitable For Indoor & Outdoor/ 120Kg...",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.76784545,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Innovative Design Well Furnished Sofa Rocking Chair Armchair Single Seater Sofa Set Accent Chair 3X Comfortable Luxury for...",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.7678143,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Faburaa Maple Soft & Relaxing Jute Seat Cushion for Patio Chair Rocking Chair, Office Chair, Desk Chair and Dining Chair w...",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.7653368,
+          "rerank_score": null
+        }
+      ],
+      "vacuum cleaner": [
+        {
+          "position": 1,
+          "product_name": "BLACK+DECKER VH802 800-Watt, 900ml dustbowl,150 Air Watts High Suction Bagless Dustbuster Vacuum Cleaner and Blower with 8...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.7865258,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "ResQTech PW-107 1900 Watt 150 Bar High Pressure Washer with Foam Cannon,90 Degree Nozzle ,Rotary Turbo Nozzle ,7m Hose Pip...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.7862784,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "KARCHER WD 1s Classic *KAP - Multi-Purpose Vacuum Cleaner, Yellow",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.7856628,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Crownish Multi-Functional Portable Vacuum Cleaner Blowing and Sucking Dual Purpose (JK-8), 220-240 V, 50 HZ, 1000 W",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.7850929,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Whixant New Multifunction Magic MOP/Broom, 2-in-1 Sweeper, Magic Broom Sweeper, Easily Dry The Floor and Remove Dirt and H...",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.784465,
+          "rerank_score": null
+        }
+      ]
+    },
+    "taxonomy_searcher": {
+      "airpods": [
+        {
+          "position": 1,
+          "product_name": "Honeywell Trueno U10 Bluetooth V5.1+EDR in Ear Wireless Neckband with mic, Upto 15H Playtime, 10mm Drivers, Integrated Con...",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.8174202,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "ShopMagics In-Ear Headphones Earphones for Vivo V11, U10, S1, V5, V9 Pro, Y12, Y91i, Y83, S1, V7, V5s, Y53, Y71, Y21, U10,...",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.80130696,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "boAt Airdopes 172 True Wireless in Ear Earbuds with Enx Tech, Beast Mode, 35H Playtime, 11mm Drivers, ASAP Charge, IPX4, I...",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.65,
+          "hybrid_score": 0.7926245,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "EarFun Free 2 Wireless Earbuds, QCC3040 aptX Audio Technology, Dynamic Drivers, Bluetooth 5.2, Touch Control + Volume Cont...",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.7903008,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "AANTAR {Type-C M90 Pro TWS Earbuds Bluetooth 5.3 Type-C with Power Bank Charge Your Phone, 280 Hours Playback (Charging ca...",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.7878018,
+          "rerank_score": null
+        }
+      ],
+      "laptop": [
+        {
+          "position": 1,
+          "product_name": "Honeywell Trueno U10 Bluetooth V5.1+EDR in Ear Wireless Neckband with mic, Upto 15H Playtime, 10mm Drivers, Integrated Con...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.7903771,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "MICROSMT M21 Smart LED TV (75-SMT-SL/1024/08-KSR-22),75 Inches.",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.78265697,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "MICROSMT M34 Smart LED TV (43-SMT-FL/1024/08-KSR-22),43 Inches.",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.78021,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "MICROSMT M83 Smart LED TV (75-SMT-4K/1024/08-KSR-22),75 Inches.",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.776121,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "MICROSMT M57 Smart LED TV (50-SMT-SB/1024/08-KSR-22),50 Inches.",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.77603716,
+          "rerank_score": null
+        }
+      ],
+      "iphone": [
+        {
+          "position": 1,
+          "product_name": "Honeywell Trueno U10 Bluetooth V5.1+EDR in Ear Wireless Neckband with mic, Upto 15H Playtime, 10mm Drivers, Integrated Con...",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8152857,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "i Mobile Earphone for i Phone Earphones with Lightning Connector Wired Headset 7,7 Plus, 8,8 Plus, X, XR, Xs, Xs Max Wired...",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.7990814,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Technoview 12MP WiFi Mini Camera Full HD Video and Audio Recorder IR Night Visio, Motion Detection, Body Action Camera wit...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.7946094,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "SONATA GOLD Branded Hidden Voice Recorder | Audio Bug Device | Spy Voice Recorder Product Microphone | Built-in Rechargeab...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.794431,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Jmk Store Android Wired in-Ear Headphone with 3.5mm Jack & Mic for All Smartphones & 2 in 1 Type C and Micro OTG Male to U...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.7941599,
+          "rerank_score": null
+        }
+      ],
+      "nintendo switch": [
+        {
+          "position": 1,
+          "product_name": "VGRASSP Handheld Video Game Console, Retro Mini Game with 400 Classic Sup Game TV Compatible for Kids, Rechargeable 8 Bit ...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.7558467,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Plastic video games 98800 in 1 handheld console with tv support through av connections, plug and play device, Multi color",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.7414192,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "HDE High Accuracy Professional Jeweler Diamond Tester For Novice and Expert,Diamond Selector II, L101",
+          "on_topic": 0,
+          "relevance": 0,
+          "probability_to_click": 0.0,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.73555255,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "PATPAT® Poke-mon Binder, Trading Cards Collector Album for 400 Poke-mon Cards Cartoon Prints Zipper Bag Trading Card Binde...",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.73442996,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Mirana C-Type USB Rechargeable Tracer Racing RC Car with Nitro Booster | High Speed Remote Control Car Toy | Gift for Boys...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.73435044,
+          "rerank_score": null
+        }
+      ],
+      "face mask": [
+        {
+          "position": 1,
+          "product_name": "Elysiann Glorry Double Up V Lifting Mask - Double chin reducer for women, Lifts & Shapes your Face with Face Shaper - Enha...",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.65,
+          "hybrid_score": 0.8018592,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Boldfit N95 Face Mask For Men & Women N95 Mask With 5 Layer N95 Masks For Adults & Kids N 95 Mask Face Mask Men Anti Pollu...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.8014896,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "VITSZEE CHEMICALS FERTILIZERS Gelatin Powder With Activated Charcoal Powder For Face Mask /Pack / Hair Removal / Peel Off ...",
+          "on_topic": 1,
+          "relevance": 8,
+          "probability_to_click": 0.75,
+          "probability_to_buy": 0.65,
+          "hybrid_score": 0.7811483,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Medohealthy Careview 3 Ply Disposable Face Masks (Pack of 100,Green) with nose pin BIS, (ISI) Certified mask with Melt blo...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.78040004,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "SURGICOMFORT 3-Ply Surgical Face Mask with nose wire (100 Pcs, Color-Blue, Elastic Ear-Loop Type) Disposable Non-Woven Bre...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.9,
+          "hybrid_score": 0.777296,
+          "rerank_score": null
+        }
+      ],
+      "sewing machine": [
+        {
+          "position": 1,
+          "product_name": "Hesch 9 Seam Ripper and Thread Remover Kit, 2 Big and 2 Small Sewing Stitch Thread Unpicker and 1 Sewing Trimming Scissor ...",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.7656542,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Zeniso® Men's Pants Simple Four Hole Buttons Pack of 4 Dozens, Total 48 Pieces for Sewing, Knitting, Dress Making, Decorat...",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.7584753,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Megumi Roll Fabric Fusing Tape Double Sided Adhesive Hem Tape Iron on Tape (White)",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.75536966,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Vardhman A&E Threads Sewing 10 Spools Each 800 MTR in a Box, 2ply, Fast Color, Attractive Color, Most Needed Basic Colors ...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.7480551,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Lovetholy 2pcs, 11.5X6.5cm Kery Designer Embroidery Neck sew on Applique Patches/Decorative Patches for Clothes, Jackets, ...",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.74736434,
+          "rerank_score": null
+        }
+      ],
+      "yoga mat": [
+        {
+          "position": 1,
+          "product_name": "Reebok Yoga Mat- 4mm",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.80600715,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Liffo® yoga matt for men women exercise workout HOME/GYM",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.80309665,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "SPOKOFIT Camo Yoga Mat With Bag & Strap, Non Slip Foldable Mat Camouflage Seamless Pattern Sweat Absorbent, for Hot Yoga, ...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.9,
+          "hybrid_score": 0.80195,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Active Elements Direct from Factory - Canvas Yoga Mat Bag/Cover. Easy Fit up to 4 mm Thick Yoga Mat. Print Design : Om Sym...",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.7915404,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "SPOKOFIT YOGA MAT With BAG & STRAP Non slip yoga Mat , surface sticky with yoga mat Carry strap FOR GYM, WORKOUT. (WINE) (...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.7899225,
+          "rerank_score": null
+        }
+      ],
+      "toilet paper": [
+        {
+          "position": 1,
+          "product_name": "YOOKO ( Pack of 6 Roll ) Toilet peper Soft Care Luxurious Bathroom Tissue Paper 2 Ply 20 cm Exta Softness Soft Tissue The ...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.8048772,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "BIP Toilet Tissue Paper",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.9,
+          "hybrid_score": 0.79952383,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Fast Fine (1 kg) HRT Kitchen Tissue/Towel Paper Roll (Pack of 2) 100% Biodegradable Virgin Tissue Paper (1200 Pulls Per Ro...",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.7767527,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "V4L Paper Toilet Rolls Pack Of 6",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.7765591,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Mist Ultra Interfold 2-Ply Napkin Dispenser Refill for Pop-up Dispenser White, 125 Napkins Per Pack, 24 Packs Per Case (30...",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.7753972,
+          "rerank_score": null
+        }
+      ],
+      "blender": [
+        {
+          "position": 1,
+          "product_name": "STARQ Foam Bottle for Washing Foam Cannon(Empty Bottle) (only Bottle(Empty))",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8408819,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "MAYUMI® GLS Experts Nutri-Blend, 22000 RPM Mixer-Grinder, Blender, SS Blades, 2 Unbreakable Jars, 1 Years Warranty, 400 W-...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.81677973,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Panasonic SR-WA22H(SS) 2.2 Litre Food Steamer, Burgundy, 750 Watts",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.8077717,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Su-mix Heavy Bullet Jar for Mixer Grinder Small Set of 1 (350 ML) ABS Transparent Plastic Mixer Juicer Jar",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.80525464,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Panasonic AC MX-AC300S-H 550-Watt Super Mixer Grinder with 3 Jars (Grey)",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.80454427,
+          "rerank_score": null
+        }
+      ],
+      "compression socks women": [
+        {
+          "position": 1,
+          "product_name": "GLAMORAS® Women's/Girl's Lace and Net Low Cut Non Slip Lace No Show Liner Socks, Free Size, Black/Beige/Grey/White/Pink (P...",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.7849124,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Supersox Women's Ankle Length",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.7787726,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Supersox Women Pack of 3 Plain Thumb Socks (Regular/Ankle/Sneaker Lengths)",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.7712013,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "ANCHOR Women's Ankle Length Thumb/Toe Cotton Socks, Combo Pack of 3 Pairs (BEIGE - MID CALF/CREW LENGTH)",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.7691951,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "KOPNHAGN Women's Ankle Length Cotton Socks (Pack Of 5) (KP-WBX-50_Multicolour)",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.76681066,
+          "rerank_score": null
+        }
+      ],
+      "air fryer": [
+        {
+          "position": 1,
+          "product_name": "STARQ Foam Bottle for Washing Foam Cannon(Empty Bottle) (only Bottle(Empty))",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.80288726,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "AMERICAN MICRONIC INSTRUMENTS 10 Liter Imported Oven Toaster Griller (OTG), 1000 Watts - AMI-OTG-10LDx, Black and Grey",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.7831336,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Havells Air Fryer Air Oven Digi | Extra Large Capacity | Combination of Air Fryer and OTG |9 Pre-Set Menu | Dehydrator| 2 ...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.78139925,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "AMERICAN MICRONIC – Automatic 4-Slice Stainless Steel 2 In 1 Pop-Up Toaster (Steel, 1600 Watts)-AMI-TSS2-150Dx",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.1,
+          "probability_to_buy": 0.0,
+          "hybrid_score": 0.78083676,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "KIING Deep Fryer 6 ltr ideal for hotel & restaurants",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.78074104,
+          "rerank_score": null
+        }
+      ],
+      "crocs": [
+        {
+          "position": 1,
+          "product_name": "North Star Mens GBX-p3 Loafer",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8143445,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "crocs Bayaband Clog UK M9W11",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.8111474,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Big Fox Perforated-6 Men's Croco Moccasins Loafers Style Shoes",
+          "on_topic": 0,
+          "relevance": 3,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.7998176,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "crocs Classic Marble Unisex Clog",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.7940175,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "crocs unisex-adult Bayaband Clog LIGHT GREY/CANDY PINK Clog - 3 UK Men/ 4 UK Women (M4W6) (205089-0FS)",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.7936781,
+          "rerank_score": null
+        }
+      ],
+      "treadmill": [
+        {
+          "position": 1,
+          "product_name": "Sparnod Fitness STH-3000 Series (4 HP Peak) 2 in 1 Foldable Treadmill for Home Cum Under Desk Walking Pad - Slim Enough to...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.798119,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Fitkit by Cult.Sport FT98 Carbon (2HP Peak, Max Speed - 14km/hr) Treadmill with Free Home Installation, Free Customized Di...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.79133934,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "SAM Hexa Dumbbell 7.5kg Set , 7.5kg×2pcs Pair , Hexa Rubber Dambal , Home Gym Kit Dumbells , (Pack Of Two) 15kg Weight",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.7802304,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Sparnod Fitness STH-600 Manual Treadmill Running Machine for Home Gym - 4 in 1 Multifunction, Foldable, 120-kg Max User We...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.77480847,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "KORE DM-HEXA-5KG-COMBO16 Dumbbells Kits",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.7723904,
+          "rerank_score": null
+        }
+      ],
+      "office chair": [
+        {
+          "position": 1,
+          "product_name": "Patiofy Jhula For Adults/ Swing For Home/ Hammock Swing Chair/ Swing For Living Room/ Suitable For Indoor & Outdoor/ 120Kg...",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.76784545,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "Innovative Design Well Furnished Sofa Rocking Chair Armchair Single Seater Sofa Set Accent Chair 3X Comfortable Luxury for...",
+          "on_topic": 0,
+          "relevance": 2,
+          "probability_to_click": 0.3,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.7678143,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Faburaa Maple Soft & Relaxing Jute Seat Cushion for Patio Chair Rocking Chair, Office Chair, Desk Chair and Dining Chair w...",
+          "on_topic": 0,
+          "relevance": 4,
+          "probability_to_click": 0.4,
+          "probability_to_buy": 0.2,
+          "hybrid_score": 0.7653368,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "Faburaa Rio Multifunctional Soft & Relaxing Velvet Seat Cushion for Patio Chair Rocking Chair, Office Chair, Desk Chair an...",
+          "on_topic": 1,
+          "relevance": 7,
+          "probability_to_click": 0.7,
+          "probability_to_buy": 0.6,
+          "hybrid_score": 0.7648537,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "Wipro Furniture Adapt High Back Mesh Ergonomic Home-Office Chair with AWSM, Adjustable Armrest, Cushion Lumbar & Headrest,...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.7621527,
+          "rerank_score": null
+        }
+      ],
+      "vacuum cleaner": [
+        {
+          "position": 1,
+          "product_name": "STARQ Foam Bottle for Washing Foam Cannon(Empty Bottle) (only Bottle(Empty))",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.8049118,
+          "rerank_score": null
+        },
+        {
+          "position": 2,
+          "product_name": "CHESTON Vacuum Cleaner Wet & Dry 15L Capacity | 1200W Motor with HEPA Filter, & Blower Function for Home Office Carpet Car...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.7824429,
+          "rerank_score": null
+        },
+        {
+          "position": 3,
+          "product_name": "Eufy by Anker, RoboVac G30 Hybrid, 2-in-1 Robot Vacuum, Mop and Sweep with Smart Dynamic Navigation 2.0, 2000Pa Suction, W...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.78214353,
+          "rerank_score": null
+        },
+        {
+          "position": 4,
+          "product_name": "ResQTech PW-107 1900 Watt 150 Bar High Pressure Washer with Foam Cannon,90 Degree Nozzle ,Rotary Turbo Nozzle ,7m Hose Pip...",
+          "on_topic": 0,
+          "relevance": 1,
+          "probability_to_click": 0.2,
+          "probability_to_buy": 0.1,
+          "hybrid_score": 0.7810749,
+          "rerank_score": null
+        },
+        {
+          "position": 5,
+          "product_name": "ECOVACS DEEBOT N8 2-in-1 Robotic Vacuum Cleaner, 2022 New Launch, Most Powerful Suction, Covers 2000+ Sq. Ft in One Charg...",
+          "on_topic": 1,
+          "relevance": 9,
+          "probability_to_click": 0.95,
+          "probability_to_buy": 0.85,
+          "hybrid_score": 0.7780739,
+          "rerank_score": null
+        }
+      ]
+    }
+  }
+}

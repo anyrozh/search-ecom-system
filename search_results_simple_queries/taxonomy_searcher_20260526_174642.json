@@ -1,0 +1,49 @@
+{
+  "timestamp": "2026-05-26T17:46:42.433225",
+  "method": "taxonomy_searcher",
+  "query": "toilet paper",
+  "subqueries": [
+    "toilet paper",
+    "soft and strong toilet paper rolls for everyday home use",
+    "eco-friendly and biodegradable toilet paper made from recycled materials",
+    "bulk pack toilet paper rolls for offices and large families",
+    "travel-sized or portable toilet paper packs for outdoor and camping use"
+  ],
+  "taxonomies_found": [
+    "beauty & health/Household Supplies"
+  ],
+  "taxonomy_fallback": false,
+  "search_time": 4.528212785720825,
+  "results": [
+    {
+      "score": 0.8048772,
+      "name": "YOOKO ( Pack of 6 Roll ) Toilet peper Soft Care Luxurious Bathroom Tissue Paper 2 Ply 20 cm Exta Softness Soft Tissue The ...",
+      "image_url": "https://m.media-amazon.com/images/I/21RyuZh43FL._AC_UL320_.jpg",
+      "content": "YOOKO ( Pack of 6 Roll ) Toilet peper Soft Care Luxurious Bathroom Tissue Paper 2 Ply 20 cm Exta Softness Soft Tissue The ... This product, YOOKO Toilet Paper, is a pack of six rolls of 2-ply bathroom tissue designed for personal hygiene. It is characterized by its 'Soft Care,' 'Luxurious,' and 'Ext"
+    },
+    {
+      "score": 0.79952383,
+      "name": "BIP Toilet Tissue Paper",
+      "image_url": "https://m.media-amazon.com/images/I/612uYmT0IkL._AC_UL320_.jpg",
+      "content": "BIP Toilet Tissue Paper BIP Toilet Tissue Paper is a personal hygiene product primarily used for cleaning and drying oneself after using the toilet. It is suitable for everyone, including adults and children, for maintaining cleanliness and comfort in the bathroom."
+    },
+    {
+      "score": 0.7767527,
+      "name": "Fast Fine (1 kg) HRT Kitchen Tissue/Towel Paper Roll (Pack of 2) 100% Biodegradable Virgin Tissue Paper (1200 Pulls Per Ro...",
+      "image_url": "https://m.media-amazon.com/images/I/41BvXnJQ8TS._AC_UL320_.jpg",
+      "content": "Fast Fine (1 kg) HRT Kitchen Tissue/Towel Paper Roll (Pack of 2) 100% Biodegradable Virgin Tissue Paper (1200 Pulls Per Ro... This product is a high-capacity, 100% biodegradable kitchen tissue/towel paper roll made from virgin tissue paper, designed for efficient cleaning and drying. With 1200 pulls"
+    },
+    {
+      "score": 0.7765591,
+      "name": "V4L Paper Toilet Rolls Pack Of 6",
+      "image_url": "https://m.media-amazon.com/images/I/61NSqz02+PL._AC_UL320_.jpg",
+      "content": "V4L Paper Toilet Rolls Pack Of 6 V4L Paper Toilet Rolls are designed for personal hygiene in restrooms. They are used by individuals, families, and various establishments (such as offices, restaurants, and public facilities) to clean and wipe after using the toilet, ensuring cleanliness and comfort."
+    },
+    {
+      "score": 0.7753972,
+      "name": "Mist Ultra Interfold 2-Ply Napkin Dispenser Refill for Pop-up Dispenser White, 125 Napkins Per Pack, 24 Packs Per Case (30...",
+      "image_url": "https://m.media-amazon.com/images/I/31BNLjyPDDL._AC_UL320_.jpg",
+      "content": "Mist Ultra Interfold 2-Ply Napkin Dispenser Refill for Pop-up Dispenser White, 125 Napkins Per Pack, 24 Packs Per Case (30... This product is a bulk case of Mist Ultra Interfold 2-Ply white paper napkins, designed as refills for pop-up napkin dispensers. Its purpose is to provide a hygienic, conveni"
+    }
+  ]
+}

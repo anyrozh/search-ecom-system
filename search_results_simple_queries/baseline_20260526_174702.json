@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-05-26T17:47:02.431118",
+  "method": "baseline",
+  "query": "air fryer",
+  "subqueries": [
+    "air fryer"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 0.025879859924316406,
+  "results": [
+    {
+      "score": 0.5,
+      "name": "Varada Max XL Air Fryer 12 Litre Large Capacity Air Fryer , 8-in-1 Electric Air Fryer Toaster dehydrator for Oil-Less Air ...",
+      "content": "Varada Max XL Air Fryer 12 Litre Large Capacity Air Fryer , 8-in-1 Electric Air Fryer Toaster dehydrator for Oil-Less Air ..."
+    },
+    {
+      "score": 0.5,
+      "name": "AIR COOLER TROLLEY",
+      "content": "AIR COOLER TROLLEY"
+    },
+    {
+      "score": 0.33333334,
+      "name": "Square Silicone Air Fryer Liners 2Pcs Air Fryer Silicone Resuable Liners 8 Inch for 4 to 7 QT Air Fryer Silicone Pot Air F...",
+      "content": "Square Silicone Air Fryer Liners 2Pcs Air Fryer Silicone Resuable Liners 8 Inch for 4 to 7 QT Air Fryer Silicone Pot Air F..."
+    },
+    {
+      "score": 0.33333334,
+      "name": "mens jens",
+      "content": "mens jens"
+    },
+    {
+      "score": 0.25,
+      "name": "exhaut fan",
+      "content": "exhaut fan"
+    }
+  ]
+}

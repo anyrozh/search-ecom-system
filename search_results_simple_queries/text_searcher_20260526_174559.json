@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-05-26T17:45:59.693338",
+  "method": "text_searcher",
+  "query": "nintendo switch",
+  "subqueries": [
+    "nintendo switch",
+    "Nintendo Switch console with Joy-Con controllers and dock",
+    "Nintendo Switch game cartridges and digital game downloads",
+    "Accessories for Nintendo Switch including protective cases, screen protectors, and charging docks",
+    "Nintendo Switch compatible controllers and multiplayer gaming accessories"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.9475319385528564,
+  "results": [
+    {
+      "score": 0.86554587,
+      "name": "SanDisk 32GB 2-Pack Ultra microSDHC UHS-I Memory Card (2x32GB) - SDSQUA4-032G-GN6MT",
+      "content": "SanDisk 32GB 2-Pack Ultra microSDHC UHS-I Memory Card (2x32GB) - SDSQUA4-032G-GN6MT This product is a pack of two 32GB SanDisk Ultra microSDHC UHS-I memory cards, designed to expand the digital storage capacity of compatible electronic devices. It's ideal for users of smartphones, tablets, drones, a"
+    },
+    {
+      "score": 0.86532027,
+      "name": "SanDisk Ultra MicroSDXC UHS-I Card (SDSQUAR-064G-G061N)",
+      "content": "SanDisk Ultra MicroSDXC UHS-I Card (SDSQUAR-064G-G061N) The SanDisk Ultra MicroSDXC UHS-I Card (64GB) is a high-speed, compact memory card designed to significantly expand the storage capacity of compatible electronic devices. It's primarily used by owners of smartphones, tablets, action cameras, dr"
+    },
+    {
+      "score": 0.86382,
+      "name": "Samsung EVO Plus 512GB microSDXC UHS-I U3 130MB/s Full HD & 4K UHD Memory Card with Adapter (MB-MC512KA)",
+      "content": "Samsung EVO Plus 512GB microSDXC UHS-I U3 130MB/s Full HD & 4K UHD Memory Card with Adapter (MB-MC512KA) This is a high-capacity (512GB) and high-speed microSDXC memory card, designed for reliable storage and fast data transfer. It's primarily used to expand the storage of compatible electronic devi"
+    },
+    {
+      "score": 0.86064905,
+      "name": "SanDisk Ultra microSD UHS-I Card 256GB, 120MB/s R",
+      "content": "SanDisk Ultra microSD UHS-I Card 256GB, 120MB/s R The SanDisk Ultra microSD UHS-I Card 256GB, 120MB/s R is a high-capacity, high-speed miniature memory card designed to expand the storage of compatible electronic devices. It's primarily used by individuals who need more space and faster data access "
+    },
+    {
+      "score": 0.8583039,
+      "name": "7SEVEN® Bluetooth Voice Command Compatible RMF-TX520p remote control for Original Sony TV Remotes A80J X80J X85J X90J X95J...",
+      "content": "7SEVEN® Bluetooth Voice Command Compatible RMF-TX520p remote control for Original Sony TV Remotes A80J X80J X85J X90J X95J... This product is a replacement or alternative remote control specifically designed for various Sony Smart TV models, including the A80J, X80J, X85J, X90J, and X95J series. It'"
+    }
+  ]
+}

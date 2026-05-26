@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-05-26T17:46:29.752976",
+  "method": "multimodal",
+  "query": "yoga mat",
+  "subqueries": [
+    "yoga mat",
+    "non-slip yoga mat with extra cushioning for joint support",
+    "lightweight and foldable travel yoga mat for portability",
+    "eco-friendly yoga mat made from natural or recycled materials",
+    "thick yoga mat designed for hot yoga and sweat absorption"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.5543229579925537,
+  "results": [
+    {
+      "score": 0.8047021,
+      "name": "Reebok Yoga Mat- 4mm",
+      "image_url": "https://m.media-amazon.com/images/I/41zHI8QQmIL._AC_UL320_.jpg",
+      "content": "Reebok Yoga Mat- 4mm The Reebok Yoga Mat- 4mm is designed to provide a stable, cushioned, and non-slip surface for various floor-based exercises. It can be used by individuals of all fitness levels, from beginners to experienced practitioners, including yogis, Pilates enthusiasts, and anyone engagin"
+    },
+    {
+      "score": 0.8015422,
+      "name": "SPOKOFIT Camo Yoga Mat With Bag & Strap, Non Slip Foldable Mat Camouflage Seamless Pattern Sweat Absorbent, for Hot Yoga, ...",
+      "image_url": "https://m.media-amazon.com/images/I/51BybccbXLL._AC_UL320_.jpg",
+      "content": "SPOKOFIT Camo Yoga Mat With Bag & Strap, Non Slip Foldable Mat Camouflage Seamless Pattern Sweat Absorbent, for Hot Yoga, ... This SPOKOFIT Camo Yoga Mat is a portable, non-slip, and sweat-absorbent mat designed to provide a stable and hygienic surface for various fitness activities. It's ideal for "
+    },
+    {
+      "score": 0.8015405,
+      "name": "Liffo® yoga matt for men women exercise workout HOME/GYM",
+      "image_url": "https://m.media-amazon.com/images/I/71+E7aRZQcL._AC_UL320_.jpg",
+      "content": "Liffo® yoga matt for men women exercise workout HOME/GYM The Liffo® yoga mat is designed to provide a stable, cushioned, and non-slip surface for individuals during physical activities. It can be used by both men and women for a variety of purposes, including yoga, general exercise, and workouts, wh"
+    },
+    {
+      "score": 0.7982756,
+      "name": "PROIRON NBR Yoga Mat 1830×660×10 mm - PURPLE Pilates Mat Edge Protection Non-Slip Yoga Mat Exercise Extra Thick Foam Mat F...",
+      "image_url": "https://m.media-amazon.com/images/I/81RYDiqz8UL._AC_UL320_.jpg",
+      "content": "PROIRON NBR Yoga Mat 1830×660×10 mm - PURPLE Pilates Mat Edge Protection Non-Slip Yoga Mat Exercise Extra Thick Foam Mat F... This PROIRON NBR Yoga Mat is an extra-thick (10mm) foam mat designed to provide a comfortable, supportive, and non-slip surface for various floor exercises. It's ideal for in"
+    },
+    {
+      "score": 0.79484487,
+      "name": "tribhuvan.Dual Color (6 MM) Yoga MAT with Carry Bag and Strap for Comfort/Yoga Mat for Meditation, Fitness & Exercise (8m...",
+      "image_url": "https://m.media-amazon.com/images/I/31sPO9F4qcL._AC_UL320_.jpg",
+      "content": "tribhuvan.Dual Color (6 MM) Yoga MAT with Carry Bag and Strap for Comfort/Yoga Mat for Meditation, Fitness & Exercise (8m... This product is a tribhuvan Dual Color Yoga Mat, specifically designed to provide a comfortable, stable, and supportive surface for various physical and mental wellness activi"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-05-26T17:46:45.153697",
+  "method": "text_searcher",
+  "query": "blender",
+  "subqueries": [
+    "blender",
+    "high-performance countertop blender for smoothies and food preparation",
+    "portable personal blender for single-serve shakes and on-the-go use",
+    "immersion hand blender for blending soups and sauces directly in pots",
+    "commercial-grade blender for heavy-duty kitchen and restaurant use"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 2.692533016204834,
+  "results": [
+    {
+      "score": 0.9019059,
+      "name": "MAYUMI® GLS Experts Nutri-Blend, 22000 RPM Mixer-Grinder, Blender, SS Blades, 2 Unbreakable Jars, 1 Years Warranty, 400 W-...",
+      "content": "MAYUMI® GLS Experts Nutri-Blend, 22000 RPM Mixer-Grinder, Blender, SS Blades, 2 Unbreakable Jars, 1 Years Warranty, 400 W-... The MAYUMI® GLS Experts Nutri-Blend is a versatile kitchen appliance designed as a mixer-grinder and blender. Its primary purpose is to efficiently process various food items"
+    },
+    {
+      "score": 0.89911973,
+      "name": "LABOGENS CALCIUM CARBONATE 1 KG, (calcite powder)",
+      "content": "LABOGENS CALCIUM CARBONATE 1 KG, (calcite powder) LABOGENS CALCIUM CARBONATE 1 KG (calcite powder) is a versatile inorganic compound primarily used as a chemical reagent, filler, and pH modifier. It can be used by **laboratories** for experiments, analyses, and research; by **educational institution"
+    },
+    {
+      "score": 0.8987176,
+      "name": "ISOCHEM Stearic Acid (500GM) Assay 98% Min",
+      "content": "ISOCHEM Stearic Acid (500GM) Assay 98% Min ISOCHEM Stearic Acid (98% Min purity) is a versatile saturated fatty acid primarily used as an emulsifier, thickener, and lubricant. Its high purity makes it suitable for a wide range of applications.\n\n*   **Purpose:** To provide texture, stability, emulsif"
+    },
+    {
+      "score": 0.8974004,
+      "name": "Wonderchef Nutri-Blend, 400W, 22000 RPM Mixer-Grinder, Blender, SS Blades, 2 Unbreakable Jars, With Sipper Lid, 2 Years Wa...",
+      "content": "Wonderchef Nutri-Blend, 400W, 22000 RPM Mixer-Grinder, Blender, SS Blades, 2 Unbreakable Jars, With Sipper Lid, 2 Years Wa... The Wonderchef Nutri-Blend is a compact, powerful 400W mixer-grinder and blender, engineered for quick and efficient preparation of healthy food and drinks. It's ideal for he"
+    },
+    {
+      "score": 0.8972089,
+      "name": "BECCA HZ FO",
+      "content": "BECCA HZ FO BECCA HZ FO most likely refers to the BECCA Hydra-Mist Set & Refresh Powder. This product is an innovative setting powder designed to **set makeup**, **refresh the complexion**, and provide a **smooth, natural finish**. Its unique formula, containing 50% water and glycerin, delivers a co"
+    }
+  ]
+}

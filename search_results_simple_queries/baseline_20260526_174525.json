@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-05-26T17:45:25.178901",
+  "method": "baseline",
+  "query": "airpods",
+  "subqueries": [
+    "airpods"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 0.5538899898529053,
+  "results": [
+    {
+      "score": 0.5,
+      "name": "Aerosoles Anneli",
+      "content": "Aerosoles Anneli"
+    },
+    {
+      "score": 0.5,
+      "name": "VOYEE Cleaning Kit for Airpods, Cleaner Pen for Airpods, 3-in-1 Multifunctional Bluetooth Earbuds Cleaning Kit for AirPods...",
+      "content": "VOYEE Cleaning Kit for Airpods, Cleaner Pen for Airpods, 3-in-1 Multifunctional Bluetooth Earbuds Cleaning Kit for AirPods..."
+    },
+    {
+      "score": 0.33333334,
+      "name": "mens jens",
+      "content": "mens jens"
+    },
+    {
+      "score": 0.33333334,
+      "name": "mStick Airpods Pro Leather Protective Cover Compatible with Airpod Pro Case Leather Airpods Pro Protective Case Cover with...",
+      "content": "mStick Airpods Pro Leather Protective Cover Compatible with Airpod Pro Case Leather Airpods Pro Protective Case Cover with..."
+    },
+    {
+      "score": 0.25,
+      "name": "MXVOLT Earhooks Compatible with AirPods 2 AirPods 1 Anti-Lost Secure Earhook Holder Ear Attachment Loops Airpod Clips for ...",
+      "content": "MXVOLT Earhooks Compatible with AirPods 2 AirPods 1 Anti-Lost Secure Earhook Holder Ear Attachment Loops Airpod Clips for ..."
+    }
+  ]
+}

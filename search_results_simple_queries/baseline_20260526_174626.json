@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-05-26T17:46:26.806531",
+  "method": "baseline",
+  "query": "yoga mat",
+  "subqueries": [
+    "yoga mat"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 0.04106402397155762,
+  "results": [
+    {
+      "score": 0.5,
+      "name": "Yoga Rope",
+      "content": "Yoga Rope"
+    },
+    {
+      "score": 0.5,
+      "name": "Boldfit Yoga Mats For Women yoga mat for men Exercise mat for home workout yoga mat for women gym mat Anti Slip Yoga mat W...",
+      "content": "Boldfit Yoga Mats For Women yoga mat for men Exercise mat for home workout yoga mat for women gym mat Anti Slip Yoga mat W..."
+    },
+    {
+      "score": 0.33333334,
+      "name": "Tanz Formal loffer",
+      "content": "Tanz Formal loffer"
+    },
+    {
+      "score": 0.33333334,
+      "name": "Raizex Fitness 10mm PU Leather Exercise Yoga Mat | Yoga Gym Mat | Foldable Yoga Mat | Traveling Mat | Yoga Mat for Men & W...",
+      "content": "Raizex Fitness 10mm PU Leather Exercise Yoga Mat | Yoga Gym Mat | Foldable Yoga Mat | Traveling Mat | Yoga Mat for Men & W..."
+    },
+    {
+      "score": 0.25,
+      "name": "OJS Yoga Mats For Women And Men With Bag Exercise mat for home workout gym mat Anti Slip Yoga mat Workout mat Yoga Mat For...",
+      "content": "OJS Yoga Mats For Women And Men With Bag Exercise mat for home workout gym mat Anti Slip Yoga mat Workout mat Yoga Mat For..."
+    }
+  ]
+}

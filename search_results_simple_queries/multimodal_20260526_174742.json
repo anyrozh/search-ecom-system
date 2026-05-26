@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-05-26T17:47:42.652345",
+  "method": "multimodal",
+  "query": "vacuum cleaner",
+  "subqueries": [
+    "vacuum cleaner",
+    "cordless handheld vacuum cleaner for quick and portable cleaning",
+    "upright vacuum cleaner with strong suction power for deep carpet cleaning",
+    "robot vacuum cleaner with smart navigation for automated floor cleaning",
+    "canister vacuum cleaner suitable for multi-surface cleaning including hardwood and tiles"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 2.135769844055176,
+  "results": [
+    {
+      "score": 0.7865258,
+      "name": "BLACK+DECKER VH802 800-Watt, 900ml dustbowl,150 Air Watts High Suction Bagless Dustbuster Vacuum Cleaner and Blower with 8...",
+      "image_url": "https://m.media-amazon.com/images/I/712IinGt6OL._AC_UL320_.jpg",
+      "content": "BLACK+DECKER VH802 800-Watt, 900ml dustbowl,150 Air Watts High Suction Bagless Dustbuster Vacuum Cleaner and Blower with 8... The BLACK+DECKER VH802 is a powerful, bagless, handheld vacuum cleaner and blower designed for quick and efficient cleanups. It's ideal for homeowners, car owners, or anyone "
+    },
+    {
+      "score": 0.7862784,
+      "name": "ResQTech PW-107 1900 Watt 150 Bar High Pressure Washer with Foam Cannon,90 Degree Nozzle ,Rotary Turbo Nozzle ,7m Hose Pip...",
+      "image_url": "https://m.media-amazon.com/images/I/61+cLD+-tCL._AC_UL320_.jpg",
+      "content": "ResQTech PW-107 1900 Watt 150 Bar High Pressure Washer with Foam Cannon,90 Degree Nozzle ,Rotary Turbo Nozzle ,7m Hose Pip... The ResQTech PW-107 is a powerful 1900 Watt, 150 Bar high-pressure washer designed to efficiently remove stubborn dirt, grime, mold, and other contaminants using a high-press"
+    },
+    {
+      "score": 0.7856628,
+      "name": "KARCHER WD 1s Classic *KAP - Multi-Purpose Vacuum Cleaner, Yellow",
+      "image_url": "https://m.media-amazon.com/images/I/61nywCQX6kS._AC_UL320_.jpg",
+      "content": "KARCHER WD 1s Classic *KAP - Multi-Purpose Vacuum Cleaner, Yellow The Karcher WD 1s Classic is a multi-purpose vacuum cleaner designed for versatile cleaning tasks. It can be used by homeowners, DIY enthusiasts, and small workshop users to effectively clean both wet and dry dirt, including spills, f"
+    },
+    {
+      "score": 0.7850929,
+      "name": "Crownish Multi-Functional Portable Vacuum Cleaner Blowing and Sucking Dual Purpose (JK-8), 220-240 V, 50 HZ, 1000 W",
+      "image_url": "https://m.media-amazon.com/images/I/41Z7I+QXUYL._AC_UL320_.jpg",
+      "content": "Crownish Multi-Functional Portable Vacuum Cleaner Blowing and Sucking Dual Purpose (JK-8), 220-240 V, 50 HZ, 1000 W The Crownish Multi-Functional Portable Vacuum Cleaner (JK-8) is a versatile cleaning device designed for both suction (vacuuming) and blowing tasks. Its portability makes it easy to us"
+    },
+    {
+      "score": 0.784465,
+      "name": "Whixant New Multifunction Magic MOP/Broom, 2-in-1 Sweeper, Magic Broom Sweeper, Easily Dry The Floor and Remove Dirt and H...",
+      "image_url": "https://m.media-amazon.com/images/I/61tDBzkpynS._AC_UL320_.jpg",
+      "content": "Whixant New Multifunction Magic MOP/Broom, 2-in-1 Sweeper, Magic Broom Sweeper, Easily Dry The Floor and Remove Dirt and H... The Whixant New Multifunction Magic MOP/Broom is a versatile 2-in-1 cleaning tool designed to simplify floor maintenance. Its primary purpose is to efficiently sweep away dir"
+    }
+  ]
+}

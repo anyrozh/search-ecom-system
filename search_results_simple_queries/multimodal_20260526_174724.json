@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-05-26T17:47:24.968344",
+  "method": "multimodal",
+  "query": "treadmill",
+  "subqueries": [
+    "treadmill",
+    "foldable home treadmills with digital display and adjustable speed settings",
+    "commercial-grade treadmills for gym and fitness center use with high durability",
+    "compact and lightweight treadmills suitable for small apartments and limited space",
+    "treadmills with built-in workout programs and heart rate monitoring features"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 2.2711660861968994,
+  "results": [
+    {
+      "score": 0.798119,
+      "name": "Sparnod Fitness STH-3000 Series (4 HP Peak) 2 in 1 Foldable Treadmill for Home Cum Under Desk Walking Pad - Slim Enough to...",
+      "image_url": "https://m.media-amazon.com/images/I/51Xnzx5E2DL._AC_UL320_.jpg",
+      "content": "Sparnod Fitness STH-3000 Series (4 HP Peak) 2 in 1 Foldable Treadmill for Home Cum Under Desk Walking Pad - Slim Enough to... The Sparnod Fitness STH-3000 Series is a versatile 2-in-1 foldable treadmill designed for home use. Its primary purpose is to provide a convenient and space-saving solution f"
+    },
+    {
+      "score": 0.7935873,
+      "name": "AGARO Supreme Motorized Foldable Treadmill, AC Power 5HP (8HP Peak), Max User Weight 150Kg, Max Speed 20Km/Hr, 15 Level of...",
+      "image_url": "https://m.media-amazon.com/images/I/71djqFia40L._AC_UL320_.jpg",
+      "content": "AGARO Supreme Motorized Foldable Treadmill, AC Power 5HP (8HP Peak), Max User Weight 150Kg, Max Speed 20Km/Hr, 15 Level of... The AGARO Supreme Motorized Foldable Treadmill is a high-performance indoor exercise machine designed for cardiovascular workouts. It allows users to walk, jog, or run in a c"
+    },
+    {
+      "score": 0.7933855,
+      "name": "Cockatoo CTM-11LPLUS 3HP - 6HP Peak DC Motorised Multi Function Treadmill for Home with Manual Incline, Max Speed 14Km/Hr,...",
+      "image_url": "https://m.media-amazon.com/images/I/41ChjkU-Y7S._AC_UL320_.jpg",
+      "content": "Cockatoo CTM-11LPLUS 3HP - 6HP Peak DC Motorised Multi Function Treadmill for Home with Manual Incline, Max Speed 14Km/Hr,... The Cockatoo CTM-11LPLUS is a motorized treadmill designed for home use, providing a convenient way for individuals and families to perform cardiovascular exercise indoors. W"
+    },
+    {
+      "score": 0.79133934,
+      "name": "Fitkit by Cult.Sport FT98 Carbon (2HP Peak, Max Speed - 14km/hr) Treadmill with Free Home Installation, Free Customized Di...",
+      "image_url": "https://m.media-amazon.com/images/I/516JLTLtCKL._AC_UL320_.jpg",
+      "content": "Fitkit by Cult.Sport FT98 Carbon (2HP Peak, Max Speed - 14km/hr) Treadmill with Free Home Installation, Free Customized Di... The Fitkit by Cult.Sport FT98 Carbon Treadmill is a home fitness machine designed for indoor cardiovascular exercise. It allows users to walk, jog, or run in place, providing"
+    },
+    {
+      "score": 0.78949684,
+      "name": "FITNESS WORLD - 2 in 1 Portable and Space Saving Sturdy Folding Slimming Treadmill for Walking and Climbing with Easy Asse...",
+      "image_url": "https://m.media-amazon.com/images/I/61a2krTNcWL._AC_UL320_.jpg",
+      "content": "FITNESS WORLD - 2 in 1 Portable and Space Saving Sturdy Folding Slimming Treadmill for Walking and Climbing with Easy Asse... This product is a versatile, compact, and sturdy folding treadmill designed for home use. It offers a '2-in-1' functionality, allowing users to engage in both walking and cli"
+    }
+  ]
+}

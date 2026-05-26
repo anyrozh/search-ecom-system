@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-05-26T17:47:29.117545",
+  "method": "baseline",
+  "query": "office chair",
+  "subqueries": [
+    "office chair"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 0.026557207107543945,
+  "results": [
+    {
+      "score": 0.8333334,
+      "name": "GOYAL Office Chair Executive Office Chair revolving Visitor Chair Handle Fit to Every Chair Heavy Duty (1 Pair)",
+      "content": "GOYAL Office Chair Executive Office Chair revolving Visitor Chair Handle Fit to Every Chair Heavy Duty (1 Pair)"
+    },
+    {
+      "score": 0.5,
+      "name": "ROAR WOOD Chair for Office Work at Home Mid Back Ergonomic Office Chair Study Chair Revolving Chair Computer Chair for Wor...",
+      "content": "ROAR WOOD Chair for Office Work at Home Mid Back Ergonomic Office Chair Study Chair Revolving Chair Computer Chair for Wor..."
+    },
+    {
+      "score": 0.33333334,
+      "name": "Shona Business Plastic Chair (Brown)",
+      "content": "Shona Business Plastic Chair (Brown)"
+    },
+    {
+      "score": 0.25,
+      "name": "RAJCHAIR Office revolving Chair Parts Star PVC Base for Office Chair with Black&White Wheel OR Caster, Shining Chair Base ...",
+      "content": "RAJCHAIR Office revolving Chair Parts Star PVC Base for Office Chair with Black&White Wheel OR Caster, Shining Chair Base ..."
+    },
+    {
+      "score": 0.25,
+      "name": "CELLBELL C106 Medium Back Mesh Office Chair/Study Chair/Revolving Chair/Computer Chair for Work from Home Metal Base Heigh...",
+      "content": "CELLBELL C106 Medium Back Mesh Office Chair/Study Chair/Revolving Chair/Computer Chair for Work from Home Metal Base Heigh..."
+    }
+  ]
+}

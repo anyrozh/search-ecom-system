@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-05-26T17:46:28.197599",
+  "method": "text_searcher",
+  "query": "yoga mat",
+  "subqueries": [
+    "yoga mat",
+    "non-slip yoga mat with extra cushioning for joint support",
+    "lightweight and foldable travel yoga mat for portability",
+    "eco-friendly yoga mat made from natural or recycled materials",
+    "thick yoga mat designed for hot yoga and sweat absorption"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 1.3902769088745117,
+  "results": [
+    {
+      "score": 0.8799446,
+      "name": "Active Elements Direct from Factory - Canvas Yoga Mat Bag/Cover. Easy Fit up to 4 mm Thick Yoga Mat. Print Design : Om Sym...",
+      "content": "Active Elements Direct from Factory - Canvas Yoga Mat Bag/Cover. Easy Fit up to 4 mm Thick Yoga Mat. Print Design : Om Sym... This product is a canvas bag or cover specifically designed to transport and protect a yoga mat. It offers an easy and secure fit for yoga mats up to 4mm thick. Featuring an "
+    },
+    {
+      "score": 0.8718337,
+      "name": "Mist Jute Yoga Print Eco-Friendly Bag, 14.5x5x12 inches (Beige, 2PK 14.5x5x12\" YogaPrint Jute Bag- Beige) - Pack of 2 (2)",
+      "content": "Mist Jute Yoga Print Eco-Friendly Bag, 14.5x5x12 inches (Beige, 2PK 14.5x5x12\" YogaPrint Jute Bag- Beige) - Pack of 2 (2) This eco-friendly jute bag, featuring a yoga print, is designed for individuals to conveniently carry their yoga essentials such as mats, blocks, and water bottles to and from yo"
+    },
+    {
+      "score": 0.8700778,
+      "name": "Skechers-VINYASA - LOVELY OASIS",
+      "content": "Skechers-VINYASA - LOVELY OASIS The Skechers-VINYASA - LOVELY OASIS is a type of comfortable, casual footwear, most likely a sandal or slide, designed for relaxation and ease of wear. The 'Vinyasa' in its name suggests an inspiration from yoga, emphasizing flexibility, comfort, and a relaxed fit, of"
+    },
+    {
+      "score": 0.8618783,
+      "name": "QUICK SHEL LUXFOAM PREMIUM 4.5mm EVA yoga mat for men women and children for gym and home workout and flooring exercise wi...",
+      "content": "QUICK SHEL LUXFOAM PREMIUM 4.5mm EVA yoga mat for men women and children for gym and home workout and flooring exercise wi... The QUICK SHEL LUXFOAM PREMIUM 4.5mm EVA yoga mat is designed to provide a comfortable, supportive, and non-slip surface for a variety of physical activities. It is suitable "
+    },
+    {
+      "score": 0.859399,
+      "name": "tribhuvan.Dual Color (6 MM) Yoga MAT with Carry Bag and Strap for Comfort/Yoga Mat for Meditation, Fitness & Exercise (8m...",
+      "content": "tribhuvan.Dual Color (6 MM) Yoga MAT with Carry Bag and Strap for Comfort/Yoga Mat for Meditation, Fitness & Exercise (8m... This product is a tribhuvan Dual Color Yoga Mat, specifically designed to provide a comfortable, stable, and supportive surface for various physical and mental wellness activi"
+    }
+  ]
+}

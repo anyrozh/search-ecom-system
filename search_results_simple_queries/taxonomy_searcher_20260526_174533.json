@@ -1,0 +1,49 @@
+{
+  "timestamp": "2026-05-26T17:45:33.964798",
+  "method": "taxonomy_searcher",
+  "query": "airpods",
+  "subqueries": [
+    "airpods",
+    "Apple AirPods wireless earbuds with charging case",
+    "AirPods compatible wireless charging pads and accessories",
+    "Protective cases and covers for AirPods charging case",
+    "Replacement ear tips and accessories for AirPods Pro"
+  ],
+  "taxonomies_found": [
+    "tv, audio & cameras/Headphones"
+  ],
+  "taxonomy_fallback": false,
+  "search_time": 4.430621862411499,
+  "results": [
+    {
+      "score": 0.8174202,
+      "name": "Honeywell Trueno U10 Bluetooth V5.1+EDR in Ear Wireless Neckband with mic, Upto 15H Playtime, 10mm Drivers, Integrated Con...",
+      "image_url": "https://m.media-amazon.com/images/I/41OAgyROYnL._AC_UL320_.jpg",
+      "content": "Honeywell Trueno U10 Bluetooth V5.1+EDR in Ear Wireless Neckband with mic, Upto 15H Playtime, 10mm Drivers, Integrated Con... The Honeywell Trueno U10 is a wireless in-ear neckband designed for convenient, hands-free audio. Its primary purpose is to provide a seamless listening experience for music,"
+    },
+    {
+      "score": 0.80130696,
+      "name": "ShopMagics In-Ear Headphones Earphones for Vivo V11, U10, S1, V5, V9 Pro, Y12, Y91i, Y83, S1, V7, V5s, Y53, Y71, Y21, U10,...",
+      "image_url": "https://m.media-amazon.com/images/I/51yFjDePbsL._AC_UL320_.jpg",
+      "content": "ShopMagics In-Ear Headphones Earphones for Vivo V11, U10, S1, V5, V9 Pro, Y12, Y91i, Y83, S1, V7, V5s, Y53, Y71, Y21, U10,... These ShopMagics in-ear headphones are designed for users of specific Vivo smartphone models (such as V11, U10, S1, V5, V9 Pro, Y12, Y91i, Y83, V7, V5s, Y53, Y71, Y21). Their"
+    },
+    {
+      "score": 0.7926245,
+      "name": "boAt Airdopes 172 True Wireless in Ear Earbuds with Enx Tech, Beast Mode, 35H Playtime, 11mm Drivers, ASAP Charge, IPX4, I...",
+      "image_url": "https://m.media-amazon.com/images/I/51Cr2ebLj9L._AC_UL320_.jpg",
+      "content": "boAt Airdopes 172 True Wireless in Ear Earbuds with Enx Tech, Beast Mode, 35H Playtime, 11mm Drivers, ASAP Charge, IPX4, I... The boAt Airdopes 172 are true wireless in-ear earbuds designed for convenient, high-quality audio playback. They are ideal for anyone seeking a cable-free listening experien"
+    },
+    {
+      "score": 0.7903008,
+      "name": "EarFun Free 2 Wireless Earbuds, QCC3040 aptX Audio Technology, Dynamic Drivers, Bluetooth 5.2, Touch Control + Volume Cont...",
+      "image_url": "https://m.media-amazon.com/images/I/61vBgc4+GZL._AC_UL320_.jpg",
+      "content": "EarFun Free 2 Wireless Earbuds, QCC3040 aptX Audio Technology, Dynamic Drivers, Bluetooth 5.2, Touch Control + Volume Cont... The EarFun Free 2 Wireless Earbuds are designed for individuals seeking a high-quality, wire-free audio experience. Featuring advanced QCC3040 aptX audio technology and dynam"
+    },
+    {
+      "score": 0.7878018,
+      "name": "AANTAR {Type-C M90 Pro TWS Earbuds Bluetooth 5.3 Type-C with Power Bank Charge Your Phone, 280 Hours Playback (Charging ca...",
+      "image_url": "https://m.media-amazon.com/images/I/51EVZktdDIL._AC_UL320_.jpg",
+      "content": "AANTAR {Type-C M90 Pro TWS Earbuds Bluetooth 5.3 Type-C with Power Bank Charge Your Phone, 280 Hours Playback (Charging ca... The AANTAR Type-C M90 Pro TWS Earbuds are wireless stereo headphones designed for an untethered audio experience, offering high-quality sound for music, calls, and media. Equ"
+    }
+  ]
+}

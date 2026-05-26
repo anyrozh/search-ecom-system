@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-05-26T17:46:42.460378",
+  "method": "baseline",
+  "query": "blender",
+  "subqueries": [
+    "blender"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 0.0246579647064209,
+  "results": [
+    {
+      "score": 0.5,
+      "name": "UPKOCH Tamper Replacement Blender Tamper Blender Accelerator Fit for Vitamix Blenders Blender Replacement Parts",
+      "content": "UPKOCH Tamper Replacement Blender Tamper Blender Accelerator Fit for Vitamix Blenders Blender Replacement Parts"
+    },
+    {
+      "score": 0.5,
+      "name": "mens jens",
+      "content": "mens jens"
+    },
+    {
+      "score": 0.33333334,
+      "name": "Hidesign",
+      "content": "Hidesign"
+    },
+    {
+      "score": 0.33333334,
+      "name": "Amazon Portable Blender Cup,Electric USB Juicer Blender,Mini Blender Portable Blender For Shakes and Smoothies, juice,380m...",
+      "content": "Amazon Portable Blender Cup,Electric USB Juicer Blender,Mini Blender Portable Blender For Shakes and Smoothies, juice,380m..."
+    },
+    {
+      "score": 0.25,
+      "name": "CLB",
+      "content": "CLB"
+    }
+  ]
+}

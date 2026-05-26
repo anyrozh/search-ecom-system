@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-05-26T17:46:11.755127",
+  "method": "text_searcher",
+  "query": "face mask",
+  "subqueries": [
+    "face mask",
+    "disposable surgical face masks for medical and everyday protection",
+    "reusable cloth face masks with adjustable ear loops and breathable fabric",
+    "N95 or KN95 respirator masks for high filtration and enhanced safety",
+    "face masks with built-in filters or replaceable filter pockets for added protection"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 2.544917106628418,
+  "results": [
+    {
+      "score": 0.9165304,
+      "name": "HYDRISE (Pack of 20 Premium N95 Mask For Men and Women with Mask Adjuster - Washable mask - Reusable mask - Pollution Mask...",
+      "content": "HYDRISE (Pack of 20 Premium N95 Mask For Men and Women with Mask Adjuster - Washable mask - Reusable mask - Pollution Mask... The HYDRISE N95 Mask is a premium, washable, and reusable mask designed for both men and women. Available in a pack of 20, it features a mask adjuster for a secure and comfor"
+    },
+    {
+      "score": 0.8918396,
+      "name": "HYDRISE (Pack of 40 Premium N95 Mask For Men and Women with Mask Adjusters - Washable mask - Reusable mask - Pollution Mas...",
+      "content": "HYDRISE (Pack of 40 Premium N95 Mask For Men and Women with Mask Adjusters - Washable mask - Reusable mask - Pollution Mas... The HYDRISE N95 Mask is a premium, washable, and reusable respiratory protection product, sold in a pack of 40, designed for both men and women. Its primary purpose is to fil"
+    },
+    {
+      "score": 0.88964677,
+      "name": "airific by NIRVANA BEING 2.0 N95, FFP2 Washable and Reusable Mask for Adults | Anti Pollution Mask | Tested at Internation...",
+      "content": "airific by NIRVANA BEING 2.0 N95, FFP2 Washable and Reusable Mask for Adults | Anti Pollution Mask | Tested at Internation... The Airific by NIRVANA BEING 2.0 is an N95 and FFP2 certified, washable, and reusable anti-pollution mask specifically designed for adults. Its primary purpose is to provide "
+    },
+    {
+      "score": 0.886122,
+      "name": "OxiClear N99 Anti Pollution Face Mask with 4 Activated Carbon Filters & Detachable Headband D.R.D.O Certified (NO-VALVE) (...",
+      "content": "OxiClear N99 Anti Pollution Face Mask with 4 Activated Carbon Filters & Detachable Headband D.R.D.O Certified (NO-VALVE) (... The OxiClear N99 Anti Pollution Face Mask is a high-performance respiratory protective device designed to filter out at least 99% of airborne particles, including fine partic"
+    },
+    {
+      "score": 0.87668175,
+      "name": "CHITRA EXPORTS N 95 BLACK EAR loop 5 layer 20 PIECE COMBO OF N95 mask reusable, washable, breathable 5 layer mask with EAR...",
+      "content": "CHITRA EXPORTS N 95 BLACK EAR loop 5 layer 20 PIECE COMBO OF N95 mask reusable, washable, breathable 5 layer mask with EAR... This product is a combo pack of 20 reusable, washable, and breathable N95-type face masks with ear loops, featuring a 5-layer construction for enhanced filtration. It is desi"
+    }
+  ]
+}

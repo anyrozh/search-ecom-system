@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-05-26T17:45:45.527716",
+  "method": "baseline",
+  "query": "iphone",
+  "subqueries": [
+    "iphone"
+  ],
+  "taxonomies_found": [],
+  "taxonomy_fallback": false,
+  "search_time": 0.029978036880493164,
+  "results": [
+    {
+      "score": 0.5,
+      "name": "Amozo Designed for iPhone 14 / iPhone 13 Cover | Matte Ultra Hybrid Compatible for iPhone 14 / iPhone 13 Back Cover Case C...",
+      "content": "Amozo Designed for iPhone 14 / iPhone 13 Cover | Matte Ultra Hybrid Compatible for iPhone 14 / iPhone 13 Back Cover Case C..."
+    },
+    {
+      "score": 0.5,
+      "name": "mens jens",
+      "content": "mens jens"
+    },
+    {
+      "score": 0.33333334,
+      "name": "Hidesign",
+      "content": "Hidesign"
+    },
+    {
+      "score": 0.33333334,
+      "name": "Spigen Ultra Hybrid Back Cover Case for iPhone SE 2022 | iPhone SE 2020 | iPhone 7 | iPhone 8 (TPU + Poly Carbonate | Black)",
+      "content": "Spigen Ultra Hybrid Back Cover Case for iPhone SE 2022 | iPhone SE 2020 | iPhone 7 | iPhone 8 (TPU + Poly Carbonate | Black)"
+    },
+    {
+      "score": 0.25,
+      "name": "CZARTECH Tempered Glass Screen Guard for iPhone 13 | iPhone 14 | iPhone 13 Pro with Cleaning Kit (Pack of 1)",
+      "content": "CZARTECH Tempered Glass Screen Guard for iPhone 13 | iPhone 14 | iPhone 13 Pro with Cleaning Kit (Pack of 1)"
+    }
+  ]
+}

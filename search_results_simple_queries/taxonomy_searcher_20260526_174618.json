@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-05-26T17:46:18.163003",
+  "method": "taxonomy_searcher",
+  "query": "face mask",
+  "subqueries": [
+    "face mask",
+    "disposable surgical face masks for medical and everyday protection",
+    "reusable cloth face masks with adjustable ear loops and filter pockets",
+    "N95 or KN95 respirator masks for high filtration and respiratory protection",
+    "fashionable face masks with printed designs and breathable fabric"
+  ],
+  "taxonomies_found": [
+    "beauty & health/Beauty & Grooming",
+    "beauty & health/Health & Personal Care"
+  ],
+  "taxonomy_fallback": false,
+  "search_time": 3.8419272899627686,
+  "results": [
+    {
+      "score": 0.8018592,
+      "name": "Elysiann Glorry Double Up V Lifting Mask - Double chin reducer for women, Lifts & Shapes your Face with Face Shaper - Enha...",
+      "image_url": "https://m.media-amazon.com/images/I/51tVGDs0hoL._AC_UL320_.jpg",
+      "content": "Elysiann Glorry Double Up V Lifting Mask - Double chin reducer for women, Lifts & Shapes your Face with Face Shaper - Enha... The Elysiann Glorry Double Up V Lifting Mask is designed for women who wish to reduce the appearance of a double chin and achieve a more lifted and sculpted facial contour. I"
+    },
+    {
+      "score": 0.8014896,
+      "name": "Boldfit N95 Face Mask For Men & Women N95 Mask With 5 Layer N95 Masks For Adults & Kids N 95 Mask Face Mask Men Anti Pollu...",
+      "image_url": "https://m.media-amazon.com/images/I/71ZhGcb5LcS._AC_UL320_.jpg",
+      "content": "Boldfit N95 Face Mask For Men & Women N95 Mask With 5 Layer N95 Masks For Adults & Kids N 95 Mask Face Mask Men Anti Pollu... The Boldfit N95 Face Mask is a 5-layer N95 standard mask designed for respiratory protection. It can be used by men, women, adults, and kids to help filter out airborne parti"
+    },
+    {
+      "score": 0.7811483,
+      "name": "VITSZEE CHEMICALS FERTILIZERS Gelatin Powder With Activated Charcoal Powder For Face Mask /Pack / Hair Removal / Peel Off ...",
+      "image_url": "https://m.media-amazon.com/images/I/71MRBJAagvL._AC_UL320_.jpg",
+      "content": "VITSZEE CHEMICALS FERTILIZERS Gelatin Powder With Activated Charcoal Powder For Face Mask /Pack / Hair Removal / Peel Off ... This product is a blend of Gelatin Powder and Activated Charcoal Powder, designed for versatile DIY beauty applications. Its primary purpose is for creating **face masks** th"
+    },
+    {
+      "score": 0.78040004,
+      "name": "Medohealthy Careview 3 Ply Disposable Face Masks (Pack of 100,Green) with nose pin BIS, (ISI) Certified mask with Melt blo...",
+      "image_url": "https://m.media-amazon.com/images/I/81WpDcNpEOL._AC_UL320_.jpg",
+      "content": "Medohealthy Careview 3 Ply Disposable Face Masks (Pack of 100,Green) with nose pin BIS, (ISI) Certified mask with Melt blo... The Medohealthy Careview 3 Ply Disposable Face Masks are designed for personal respiratory protection, effectively filtering airborne particles and respiratory droplets. Feat"
+    },
+    {
+      "score": 0.777296,
+      "name": "SURGICOMFORT 3-Ply Surgical Face Mask with nose wire (100 Pcs, Color-Blue, Elastic Ear-Loop Type) Disposable Non-Woven Bre...",
+      "image_url": "https://m.media-amazon.com/images/I/41Fc349yzEL._AC_UL320_.jpg",
+      "content": "SURGICOMFORT 3-Ply Surgical Face Mask with nose wire (100 Pcs, Color-Blue, Elastic Ear-Loop Type) Disposable Non-Woven Bre... The SURGICOMFORT 3-Ply Surgical Face Mask is a disposable, non-woven barrier designed to cover the mouth and nose. Its primary purpose is to help reduce the spread of respira"
+    }
+  ]
+}
