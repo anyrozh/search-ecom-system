@@ -73,9 +73,9 @@ jupyter notebook search_project_up.ipynb
 НАГЛЯДНЫЕ РЕЗУЛЬТАТЫ ПРОГОНА В РАЗРЕЗЕ КАЖДОГО АЛГОРИТМА. ЛОГИ.
 ---
 
-папка search_results
+папка search_results - logs по неопределённым запросам
 
-ПРИМЕР ПРОГОНА СКРИПТА ПО ОДНОМУ ЗАПРОСУ
+ПРИМЕР ПРОГОНА СКРИПТА ПО ОДНОМУ ЗАПРОСУ 
 ---
 Вывод релевантных топов 
 <img width="1371" height="546" alt="image" src="https://github.com/user-attachments/assets/c1f1f54e-2891-47c7-8cfc-9ddb73f01245" />
