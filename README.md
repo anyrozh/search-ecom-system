@@ -1,9 +1,3 @@
-РЕШАЕМАЯ ПРОБЛЕМА
----
-
-<img width="2752" height="1536" alt="telegram-cloud-document-2-5229078998767671885" src="https://github.com/user-attachments/assets/e799a6b1-9c33-401a-9621-a5484788520b" />
-
-
 ФУНКЦИОНАЛЬНОСТЬ
 ---
 
